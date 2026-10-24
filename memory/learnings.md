@@ -345,3 +345,15 @@ preguntó qué produce ese ingreso. En un cliente de inversiones, la base del po
 - Con clientes financieros, ningún porcentaje se cierra sin esa respuesta y sin abogado.
 - La auditoría por miradas se hace antes de que Hans apruebe una página, no después.
 
+## 2026-10-23 — El primer clon de prueba del repositorio quedó incompleto
+
+**Qué pasó:** al probar el repositorio de GitHub con un clon limpio en una carpeta temporal, git falló a mitad
+de camino: llegaron las 20 skills y solo 5 de las 10 transcripciones, y ningún examen ni nota del manual.
+
+**Causa raíz:** la carpeta tenía 190 caracteres y la ruta más larga del repositorio tiene 95. Windows no abre
+rutas de más de 260. El original no lo sufre porque su carpeta tiene 85.
+
+**Qué hacemos distinto:** `REPLICAR.md` pide una carpeta de menos de 150 caracteres, clona con
+`core.longpaths=true` y, después de clonar, cuenta skills, transcripciones, exámenes y notas antes de seguir.
+Un clon se da por bueno recién cuando las cuentas dan.
+

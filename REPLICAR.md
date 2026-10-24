@@ -32,11 +32,17 @@ Lo que no trae:
 Con la carpeta nueva abierta y vacía, y `gh` con la cuenta de Hans:
 
 ```bash
-gh repo clone HansVilla21/media-buyer-os .
+gh repo clone HansVilla21/media-buyer-os . -- -c core.longpaths=true
 ```
 
-Si la carpeta no está vacía, se clona en una subcarpeta y se le pregunta a Hans antes de mover nada.
-Después se lee `CLAUDE.md` entero: la sesión no lo cargó al abrir, porque la carpeta estaba vacía.
+- **La ruta de la carpeta, corta: menos de 150 caracteres.** La ruta más larga del repositorio tiene 95, y
+  Windows no abre rutas de más de 260: con una carpeta más larga, el clon queda incompleto. Pasó en la
+  prueba del 2026-10-23, con una carpeta de 190 caracteres. `core.longpaths` deja que git las escriba,
+  pero otras herramientas pueden no abrirlas.
+- **Después de clonar,** `git status` sale limpio y las cuentas dan: 20 skills, 10 transcripciones, 10
+  exámenes y 15 notas del manual. Si no, se para y se le dice a Hans.
+- Si la carpeta no está vacía, se clona en una subcarpeta y se le pregunta a Hans antes de mover nada.
+- Después se lee `CLAUDE.md` entero: la sesión no lo cargó al abrir, porque la carpeta estaba vacía.
 
 ## 2. Una pregunta a Hans: ¿para qué es la réplica?
 
