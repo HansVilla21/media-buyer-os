@@ -1,0 +1,40 @@
+# Entorno de scripts/transcribe.py y scripts/convert_resources.py.
+# Versiones exactas del .venv que transcribió las 10 sesiones del curso (2026-10-09), con Python 3.13.2
+# y uv 0.11.7, en Windows con una NVIDIA GTX 1660 SUPER de 6 GB.
+#
+# Se instala dentro del proyecto, nunca global:
+#   uv venv .venv --python 3.13
+#   uv pip install --python .venv/Scripts/python.exe -r scripts/requirements.txt
+#
+# Aparte hacen falta ffmpeg y ffprobe en el PATH. Los modelos se bajan solos la primera vez a
+# .cache/models (large-v3, unos 3 GB).
+anyio==4.15.1
+av==19.0.1
+click==8.5.0
+colorama==0.4.6
+ctranslate2==4.8.2
+et-xmlfile==2.0.0
+faster-whisper==1.2.1
+filelock==4.1.0
+flatbuffers==25.12.19
+fsspec==2026.9.0
+h11==0.16.0
+hf-xet==1.7.0
+httpcore2==2.13.1
+httpx2==2.13.1
+huggingface-hub==2.2.0
+idna==3.20
+numpy==2.5.3
+nvidia-cublas-cu12==12.9.2.10
+nvidia-cuda-nvrtc-cu12==12.9.86
+nvidia-cudnn-cu12==9.27.0.42
+onnxruntime==1.31.0
+openpyxl==3.1.5
+packaging==26.3
+protobuf==7.36.2
+pymupdf==1.28.2
+pyyaml==6.0.3
+tokenizers==0.23.3
+tqdm==4.70.1
+truststore==0.10.4
+typing-extensions==4.16.0

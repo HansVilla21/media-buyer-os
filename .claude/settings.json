@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_activate_entity",
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_update_entity",
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_boost_ig_post",
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_creative_delete",
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_delete_custom_audience",
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_update_custom_audience_users",
+      "mcp__f3d38e99-c205-4edd-b39a-95559e285e22__ads_creative_update"
+    ]
+  }
+}

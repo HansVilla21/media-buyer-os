@@ -1,0 +1,1792 @@
+{
+ "video": "C:\\Users\\hvill\\Downloads\\Media Buyer HQ\\Sesion 18\\sesion-18.mp4",
+ "video_duration_seconds": 6483.3,
+ "transcribed_seconds": 6483.3,
+ "model": "large-v3",
+ "compute_type": "int8_float16",
+ "batch_size": 4,
+ "language": "es",
+ "language_probability": 1,
+ "transcribed_at": "2026-10-09T18:16:29",
+ "elapsed_seconds": 967.8,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 24.29,
+   "text": "Bienvenidos a esta sesión, en esta sesión vamos a hablar de Acquisition, adquisición de clientes específicamente para el servicio de Media Buying, para ofrecer esto como servicio, pero en realidad ustedes pueden aplicar los conceptos que vamos a aplicar hoy para vender cualquier servicio, vender cualquier oferta y realmente así es como yo lo estoy haciendo.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 24.29,
+   "end": 51.23,
+   "text": "Actualmente, así es como yo lo hago, así es como lo he hecho y lo he hecho no solo para vender este programa que se ha vendido súper bien, sino para vender todos mis programas en el pasado y para vender servicios. Yo he vendido de todo en los últimos 10 años, todo relacionado a marketing, pero he vendido Done For You, he vendido programas de coaching grupales, he vendido One On One, he vendido programas más baratos y al final de cuentas, cuando usted aprende a...",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.033
+  },
+  {
+   "start": 51.23,
+   "end": 79.34,
+   "text": "El proceso de conseguir clientes, de adquisición, usted nunca se va a morir de hambre, básicamente. O sea, a usted nunca le va a faltar dinero. Y eso es algo como que, yo me recuerdo cuando yo empecé, que mis primeras ventas, yo cuando hice mi primera venta, yo dije, ok, de fijo fue suerte, ¿verdad? Fue guaba. Literalmente fue guaba. Hice la segunda, fue suerte, ¿verdad? Tercera, suerte. Cuarta, suerte. Ya hice como diez ventas, es como...",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 79.7,
+   "end": 104.98,
+   "text": "Tal vez no es suerte, ¿ok? Tal vez no ha sido suerte. Yo creo que ya estoy entendiendo cómo funciona el proceso. Y me recuerdo un día como que yo nada más hacer un sale, ¿verdad? Yo estaba usando Facebook y hice un sale de una oferta de afiliados. Y yo dije, ya sé cómo hacerlo. O sea, ya siento que no es suerte. Como que en serio ya entiendo.",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 104.98,
+   "end": 132.5,
+   "text": "Como hacer dinero y hacerlo en demanda y cuando yo supe ese día que ok yo ya sé hacer dinero como que de cierta manera se me quitó como un peso de encima y como un miedo verdad de que no sé como que tal vez el dinero nada más en mi vida me iba a llegar por suerte porque algo me funcionó pero tal vez no lo iba a poder replicar y como que ese día que yo cerré ese sale que de hecho fue una venta de 120 dólares",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 132.62,
+   "end": 156.43,
+   "text": "Ahí fue cuando yo como que sentí una paz, ¿verdad? Como un peso de encima que yo dije, yo nunca, a mí nunca me va a faltar el dinero. O sea, si yo sigo haciendo esto el resto de mi vida, mínimo, porque yo estaba cerrando como una venta al día de 120 dólares. Yo dije, mínimo voy a hacer 3 mil dólares al mes. O sea, peor de los casos, si solo sigo...",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 156.43,
+   "end": 177.66,
+   "text": "Sigo haciendo lo mismo, que yo no creo que esto cambie, porque realmente yo solo estaba hablando con gente, cerrando sales en unas llamadas, no creo que esto cambie, o sea, son sales, es marketing, ¿verdad? Entonces como que yo dije, yo nunca me voy a morir de hambre, siempre voy a poder tener un techo y por lo menos lo básico. Y siento que cuando uno aprende esto, realmente uno...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 177.66,
+   "end": 204.24,
+   "text": "Puede crear dinero en demanda y eso tal vez suena como algo que uno diría para vender un programa y suena como algo que no es realista, pero uno puede crear dinero en demanda como la Reserva Federal. Usted llega, abre la computadora y sabe exactamente qué hacer para hacer miles de dólares en sus términos. Usted su computadora no tiene que depender de un jefe, de un trabajo, de que le suban los salarios del gobierno. Nada de eso importa.",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 204.27,
+   "end": 227.76,
+   "text": "Yo por eso ni siquiera me preocupo tanto de qué es lo que está pasando en el gobierno, en el país, de esto, de lo otro, no importa, o sea, obviamente sí importa, ¿verdad? Uno quiere que el país esté bien, pero a mí no me afecta porque yo sé, yo puedo crear dinero desde mi computadora en cualquier momento, en cualquier situación, aquí o en otro país, o sea, no importa. Entonces, ese es el valor de saber esto.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 228.43,
+   "end": 235.81,
+   "text": "Entonces, un resumen de lo que hemos visto. Hemos hecho el diagnóstico de analizar el negocio que estamos...",
+   "avg_logprob": -0.091,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 235.81,
+   "end": 259.89,
+   "text": "con el cual vamos a trabajar para poder darle resultados o el diagnóstico para su propio negocio. Sabemos crear ad copy, sabemos grabar los videos para los ads, que eso lo hacen ustedes si son dueños de su negocio o lo hacen el cliente si el cliente es dueño del negocio. Sabemos los diferentes procesos de venta, de ad a mensaje a llamada, de ad a mensaje, cerrar venta por chat, de ad a opt-in, ¿verdad? Todos esos procesos de venta los vimos.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 259.92,
+   "end": 279.76,
+   "text": "Entonces aprendimos cómo crear las campañas, los ads, verdad, cómo leer los números cuando ya vamos invirtiendo en ads, leer los números, poder tomar decisiones con base a esos números, el mindset detrás de invertir en ads, verdad, para darle vuelta al dinero, metemos un dólar, sacamos tres, ok, volvemos a invertir para hacer más volumen.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 279.79,
+   "end": 308.05,
+   "text": "¿Cómo escalar? ¿Cómo tomar decisiones? ¿Cómo cobrar por el servicio? ¿Cómo entregarlo? Y ahora vamos a hablar de lo que todo el mundo quiere, ¿verdad? ¿Cómo conseguir clientes? Y en realidad podríamos no tener esta sesión, que si ustedes solo aplican lo que ya han visto, ya pueden conseguir clientes, ¿verdad? Porque ustedes ya saben cobrir ads, ustedes ya saben crear ad copy. Con solo eso ya van a conseguir leads para vender su servicio, pero vamos a verlo más en detalle.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 308.24,
+   "end": 334.83,
+   "text": "Entonces, súper importante la parte de Mindset. Todo es Mindset, ¿verdad? Como que, yo no sé si ustedes han visto como un meme que es como un gráfico, bueno, seguro no porque es una cosa ahí de ex, de inversiones, pero es como un gráfico que es así, como una sube y después baja, ¿verdad? Y básicamente...",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.032
+  },
+  {
+   "start": 334.83,
+   "end": 361.12,
+   "text": "¿Qué significa Mindset?",
+   "avg_logprob": -0.869,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 361.12,
+   "end": 382.13,
+   "text": "Cuando no tiene el mindset, las estrategias no van a funcionar porque no las va a poder ejecutar por suficiente tiempo y hacerlas funcionar, ¿verdad? Entonces, la mayoría de la gente se rinde rápido y no terminan lo que empiezan. Eso es la mayoría de la gente. Empieza un programa, ve unos videos.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 382.19,
+   "end": 410.72,
+   "text": "Están motivados al principio y después nunca siguen. O la mayoría de la gente va, abre o va y se suscribe al gimnasio en enero, ¿verdad? Y van las primeras semanas y después paran en febrero y paran en marzo. Y ya en septiembre dicen, ok, empiezo en diciembre o en enero y hacen lo mismo. Y así con todas las metas de su vida, con su cuerpo, con su mentalidad, con los vicios, dice voy a parar de tomar guaro y...",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 410.72,
+   "end": 428.98,
+   "text": "Y no volver porque alguien no sé que tiene problemas de alcohol y tener como problemas serios es como que voy a parar y después dos semanas y vuelve. Así es la mayoría de la gente y por eso es que nunca consiguen resultados porque los resultados se consiguen después de hacer algo por suficiente tiempo, después de tener momentum.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 429.07,
+   "end": 456.64,
+   "text": "Y camina.",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 456.64,
+   "end": 481.7,
+   "text": "y no alza pesas o alza pesas pero no se esfuerza, ¿verdad? O sea, son cosas que los hace sentirse productivos pero no están generando resultados. Es la mayoría de la gente también. Y algo muy importante de entender es que el proceso para ustedes, para cambiar su vida, apenas está empezando, ¿verdad? Hemos tenido 18 sesiones.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 481.7,
+   "end": 500.42,
+   "text": "La mayoría como entre una hora y dos horas, o sea, como unas 25 horas de entrenamiento y eso no significa que ya vamos demasiado avanzados en el proceso, de hecho, después de esta sesión apenas va a empezar el proceso y ¿por qué estoy diciendo esto? Porque...",
+   "avg_logprob": -0.11,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 500.42,
+   "end": 529.1,
+   "text": "Yo me recuerdo cuando yo me unía a mi primer programa de coaching, yo me recuerdo cuando las sesiones eran los viernes y yo iba los viernes y después de la sesión yo me sentía como que había sido súper productivo, ¿verdad? Porque había, me habían enseñado de ads, había aprendido algo nuevo, las habilidades, todo y yo iba, no sé, haciendo como tasks y cosas así. Entonces yo me sentía productivo, pero cuando ya terminó el programa y ya me enseñaron como lo que tenía que hacer, yo seguía buscando como más información, yo seguía buscando.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 529.17,
+   "end": 554.64,
+   "text": "más, más y más información, consumir, consumir, consumir, porque consumir me estaba haciendo a mí sentirme productivo, me estaba haciendo a mí sentirme exitoso, pero en realidad yo no estaba haciendo las cosas que dan resultados, yo no estaba, yo no estaba enfocándome full en los ads, en las campañas, en los leads, en las ventas, en las cosas como que...",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 554.64,
+   "end": 572.21,
+   "text": "Las cosas aburridas, digamos, ¿verdad? Entonces yo estaba sintiendo como, era como un efecto placebo, ¿verdad? Que a mí el entrenamiento y el coaching me hacía sentirme exitoso y productivo, pero a la hora de la hora yo no estaba viendo los resultados que quería ver porque yo no estaba...",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 572.27,
+   "end": 589.9,
+   "text": "Realmente ejecutando las cosas que deben hacer la mayoría del tiempo. Entonces, cuando ya el programa estaba terminando, yo como me sentí como un limbo, como ok, ahora y ahora qué? O sea, ahora qué? Ahora abro mi computadora y qué hago? Qué hago? Y es porque.",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 590.45,
+   "end": 617.9,
+   "text": "Yo en el fondo sabía qué hacer, yo sabía que tenía que tomar acciones en ciertas cosas que tal vez no eran mis cosas favoritas, pero eran las cosas que daban resultados. Y en el fondo yo prefería hacer algo que me generaba el sentimiento de ser exitoso, pero en realidad que no estaba dándome resultados. Y entonces eso es algo muy importante entender, porque tal vez ustedes han llegado a este punto y ya saben crear los ads y mandar los ads y la copy, ha entrado leads.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 618.45,
+   "end": 643.6,
+   "text": "Pero va a llegar un punto en donde yo les voy a enseñar a ustedes casi que todo lo que tienen que hacer. De hecho, después de esta sesión ya pueden estar haciendo 10 mil dólares al mes con la información. Va a llegar un punto en donde ustedes van a decir, oh shit, ¿y ahora qué sigue? Y lo que sigue es el proceso de tomar acción y de hacer las repeticiones todos los días, hacer la mayor cantidad de volumen posible todos los días.",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 643.66,
+   "end": 672.69,
+   "text": "Para ver los resultados. Entonces, muy importante entender que el proceso acaba de empezar. El proceso no está terminando para ustedes. El proceso para cambiar su vida empieza hoy. A partir de hoy y no empieza porque vamos a tener nuevas estrategias o empieza porque a partir de hoy va a empezar a tomar acción como locos y va a empezar a tomar acción aunque no todo esté perfecto y aunque no...",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 672.69,
+   "end": 702.19,
+   "text": "Tenga todo el conocimiento perfecto, ¿verdad? O sea, va a empezar a tomar acción y hacer las repeticiones y hacer la mayor cantidad de repeticiones posibles porque sólo así van a haber resultados. Mucha gente llega y ve todo el programa, toda la información, hacen dos repeticiones, dos reps, un ad, dos ads. Se va, no me está funcionando y se rinden. Así no funciona la vida. La vida es repeticiones y repeticiones y repeticiones y repeticiones hasta que funcione.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 702.26,
+   "end": 721.9,
+   "text": "Entonces, muy importante entender eso y les digo eso porque a mí me pasó, a mí me pasó y yo sé que eso pasa demasiado. Entonces, eso es lo que tienen que enfocarse si quieren cambiar su vida, ¿ok? Dos o tres horas de adquisición al día, o sea, dos o tres horas de...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 722.74,
+   "end": 748.08,
+   "text": "Hacer actividades que les pongan más dinero en su cuenta. No revisar el email, no crear logos, no hacer, no sé, no ver reels en el feed de desarrollo personal y uno venderse la idea de que, ah, no, estoy aprendiendo de coaches, de personas que están más avanzadas. No, no, usted está viendo el feed, no está poniendo cash en su cuenta. Dos o tres horas al día de adquisición de clientes.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 748.08,
+   "end": 759.06,
+   "text": "Actividades que produzcan más dinero. ¿Cuáles son esas actividades? Vamos a ver los diferentes métodos de adquisición, pero...",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 759.06,
+   "end": 787.46,
+   "text": "Ad, leads y cerrar ventas. Tener ads activos que estén entrando leads, ¿verdad? Leads, leads, leads, leads, leads y hablar con esos leads para cerrar ventas. Eso le va a poner dinero en su cuenta dos o tres horas al día, se lo garantizo, se lo garantizo que va a poder cambiar su vida. Y después de eso, usted le va a dedicar una parte de su día a hacer algo que requiera, que tenga, que genere dolor mental y físico.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 787.46,
+   "end": 807.44,
+   "text": "Ok, dolor mental y físico, porque no se trata solo de trabajar y hacer dinero, se trata de entrenar el cuerpo y la mente para que el cuerpo y la mente a usted le permitan el día siguiente hacer estas dos o tres horas de adquisición otra vez. Si usted no entrena su cuerpo y su mente, usted no va a poder ejecutar estas dos o tres horas al día de adquisición.",
+   "avg_logprob": -0.018,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 807.5,
+   "end": 825.02,
+   "text": "Porque usted no va, la mente no va a estar entrenada y el cuerpo tampoco, no va a tener la energía, el enfoque para hacerlo. Y si usted no está bien del cuerpo y la mente, es casi imposible hacer adquisición de clientes todos los días. Es muy difícil pensar, es muy difícil sentarse, enfocarse. Entonces, clave, esta es la fórmula.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 825.02,
+   "end": 838.7,
+   "text": "Adquisición, trabajar en adquisición y después algún tipo de arte marcial, esto de fijo lo recomiendo, o sea, lo que sea, puede ser boxeo, puede ser karate, algo que lleve su cuerpo al límite porque eso es lo que le va a dar la...",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 838.7,
+   "end": 867.54,
+   "text": "Resiliencia mental, pesas, porque las pesas usted siempre está empujando más, tratando de llegar al siguiente nivel con una repetición más, una repetición más, una repetición más, más peso, más peso y eso es lo mismo que usted va cuando se sienta a trabajar con los leads. Ok, tres leads ayer, mañana voy por cuatro, después voy por cinco y así es el mismo mindset. Entonces yo sé que eso tal vez no tenga como nada que ver con adquisición, pero tiene todo que ver al mismo tiempo.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 867.6,
+   "end": 882.58,
+   "text": "Entonces, se lo digo, yo por eso he entrenado karate y a mi karate me cambió la vida, yo llevo más de 10 años haciendo karate y entreno casi que todos los días y por lo menos, o sea, todos los días entreno, saco, o sea, para...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 882.64,
+   "end": 899.1,
+   "text": "Siempre mantenerme con ese mindset que crea mi frame mental, mi marco mental. Entonces, clave que por lo menos hagan algún tipo de ejercicio que los lleve al límite. Hacer repeticiones y que no les duela, no cuenta.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 899.1,
+   "end": 919.71,
+   "text": "Ir a caminar 5 minutos al gimnasio y ver Netflix, como una vez yo agarré a mi mamá viendo en el gimnasio una serie, estaba haciendo abdominales mientras veía una serie y yo, ma, ¿qué está haciendo? Usted no se está esforzando. Pero bueno, no falta un secreto mágico, yo les voy a dar a ustedes todo lo que necesitan saber para cambiar su vida.",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 919.71,
+   "end": 939.09,
+   "text": "No hay nada que les esté escondiendo. No tendría sentido de que yo les esconda algo. Y yo me recuerdo también cuando yo estaba en el programa de coaching, yo pensaba como no, tiene que haber, tiene que haber algo que yo no sé. O sea, tiene que haber algún secreto mágico que no me han dicho después de todas estas sesiones para realmente cambiar mi vida.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 939.15,
+   "end": 965.58,
+   "text": "Y el secreto, y no había secreto, o sea, el secreto era llegar y ejecutar las cosas. Y lo que yo les voy a enseñar es exactamente lo que yo estoy haciendo. Entonces, hágase la pregunta, ¿qué tanto lo quiere? Sus acciones después de hoy van a decirle la respuesta. ¿Qué tanto quiere cambiar su vida? Y si usted me dice que demasiado, pero mañana usted no está tomando acción, mañana usted no fue al gym aunque es domingo, y mañana no fue y hizo los tasks.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 965.58,
+   "end": 989.25,
+   "text": "Entonces, eso habla por sí solo. Pero si usted mañana llega y se levanta y se levanta, no importa, domingo, 5 am, abre el gym, no sé, abre a las 6 o a las 5, no sé, gym, ads, leads, sales, pum, eso habla, los resultados hablan. Entonces, póngame un número 2 si están listos para explotarla y cambiar su vida.",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 989.25,
+   "end": 1020.72,
+   "text": "Otro nivel, les voy a enseñar y eso nada más se los digo, nada más para inspirarlos porque al final de cuentas ustedes ya son como familia. Literalmente, ayer, solo haciendo lo que les voy a enseñar y ni siquiera, yo básicamente estoy desaparecido del metaverso aparte de los ads, o sea, ni siquiera he posteado contenido, ayer no mandé un email, solo con lo que les voy a enseñar, 6 mil dólares ayer.",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 1021.55,
+   "end": 1048.94,
+   "text": "6 mil dólares ayer, no es como que yo me levanté y dije ok hoy voy a hacer 6 mil dólares, no, nada más hice los tasks, lo que siempre hago, ayer yo no cambié mi rutina, hice exactamente lo que hago todos los días, era un viernes normal, ok, trabajo un poco en la mañana, voy al gym, sigo trabajando, ads, leads, sales, compraron 3 personas y listo, 6k, que pasa si uno hace eso todos los días",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1049.65,
+   "end": 1081.41,
+   "text": "¿Qué pasa si usted hace lo mismo todos los días? Entonces va a conseguir resultados. Si hace las cosas correctas, va a conseguir resultados demasiado buenos. Y si hace las cosas incorrectas, entonces no va a haber resultados. Y lo único que hice fue, literalmente, además se los voy a enseñar, es que es demasiado simple. Y yo no tengo nada que esconderles, yo no tengo por qué esconderles algo. Está en mi mejor interés que ustedes sean exitosos.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1081.41,
+   "end": 1088.56,
+   "text": "y vean, ayer literalmente, ayer veo los leads, verdad, yo lo que hago es esto.",
+   "avg_logprob": -0.144,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 1090.9,
+   "end": 1116.05,
+   "text": "Ok, estos son los leads que van entrando, ¿verdad? Entonces, aquí les voy a enseñar un gráfico, esto en realidad no lo iba a enseñar en la sesión de hoy, pero se los voy a enseñar nada más como para que vean, porque tal vez están pensando, ¿cómo putas hizo 6K ayer? ¿verdad? O sea, ¿cuál es el secreto? Yo también quiero hacerlo. Obviamente, están pensando eso, ¿verdad? Porque yo pensaba eso en mi primer programa de coaching. Entonces, literalmente esto fue lo que hice. Ayer entraron...",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 1116.59,
+   "end": 1147.12,
+   "text": "155 leads, ¿verdad? Esas son personas que fueron al funnel y en el funnel fueron y metieron su información acá, ¿verdad? Entonces fueron a la página, después vinieron aquí, metieron el nombre, el email, el número y entonces entraron 155 de esos, ¿verdad? La mayoría de esas personas vinieron de los ads, entonces.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1147.12,
+   "end": 1174.34,
+   "text": "¿Cuáles son los ads? Tengo ads en Facebook, tengo ads en Instagram, tengo ads en diferentes lugares, pero digamos estos son los ads en YouTube también, YouTube, estos son los ads de YouTube, digamos, para que se den una idea. Ayer invertí, voy a hacerle zoom aquí, ayer invertí, bueno, como 370 dólares en YouTube y como 150 en Facebook.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1174.34,
+   "end": 1192.18,
+   "text": "Como, ponle 500 dólares, ¿verdad? 500 dólares y hice 6 mil. Entonces, estos anuncios están activos y me están generando leads. Entonces, digamos 500 dólares invertí más o menos en total.",
+   "avg_logprob": -0.116,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1192.27,
+   "end": 1214.67,
+   "text": "Y generé 155, entonces digamos que el costo por lead, igual, aquí hay leads que vienen de diferentes lugares, tal vez unos organic, pero 500, 155, digamos que 3 dólares por lead, ¿verdad? Entonces, hay ads, ahora, hay leads, están entrando leads, y después, ¿qué es lo que yo hago? Nada más voy aquí y llego...",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1214.74,
+   "end": 1244.85,
+   "text": "y busco la lista donde están estos leads, o sea, quiero ver los contactos, ¿verdad? ¿Quiénes son esas 155 personas? Y de esos 155 se unen un porcentaje al waiting list, usualmente como 20 o 30% de las personas se unen a la lista de espera. Entonces vengo aquí, pongo waiting list y van a ver que aquí están los leads que quieren demostrar interés en el programa. Entonces nada más llego y los exporto y los exporto, boom.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 1244.98,
+   "end": 1271.87,
+   "text": "Y después los subo a mi lista de contactos para contactarlos por WhatsApp y nada más, literalmente les pongo, hola, Karol, ¿cómo estás? Vi que te uniste a la lista de espera, literal, ¿cómo estás? O sea, hola Sebas, estoy muy bien, sí, ahí me uní en la lista de espera, buenísimo, me gustaría más detalles y ahí voy. Y hablo con esa persona y si la persona siento que es un buen fit, entonces tiene la oportunidad de unirse.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1271.87,
+   "end": 1303.57,
+   "text": "Y a veces yo los contacto un día, a veces dos días, a veces un poco más. Ahí los voy contactando y un porcentaje se une al grupo. Así de simple. Eso es todo, ¿verdad? Eso es literalmente lo único que hago. Casi que no he posteado contenido estos días. He estado ahí un poco escondido. Y entonces, digamos, si yo, o sea, si entraron, no sé, 40 personas a la lista de espera, te compran dos o tres en un día. ¿Qué les parece eso? ¿Suena complicado o no suena complicado?",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1303.98,
+   "end": 1331.76,
+   "text": "Ahora, obviamente, esto funciona bien porque es una buena oferta, son buenos ads, es un buen funnel, ¿verdad? Todas esas cosas, pero yo a ustedes les estoy dando esto casi que done for you, ¿verdad? Entonces, nada más como para que se dé una idea, pongan en el chat qué les parece. Se dé una idea de cómo es que funciona este negocio. Ads, ¿verdad? Entran leads, personas que muestran interés en la oferta.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1331.76,
+   "end": 1352.27,
+   "text": "y después un porcentaje de los leads compra. Ahora, ustedes pueden hacer esto para su propio negocio o pueden ofrecerlo como un servicio para otros negocios y hacerles miles de dólares a ellos y cobrar recurrente un porcentaje de las ventas. Entonces, seguimos. Hay cuatro métodos de adquisición de clientes. Estos son como los más comunes.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1352.94,
+   "end": 1379.6,
+   "text": "Se pueden conseguir clientes para su servicio de Media Buyer o para su propia oferta usando ads, ¿verdad? Como los que les enseñé, creando contenido, haciendo outreach o con referencias. Los ads son, o sea, uno crea un video, ¿verdad? Uno escribe el texto del video, graba el video, lo manda",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1379.6,
+   "end": 1408.24,
+   "text": "En las diferentes plataformas, si es en Facebook puede ser Boost, con Boost, si es en Facebook puede ser con el Ads Manager, ¿verdad? O sea, si es en Meta puede ser con el Ads Manager, si es un ad en YouTube, entonces en la plataforma de YouTube uno va y busca el Ads Manager de YouTube, de Google y manda el video ahí y entonces le pone un presupuesto diario y eso lo va a ver miles de personas y va a empezar a entrar leads, ¿verdad? Esos son ads.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1408.3,
+   "end": 1433.94,
+   "text": "Es cuando uno graba videos por medio de su marca personal en YouTube o en Instagram, Reels, Stories, grabando contenido acerca de un tema específico y en ese contenido uno hace llamadas a acción. Si le interesa conseguir más detalles, mándeme un mensaje y hablemos. Entonces, contenido orgánico.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1433.94,
+   "end": 1463.02,
+   "text": "Conseguir la mayor cantidad de views posible con contenido, o sea, con videos que graban ustedes, con stories que suben, y al final de sus videos ponen un llamado a acción, si les interesa aprender más, manden un video. Entonces, digamos, si ustedes me siguen en Instagram, como los videos que, los stories que yo subo, ahí voy a veces manejando en el carro, hablando de ser Media Buyer, de los Ads, y al final pongo, si les interesa ser parte del grupo, manden un mensaje, o una será lista de espera, o denle click al link. Eso es...",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1463.12,
+   "end": 1489.2,
+   "text": "Adquisición de clientes por medio de contenido, ¿verdad? También la tercera forma es con outreach. Outreach involucra contactar directo a los dueños de negocio. Entonces, por ejemplo, que en vez de usted llegar y crear ads y dispararle a todo el mundo, ¿verdad? A todo el metaverso y que un porcentaje llegue y se convierta en un lead y compre. Outreach es como que acá hay un dueño de negocio específico.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 1489.2,
+   "end": 1508.46,
+   "text": "Que tiene el tipo de negocio que yo puedo ayudar con mis ads y le mando un mensaje directo, o sea, uno a uno, es como un sniper, es como pum, no tengo mucho volumen, no tengo mucho apalancamiento, no le estoy llegando a miles de personas, pero hay una persona que siento que puede calificar.",
+   "avg_logprob": -0.084,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1508.46,
+   "end": 1536.4,
+   "text": "¡Suscríbete y activa la campanita!",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 1536.4,
+   "end": 1563.28,
+   "text": "A un negocio o a un potencial cliente directamente, usualmente en frío, ¿verdad? O sea, la persona no ha hablado con nosotros previamente o no nos conoce para ofrecerle el servicio. Y finalmente, referencias. Referencias como, mira, tengo este negocio que necesita ayuda, te voy a pasar el contacto. Ok, pásamelo. Listo, ya le mandé un mensaje, ya agendé una llamada para ver cómo lo puedo ayudar. Perfecto, sí, sí, podemos trabajar juntos. Decirme lo de los ads.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1563.28,
+   "end": 1591.6,
+   "text": "y listo. Esto es una referencia, ¿ok? Estos son los cuatro métodos de adquisición de clientes. Aparte de esto, no hay mucho más que hacer. Yo los que uso son estos dos, en realidad, ads y contenido, pero ahorita ya no estoy tanto con contenido, estoy más que todo con ads. Igual, ya les voy a explicar cuándo usar cuál y cuál es mejor y etc. Entonces, hay tres... Voy a quitar esa línea que se ve fea.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1591.76,
+   "end": 1618.0,
+   "text": "Vamos a ver, esta línea es fea, ahí está. Entonces, hay tres tipos de, hay tres métodos de adquisición que están en su control. Número uno, ads. Usted está en su control llegar y decir, ok, no, este ad no está funcionando, voy a grabar otro. Graba otro y lo manda. Es un método que está en su control 100%. Si el ad no funciona...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1618.0,
+   "end": 1647.25,
+   "text": "No es culpa de Facebook, básicamente. Si el ad no funciona no es culpa de Instagram ni de YouTube, es que su ad no funciona. Entonces usted puede, usted tiene el control de cambiarlo y crear uno nuevo, ¿verdad? Entonces, los ads sí están en el control de uno. Uno puede grabar un video con una nueva oferta, comunicando la oferta de una diferente manera, con un ad copy diferente, con un fondo diferente, hablando con otro tono de voz, con ropa diferente. Uno puede...",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 1647.92,
+   "end": 1670.4,
+   "text": "Estar en 100% de control de las variables. Ya cuando uno lo manda, ok, sí, hay una parte de las variables que están en el control de Facebook e Instagram o YouTube, como el algoritmo, será que el algoritmo nos está ayudando, bla, bla, bla. Pero si el ad y la oferta es bueno, usted va a conseguir buenos resultados. Entonces, eso está en su control. El contenido también está en su control.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1670.4,
+   "end": 1698.86,
+   "text": "Cuánto contenido crea, graba un video al día, qué dice en ese video, lo que dice está bien, la gente confía en usted, la gente ve sus videos y le gustan los videos y lo empiezan a seguir en su control. Outreach también está en su control, está en su control decidir si manda un mensaje al día o si manda 10, si manda 10 aumenta su probabilidad de vender más que si manda 1 y si manda 100 aumenta su probabilidad de vender por 10, entonces si usted manda un mensaje entonces usted...",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 1698.86,
+   "end": 1717.14,
+   "text": "O vende o no vende, tiene solo una oportunidad. Si usted manda 10, usted multiplicó su probabilidad de éxito por 10. Si usted manda 10, digo, ahora manda 100, multiplicó otra vez su probabilidad de éxito por 10. Entonces, la diferencia de mandar un mensaje o 100 al día es que...",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1717.14,
+   "end": 1745.68,
+   "text": "Con 100 al día usted tiene 100 veces más probabilidad de vender que con un mensaje al día. Entonces eso está en su control y también el mensaje que usted le puede mandar a la gente está en su control. Usted puede mandar ese mensaje y puede hablar de diferentes maneras en la conversación y la llamada. Este referencias realmente no está en su control y por eso lo puse aquí como separado porque vender con referencias es súper fácil. Es como si uno le recomienda a alguien que necesita lo que uno ya ofrece. Es como que un amigo.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 1745.74,
+   "end": 1754.54,
+   "text": "Le recomienda a uno, le recomienda a un amigo, a otro amigo, el servicio que uno ofrece. Entonces, como este amigo confía en este amigo.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1754.96,
+   "end": 1779.33,
+   "text": "Probablemente comprarnos a nosotros sea mucho más fácil. Entonces las referencias es easy sales. O sea, cuando yo conecto a alguien con un negocio es muy difícil que no se cierre la venta. A veces no se cierra, pero digamos, es mucho más difícil que no se cierre la venta, pero no está en su control porque usted no puede controlar cuánta gente a usted lo refiere y si lo está refiriendo la persona correcta, etc. Entonces usted sí o sí tiene que...",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 1779.33,
+   "end": 1805.5,
+   "text": "Tener un método de adquisición de clientes que esté en su control. Y hay gente que a mí me ha dicho, Sebas, digamos, si yo entro al programa y vos puedes referirme a negocios, no tengo que hacer esto, las otras cosas, o sea, puedo nada más hacer dinero con eso yo. Número uno, solo que me pregunten eso es un red flag, porque significa que usted no está dispuesto a hacer, a ir más, a hacer más de lo que le piden, ¿verdad?",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1805.5,
+   "end": 1815.09,
+   "text": "Entonces, eso por mí ya es un red flag, solo el hecho de que me esté preguntando eso. Y número dos, ¿significa que usted tendría que depender de las referencias que yo le dé?",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1815.09,
+   "end": 1841.07,
+   "text": "Y usted no va a estar practicando, ¿verdad? Practicando y mejorando sus habilidades de adquisición de clientes, que es realmente lo que a usted le va a cambiar la vida a largo plazo. Eso es lo que le va a dar dinero en su cuenta, que usted desarrolle la habilidad de conseguir clientes para su negocio y para otros negocios. Si usted solo depende de referencias, usted no es autosuficiente y no es realmente independiente. Entonces, hablemos un poco de las variables acá.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1841.07,
+   "end": 1865.78,
+   "text": "de los diferentes métodos. Estos son los mismos, ads, content, outreach y referencia. Nada más puse estas imágenes para que sea más visual. Entonces, ads requiere una inversión de dinero, dar resultados más rápido, requiere habilidades de media buyer, es más escalable, big money, ¿verdad? El big money lo puede hacer más bajo perfil y puede desligar el tiempo del dinero.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1866.03,
+   "end": 1885.25,
+   "text": "Entonces, si se requiere una inversión de dinero para correr ads, eso todos lo sabemos, pero la inversión no tiene que ser muy alta, se puede empezar con 10 dólares al día y con 10 dólares al día usted ya puede empezar a ver leads en 24 horas. La única forma de que usted no vea leads en 24 horas.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1885.25,
+   "end": 1907.87,
+   "text": "Con 10 dólares al día es si su costo por lead es más de 10 dólares, o sea que a usted le cuesta más de 10 dólares conseguir un mensaje, lo cual igual ya es un indicador de que el ad no es muy bueno, entonces usted ya sabe que en los primeros dos días si no consigue ni un mensaje igual lo puede pausar porque si usted no consigue un mensaje por 10 dólares o 20 dólares, entonces su ad es malo, así de simple, ¿verdad? Entonces...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 1907.87,
+   "end": 1936.83,
+   "text": "Pero si su ad es relativamente bueno, es medio bueno, entonces usted debería poder conseguir leads en 24 horas y con un presupuesto de 10 dólares al día, porque significa que usted está consiguiendo, no sé, si consigue leads por 3 dólares, usted debería conseguir unos 3 leads al día con 10 dólares, ¿verdad? 3 leads por 3 dólares al día, más o menos, los 10 dólares al día de presupuesto. Entonces, correr ads es la forma más rápida de conseguir leads, es casi que instantáneo, requiere una inversión, no es muy alta la inversión.",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1936.83,
+   "end": 1964.37,
+   "text": "Pero usted puede recuperar esa inversión relativamente fácil si usted tiene una oferta por la cual usted cobra high ticket, ¿verdad? Suficientemente alto. Requiere habilidades de Media Buyer, ¿verdad? Que esto ustedes ya lo saben hacer, ¿verdad? Lo de los números, el tracking, ustedes tienen el profit and loss. Y así es como se hace el big money, ¿verdad? Ayer hice un post en mi story que básicamente dije",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1964.59,
+   "end": 1989.23,
+   "text": "Todo es mindset. Si usted quiere hacer 10 millones de dólares, no lo va a lograr posteando reels con mil views, que consigan mil views, tampoco mandando 10 mensajes al día. Es la realidad. Usted no va a hacer millones de dólares con videos que tienen mil views si usted no usa ads, ¿verdad? Y tampoco va a hacer millones de dólares solo mandando 10 mensajes al día. Es casi imposible.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1989.23,
+   "end": 2012.88,
+   "text": "Pero, si usted usa Ads, usted puede invertir a lo largo del tiempo, obviamente no es solo huevazo, pero usted mete 2 o 3 millones de dólares y puede sacar 10. Entonces, esa es la forma más rápida, más realista de hacer 10 millones de dólares, es enfocándose en invertir 2 o 3 para sacar 10. Pero eso no es realmente posible.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2013.04,
+   "end": 2040.42,
+   "text": "y sin ads, es mucho más difícil sin ads, ¿verdad? Porque no tiene mucho, habría que hacer mucho volumen con estos dos que es muy difícil, mucho más difícil. Entonces, los ads le permiten conseguir rápido, resultados más rápido y es más escalable y se puede hacer big money y lo puede hacer más bajo perfil porque, o sea, usted no tiene que estar creando contenido todo el día porque usted tiene un ad que está haciendo el trabajo por usted 24-7 generándole leads y mis ads",
+   "avg_logprob": -0.07,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 2040.42,
+   "end": 2057.81,
+   "text": "La segunda es...",
+   "avg_logprob": -0.932,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2057.84,
+   "end": 2083.95,
+   "text": "Creación de contenido. Requiere una inversión no de dinero, pero requiere una inversión de tiempo y de energía. O sea, usted, digamos, este video que ven aquí en YouTube es un video de 10 minutos. Tomó 10 minutos de mi tiempo y tomó mi esfuerzo y mi energía, pero no me costó nada en cuanto a dinero, ¿verdad? O sea, yo lo grabé y lo subí. Ahora, no lo ve mucha gente porque estoy dependiendo de la gente que me sigue.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2083.95,
+   "end": 2101.3,
+   "text": "Esta es la cosa con el contenido, que no es más, no es muy escalable por sí solo, porque usted, solo la gente que lo sigue lo va a ver realmente, ¿verdad? Entonces, si yo tengo 100 followers y yo subo un video, es difícil que lo vean.",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2101.3,
+   "end": 2127.15,
+   "text": "100 de miles de personas, ¿verdad? Probablemente lo vean 300 personas y así sucesivamente, a menos que se haga viral, ¿verdad? Pero digamos que no se hace viral, si usted graba un video y tiene mil seguidores, tal vez lo vean 300 personas o 500, pero no lo van a ver 500 mil personas, ¿ok? Entonces, por ahí Jen estaba, dame un toque nada más para...",
+   "avg_logprob": -0.083,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2127.22,
+   "end": 2154.88,
+   "text": "Que Jen estaba escribiendo ahí en la pantalla. Voy a stop share y creo que se quita ya cuando uno lo vuelve a share. Por favor no escriban en la pantalla. Tranqui, tranqui. Ok, share y vamos con share otra vez. Ahí está. Ok, entonces el contenido no requiere una inversión de dinero, pero requiere una inversión de tiempo y de energía.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2154.88,
+   "end": 2183.06,
+   "text": "Dar resultados más lentos, precisamente porque hay menos personas viendo los videos, menos alcance. Requiere habilidades de personal branding, o sea, sí requiere que usted tome la decisión, ok, voy a crear mi marca personal, yo sé que muchos de ustedes están aquí y les interesa hacerlo más perfil bajo, hay unos que sí les interesa crecer la marca personal. La marca personal siempre es una buena idea, en realidad, en mi opinión, ¿verdad? O sea, es una buena idea, no es necesario, pero...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 2183.95,
+   "end": 2213.38,
+   "text": "Es difícil decir que es mala idea, ¿verdad? Porque la gente compra personas. Es una buena estrategia a largo plazo, menos escalable a menos que sea viral. Big money si lo sabe hacer bien y si logra hacerse viral y es lo opuesto a perfil bajo, ¿verdad? Entonces, yo siempre he creado mi marca personal y he creado contenido porque yo entiendo el valor, yo estoy dispuesto a hacerlo, no me da pena, ¿verdad? Me gusta ayudar a la gente y...",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.037
+  },
+  {
+   "start": 2213.38,
+   "end": 2234.56,
+   "text": "Y realmente llega un punto en donde yo siento como que, o sea, para serles 100% sinceros, yo no siento nada si ayer hice 6 mil dólares en ventas. No siento absolutamente nada. O sea, llega un punto en donde ya no siento ni siquiera un poco. O sea, simplemente de los números es lo que se vendió ayer.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2234.56,
+   "end": 2261.26,
+   "text": "Punto. O sea, no me siento ni más feliz, ni menos feliz. Si hubiera sido cuatro, o tres, o ocho, es exactamente lo mismo. Entonces, al final de cuentas, realmente para mí, ayudar a la gente y grabar videos, o sea, para mí es más, como que me da más satisfacción ayudar a la gente y grabar los videos para ayudar a la gente, porque en serio, en serio, como que uno crea tolerancia. Es como cuando uno, no sé.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2261.55,
+   "end": 2282.58,
+   "text": "Cuando uno hace algo que lo emociona demasiado, después lo hace muchas veces y ya se le quita como la misma intensidad de emoción, ¿verdad? Entonces como que realmente eso es algo que es muy muy tuano, es ayudar a la gente, crear una marca personal y ayudar a la gente a solucionar sus problemas y ayudarlos a mejorar su vida. Yo siempre lo he hecho y probablemente siempre lo siga haciendo, honestamente, porque me gusta. Entonces...",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 2282.58,
+   "end": 2308.24,
+   "text": "Yo siempre he creado una marca personal, he creado contenido, yo le veo el valor, es demasiado importante, muchos de ustedes están aquí porque yo grabo los videos y ustedes los han visto, no solo de los ads y eso ayuda demasiado a las ventas, ayuda a que los ads conviertan mejor, pero yo no solo hago contenido, o sea, yo la mayoría de mis ventas vienen de los ads, ¿verdad? Los ads sí funcionan un poco mejor porque tengo contenido y la gente ve diferentes videos y entonces...",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 2308.3,
+   "end": 2337.01,
+   "text": "Obviamente eso funciona. Y la tercera ya es Outreach, que requiere una inversión de tiempo y energía para mandar el mensaje. Entonces uno busca el negocio, le manda el mensaje, eso toma tiempo y energía, no toma dinero. Al igual que el contenido, el Outreach no toma dinero, no cuesta nada ir y mandarle un mensaje a alguien, pero sí toma tiempo y energía. Entonces los resultados son bastante rápidos en el sentido de que usted busca la persona correcta, le manda el mensaje correcto, su probabilidad de vender es bastante alta porque...",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 2337.46,
+   "end": 2355.82,
+   "text": "Ustedes están mandando un mensaje personalizado a alguien que tiene un perfil que puede ser su cliente. Si me explico, entonces un ad, la probabilidad de que compre alguien que está viendo el ad es muy baja porque están viendo miles de cientos de miles de personas y porcentualmente muy pocos van a comprar, ¿verdad?",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2356.21,
+   "end": 2383.79,
+   "text": "Pero cuando usted hace volumen compran ya bastantes, pero con Outreach, digamos que el porcentaje de personas que va a comprar de las que usted le manda el mensaje es muy alto porque son negocios que califican para ser sus clientes. Usted está mandando el mensaje correcto y es como la probabilidad muy alta, nada más que hay menos volumen, menos volumen que con los ads, pero hay una probabilidad alta de vender porque usted está mandando boom directamente. Es como usted tiene un programa que ayuda.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2383.79,
+   "end": 2411.76,
+   "text": "¿Cuál es la forma en que la gente escala este método de adquirir clientes? Es creando un equipo.",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2411.76,
+   "end": 2430.99,
+   "text": "Porque usted solo puede mandar X cantidad de mensajes al día con su tiempo. Entonces, aunque usted trabaje 6 horas al día, igual eso va a equivaler, no sé, a 300 mensajes que usted mande. Usted no puede crear más tiempo. Entonces, la gente como escala es con un equipo. Pero crear un equipo ya involucra un montón de cosas.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2431.22,
+   "end": 2459.94,
+   "text": "Sistemas, involucra entrenar a la gente, involucra las emociones de otra gente, el elemento humano. Yo no quiero lidiar con nada de eso y por eso es que yo no tengo un equipo porque a mí yo ya he tenido equipos y me gusta hacer todo yo, básicamente hacerlo yo y usar la tecnología. Pero es la forma, es una buena forma de conseguir clientes, es súper efectiva con solo outreach. Usted puede hacer cinco mil a diez mil dólares al mes. Yo tengo amigos que están haciendo diez mil dólares al mes.",
+   "avg_logprob": -0.081,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 2459.94,
+   "end": 2463.14,
+   "text": "Casi que no están usando ads, no están subiendo contenido.",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2463.14,
+   "end": 2491.82,
+   "text": "Solo Outreach, 10 mil dólares al mes. Ok, si toma esfuerzo, toma un poco de tiempo, pero es gratis empezar y puede cambiar su vida. Y la cuarta ya es con referencias, que es fácil cerrar ventas por ser referencias, se me hace espontáneo, o sea, usted no tiene como control, a veces le llega, a veces no, y escalar no está en su control, puede hacerlo más perfil bajo y puede, y véalo como algo extra, no dependa de referencias, nunca es bueno depender de referencias, usted necesita tener un sistema de adquirir clientes.",
+   "avg_logprob": -0.073,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2491.82,
+   "end": 2514.0,
+   "text": "Que sea a prueba de balas. Entonces, mi recomendación es la siguiente. Mi recomendación es combinar ads con contenido, con content, o con outreach para conseguir resultados más rápido. Entonces, yo les recomiendo tener ads activos unos 10 dólares al día.",
+   "avg_logprob": -0.084,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 2514.35,
+   "end": 2542.03,
+   "text": "Con un ad que les ofreciendo el servicio de Media Buyer, verdad? O si ahorita está en el programa y tienen una oferta, su propia oferta o su programa coaching, otro servicio ofreciendo su oferta, pero ads activos, colectando leads todos los días, trabajando por usted porque les van a llegar leads mientras duermen, mientras están en el gimnasio, mientras están en su trabajo, cuando trabajan, cuando no trabajan, siempre entran leads. Eso es lo bueno, es como tener, es como tener un empleado.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 2542.03,
+   "end": 2549.34,
+   "text": "Que trabaja 24-7, que no se queja, que siempre, siempre está trabajando.",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2549.34,
+   "end": 2574.43,
+   "text": "Consiguiendo personas por usted y siempre hace lo mismo y es extremadamente consistente. Eso es como tener ads, ¿verdad? Y es escalable y cuando se sube el presupuesto es como que esa persona, ese empleado se multiplique por dos y por tres y cuando se sube el presupuesto se sube de 10 dólares al día a 20 dólares al día. Se empieza a multiplicar como hormigas, como hormigas y cuando se da cuenta usted está invirtiendo un montón y tiene un ejército de 100 empleados trabajando 24-7.",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2574.43,
+   "end": 2590.51,
+   "text": "No se cansan, no duermen, usted se levanta y le dieron resultados, le dieron leads, esos son los ads, entonces para mí tener ads es demasiado importante porque yo lo veo con mis propios ojos, o sea, si yo no tuviera ads, yo no estaría vendiendo ni una fracción de lo que estoy vendiendo.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2590.7,
+   "end": 2611.63,
+   "text": "Los ads trabajan por mi 24-7, todo el día, todos los días, yo me levanto todos los días y tengo leads, o sea, literalmente yo me levanto todos los días y tengo una lista de personas que me dijeron quiero información para unirme a su oferta. ¿Usted entiende el nivel que es eso? O sea, es demasiado...",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2612.37,
+   "end": 2640.82,
+   "text": "Tu vanis como levantarse y decir, toda esta gente me quiere comprar, nada más tengo que contactarlos. O sea, imagínense eso, ¿cómo se sentiría eso? Pongan ahí en el chat, ¿cómo se sentiría que ustedes se levanten? Y ahorita ya vamos a ver más cómo ejecutar estos. ¿Cómo se sentiría que ustedes se levanten y digan, tengo toda esta lista de gente que me quiere comprar? O sea, usted sabe exactamente qué hacer cuando se levanta, nada más tiene que contactarlos.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2641.01,
+   "end": 2650.8,
+   "text": "¿Verdad? Y hablarles como una persona normal. Es casi imposible, es casi imposible no hacer dinero porque...",
+   "avg_logprob": -0.112,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 2650.9,
+   "end": 2676.06,
+   "text": "Aunque ustedes no sean los mejores vendiendo o los mejores comunicándose, yo sé que yo no soy el mejor vendedor. Yo esto lo digo públicamente, yo nunca he comprado un programa de ventas en mi vida. Yo nunca he comprado un programa de ventas en mi vida y ni siquiera me he leído un libro de ventas. Nada más que yo soy marketer, yo soy media buyer, tengo tantos leads que es imposible que no venda. Obviamente con el tiempo me he hecho más bueno vendiendo.",
+   "avg_logprob": -0.023,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2676.06,
+   "end": 2705.87,
+   "text": "A pura experiencia. Pero es que ni siquiera cuando usted tiene tantos leads, usted ni siquiera tiene que ser tan bueno vendiendo. Obviamente, entre más bueno sea vendiendo, mejor. Pero con solo que usted les hable, como, hola, te mando esta mensaje porque vi que necesitas ayuda con los ads. Entonces, nada, quería preguntarte ahorita qué negocio tenés, con qué necesitas ayuda, a ver cómo te puedo ayudar. That's it. O sea, eso es vender. La nueva forma de vender es no vender. Es nada más hablar con la gente.",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2706.86,
+   "end": 2726.19,
+   "text": "Dice Javier, ah bueno, Laura, increíble, Dopamina, Dino, Soy el Rey, Marcelo, bien verga, José, difícil que no compren, Javier, Ads, Chat, Sales, Reinvest, Repeat, exacto, eso es todo. Entonces, yo les recomiendo tener Ads y después escoger uno de los dos, otros dos. Puede ser contenido.",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2726.35,
+   "end": 2737.52,
+   "text": "O puede ser Outreach, Ads plus Outreach o Ads plus Contenido. Yo no les recomiendo que hagan Ads plus Content plus Outreach.",
+   "avg_logprob": -0.085,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2737.52,
+   "end": 2759.73,
+   "text": "Más que todo por un tema de enfoque y de tiempo. Ustedes me dicen, Sebas, yo voy a trabajar todo el día en esto, o sea, all in, no voy a dormir, no voy a comer, quiero hacer lo más posible, no quiero tiempo libre, no quiero salir con mi novia, no quiero salir con mis amigos, todo el día quiero estar prospecting. Ok, bueno, Ads, Content y Outreach. Perfecto, usted solo tiene tiempo, le va a dar durísimo.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2759.92,
+   "end": 2788.82,
+   "text": "Pero la mayoría de la gente tiene, digamos que otras cosas que hace en su vida y en su día. Entonces, por un tema de enfoque, yo recomiendo ads más algo más. Ads que es algo exponencial, que tiene apalancamiento, que trabaja por usted 24 7 y algo que sí requiere inversión de tiempo, energía, pero da resultados demasiado buenos. Entonces yo recomiendo ads plus content o ads plus outreach. ¿Cuál es la diferencia? ¿Cuál escogerá?",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2789.04,
+   "end": 2816.22,
+   "text": "La diferencia es que el contenido involucra crear una marca personal. Una marca personal involucra no ser muy perfil bajo. Entonces, como que es una decisión que uno toma. Usted quiere darse a conocer, quiere que sea su marca personal, le encuentra el valor, está dispuesto a hacerlo. Sí, ok, Ads plus Content es una muy buena idea. Usted escoge una plataforma y en esa plataforma se enfoca y...",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2816.22,
+   "end": 2833.28,
+   "text": "y graba contenido acerca del tema, obviamente relacionado a lo que está vendiendo en los ads. Ahora usted me dice, Sebas, no, la verdad que yo solo quiero hacerlo como más perfil bajo y no me interesa la marca personal. Yo sé que es importante, yo sé que es valioso, yo sé que me puedo hacer cash, pero no estoy dispuesto a hacerlo.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2833.28,
+   "end": 2859.18,
+   "text": "Entonces, la alternativa es enfocarse en ads plus outreach, que es más perfil bajo. Entonces, sus ads están corriendo 24-7, le van a estar entrando leads, usted puede contactarlos, cerrar sales, cerrar sales, pero al mismo tiempo puede aplicar lo que le voy a enseñar en este entrenamiento para contactar dueños de negocios y venderles directamente y así complementar los anuncios. Entonces, está haciendo cash de los anuncios y está haciendo cash del outreach.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2859.7,
+   "end": 2885.41,
+   "text": "Ok, esto es una decisión personal, yo personalmente estoy dispuesto, como le dije, a crecer mi marca personal, me gusta hacerlo, el contenido para mí es un activo que queda en el metaverso, es como real estate digital, literalmente mis videos desde hace 10 años ahí siguen en YouTube, la gente los puede ir a ver, yo ya no tengo 18 años, estoy 28, pero igual la gente puede verme con 18 años hablando, o sea, es como crear real estate.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 2885.41,
+   "end": 2912.74,
+   "text": "Bienes raíces. Es como ser dueño de mil apartamentos en línea, de mil videos. Entonces, es demasiado poderoso, pero también entiendo que hay gente que no lo quiere hacer y por el trabajo hay gente que dice, no, por mi trabajo no puedo crear contenido, bla, bla, bla. Entonces, yo entiendo full eso. Entonces, pero yo, esta es la combinación ideal. Ads más algo más. Ahora, ¿qué pasa si hay cero dólares de capital? Me dicen, Sebas, no tengo ni 10 dólares para el día para invertir en ads.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2912.74,
+   "end": 2939.76,
+   "text": "¿Verdad? Porque me está recomendando ads plus algo más. Entonces, yo lo que te recomiendo es ir all in, ya sea content, ya sea outreach o content plus outreach. Lo que te recomiendo es, como igual no vas a usar el tiempo para crear ads, monitorear ads, crear ad copy, eso es tiempo que, digamos que sobra, ¿verdad? Que se puede usar para algo más. Entonces, yo combinaría content y outreach.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2939.82,
+   "end": 2964.5,
+   "text": "Contactar la mayor cantidad de dueños posibles, dueños de negocios posibles con la oferta, un porcentaje va a comprar y aparte de eso un poco de content para que cuando contactes a esos dueños de negocio y se metan en tu perfil vean algo ahí, o sea, vean el contenido y entonces vieron tu mensaje, tal vez no se convencieron, tal vez hablaron por llamada, no compraron, pero después vio dos videos que le salió en el feed.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2964.66,
+   "end": 2978.06,
+   "text": "Oh shit, no, la verdad sí me interesa y compra. Pero entonces el contenido siempre se complementa ya sea con outreach o con ads y funciona muy bien. Los de los ads ven el contenido, se convencen más. Los de outreach que recibieron tu mensaje.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2978.13,
+   "end": 3001.47,
+   "text": "Ven el contenido y se convencen más. O sea, el contenido siempre ayuda. El contenido no es algo que no ayuda. O sea, como que la gente me dice, Sebas, ¿es necesario? Yo, no es necesario, pero siempre ayuda. O sea, es difícil, difícil que no ayude. La única forma de que no ayude es como que en serio, en serio, usted la cague demasiado con sus videos. O sea, como que usted hizo todo bien en sus ads, en la llamada, en el mensaje que mandó.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3001.47,
+   "end": 3013.3,
+   "text": "Pero en los videos usted hizo el ridículo y más bien arruinó todo. Ok, pero esa es la única forma de que no funcione el contenido. El contenido casi que siempre funciona. Entonces, si usted no tiene capital para ads.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3013.3,
+   "end": 3038.75,
+   "text": "No tiene 10 dólares al día. Tiene que sí o sí enfocarse content y outreach. Yo le recomiendo haga los dos de la mano dos o tres horas al día de eso. Igual usted puede hacer de 5 mil a 10 mil dólares al mes sin problema. Yo tengo amigos que están haciendo 10 mil dólares al mes solo con outreach, cero content, cero ads y hay gente que está haciendo outreach, solo outreach y content que están haciendo más de 50 mil dólares al mes en Latinoamérica solo haciendo esto. Ok, entonces eso es.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.035
+  },
+  {
+   "start": 3038.75,
+   "end": 3075.26,
+   "text": "Hay diferentes escenarios, ustedes tienen que preguntarse cuál es mi escenario que estoy dispuesto a hacer y con base a eso decidir. Si ustedes dicen, tengo capital y estoy dispuesto a crear una marca personal, que yo les recomiendo eso, es una buena idea, entonces hagan eso. Si ustedes dicen, no, yo no quiero una marca personal, pero sí tengo el capital, Ads plus Outreach. Y si dicen, no tengo nada de capital, Content plus Outreach. Ahí está la fórmula. Pónganme un número 5 si eso quedó claro. Todo funciona.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3075.26,
+   "end": 3096.29,
+   "text": "Todos, todos funcionan y no quiero como que, o sea, no estoy como menospreciando uno o el otro. A mí me encantan los ads. Amo los ads. Para mí no hay nada mejor que ads. O sea, yo en serio, o sea, yo creé este programa no porque yo dije, uy, hay una oportunidad de hacer dinero con ads. No, no.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3096.29,
+   "end": 3116.37,
+   "text": "Yo soy fan de los ads. No hay nada que yo prefiera más que los ads. No hay nada que me dé más libertad que mis ads. Nada. Nada, nada, nada, nada. Y yo estoy dispuesto a hacer todo lo demás. Yo estoy dispuesto a grabar contenido todos los días. Hay que hacerlo. Yo estoy dispuesto a hacer whatever it takes para conseguir mis metas.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3116.37,
+   "end": 3146.91,
+   "text": "Pero no hay nada que me guste más que los ads, o sea, yo me levanto y tengo leads como si fuera magia, o sea, es magia, nada más aparecen de la nada, ¿verdad? O sea, es increíble. ¿Cómo no me va a gustar eso? Para mí es, es como un hack, literal, es como hackear el sistema. Ok, hablemos de ads. Testear ads, el método uno es con ads. Testear ads hasta conseguir un retorno de inversión positivo. ¿Cuál es la buena noticia? Que para este punto ustedes ya saben crear ad copy, manualmente o con AI.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3146.91,
+   "end": 3176.91,
+   "text": "Ya para este punto han creado ads y mandado, muchos de ustedes ya han mandado ads, ya tienen ads activos, ya sea para la oferta de afiliados, para su propio negocio o inclusive para algunos de ustedes ya tienen clientes de Media Buying y ya lo están haciendo. Entonces, el método uno es conseguir leads para cerrar ventas para el servicio de Media Buyer con su habilidad existente de ads que han desarrollado con este programa. Entonces, nada más tienen que escribir su propio ad copy.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3176.91,
+   "end": 3203.76,
+   "text": "O usar uno de los que yo les doy. Crear su ad ofreciendo el servicio. Entran leads, close sales. Como dijo Javier ahí en el chat. Ads, leads, sales, reinvest, repeat. Entonces, esto es literalmente lo que ya hemos visto en el programa. Es escribir ad copy el texto de los ads. Recuerden, todo video es texto.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3203.79,
+   "end": 3231.15,
+   "text": "Las palabras escritas se dicen verbalmente, ya sea el cliente las dice o uno, en este caso uno está ofreciendo el servicio de Media Buyer en nuestra propia oferta, es su propio servicio, entonces este video lo grabaría usted, ¿verdad? Entonces, si usted es un coach, consultor o proveedor de servicios que ya genera más de 5 mil dólares al mes y cierra ventas por llamada, le quiero hacer una pregunta. ¿Le gustaría generar de 5 a 10 llamadas extra por semana en piloto automático? Sin tener que...",
+   "avg_logprob": -0.027,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3231.25,
+   "end": 3261.01,
+   "text": "crear, generar contenido de valor, mandar mensajes a extraños, tener un equipo setters o hacer horas de trabajo manual, verdad, o sea, ad copy, es un ejemplo, nada más, ad copy, se graba el video, se manda como ad, entran leads por mensaje, se les contestan los mensajes, yo les doy el template para el mensaje, el template va a estar abajo, agendan llamadas y cierran llamadas, cierran ventas por llamada,",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3261.36,
+   "end": 3290.22,
+   "text": "con el template que les doy también. Esta es una forma de conseguir clientes con ads y este es el proceso estándar. Este es el proceso casi que más probado que hay. Yo en serio dudo que esto cambie. Esto va a funcionar por años. Eso se los garantizo. Va a funcionar por años. Ads, mensaje, llamada. Ads, mensaje, llamada. Esto ha funcionado casi que desde el día uno que yo estoy en línea.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3290.32,
+   "end": 3315.6,
+   "text": "La diferencia es que antes como que los ads no mandaban directo a mensajes, o sea, ahora es muy fácil porque uno manda un ad, ¿verdad? Ustedes han visto, uno manda un ad y le dice, ok, ¿quiere recibir mensajes por Instagram o WhatsApp? Ok, WhatsApp. Y uno lo manda y llega mensajes por WhatsApp. O sea, como que está diseñado para conseguir mensajes por WhatsApp o Instagram. Está diseñado para conseguir mensajes. Es como que uno llegue y le den así una bandeja de oro, aquí están sus leads.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3315.6,
+   "end": 3342.42,
+   "text": "Señor, ¿verdad? Ahí están sus leads en WhatsApp. Señor, nada más contáctelos para hacer dinero. Así funciona en el mundo moderno. Antes igual esto funcionaba, pero los ads no estaban como diseñados para mandar a WhatsApp o a Instagram, ¿verdad? Era como, había que mandar como de, había que mandar como directo de un ad, sacarlo de la plataforma y que uno le mande un mensaje, como que no era como nativo, ¿me explico? Entonces...",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 3342.9,
+   "end": 3357.78,
+   "text": "Esto es el proceso como más probado que yo he visto de ad a mensaje a llamada y es simplemente de optimizar ese proceso. Hicimos una sesión de Optic Optimization, ahí la van a ver, verá el replay, si no lo han visto.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3357.87,
+   "end": 3382.86,
+   "text": "¿Qué es? ¿Cómo optimizar este proceso? Si este proceso lo están usando y no funciona es porque tienen que mejorar la ad copy. Si ya consiguen leads pero no están agendando tienen que mejorar los mensajes que se le mandan a los leads. Y si sí están entrando leads y sí están agendando los leads, entonces tienen que mejorar la llamada, el precio y la oferta en la llamada.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3383.22,
+   "end": 3410.16,
+   "text": "esta es la forma de conseguir leads para el done for you ahora yo creé este documento que les doy el done for you ad copy y lo van a ver ahí en donde básicamente nada más tienen que leer este ad copy o medio memorizárselo que es done for you media buyer service ad copy templates igual les voy a agregar mucho más aquí de hecho me gustaría poder dedicarle en este momento que estoy grabando este entrenamiento",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 3410.32,
+   "end": 3430.86,
+   "text": "Me gustaría poder dedicarle más tiempo a esto, más Done Free Templates, pero mi enfoque ahorita principal es estas sesiones de coaching, o sea, como enseñar bien y ya después me voy a volver loco creando templates, porque es bien, ustedes ven estas presentaciones, verdad, y se ven como simples, pero yo...",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 3430.9,
+   "end": 3460.85,
+   "text": "Es en realidad bien duro porque, y no, o sea, no estoy justificando nada, o sea, yo trabajo todo el día y me encanta, pero nada es para que sepan, digamos, yo hago este entrenamiento sábado y yo ya lunes estoy creando la presentación del próximo sábado, ¿verdad? Y, o sea, sí, porque quiero asegurarme de que se enseñe también, que no se vea como charral y se enseñe bien, ¿verdad? Entonces, he estado como full enfocado en enseñar esto.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 3461.26,
+   "end": 3485.54,
+   "text": "Y enseñarlo bien y ya después, para también organizarme mentalmente, volverme loco con puros templates y Q&A. O sea, vamos a hacer Q&A, Q&A, Q&A, revisar, revisar, revisar, feedback y templates. Voy a estar creando ad copy todo el día y les voy a dar done for your ads, entonces para que prueben. Pero entonces aquí, igual acá hay varios que he creado.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3485.54,
+   "end": 3514.26,
+   "text": "que dice, done for you media buyer service, add templates, use estos done for you templates para crear ads que le consigan leads para ofrecer su servicio de media buyer en diferentes nichos e industrias, puede modificarlos y adaptarlos a su oferta, esto los creé yo manualmente sin AI, es clave siempre experimentar, entonces también pueden pegarlos en ChatGPT y conseguir variaciones, ahora les voy a enseñar como hacerlo, pero digamos, ok, quieren el ad copy para coaches, consultores o personas que dan servicios, vienen aquí,",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3514.83,
+   "end": 3542.78,
+   "text": "Y este es un copy recién salido del horno, como cuando uno va a la panadería en la mañana y está así todo calientito. Si usted es un coach, consultor o proveedor de servicios y ya hace de $3,000 a $5,000 al mes, pero consigue todos sus clientes de manera orgánica con contenido de valor y mandando mensajes y le gustaría escalar con anuncios pagados, pero no tiene tiempo o simplemente no sabe cómo hacerlo, vea este video. Conseguir clientes de manera orgánica funciona muy bien.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3542.78,
+   "end": 3564.91,
+   "text": "Eso todo el mundo lo sabe y todos los coaches lo enseñan. De hecho, yo puedo poner aquí. De hecho, yo eso lo hago actualmente. Pero el proceso para escalar es mucho más lento y requiere mucho más capital humano, tiempo, energía, esfuerzo y enfoque. La única forma de escalar su negocio es usted trabajando más horas o contratando más personas en su equipo, lo cual disminuye sus márgenes de ganancia y complica la estructura de logística de su negocio.",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3565.36,
+   "end": 3574.43,
+   "text": "Si quieres escalar a 6 o 7 figuras, tener mayor apalancamiento, mantener su negocio minimalista y simple y mantener márgenes de ganancia altos, entonces la mejor forma es con Ads.",
+   "avg_logprob": -0.027,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3574.43,
+   "end": 3602.83,
+   "text": "Money in, money out, de hecho",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3602.83,
+   "end": 3623.98,
+   "text": "Así es exactamente como yo lo he hecho por nueve años. He cubrido ads por nueve años y yo no dependo del contenido. Si lo creo, le voy a ser sincero, yo creo el contenido, pero en realidad la mayoría de mis ventas vienen por ads. Entonces, crea un buen video, usa ese video como ad, ese ad le genera leads y un porcentaje de los leads compran su oferta. Usted genera más en ventas de lo que invierte en el ad.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3624.11,
+   "end": 3653.62,
+   "text": "Es muy simple, si le interesa que yo cree sus ads y le maneje los ads de manera 100% done for you para que usted pueda escalar y tener un retorno de inversión positivo y que usted no tenga que involucrarse en este proceso, usted pueda seguir siendo coach, entonces mándenme un mensaje para que hablemos. Ese ad copy está demasiado bueno, o sea, no es por rajar, pero la verdad que está bueno, está bueno y ese ad copy estoy seguro que funciona, o sea, funciona, obviamente hay que probarlo.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3653.81,
+   "end": 3676.27,
+   "text": "Hay que probarlo en, hay que probar el país, hay que probar también cómo se grabó el video, ¿verdad? Esas variables sí, sí tienen impacto, pero este ad copy funciona, yo estoy 100% seguro que este ad copy funciona si uno lo prueba de diferentes maneras, o sea, si uno lo prueba de, de, de suficientes maneras diferentes, ¿verdad? Porque, porque ese que funciona, porque",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3677.26,
+   "end": 3702.54,
+   "text": "Porque yo sé cuál es el dolor exacto que tiene esta gente, ¿verdad? Y yo sé que esto es la solución y yo sé que aquí estoy justificando bien el por qué de esto. Y yo les estoy dando en todos los dolores que yo sé que ya tienen porque yo he sido esa persona. Yo sé que esto funciona 100%, o sea, no es como que, digamos, la razón por la cual yo sé que, o sea.",
+   "avg_logprob": -0.07,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 3703.76,
+   "end": 3721.55,
+   "text": "Esto no puede no funcionar porque involucraría que la persona no tenga ese dolor, ¿verdad? Y yo sé que sí tienen el dolor, entonces por eso es que no puede no funcionar. Ahora, tal vez este texto...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3721.58,
+   "end": 3748.4,
+   "text": "No funciona en el sentido de que el retorno de inversión no es el que esperaban porque también hay muchas variables que se puede grabar de diferentes formas. También la confianza que usted transmite si usted le agrega testimonios. Lo que estoy diciendo es como que este ad copy está creado con base a los dolores y necesidades de las personas que yo sé que ya existen. Entonces es como difícil que uno ni siquiera consiga un lead.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3748.4,
+   "end": 3778.45,
+   "text": "Yo sé que esto es un buen ad copy y también aquí les creé. Eso si ustedes les van a vender a coaches, consultores, proveedores de servicios, que estos son miles. Solo con este nicho ya pueden hacer millions. Ok, y el segundo es agente de bienes raíces. Aquí voy a meter diferentes nichos. Voy a crear para doctores, voy a crear para agencias, voy a crear para abogados, voy a crear de todo. Agente de bienes raíces, este también es recién salido del horno. Si usted es un agente de bienes raíces que vende o alquila propiedades en...",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 3778.77,
+   "end": 3782.86,
+   "text": "Colombia, y usted tiene excelentes propiedades enlistadas",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 3782.86,
+   "end": 3810.42,
+   "text": "Propiedades que usted sabe que si la gente ve se venden solas, pero su problema principal es que usted no tiene leads, no tiene prospectos, ¿verdad? ¿Qué pide información por sus propiedades? No tiene suficientes personas pidiendo información por sus propiedades. Y aparte de eso, de los pocos leads que tiene, tiene que compartir comisiones con otros agentes. Entonces vea este video. Le gustaría tener su WhatsApp explotado de leads, al punto que tenga tantos leads que le piden información por su propiedad que se vuelva un problema. Un excelente problema.",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3810.64,
+   "end": 3818.42,
+   "text": "y de esa manera poder drásticamente aumentar la cantidad de comisiones que usted genera todos los meses por medio de alquileres y ventas de propiedades.",
+   "avg_logprob": -0.013,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 3819.41,
+   "end": 3844.96,
+   "text": "Eso es exactamente con lo que yo lo voy a ayudar en caso de que a usted le interese. Mi nombre es Sebastián y yo ayudo a gente de bienes raíces como usted a conseguir más leads por medio de ads súper simples en Facebook e Instagram. De hecho, usualmente, cuando encendemos los ads, empieza a recibir leads en las primeras 24 horas. Todo se mueve muy rápido con ads. Lo que hacemos es crear anuncios con una estructura probada con sus mejores propiedades. Le decimos a la gente que le mande un mensaje y le empiezan a llegar leads. Si usted quiere vender o alquilar más propiedades, necesita más leads.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3844.96,
+   "end": 3858.42,
+   "text": "Más leads es igual a más comisiones, menos leads es igual a menos comisiones. Yo uso la palabra comisión porque yo sé que a ellos o ellas les hace más click la palabra comisión que venta porque ellos trabajan por comisión, ¿verdad?",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 3859.12,
+   "end": 3887.09,
+   "text": "Yo lo voy a ayudar a generar leads ilimitados de manera de en demanda para sus propiedades, lo cual le va a dar una ventaja competitiva masiva al mercado y aumentar sus comisiones. Recuérdense, todos los agentes de dinero en raíces quieren lo mismo, quieren cash. Todo el mundo de este mundo quiere cash, ¿verdad? Entonces, yo lo voy a ayudar a generar leads ilimitados. ¿Para qué? Para lo que usted quiere, que es tener una ventaja competitiva y generar más comisiones.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 3887.09,
+   "end": 3905.95,
+   "text": "Acuérdese, siempre digan a la gente lo que quieren, siempre, siempre. ¿Quiere perder 10 kilos? Perfecto, con mi nuevo ebook va a perder 10 kilos. ¿Quiere hacer 5 mil dólares al mes como real estate agent? Perfecto, con mi servicio puedo hacer 5 mil dólares al mes como real estate agent. La gente quiere a...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3905.95,
+   "end": 3924.27,
+   "text": "Usted les dice que pueden conseguir A. Obviamente tiene que ser verdad, pero si es verdad, usted dígale lo que quiere escuchar, ¿ok? Las palabras específicamente que quiere escuchar. Y lo más importante, que usted pueda aumentar sus ingresos como agente. Bueno, aquí, en realidad aquí ya lo había dicho abajo. Si quiere más información de cómo puede trabajar conmigo, mande un mensaje diciendo A si hablemos.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3924.46,
+   "end": 3936.24,
+   "text": "Otro muy buen ad copy. Este es otro para médicos. Si usted es un médico profesional de la salud y le gustaría tener un excelente problema, el problema de tener tantos clientes o pacientes, eso es la palabra pacientes.",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3936.53,
+   "end": 3966.03,
+   "text": "Creo que en medicina es mejor que tenga que crear una lista de espera porque ya no da basto. Entonces vea este video. Mi nombre es Sebastián y yo me dedico a ayudar a médicos y profesionales de la salud a conseguir más potenciales clientes por medio de ads en Facebook e Instagram. En promedio, en 24 horas después de encender los ads, va a haber personas pidiendo información. Como pueden ver, la estructura es muy parecida, pero yo les doy los dolores que yo sé que cada nicho tiene. Imagínense lo que sería tener una fuente ilimitada de clientes potenciales 24 7 pidiendo información por su servicio.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3966.03,
+   "end": 3996.11,
+   "text": "Lo que se traduce a más ventas y crecimiento de su clínica. Tener su calendario lleno y una fila de clientes que quieran adquirir sus servicios. Imagínense que usted puede hacerlo sin tener que dedicarle tiempo a nada relacionado a mercadeo porque usted está enfocado en lo que hace mejor. Ayudar a sus clientes y ser médico. El dolor de los médicos es que quieren resultados sin tener que dedicarle ni un minuto. Quieren todo done for you. Ya me los conozco porque ellos son médicos. Los médicos pasan súper ocupados. Ganan súper bien pero pasan súper ocupados. Eso es exactamente lo que lo voy a ayudar a hacer. Así es como ustedes...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 3996.11,
+   "end": 4025.12,
+   "text": "Así como usted es especialista en un área específica de la salud, yo soy especialista en generar clientes potenciales para médicos. Esto es clave, decirlo. Porque ellos dicen, o sea, es como que uno se está poniendo al mismo nivel. Los médicos a uno lo van a ver como a un nivel inferior que ellos. De hecho, muchos médicos son así. Es como, yo soy médico, yo soy especialista. Usted no sabe lo que es ser especialista. Son 15 años de estudiar. Es como, cuando usted le dice, yo soy igual que usted, pero en mi área, boom, ¿verdad?",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 4025.12,
+   "end": 4055.98,
+   "text": "Si le gustaría conseguir más clientes y crear un excelente problema en su vida de tener más, tener demanda masiva por sus servicios médicos, entonces mándenme un mensaje diciendo clientes para conseguir más información de cómo puede trabajar conmigo. Entonces, eso son tres versiones de AdCopy, voy a estar creando más y Andrea dice, yo trabajo igual, Sebas, y están demasiado bien esas presentaciones. Buenísimo.",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4056.66,
+   "end": 4086.77,
+   "text": "Ah bueno, de seguros de vida, dice José, de fijo, eso es buenísimo, el nicho de seguros es de los mejores que hay, voy a hacer de seguros, cuando me ponga a hacer ad copy, va a tener aquí una lista de nichos y eso es lo bueno de este programa, que en realidad ustedes llegan y es como ok, no sé nada, pero bueno, aquí está mi ad copy, nada más si digo este ad copy, entonces igual puedo conseguir leads, entonces ok, eso es con ads y digamos",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4086.77,
+   "end": 4119.41,
+   "text": "Y realmente aquí no hay como tanto que explicar, siento, porque hemos visto 20 horas de ads y es literalmente nada más aplicar todo, pero para este, para vender este servicio, ¿verdad? Ustedes van a conseguir leads, entonces van a crear el ad copy. Bueno, otra cosa que les quiero enseñar es esto. Ustedes pueden venir acá con el ad copy y pueden hacer esto. Ojo, ojo este hack, ojo este hack que les voy a enseñar. Solo hacks aquí.",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4122.19,
+   "end": 4156.78,
+   "text": "Copy. Si ustedes no quieren, o sea, si quieren una versión todavía más fresca, recién salida del horno, pueden decirle a ChatGPT.",
+   "avg_logprob": -0.07,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4157.1,
+   "end": 4193.87,
+   "text": "Tres versiones de anuncios, pero que vendan lo mismo, lo mismo a la misma persona, pero que sean diferentes, pero que comuniquen la oferta de manera diferente. Cree tres versiones. Ni siquiera sé si este prompt está bueno, pero, y le voy a poner aquí, pum.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4194.74,
+   "end": 4226.22,
+   "text": "¿Lo pego? Ok. Entonces les va a dar, ojo, versión 1. Eres coach, consultor o proveedor de servicios, ya generas entre 3.000 y 5.000 dólares al mes con tu oferta, pero consigues clientes de manera orgánica, te gustaría escalar 6, 7 figuras, la solución, anuncios pagados. Con Ads puedes tener un flujo constante de leads, imagina esto. Ok, versión 2. Enfocar en el dolor de crecimiento. Esto es demasiado bueno, o sea, ojo.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4226.22,
+   "end": 4254.82,
+   "text": "Enfocada en los resultados de escalar con ads. Enfocada en el dolor de crecer orgánicamente. Y formato directo y claro. Ojo que bueno este. Cansado de depender de sólo métodos orgánicos. Ojo, primeros tres segundos. Cansado de depender de sólo métodos orgánicos. Hook. ¿Sabes qué? Esto está haciendo el ad copy. Un robot. Un robot. Si eres coach, consultor o proveedor de servicios que ya genera entre 3.000 a 5.000 mensuales.",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 4254.82,
+   "end": 4288.3,
+   "text": "¿Sabes esto? Crear contenido funciona, pero escalar con métodos orgánicos toma mucho tiempo. Esto está demasiado bueno. Y le puse emojis y todo. Versión 3, directo y claro. Si ya hace 3 mil a 5 mil al mes, pero está atrapado con métodos orgánicos, esta es su oportunidad. Entonces, ustedes pueden agarrar. Esto es demasiado increíble. Digamos, yo les estoy dando esto que yo creé manualmente, que yo sé que funciona, porque es un buen ad copy, y después están creando variaciones infinitas.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4288.3,
+   "end": 4320.94,
+   "text": "3, 5 variaciones, variaciones más y ojo esto, ojo esto, no puede ponerse creativo y agréguele un elemento controversial, controversial, menciónelo en los primeros 3 segundos de el ad, ¿por qué? porque así va a ser, eso puede bajar el cost per lead",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4321.39,
+   "end": 4353.49,
+   "text": "Versión 1. La verdad que nadie te dice sobre los métodos orgánicos. ¿Sabes que los métodos orgánicos están frenando tu crecimiento? Ok, acá hay otro. Trabajar más no te llevará a 6 o 7 figuras. Controversial, pero eso está bueno. El consejo que te dio tu mentor está mal. Te dijeron que el contenido era la clave para escalar. Están equivocados. Qué buenos. Ok, voy a decirle. Sea todavía...",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4354.06,
+   "end": 4391.25,
+   "text": "Más controversial y hooks más agresivos. Al borde de que me baneen en Instagram, pero que no me baneen. Tu estrategia actual está condenada al fracaso. Ok, ves, está ya más spicy. Tus métodos de captación son mediocres. Te han mentido sobre cómo escalar tu negocio. Ojo, esos son buenos hooks. Tu negocio no está creciendo porque tú eres el problema.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4391.86,
+   "end": 4424.72,
+   "text": "Si sigues atrapado en métodos orgánicos, el problema eres tú. Lo siento, pero alguien tenía que decirlo. Vas a seguir quemándote creando contenido o vas a usar una estrategia real para escalar. ¿Qué les parece esto? Del 1 al 10. O sea, es que son como infinitas formas de crear ads ganadores, porque la clave de esto es tener una base, digamos, tener una base buena, ¿verdad?",
+   "avg_logprob": -0.027,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4424.78,
+   "end": 4455.79,
+   "text": "Esto es una buena base, esto es done for you. Pero, digamos, honestamente, estos ads tienen mejores hooks, estos hooks tienen mejores, estas versiones tienen mejores hooks que el mío. Entonces, lo que pueden hacer es esto. Este está insultándolo, básicamente. Ok, pero, este está demasiado bueno, este me gusta. El consejo que te dio tu mentor está mal. Entonces,",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 4456.85,
+   "end": 4483.36,
+   "text": "Podemos hacer esto, pum, hook, el consejo que te dio tu mentor está mal. Si eres un coach, proveedor de servicios, pum, pum, pum, y ya tira la copy. Pero ya los primeros tres segundos se mejoraron. Entonces, eso es la clave, es como tener una buena base y después uno puede tener combinaciones infinitas. Esto es lo que hace un New World Media Buyer. Literalmente ahora vamos a usar esa palabra, esa me la acabo de inventar. New World Media Buyer. Stan.",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4483.36,
+   "end": 4524.02,
+   "text": "Los Old World Media Buyers, todo lo hacen manualmente, hay que ser demasiado bueno en Copywriting, 5 años aprendiendo Copywriting, eso a mi me tomó años, más de 5 años aprenderlo, New World Copywriting, digo, New World Media Buyer, usa las herramientas disponibles para crear Cosmic Ad Copy, Ad Copy que sea fuera de este planeta, que risa, ok, bueno, seguimos, no entiendo por qué se pone a chapear de sacarte los fines de semana",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4525.07,
+   "end": 4546.99,
+   "text": "No sé si lo escuchan, pero se ponen a chapear el fin de semana y todo el mundo nada más quiere estar tranquilo en silencio. Si eso lo hicieran en Suiza lo meten a la cárcel, literalmente. Qué risa. Ok, método 2. El método 2 es crear contenido y hacer llamados a acción para conseguir leads. Entonces...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4547.22,
+   "end": 4574.32,
+   "text": "La creación de contenido es un tema que de hecho yo hice una sesión casi que hora y media solo de contenido, entonces no vamos a hablar hora y media de contenido. Pero lo que sí les puedo decir de contenido es que, digamos, es tan simple como documentar. Ustedes escogen un tema, verdad? En este caso, si ustedes están con su servicio de Media Buyers, ustedes son Media Buyers, verdad? Ustedes son Media Buyers, ofrecen el servicio de Media Buying y su nicho.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4574.35,
+   "end": 4603.95,
+   "text": "Su tema son los ads, ¿verdad? Es cómo usar ads para crecer un negocio. Ese es su nicho, ese es su tema. Significa que su contenido tiene que ser relacionado a ads. Cómo crear ads, cómo usar AI para ads, la importancia de tener leads, ads versus contenido orgánico, value alrededor de ese nicho. Si usted es Media Buyer, si usted ofrece ese servicio, usted tiene que estar hablando del valor de los ads.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4604.05,
+   "end": 4627.86,
+   "text": "El valor de tener leads entrando, o sea, todo contenido alrededor de eso y es tan simple como literalmente grabar videos super casuales hablando de eso, obviamente que se vean. Digamos que si usted ve este video, usted diga ok, yo siento que puedo confiar en esa persona o me genera confianza, porque hay gente que digamos ofrece un servicio muy caro, pero todo su video se hace como demasiado.",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4627.86,
+   "end": 4649.97,
+   "text": "El valor percibido es muy bajo, entonces no es congruente con sus precios y los clientes con los que quiere trabajar. Pero puede ser casual que se vea bien y hablando del tema de Media Buying y empezar a compartir ese contenido en una plataforma específicamente. Yo siento que la plataforma más fácil para conseguir resultados es Instagram. YouTube es un poco más avanzado.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4650.13,
+   "end": 4679.76,
+   "text": "Instagram es una plataforma que usted puede grabar un reel de 90 segundos, conseguir mil views gratis y conseguir dos mensajes en su inbox en las próximas 24 horas y después de uno de esos dos, una agenda llamada y cierras de sale. Instagram es así, o sea, y literalmente es, consigue muy buen reach, todo el mundo usa Instagram, los mensajes de Instagram son súper buenos, los stories. Entonces, escoge un nicho, ya el nicho lo tienen, crean contenido alrededor de ese nicho.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4679.76,
+   "end": 4710.21,
+   "text": "Pueden ser Reels de 60 a 90 segundos o pueden ser Reels de 10 segundos, ¿verdad? Con un llamado a acción, manden un mensaje si quieren más información y también pueden complementarlo con Stories. Literalmente nada más modelan como yo lo he hecho documentando el proceso. Es más que todo como documentar el proceso, documentar el proceso, compartir pensamientos al respecto, ¿ok? Con llamados a acción y de ahí dicen mándenme un mensaje, ¿ok?",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4710.21,
+   "end": 4735.87,
+   "text": "Igual esto voy a hacer algo más profundo de contenido porque realmente esto es algo que puede durar un toque más, pero lo que quiero hablar es cómo es el big picture de cómo conseguir leads con contenido. Es documentando el proceso, hablando de dar valor en temas específicos del nicho.",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4735.87,
+   "end": 4759.52,
+   "text": "Pueden publicarlos en una red social específica. Yo recomiendo Instagram para empezar. A mí me encanta YouTube. Es un poco más difícil el juego en YouTube. Es más a largo plazo. Si uno no tiene muchos seguidores en YouTube, es difícil tener mucho alcance. En Instagram usted puede tener una cuenta pequeña. Usted puede tener 100 seguidores y tener un reel que lo diera un mil.",
+   "avg_logprob": -0.083,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 4759.52,
+   "end": 4788.72,
+   "text": "En YouTube es lo más difícil, hay que tener bastantes subscribers, y en Instagram todo más rápido, es como se mueve rápido, YouTube es como que video más largo, se sube, poca gente lo ve, y son como una estrategia de varios años. Y además, Instagram tiene DMs, Instagram tiene la habilidad de poder hablar con gente por mensaje, lo cual le permite a usted, pum, pum, pum, pum, pum, call, book call, close sale, por mensajes. YouTube no tiene mensajes, esa es la cosa, entonces es algo como que...",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4788.72,
+   "end": 4817.97,
+   "text": "Usted o lo pega o no tiene como forma de hablar con la gente. Entonces yo le recomiendo Instagram. Suba Reels 30, 90 segundos dando valor acerca de Media Buying. Documenta su proceso. Póngase creativo. Grabe su vida. Grabe lo que usted hace. Si está grabando ads, aquí estoy grabando un ad. El valor de los ads es esto y esto y esto. Si usted tiene un negocio y quiere ayudar con los ads, mande un mensaje. No hay como un...",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4817.97,
+   "end": 4848.62,
+   "text": "Blueprint específico. Eso es lo que yo me he dado cuenta con Instagram. Usted es una persona, usted es única. Nada más sea como ustedes y hable de lo que a usted le interesa y lo que a usted es bueno y lo que usted está haciendo. Y después diga a la gente si le interesa, mande un mensaje y eso es todo. Entonces, ya aquí, después de esto, es lo mismo. Lead, Sales. Y esto, Outreach, igual voy a ver si hago como otro entrenamiento de content o si los digo a uno que ya he hecho. Ahí veo. Pero, en realidad,",
+   "avg_logprob": -0.08,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4849.1,
+   "end": 4880.3,
+   "text": "En realidad contenido es eso, o sea, es documentar su proceso, dar valor acerca de un tema y hacer llamados a acción por medio de Reels y Stories, manden un mensaje y hablemos, literal, eso es lo que yo hago, eso es lo que a mí me funciona. El tercero es Targeted Outreach, contactar dueños de negocios específicos que necesiten el servicio de Media Buying. Entonces, esto involucra mandar mensajes uno por uno. Por ejemplo, aquí es esta persona, yo le mando un mensaje y empezamos a hablar, le hago unas cuantas preguntas.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4880.37,
+   "end": 4910.16,
+   "text": "y le digo que agendemos una llamada. Entonces, usualmente la gente me ha dicho, pero ¿cómo es que va esta conversación? Esta conversación es casi que así de simple y de hecho también les voy a dar otro ejemplo, pero mensaje inicial que ahorita se los voy a dar y después es como si la persona dice que le interesa, uno le hace unas cuantas preguntas, nada más compartir más información acerca de ellos y después les dice si uno los puede ayudar.",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 4910.16,
+   "end": 4934.74,
+   "text": "Sí, sí te puedo ayudar. Siguiente paso, boom, llamada y en la llamada cierra la venta. Ahorita lo vamos a ver eso, pero involucra mandar mensajes uno por uno a dueños de negocio específicamente que cumplen o que parece que cumplen los requisitos para trabajar con uno y de ahí mandarlos a una llamada. Esa es la forma más directa, rápida, fácil de cerrar ventas.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 4934.74,
+   "end": 4963.73,
+   "text": "Boom, con Outreach, boom, mensaje a llamada. Si cerrar ventas por mensaje, o sea, mandar mensajes y cerrar la venta en el mensaje por Outreach es muy difícil, sí es posible, pero es más difícil porque esta persona nunca había escuchado usted, nunca había visto un video suyo, nunca, es tráfico frío, es un cold approach, es un approach en frío. Entonces, esta persona usted no lo conoce.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 4963.92,
+   "end": 4990.93,
+   "text": "Y es más difícil cerrar sin llamada. Ahora, sí es posible, pero es mucho más difícil en mi opinión. En la llamada se puede cerrar esta venta. Usted puede contactar a alguien. Ayer pudo, pudo, usted tal vez contactó a alguien ayer, agendó la llamada para hoy y hoy tiene el cash en su cuenta. Bueno, en Stripe, ¿verdad? Así de rápido puede ser el outreach. Entonces, pero sí, cerrar por llamada, digo, por chat en outreach, en la misma conversación, es bastante duro.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4991.5,
+   "end": 5025.39,
+   "text": "Ahora, eso es un método de conseguir clientes de manera orgánica, sin tener que invertir en ads, que básicamente así es como funciona. Van a Google, ¿verdad? Y ponen LinkedIn Sales Navigator. Van aquí y ponen LinkedIn Sales Navigator. Y en LinkedIn Sales Navigator, van aquí. Sales Tool, LinkedIn Sales Navigator.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 5025.46,
+   "end": 5055.09,
+   "text": "Instagram es como un poco más filtrado.",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 5055.09,
+   "end": 5082.19,
+   "text": "LinkedIn es como llamas gente seria, ¿verdad? Entonces esta herramienta de LinkedIn se llama Sales Navigator, le permite a uno buscar usuarios filtrándolos por industria, por país, por profesión y cuando uno encuentra esos usuarios y les voy a hablar la cabeza con lo que quédense hasta el final, cuidado se van porque les voy a enseñar una cosa demasiado potente, demasiado potente, ¿ok? Entonces Sales Navigator",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 5082.51,
+   "end": 5104.85,
+   "text": "Y pueden empezar con un free trial, ya después, ¿cuánto era la inversión? No era tan caro, pero gratis, 50, no, mentira, ¿por qué nada más no me pueden decir el precio? Ah, 100 dólares al mes cuesta, 100 dólares al mes, LinkedIn Sales Navigator, ¿ok?",
+   "avg_logprob": -0.083,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 5104.85,
+   "end": 5134.38,
+   "text": "Pero es demasiado, o sea, eso en realidad se paga súper fácil porque con un sale ya uno paga un año básicamente. Literal, con un sale uno paga un año. Entonces, pero se puede empezar de gratis y pueden ir probándolo de gratis. Entonces, van a LinkedIn Sales Navigator, pueden empezar de gratis y cuando ya están en Sales Navigator van a ver esto. Se va a ver así, ¿ok? Entonces, si ustedes están en el nicho de, digamos que son fitness...",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 5134.48,
+   "end": 5168.24,
+   "text": "Ustedes quieren ayudar a personas que están en fitness, o sea, entrenadores personales a conseguir más clientes, ¿verdad? Ustedes pueden poner aquí en el search, que es la forma de filtrar la gente, los usuarios de LinkedIn. Fitness Coach. Y aquí salen todos los fitness coaches, sale. Barbara, Personality Science Trainer and Coach. Mia, Health Coach. Steve, Principal Instructor.",
+   "avg_logprob": -0.082,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5168.62,
+   "end": 5194.61,
+   "text": "Aquí, Assistant Professional with Extensive Experience in Health and Wellness. Entonces, si usted puede crear un negocio de Media Buying solo para Health and Fitness Coaches, hay 250 mil resultados. O sea, usted puede contactar a esta gente y me va a decir que no puede conseguir 5 de 250 mil que le pagan a usted mil dólares al mes. O sea, es que...",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5194.61,
+   "end": 5225.73,
+   "text": "Es muy duro, muy duro no hacerlo. Ahora, esto se puede filtrar aún más. Fitness Coach, podemos hacerlo en Costa Rica, digamos. Costa Rica. Y vas a ver fitness coaches de este país. William, Daniel, Guillermo, José Pablo, Juan Pablo, ¿verdad? Acá hay varia gente. Y entonces se puede contactar a toda esta gente. Simple.",
+   "avg_logprob": -0.073,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5225.73,
+   "end": 5236.37,
+   "text": "Ahora, en Costa Rica hay mucho menos, pero primer paso, se filtra por su avatar. Paso dos, se puede filtrar por país.",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 5236.62,
+   "end": 5264.69,
+   "text": "El principio del país es lo mismo que habíamos hablado con los ads. Usualmente, si usted es de Colombia, la gente de Colombia se va a relacionar más con usted. Si usted es de Costa Rica, la gente se va a relacionar más si es de Costa Rica. Entonces, pero también pueden buscar, pueden hacerlo por cualquier país. Lo bueno de ser Media Buyer es que ustedes pueden tener clientes de Costa Rica, de Colombia, de Estados Unidos, de Ucrania. Entonces, ustedes pueden tener 10 clientes diferentes de diferentes países. Entonces, buscan a su cliente ideal y",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.169
+  },
+  {
+   "start": 5265.17,
+   "end": 5297.58,
+   "text": "Por ejemplo, aquí, deportivos a prisa, Strength and Conditioning Coach. Ok, lleva tres años, deportivos a prisa, Sports Specialist. Ok, podemos llegar y a Daniel decirle, más clientes para su servicio de fitness. Y aquí yo les doy un template que pueden usar para contactar a las personas. Entonces, nada más le dan copy.",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5297.58,
+   "end": 5327.82,
+   "text": "Hola, nombre, vi que está en, y aquí pone algo personalizado, yo me especializo en generar leads para ellos, para que puedan ver este resultado por medio de Facebook Ads e Instagram Ads, por lo general en 24 horas después de encender los ads se empiezan a generar leads. De casualidad le interesa generar más leads para el resultado. Entonces, copy, paste y acá podemos hacer. Hola, hola, ¿cómo se llama? Daniel, creo que era Daniel, ¿verdad?",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 5327.89,
+   "end": 5362.32,
+   "text": "Ah, pero ojo lo que les voy a enseñar ahorita, es un tool demasiado bueno. Hola, hola Daniel, vi que es fitness coach y que ha trabajado con Elsa Prisa. Yo me especializo en generar clientes para fitness coaches en Costa Rica para que puedan",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 5362.42,
+   "end": 5389.74,
+   "text": "Conseguir 5 a 10 clientes extra por medio de Facebook e Instagram Ads. Por lo general, las primeras 24 horas después de encender los Ads, se empiezan a generar personas que pidan información por su servicio. De casualidad, le interesa generar más clientes para su servicio de fitness.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5390.32,
+   "end": 5420.53,
+   "text": "Entonces, hola Daniel, vi que estás en el fitness coach y que has trabajado con el Zapriza. Yo me especializo en generar clientes para fitness coaches en Costa Rica para que puedan conseguir de 5 a 10 clientes extra por medio de Facebook e Instagram Ads. Por lo general, las primeras 24 horas después de encender los ads, empiezan a generar personas que piden información por su servicio. De casualidad, le interesa generar más clientes para su servicio de fitness. Pum, send. Ahora, otra cosa que yo puedo hacer, ojo esto, esto cuando lo descubrí me voló la cabeza.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 5420.59,
+   "end": 5451.18,
+   "text": "Vamos a ver si se puede. Ok, yo puedo venir aquí y con este tool que se llama WISA, WISA, yo puedo colectar o me puede dar, si es que está disponible, el email y el número de teléfono de esta persona. Ahora, tiene el perfil privado, entonces...",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 5451.22,
+   "end": 5478.14,
+   "text": "A Daniel, ahí está Daniel. Reveal, ok, ojo este tool, yo vengo aquí, bajé el tool, que de hecho ahorita estoy usándolo gratis, después se puede, se puede comprar. Boom, Reveal Contact Information. Y entonces, ojo, está empezando a buscar el número, el email y el número de teléfono de esta persona.",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 5478.14,
+   "end": 5508.42,
+   "text": "Entonces yo puedo igual contactarlos por email y mandarles mensaje por email o por WhatsApp. Increíble, ojo. Y después cuando me da la información, vamos a ver si en este caso sale, a veces no encuentra el email, a veces no encuentra el número, pero cuando sale yo puedo agregarlos a una lista. Entonces una lista de, por ejemplo, yo puedo hacer una lista que dice fitness coaches y lo meto y sale todos los fitness coaches que contacté, ojo.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5508.42,
+   "end": 5538.05,
+   "text": "Dice que no encontró el email, pero encontró el número de WhatsApp. ¿Qué significa esto? ¿Yo puedo llegar a WhatsApp? ¿Qué dice Daniel? ¿Todo bien? Estaba viendo su perfil en LinkedIn. Ahí vi que el fitness coach le mandó este mensaje porque yo ayudo fitness coaches como usted a... ¿Cómo se llama? Y vi su número ahí en LinkedIn. Yo ayudo fitness coaches como usted a conseguir más clientes de casualidad le interesa.",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5538.05,
+   "end": 5573.33,
+   "text": "Entonces, boom, y yo puedo meterlos, saco una lista, ojo, puedo agregarlos a esta lista, puedo hacer una lista que se llame Fitness Coaches, LinkedIn Fitness Coaches, y creo una lista y lo guardo, boom, listo. Y ahora hago 100 de esos. Ok, ¿qué les parece ese método? Increíble, ¿verdad? Increíble. Es como...",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5573.9,
+   "end": 5583.38,
+   "text": "Si no hacen cash con esto, en serio, es porque no quieren. O sea, es porque no quieren, porque...",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5584.05,
+   "end": 5612.86,
+   "text": "ni siquiera estamos usando ads, o sea, ni siquiera, ok, tenemos ads activos, idealmente tenemos ads activos 24-7 generando leads, pum, pum, pum, pum, WhatsApp, nos levantamos, cafecito temprano, eso es lo primero que yo hago, me levanto, ok, 30 personas se quieren unir al grupo, pum, pum, pum, pum, contacto, listo, ya no tengo más leads de los ads, ok, voy para Outreach, contacté a 100 personas por Outreach o 20 personas por Outreach, no solo les mandé el mensaje, usé WISA, tengo el número,",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5612.86,
+   "end": 5641.3,
+   "text": "Tengo el email, lo voy a contactar por email, lo voy a contactar por WhatsApp, ahora tengo, estoy hablando con los 30 de los ads, estoy hablando con otros 30 de Outreach, compraron 2, pum, 2K day, 2 mil dólares en un día, mañana hago lo mismo, otros 2 mil, el día siguiente, oh, no hice 2 mil, hice mil, ok, he hecho 7K esta semana, pum, pum, pum, pum, pum, pum, printing money, that's it. Eso es todo. Simple, ¿verdad?",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5642.16,
+   "end": 5666.67,
+   "text": "Entonces, cuando ustedes ya saben, esta habilidad es imposible, que si ustedes son, si ustedes, me voló la cabeza con esta sesión, si ustedes son personas consistentes, disciplinadas, que todos los días se levantan y sin importar sus",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 5666.67,
+   "end": 5686.45,
+   "text": "Emociones o si están motivados o si lo quieren hacer o no. Ustedes lo hacen de todas formas y lo hacen por suficiente tiempo. Está programado el éxito. El éxito está programado. La gente que la basta ya en este programa, en este grupo de gente que simplemente va a hacer esto.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 5686.54,
+   "end": 5713.65,
+   "text": "y lo va a hacer todos los días sin importar cómo se sienta y no va a fallar un día y todos los días va a decir no me voy a dormir hasta haber mandado mis mensajes, no me voy a dormir hasta haber cerrado un sale o hacer lo que tenga que hacer y el día siguiente va a levantarse con el mismo mindset y por eso es que es demasiado importante entrenar en artes marciales o ir al gym o algo porque eso es lo que usted le va a permitir el día siguiente decir no eso es igual que el gym voy a hacer lo mismo",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 5713.97,
+   "end": 5748.5,
+   "text": "Y es el mismo mindset y es el mismo framework mental, ¿verdad? Entonces, estos, digamos, imagínense, atacamos a Daniel por LinkedIn, mensaje, atacamos a Daniel por WhatsApp y yo puedo ir a buscar igual, o sea, yo puedo ir a, digamos, busquemos, ahora William, ojo, yo puedo llegar y el mismo mensaje que le mandé a Daniel, ojo, nada más, copy, pum, pum, pum, digo.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5749.36,
+   "end": 5787.09,
+   "text": "Dice, me quedo trabado esto. Message. Dice que raro que no me... Ya grabé el template, sí. Entonces yo puedo llegar y agarrar el template y simplemente contactar a otra persona, ¿verdad? Aquí. Hola, William. No voy a ponerle esa prisa, ¿verdad? Obviamente. Ha trabajado en... con... X, lo que sea. Y más leads para... más clientes para su servicio.",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5788.82,
+   "end": 5818.67,
+   "text": "y después ya se lo mando, ahí estoy hablando con él, boom, llamada y dice que hace 22 minutos estaba conectado, igual puedo ir a su perfil, ya le mandé el mensaje, ahí estoy hablando con él, le hago unas preguntas, ahorita les digo qué decirles, pero también, boom, reveal contact information y después lo va a contactar por email y lo va a contactar por WhatsApp. Ahora, tal vez no es necesario por todo lado, si él no contesta por LinkedIn, pueden mandarle por WhatsApp.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5819.02,
+   "end": 5848.88,
+   "text": "Pero es solo hacer el trabajo, literalmente, conseguir resultados con esto es solo hacer el trabajo, literal es solo hacer el trabajo. Ok, en este caso no nos encontró los números, tal vez porque hay gente que no lo pone, pero bueno, no todos son, no todos son wins, pero hay gente que, cancel, hay gente que, digamos, vayamos a, busquemos, busquemos un link en otro país, a ver qué tal.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5849.07,
+   "end": 5886.35,
+   "text": "También Estados Unidos, digamos que quieren venderle a coaches en Estados Unidos, los coaches en Estados Unidos ganan súper bien. Fitness Coach, vamos, United States, hay demasiados coaches, o sea, son, y digamos que ayudamos, ok, acá hay uno, John, Dynamic Leadership, Marine Corps Combat Veteran, ojo, qué nivel, pero Fitness Coaching,",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5887.09,
+   "end": 5924.3,
+   "text": "Sí, bueno, igual aquí también podemos poner como Function, Education y Consulting y podemos filtrar aún más Medical Director, Rugby Club, Personal Trainer o Andrea. Puede ser Andrea también, ojo, ella tiene una página de fitness. I offer custom fitness programs to people 40 and over. Ojo, buenísimo. Entonces podemos venderle a Andrea y escribirle un mensaje en inglés, se puede traducir con ChatGPT.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5924.3,
+   "end": 5957.74,
+   "text": "Pero vamos a ver si nos da el contacto de Andrea. Entonces, reveal. Entonces vamos creando una lista. Puede ser en un spreadsheet o aquí mismo con este software. Se puede ir creando una lista. Vamos a ver si sale. I help people 55 to 100 feel stronger, more energetic and more productive. Entonces uno le dice, ah bueno, unlock full profile. Hey Andrea.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 5957.74,
+   "end": 5986.96,
+   "text": "Hope you're doing great. I was checking your profile. I see that you help women 55 plus, 40 plus get healthy again. That's amazing. Actually, I help people just like you. Entonces, ahí ya sale el número. Y aquí puedo poner una lista de fitness coaches, pero solo para Estados Unidos. Entonces, puedo poner LinkedIn, fitness, coaches, USA.",
+   "avg_logprob": -0.073,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5988.11,
+   "end": 6002.48,
+   "text": "Y listo. Entonces, es una forma fácil de conseguir clientes. Ahora, eso es una cosa. Usted no puede mandar mensajes ilimitados en LinkedIn. De hecho, puede mandar 20 mensajes al mes.",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 6002.48,
+   "end": 6027.1,
+   "text": "30 mensajes al mes con este plan o 50 con este plan, entonces hay limitados, no pueden mandar mensajes ilimitados, esa es la cosa, pero por eso también este tool es bueno, porque este tool aunque ustedes no puedan mandar, ya no pueden mandar más mensajes, pueden mandar mensajes directos por WhatsApp o por email, entonces ahí sí pueden mandar limitados, ahora hay una alternativa que cuando se acaban los email credits,",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 6027.1,
+   "end": 6053.84,
+   "text": "Porque usted no puede mandar mensajes infinitos usando Sales Navigator, ¿verdad? Entonces hay una alternativa. Usted puede, usuarios con un perfil abierto, algunos miembros de LinkedIn tienen perfiles abiertos, lo que permite que cualquiera les envíe un mensaje sin usar créditos de email. Al interactuar con estos usuarios se pueden ahorrar email credits. Entonces buscar personas con perfiles abiertos, que no hay muchos.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 6053.87,
+   "end": 6071.25,
+   "text": "O sea, sí hay, sí hay, pero no son todos. Y mandarles un mensaje, así no usan los email credits. La opción dos es mandar solicitudes de amistad a usuarios con un comentario personalizado. Hola Andrea, estaba viendo que sos fitness coach, quería conectar con vos. That's it.",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 6071.25,
+   "end": 6093.26,
+   "text": "Si el usuario acepta la solicitud, entonces ya puede mandarle un mensaje directamente por LinkedIn, ¿verdad? Porque los email credits, usted no necesita ser un amigo en LinkedIn o estar conectados para mandarle un mensaje, pero son limitados la cantidad de mensajes que puede mandar. Entonces, usted puede mandar una solicitud de amistad para conectar y ya cuando conectan puede contactar a la cantidad que quiera.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 6093.33,
+   "end": 6118.19,
+   "text": "¿Ok? Y grupos, unirse a grupos para poder contactar a los otros miembros del grupo. Cuando usted y su lead, ¿verdad? La persona con la cual, o otra persona, son miembros del mismo grupo, puede contactarlo sin usar los email credits. Y también la opción de WISA, vean que le salen el email y el número, en muchos casos salen los dos, y pueden contactarlos por email o por número. Y de ahí los buquean a call. ¿Ok?",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 6118.32,
+   "end": 6147.28,
+   "text": "Ahora, una forma fácil de hablar con la gente es, aquí hay también una forma que funciona súper bien. ¿Qué es esto? Esto es una forma de contactar personas outreach, frío. Entonces ustedes ponen, hola Juan, ¿cómo estás? Hola Sebastián, todo muy bien. Qué bueno, me alegro. Vi que se dedica a ser fitness coach.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 6147.6,
+   "end": 6179.54,
+   "text": "Sí, correcto, soy fitness coach. Ah, buenísimo. Yo tengo un servicio que ayuda a fitness coaches a conseguir más clientes por medio de ads súper simples. De hecho, después de encender los ads, en 24 horas empezamos a conseguir prospectos. De casualidad, ¿esto le interesa? Vieras que sí, sí me interesa. Estoy buscando más clientes. Ok, perfecto. Nada más para tener una idea de tu situación, puedes decirme cuál es tu meta. O sea, ¿cuántos clientes quieres tener?",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 6179.73,
+   "end": 6211.38,
+   "text": "Ah, sí, quiero tener tres clientes al mes extra. Ok, ok, perfecto. ¿Y ahorita qué obstáculo tenés que no puedes llegar a esos tres clientes? No sé, no, no, dependo de referencias. Ok, listo. Ok, entiendo, perfecto. El siguiente paso es agendar una llamada conmigo de 30 a 40 minutos para evaluar su situación y explicarle cómo funciona el servicio que yo ofrezco para conseguir clientes. ¿Le paso el link para agendar la llamada? Sí, pásame el link. Ok, listo, aquí te paso el link.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 6211.79,
+   "end": 6241.23,
+   "text": "Me avisas cuando agendas. Listo, ya está agendada. Perfecto, Juan, nos vemos el miércoles. Ese es el template que pueden usar para hablar con gente, ¿ok? Va a quedar en el replay, ahí lo pueden escuchar. Ah, bueno, Kevin dice, hay un tool que se llama Dripify que crea campañas masivas en LinkedIn, Sales Navigator. De hecho, también eso, full, full, full. Dripify.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 6241.42,
+   "end": 6270.1,
+   "text": "Es que literal tendría que... Dripify es una increíble opción, de hecho Dripify puede mandarles mensajes en automático a todos estos leads, entonces ustedes ponen fitness coaches en Estados Unidos, ustedes pueden agregar toda la gente que quiere mandarles mensaje y Dripify va a mandar los mensajes automáticamente por ustedes. Es demasiado bueno, pero eso lo dejamos tal vez para otra sesión porque ya...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 6271.31,
+   "end": 6301.92,
+   "text": "Ya estamos full. Entonces, esa es la sesión de adquisición de clientes. Creo que es difícil ir a demasiada profundidad en dos horas. Dos horas suena como mucho, pero en realidad para esto no lo es. Entonces, vamos a seguir hablando de adquisición de clientes. Esto es lo... Igual, o sea, solo con esto ya pueden hacer cash. Literal, solo con esto. Solo con esto.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 6301.92,
+   "end": 6334.83,
+   "text": "Lo demás son detalles pequeños que en realidad pueden afectar, pueden influenciar, pero solo con esto ya pueden hacer cash. Entonces, tienen algunas preguntas, voy a contestar unas preguntas, unos 10 minutitos. Jen, Sebas, ¿es posible que esta decisión dejes las diapositivas?",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 6335.18,
+   "end": 6358.06,
+   "text": "Voy a tener, bueno, el replay. ¿Puedo subir los diapositivos en el área de miembros? Sí, sí, no hay problema. Usualmente solo subo el replay, pero puedo subir también la presentación. Dani, ¿podemos alargar o decirle al cliente que hemos visto su contenido y que nos parece increíble, pero que podría ayudarlo a mejorar? ¿De fijo?",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 6358.13,
+   "end": 6401.71,
+   "text": "Yo siento que es importante que uno se meta al perfil un toque a ver como el contenido, lo que ha hecho, como para tener una idea, ¿verdad? O sea, es clave que el cliente sienta, ok, esta persona se metió a mi perfil, vio lo que estoy haciendo, esta es la solución que me está dando, no está como mandándome copy-paste, ¿verdad? O sea, un poco de copy-paste, pero no tanto. Buenísimo, Dick. No más preguntas. Entonces, ¿están listos ya para implementar esto? ¿Quién va a implementar esto? Pueden ir en el chat y ya vamos a cerrar. ¿Y qué les pareció la sesión?",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 6403.54,
+   "end": 6433.49,
+   "text": "Al final es, esto es, esto es lo que hay, de fijo, demasiado brutal, de una, de una, va a implementar, perfecto, buenísimo, let's go, let's go, de eso se trata, massive action, Dani, como nueva en este proceso me vuela la cabeza y no me siento perdida, súper claro y sencillo, qué bueno, qué bueno, Joe dice, ya lo estoy implementando, ahora puliendo el proceso de ventas",
+   "avg_logprob": -0.079,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 6433.49,
+   "end": 6460.75,
+   "text": "Eh, que las personas contesten, se sumen a la llamada, sí, eso es optimización ya del proceso. Timothy, increíble, feliz por ser parte del team. José, no es por nada, pero la mejor mentoría la que he invertido. Qué bueno, qué bueno escuchar eso. Y de eso se trata, eso es lo que a mí me, realmente me, me da satisfacción, son comentarios así. Que valga la pena, aquí no diga, invertí, tal vez me dolió un poco.",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 6460.75,
+   "end": 6481.49,
+   "text": "Pero valió la pena y yo sé que si lo hago me va a ayudar y voy a hacer mucho más que eso. Entonces, qué bueno, me alegro. Ahí va a quedar el replay y cualquier duda la mandan al grupo. See you. Que tengan un excelente fin de semana. Nos vemos pronto.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.005
+  }
+ ]
+}

@@ -1,0 +1,1533 @@
+{
+ "video": "C:\\Users\\hvill\\Downloads\\Media Buyer HQ\\Sesion 4\\sesion-4-video-ad-alchemy.mp4",
+ "video_duration_seconds": 5418.6,
+ "transcribed_seconds": 5418.6,
+ "model": "large-v3",
+ "compute_type": "int8_float16",
+ "batch_size": 4,
+ "language": "es",
+ "language_probability": 1,
+ "transcribed_at": "2026-10-09T17:10:05",
+ "elapsed_seconds": 866.4,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 27.15,
+   "text": "Bueno, bienvenidos a este entrenamiento y en este entrenamiento vamos a hablar de Video Ad Alchemy. Entonces, ahorita vamos a ver un pequeño resumen de lo que hemos hecho, pero este entrenamiento es de Video Ads. ¿Cómo convertir el ad copy, el texto, ya en el video? Porque al final de cuentas, el video es lo que la gente va a ver en el feed. El video es lo que nos va a conseguir el click, lo que nos va a conseguir los leads.",
+   "avg_logprob": -0.019,
+   "no_speech_prob": 0.111
+  },
+  {
+   "start": 27.15,
+   "end": 50.42,
+   "text": "De hecho, todo el trabajo que hemos hecho hasta el momento es para poder llegar a un punto en donde finalmente tenemos el producto final que es el video, que eso al final es lo que genera apalancamiento. Entonces, muchas veces pensamos en un video como, ah, nada más es un video, ¿verdad? Y desde hace... ¿Cuándo fue que se inventaron los videos? En una...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 50.42,
+   "end": 77.9,
+   "text": "Laptop, no sé, hace décadas, ¿verdad? Pero en realidad, si lo pensamos, un video, al final de cuentas, es un pedazo de tecnología. Un video es simplemente pixeles enseñando cierta luz junto con la combinación del audio y mezclado en una forma en que podamos entenderlo. Y si entendemos que un video es un pedazo de tecnología...",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 77.9,
+   "end": 86.51,
+   "text": "Podemos entender ese concepto de apalancamiento, de estar en un lugar sin estar ahí. De hecho, hay mucha gente que está viendo este video.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 86.7,
+   "end": 114.83,
+   "text": "Y probablemente yo voy a estar en el gimnasio, probablemente yo voy a estar comiendo o viendo una película. O sea, uno está ahí pero no está ahí. Y ese concepto es demasiado poderoso porque cuando uno puede estar en cientos de lugares al mismo tiempo, en miles de lugares al mismo tiempo, en millones de lugares al mismo tiempo, sin uno estar intercambiando capital humano que es energía, enfoque, tiempo, recursos que son...",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 115.02,
+   "end": 143.95,
+   "text": "que son finitos, entonces ahí es cuando podemos escalar exponencialmente nuestro negocio o el negocio de un cliente, ¿verdad? Al final de cuentas, acuérdense que esto se puede aplicar todo lo que vemos aquí para su propio negocio, su propia oferta, generar sus propios leads, escalar su propio negocio, sus propios ingresos o los de un cliente y que ese cliente le pague a usted por hacerlo. Entonces, Video Ad Alchemy, una sesión súper, súper buena, entonces vamos a entrarle.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 144.08,
+   "end": 152.16,
+   "text": "Ahora, hagamos un pequeño resumen de lo que hemos visto en las últimas sesiones. Número uno, hablamos de...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 152.16,
+   "end": 181.02,
+   "text": "¿Qué es ser un Media Buyer? ¿Cómo funciona el trabajo de un Media Buyer? ¿Qué corre ads? ¿Genera leads? Después hablamos de cómo crear un diagnóstico para un negocio en línea, ya sea el de un cliente o el de nosotros, en donde simplemente vemos todas las diferentes variables del negocio, las escribimos y una vez las escribimos en un documento ya tenemos full claridad de cuál es el panorama, por decirlo así. La metáfora que había hecho es ir a donde un doctor.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 181.02,
+   "end": 189.23,
+   "text": "El doctor nos hace un montón de preguntas y le dice ok, perfecto, ya con base a esta información podemos definir cuál es la mejor opción para usted.",
+   "avg_logprob": -0.098,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 189.62,
+   "end": 213.84,
+   "text": "Entonces, hablamos del diagnóstico. Sin el diagnóstico no podemos hacer lo siguiente, que es el ad copy. El ad copy es el texto del ad que se va a hablar, ¿verdad? Alguien lo va a hablar o se va a memorizar para decir lo parecido. Es la estructura de lo que vamos a decir. Las palabras al final de cuentas son todo. De hecho, el otro día hice un story en Instagram que yo estaba diciendo, yo creo que ahora...",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 214.06,
+   "end": 223.25,
+   "text": "Yo diría que 80% de las ventas que yo genero son por medio de texto, de mis emails, de stories, de texto, de...",
+   "avg_logprob": -0.013,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 223.41,
+   "end": 248.62,
+   "text": "Ads, pero los ads yo los escribo o creo la estructura, eso es texto, casi que todo mi negocio ahora es texto, es increíble realmente y de hecho ahorita yo estoy leyendo texto, verdad, esta presentación es texto, entonces todo es texto y ese concepto también es fascinante, es el poder de las palabras, el poder de las palabras, ad copy, cosmic copy.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 248.62,
+   "end": 276.05,
+   "text": "Copy fuera de este planeta. Entonces, vimos el diagnóstico, hicimos el diagnóstico para crear ad copy y después mandamos el ad copy al cliente para que el cliente lo lea y diga suena todo bien, si estamos haciéndolo para nosotros, entonces nosotros mismos revisamos el ad copy y decimos ok, está perfecto y después ahora sí vamos a convertir palabras en",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 276.08,
+   "end": 297.84,
+   "text": "Otro tipo de formato, otro tipo de tecnología que es el video. El video es lo que nos permite estar en un millón de lugares sin intercambiar capital humano. Lo que intercambiamos es dinero y el dinero no existe. Lo imprimen con un botón, ¿verdad? Entonces ese mindset de número uno.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 297.84,
+   "end": 317.74,
+   "text": "El dinero realmente no existe, o sea, no es algo que sea finito, es infinito. Lo imprimen, la Reserva Federal imprime dólares, crea algo infinito y después usamos eso infinito para conseguir infinito apalancamiento por medio de un video.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 317.74,
+   "end": 344.53,
+   "text": "¿Qué es un ad? Por eso es que a mí me encanta usar ads porque al final de cuentas es la forma de crecer un negocio con más apalancamiento. Usted puede tener un equipo de 10 personas o 100 personas, usted puede trabajar más tiempo, trabajar más duro, usted puede tener mejor mindset, lo que sea, pero nunca va a tener más apalancamiento que un ad, que un anuncio en donde usted logra invertir un dólar y saca tres.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 344.59,
+   "end": 362.0,
+   "text": "Y ese recurso que está invirtiendo son dólares infinitos, ¿verdad? Entonces es como un ciclo en donde usted nada más puede crecer demasiado rápido. Entonces, de manera visual esto es lo que hemos hecho. Muy importante siempre ver hacia atrás y decir, ok, esto es lo que hemos hecho, esto es lo que sigue.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 362.13,
+   "end": 386.26,
+   "text": "Hicimos el diagnóstico, tenemos todo claro, tenemos claro cuál es nuestro avatar, tenemos claro qué vendemos, nuestra oferta, a qué precio, cuál es nuestro proceso de ventas, tenemos claro cuál es nuestro ángulo, tenemos claro cuál es el resultado final que vendemos, cuáles son los dolores de la persona, tenemos claro cuáles son los deseos de la persona. Con base a todo este diagnóstico, logramos crear un ad copy.",
+   "avg_logprob": -0.012,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 386.26,
+   "end": 412.21,
+   "text": "Cosmic Copy, ya sea manualmente siguiendo la estructura que tenemos, manualmente me refiero a escribiendo o con ayuda de AI, le damos el prompt, nos devuelve el copy y lo modificamos y paso 3, revisamos el ad copy, lo mandamos para revisión, recibimos feedback y ahora convertimos eso en algo que podamos usar para un ad.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 412.21,
+   "end": 427.36,
+   "text": "Muy importante entender eso también. Un ad puede ser texto. Yo he usado ads que son texto. Una foto con texto. Pero para mí no hay nada como ver a una persona y escuchar a una persona porque...",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 427.36,
+   "end": 448.02,
+   "text": "En este negocio, en la mayoría de negocios digitales, estamos en el negocio de confianza, estamos en el negocio de comprar personas. Si ustedes están en este programa, ustedes no están en este programa porque tuve texto más bonito que otra persona o porque habían tres horas de contenido o siete. Ustedes están aquí porque confiaron en mí, porque...",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 448.34,
+   "end": 476.34,
+   "text": "Me compraron a mí, ¿verdad? Dijeron, ok, yo confío en Sebas, confío que Sebas me puede enseñar esto bien y confío en que una vez yo aprenda esto bien puedo conseguir un buen resultado. Entonces, de cierta manera me compraron a mí y si yo no hubiera aparecido en ningún video, ¿verdad? Hubiera sido más difícil que hubieran llegado a ese punto. Entonces, los videos de texto funcionan muy bien para conseguir leads, digo, los ads de texto que son solo foto y texto y de hecho más adelante podemos ver cómo crearlos y diferentes formatos.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 476.34,
+   "end": 490.7,
+   "text": "y esos consiguen muchos leads, pero para mí un video donde lo puedan ver a usted o a su cliente, eso va a conseguir más confianza y confianza es igual a ventas. Entonces, hablemos de Video Ad Alchemy. ¿Qué es Alchemy?",
+   "avg_logprob": -0.079,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 490.7,
+   "end": 519.9,
+   "text": "Alchemy es el proceso de empezar a experimentar como en esta foto de aquí, empezar a experimentar con diferentes sustancias y diferentes ingredientes para lograr un objetivo, por decirlo así, un resultado. Y así es como yo veo el proceso de crear un anuncio ganador y con un anuncio ganador me refiero a un anuncio que tenga un retorno de inversión positivo en donde metamos un dólar y salgan 2, 3, 4, 5.",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 519.9,
+   "end": 546.4,
+   "text": "y que básicamente eso es lo más cercano a imprimir cash, eso es lo más cercano a ser la Reserva Federal, ¿verdad? ¿Qué hace la Reserva Federal? Imprime dinero, ¿verdad? Y el proceso de crear un buen ad con retorno de inversión positivo es la manera más cercana a ser la Reserva Federal, literal. Entonces, si ustedes quieren tener un negocio de Reserva Federal,",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 546.4,
+   "end": 575.82,
+   "text": "Creen buenos ads y para crear buenos ads necesitamos entender el video ad alquimia. Aquí estos muchachos, señores, no sé cuántos años tienen, están buscando la fórmula perfecta. Están usando diferentes ingredientes, experimentando, haciendo diferentes tests para poder conseguir la fórmula perfecta. Eso es lo que vamos a hacer con los ads. Entonces, para crear un buen ad necesitamos varios elementos.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 575.82,
+   "end": 597.49,
+   "text": "Varios ingredientes. Cuando ustedes ven un anuncio, un video de 60 segundos y es un video que está invirtiendo, en el cual se está invirtiendo 100 dólares al día y está generando 1000 dólares al día en ventas, o sea un 10x diario. Y uno dice, pero es un video normal, o sea, ¿cómo es que ese video?",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 597.52,
+   "end": 607.44,
+   "text": "Está multiplicando cash por 10 todos los días. Obviamente sería un escenario súper, súper bueno. No siempre es así de bueno, pero es posible.",
+   "avg_logprob": -0.069,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 607.63,
+   "end": 636.91,
+   "text": "Y entonces uno ve como algo muy general, como que es un video, un video normal, es una persona normal diciendo palabras normales, pero si uno se pone a analizar ese video y ustedes que ahora ya están desarrollando estas habilidades y empiezan a desglosar los elementos, ustedes dicen, el trabajo que había detrás de este video, ya sea trabajo manual o trabajo, no sé, tiempo que se trabajó para crearlo o simplemente experiencia, años de experiencia para poder llegar a un punto donde uno creó ese video.",
+   "avg_logprob": -0.021,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 637.04,
+   "end": 655.25,
+   "text": "Es mucho más complejo, por decirlo así, de lo que parece, porque son muchos elementos. Entonces, para crear un buen ad, hay que tener un buen ad copy. O sea, hay que tener un buen, hay que tener palabras que te han sentido, que juntas esas palabras, comunique un mensaje que sea efectivo.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 655.44,
+   "end": 684.4,
+   "text": "2. Hay que hablarle a la persona correcta. Hay que hablarle a la persona correcta. Eso es extremadamente importante. Si yo tengo un servicio que es para profesionales que tienen que invertir 100 mil dólares para conseguir un 10 por ciento de retorno de inversión anual, no sé, por ejemplo, y es para gente que tiene seis figuras y yo le hablo con el mensaje correcto a una persona que tiene mil dólares en su cuenta.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 684.5,
+   "end": 714.32,
+   "text": "Puede que sea la oferta correcta, puede que dijimos el ad copy muy bien, puede que el ad copy esté perfecto, pero se lo dijimos a la persona incorrecta, no hay un match, ¿verdad? Entonces, en ese caso, tenemos buen ad copy, tenemos buena oferta, pero el avatar no es correcto. Entonces, eso es muy importante también, son combinar las diferentes variables. Ahora, puede que tengamos un excelente ad copy, puede que le hablemos perfectamente al avatar y sea el avatar correcto el que necesite esta solución.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 714.32,
+   "end": 739.76,
+   "text": "Pero la oferta no es muy buena, o sea, es una oferta que no se comunicó muy bien, no es muy irresistible lo que incluye, el resultado final no se comunica muy bien, la gente no le llama mucho la atención lo que se está ofreciendo. Entonces, no importa si tenemos el mejor ad copy, no importa si tenemos el avatar perfecto, la oferta no está bien, entonces probablemente el ad no sea el mejor.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 739.76,
+   "end": 767.12,
+   "text": "Ahora, ¿qué pasa si tenemos el ad copy perfecto? El texto, lo decimos, le hablamos a la persona correcta, le ofrecemos, le hacemos una oferta irresistible, pero el ángulo es lo mismo que todo el mundo dice, es lo mismo que todo el mundo dice. ¿A qué me refiero con eso? Es como que yo grabo un anuncio y diga, en vez de decir, hay una nueva demanda del mercado para hacer Media Buyer y generar un ingreso de manera totalmente remota.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 767.12,
+   "end": 794.16,
+   "text": "Viajando por el mundo. En vez de yo decir eso, diga cómo crear videos para empresas. Puede que yo enseñe algo muy parecido o lo mismo, pero uno fue un ángulo llamativo, una forma de comunicar algo de una manera llamativa, nueva, fresca, que nunca alguien lo había dicho de esa manera, contra algo que todo el mundo ha dicho por...",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 794.16,
+   "end": 823.47,
+   "text": "El principio del internet, cómo crear videos para empresas. O sea, eso no suena como por decirlo así muy sexy. Este sí, ese es el ángulo. El ángulo es como agarro algo que de cierta manera todo el mundo ha hecho de una forma. Por ejemplo, todo el mundo ha ido al gimnasio, pero es como algo que siempre se ha hecho. Pero cómo lo hago de una forma nueva y llamativa que la gente realmente quiera comprar? Porque muchas veces ese ángulo es lo que hace que la gente decida tomar acción.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 824.18,
+   "end": 844.7,
+   "text": "Y si uno lo dijo de la otra forma, nadie quiere tomar acción. La otra es autoridad. ¿Qué pasa? Tenemos buena ad copy, buen avatar, buen ángulo, oferta, pero la gente dice, todo suena súper bien, pero ¿quién es usted? ¿Y por qué debería escucharlo? Y sí, no sé, ¿de dónde salió usted?",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 844.7,
+   "end": 863.57,
+   "text": "Entonces, ese elemento, cuando ya lo metemos ahí, podemos atacar ese pensamiento. Entonces, como buena copy, avatar, oferta, irresistible, ángulo y además uno puede mencionar sus logros y conseguir y meter algo que le meta autoridad. Por ejemplo.",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 863.57,
+   "end": 892.46,
+   "text": "Yo para este programa una parte de lo que hice para conseguir autoridad es, número uno, yo menciono que tengo 10 años en esta industria, una década que es, no es la mitad de mi vida, pero es como un tercio de mi vida haciendo esto. Dos, he invertido más de un millón de dólares en anuncios y muy poca gente puede decir eso, entonces yo sé que eso me da autoridad, entonces ya la gente me pone atención. Y aquí tenemos otro elemento, que yo puedo decir algo que me da autoridad, pero ¿qué pasa si no me creen?",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 892.46,
+   "end": 912.56,
+   "text": "Ah, sí, es muy fácil decirlo, pero fijo no, o sea, ¿cómo hizo eso? Fijo de mentira, bla, bla, bla. Aquí es donde uno mete undeniable proof. Undeniable proof es prueba que no pueden negar. O sea, no pueden negar que eso es verdad. Entonces, yo lo que hago para enseñar esto, digamos, yo dije eso que me da autoridad y el undeniable proof es básicamente...",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 912.56,
+   "end": 938.22,
+   "text": "Yo llego, me meto a mi cuenta de Facebook y les enseño todos los cobros que me ha hecho Facebook que componen ese total de un millón de dólares en ads. Entonces no pueden negarlo. Es como, ok, puede que usted sea lo que sea, usted me cae mal, usted no me gusta como habla, usted es lo que sea, pero no puede negar que lo que dije es verdad. Y cuando alguien no puede negar con base a hechos, eso es un ad muy poderoso.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 938.22,
+   "end": 958.9,
+   "text": "Porque al final de cuentas, cualquiera puede llegar a un video y decir lo que sea. Pero otra cosa es que alguien llegue a un punto donde de manera digital, sin ver a la persona en la vida real, pueda llegar a un punto donde dice, tío, es verdad, es 100% verdad. Entonces, eso yo trato de incorporarlo mucho en mis ads.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 959.09,
+   "end": 987.04,
+   "text": "Después, comunicación. La comunicación tal vez no es, o sea, sí es importante, pero digamos, por ejemplo, yo tal vez no soy la persona que habla mejor. Hay gente que habla mucho mejor que yo. Puedo hablar, mi comunicación verbal puede ser de 1 a 10, puede ser un 7. Pero si yo tengo un buen ad copy y un buen avatar ángulo, autoridad, ordinado proof y me comunico de manera normal con una grabación decente y audio decente.",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 987.04,
+   "end": 1015.98,
+   "text": "Entonces probablemente el ad sea un ad ganador. Ahora, si yo me comunico increíblemente bien, soy un orador así demasiado bien, entonces ese ad puede funcionar mejor. Entonces, ¿cuál es la clave? Ver cada uno de estos elementos y ver como que hay una escala de un 1 al 10 para cada uno de ellos en cuanto a bueno y malo, malo y bueno, ¿verdad? Y tratar de que cada elemento se acerque más al 10. Y eso toma...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 1015.98,
+   "end": 1027.82,
+   "text": "experiencia y tiempo, lograr eso. Entonces, para crear un ad copy que sea un 10, se necesita muchas pruebas, muchos experimentos, se necesita estar en las canchas y estar entrenando.",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1027.86,
+   "end": 1055.74,
+   "text": "Para definir un buen avatar, que sea del 1 al 10, 10 siendo lo más específico, lo más puntual, lo más efectivo para esa oferta, también se necesita experiencia. Ángulos, cómo descubrir ángulos. En ChatGPT se pueden crear ángulos. Por ejemplo, yo pude haber dicho, necesito un ángulo de marketing para un programa que enseña ads. Me va a tirar 10 ángulos. Y eso se trata, estar viendo, estar viendo opciones. Entonces, del 1 al 10 y que se acerquen lo más posible al 10.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1055.74,
+   "end": 1084.85,
+   "text": "De eso es este juego. Y entre más cercanos ustedes estén al 10, mejor ad van a tener y mejor retorno de inversión van a tener para ustedes o para sus clientes. Este elemento de acá, Product Market Fit, simplemente se refiere como que al producto que están vendiendo sea un buen fit para el mercado al cual están vendiendo. Y si ustedes encuentran Product Market Fit, va a ser muy fácil vender porque no tienen que convencer mucho a la gente. Entonces, yo sé que me he quedado en este slide mucho tiempo, pero es para que entiendan que",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1085.01,
+   "end": 1115.89,
+   "text": "Eso es toda una ciencia, por eso me encanta esta foto de acá, es toda una ciencia y crear un ad no es solo, o sea, sí puede ser así de simple y lo es, sacar el celular y empezar a grabar, pero para poder llegar a un punto donde realmente sea un ad increíble, entonces necesitamos ser científicos de ads y eso es una profesión que se paga increíblemente bien, la gente que sabe hacer esto le pagan demasiado bien, de hecho.",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 1115.89,
+   "end": 1141.52,
+   "text": "¿Cuándo fue la última vez que les dijeron esto? ¿Verdad? O sea, no mucha gente habla de esto, de esta ciencia, por decirlo así. Es una especialización, es una especialización, especialidad que todo el mundo necesita, pero que casi nadie está realmente estudiando como muy detalladamente. Y entonces, cuando uno ve un video...",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1141.71,
+   "end": 1166.96,
+   "text": "¿Qué es un video ganador? Muchas veces uno logra identificar esas variables. Entonces, tenemos que ser unos científicos locos de los ads. Ok, este es un concepto súper importante y en este entrenamiento vamos a ver cómo grabar los videos, etc. Y diferentes tipos de videos. Pero estoy como llegando ahí con estas bases. Este es un concepto súper importante. Mucha gente dice, voy a crear un negocio en línea. Ok.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1166.96,
+   "end": 1191.25,
+   "text": "Y entonces van y crean una empresa, una sociedad, consiguen un logo, consiguen un dominio, crean una página web, todo muy bonito, ponen una foto de perfil en Instagram, todo muy bonito. Están creando un negocio, un montón de partes antes de llegar y vender, ¿verdad? Entonces mucha gente ve un negocio así, hay un negocio y de paso creamos un ad, ¿verdad? Ah, este es el de los ads, ahí creamos un ad y ya.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1191.98,
+   "end": 1215.2,
+   "text": "El negocio es el ad.",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1215.2,
+   "end": 1242.77,
+   "text": "El negocio es el ad, ok? Porque si hay un ad que consistentemente produce un retorno de inversión positivo y consistentemente aumenta la facturación y trae más clientes y yo pauso el ad, de cierta manera pausa el negocio, verdad? Entonces, en este otro mindset, que esto es como un paradigm shift, cambio de paradigma, es que el negocio es el video, el video ad, es el ad.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1243.18,
+   "end": 1267.73,
+   "text": "y después todo se crea alrededor de ese ad para que se pueda entregar lo que sea que estamos vendiendo. Entonces tenemos una, de hecho esto fue lo que yo hice con este programa, de hecho este programa, o sea yo lo empecé y no tenía casi que nada, casi que nada creado, simplemente fue que yo llegué, grabé un video, propuse la idea al mercado, el mercado me dijo es una buena idea, queremos esto y después",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 1267.73,
+   "end": 1286.58,
+   "text": "Todo se creó alrededor de ese video, ya después dije ok, esto es lo que se va a enseñar, esto es lo que vamos a ver, lo fui como organizando ya para que sea como una plataforma, todo lo que involucra crear la infraestructura para enseñar esto, pero en realidad el negocio fue ese video.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1286.58,
+   "end": 1316.37,
+   "text": "Fue ese video, porque sin ese video y sin los ads que generaron leads para este negocio, entonces no hubiera habido nada. O sea, entonces es como darle vuelta. El negocio es el ad y también quiero como que lo vean así, digamos. Imagínense que usted está invirtiendo 200 dólares al día en este anuncio y esos 200 dólares al día genera 100 leads. Y esos 100 leads compran dos personas, 2%.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1317.78,
+   "end": 1347.28,
+   "text": "Compran dos personas una oferta de 500 dólares. O sea, de 100 leads compran dos, cada uno una de 500 dólares. Significa que se están generando mil dólares al día en ventas. Se invierten 200, se generan mil. Eso es un 5X diario. Y eso significa que mensualmente invertimos 6 mil dólares y generamos 15 mil dólares en ventas. Digo, no, 30 mil dólares, 30 mil dólares en ventas. ¿Por qué puse 15 mil? Voy a cambiar eso.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1348.4,
+   "end": 1384.43,
+   "text": "Eso, aquí se la mate súper mal. Ventas, ahí está. Entonces invertimos, invertimos 6 mil dólares al mes en ads, 200 por 30 y generamos mil dólares al día, que son 30 mil dólares al mes. Eso es un 5X mensual. En el escenario hipotético que pausemos este ad, que pausemos este ad para que ya gaste cero.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1384.85,
+   "end": 1402.54,
+   "text": "Significa que eso nos está costando 24 mil dólares. Nos está costando 24 mil dólares de profit, los 30 mil menos los 6 mil. O simplemente viéndolo el nivel de ventas, nos está costando 30 mil dólares al mes. Ahora, si esto es un negocio que antes generaba 2 mil al mes.",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1402.74,
+   "end": 1425.39,
+   "text": "Y con este ad generaba 30 mil extra y pausamos el ad, significa que el negocio desapareció. O sea, desapareció 90 y no sé cuánto por ciento del negocio al pausar este ad. ¿Qué significa? Que el ad era el negocio. El conjunto de estas variables era el negocio. Sin esto no había 90 por ciento de las ventas.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 1425.55,
+   "end": 1448.66,
+   "text": "Entonces, cuando uno lo ve de esta manera, uno se vuelve a obsesionar, uno se empieza a obsesionar demasiado con el ad, con la parte de adquisición, porque uno dice, de nada me sirve a mí tener un logo súper bonito, presentaciones súper bonitas, una página web súper bonita, todo perfecto, si no tengo un ad que consistentemente me genere un retorno de inversión positivo.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1448.66,
+   "end": 1459.02,
+   "text": "Porque eso es al final lo que tiene al apalancamiento, lo que genera 90% de las ventas y los resultados. Entonces, muy importante es este concepto para entender la importancia de...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1459.02,
+   "end": 1488.24,
+   "text": "Dedicarle tiempo al proceso de crear buenos ads, dedicarle tiempo a desarrollar la habilidad del ad, porque como pueden ver en este ejemplo aquí, si pausamos el ad, la mayoría del negocio se fue al suelo. Siempre se pueden crear nuevos ads, pero es nada como un ejemplo para que vean que el negocio puede ser el, en inglés se dice el needle mover, lo que realmente mueve lo que genera resultados. Entonces, ahora, para grabar un video no se necesita un...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1488.24,
+   "end": 1516.32,
+   "text": "No se necesita producción súper complicada, cara, profesional, nada de esas cosas. Yo todos mis videos los grabo con mi celular, con mi iPhone, la cámara es suficientemente buena y ni siquiera lo grabo en 4K. Yo lo grabo en 1080, significa que podría grabarlo con mejor calidad, pero no hace falta, no hace falta del todo. ¿Por qué? Porque si la producción es demasiado, demasiado buena, pero la oferta es mala, no va a funcionar.",
+   "avg_logprob": -0.016,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1516.32,
+   "end": 1545.82,
+   "text": "Si la producción es demasiado buena, pero la oferta es buena, pero el avatar está mal, no va a funcionar. Si la producción es la mejor del mundo y tienen buena oferta, tienen buen avatar, tienen buen ángulo de ventas, pero nadie les cree porque no tienen autoridad y no tienen undeniable proof, de nada sirve la cámara de 6 mil dólares y el micrófono de mil. Entonces, ese concepto también es muy importante. Mucha gente trata de, como por decirlo así,",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 1545.82,
+   "end": 1575.18,
+   "text": "Como... Como perfumar un perro que se acaba de ir a meter a un barrial. Yo estoy pensando en mi perro Nala. Que va y juega y se ensucia y queda llena de zacate y todo. Es como que yo le llegue y le eche perfume. De nada sirve, ¿verdad? De nada sirve porque al perro hay que bañarlo. Hay que mandarlo al salón. Y entonces que le hagan el grooming y todo. Entonces eso es muy importante. No se necesita nada caro. Celular. Buena cámara del celular. Y...",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 1575.18,
+   "end": 1603.34,
+   "text": "y un micrófono que no tiene que ser caro y un trípode y a veces no se necesita trípode porque les voy a enseñar unos formatos que pueden usar que son con selfie entonces esto es en realidad lo que yo uso de hecho justamente este trípode que les estoy enseñando está ahí el iPhone está aquí y el micrófono yo a veces uso este pero también bueno el live mic de hecho lo tengo por acá se los voy a enseñar que es un cable es un cable vamos a ver si lo ando por aquí ah aquí está",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1603.34,
+   "end": 1630.93,
+   "text": "Que cuesta, no sé, 50 dólares, algo así, y es esto, ¿verdad? Esto de acá. Entonces, para grabar un buen ad solo necesitan el cerebro, el copy, el celular y esto. Y con esto pueden hacer millones de dólares. Así es, pueden hacer millones de dólares con estas cosas. Entonces, el Road Lab Mic lo pueden comprar en Amazon.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1631.31,
+   "end": 1660.9,
+   "text": "También hay una tienda que se llama, ya se me olvidó el nombre, pero en Amazon lo venden esto y esto es súper barato, en realidad el iPhone y Tripod son como 50 bucks. Ahora, en cuanto a tecnología, ¿qué necesitan para poder grabar buenos ads? Acuérdense también, si ustedes tienen clientes y les están ofreciendo esto como servicio, el cliente graba esto y ustedes no son videógrafos, camarógrafos, ustedes no tienen que ir a grabarlo, ellos por lo general tienen un equipo que lo hace o ellos mismos lo hacen.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1660.9,
+   "end": 1676.77,
+   "text": "Pero también estoy enseñándoles para que ustedes puedan grabar sus propios ads y de fijo tener todas las herramientas. Entonces ahora para grabarlos, para la tecnología, para los ads, ya una vez está grabado el video en formato crudo.",
+   "avg_logprob": -0.085,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1676.77,
+   "end": 1702.22,
+   "text": "Yo uso herramientas muy simples para editarlos. Uso Camtasia, que es un software que se puede bajar para Windows o Mac, se puede usar en la computadora y ahí uno sube el video, le puede agregar subtítulos, puede subir el audio, bajarlo, lo puede crop, lo puede... todo se puede hacer en Camtasia y también en CapCut. CapCut es una opción demasiado buena que de hecho puede que sea mejor que Camtasia.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1702.22,
+   "end": 1728.59,
+   "text": "Pero yo en realidad uso Camtasia porque lo he usado siempre y es una de esas cosas que cuando uno se acostumbra a usar un software ya no quiere usar nada más. Entonces a mí me ha pasado eso mucho con Camtasia por eso, pero hay herramientas que son de mejores. CapCut es demasiado, demasiado bueno y yo en realidad lo que más uso es CapCut Mobile que es el app de CapCut para el celular que es 100% gratis y todos los features, todos los...",
+   "avg_logprob": -0.069,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 1728.75,
+   "end": 1757.36,
+   "text": "las cosas que se pueden hacer están disponibles con la versión gratis y entonces es así de simple yo ni siquiera los edito mucho yo llego subo el vídeo le pongo estos subtítulos de acá uso un font que se llama creo que se llama Gretaros vamos a ver CapCut nada más para decirles todos los detalles que mucha gente me pregunta también qué tipo de subtítulos usar yo le bajo unos subtítulos que se llaman vamos a ver Style Fonts",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 1757.9,
+   "end": 1780.85,
+   "text": "Y aquí, Gretaros, como pueden ver, ahí uno puede subirle los fonts, pero bueno, cualquiera que se vea bien funciona. Entonces, nada más le agregan subtítulos, lo cortan un poco de los lados y eso es así como yo creo los ads. De hecho, este ad que estamos usando acá, yo lo creé en CapCut. Lo grabé con mi celular, lo subí a CapCut y después lo di aquí a exportar.",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1780.85,
+   "end": 1807.66,
+   "text": "Entonces, hay diferentes tipos de formatos de ads, aquí es allá donde vamos a ver cómo crear estos ads y cómo convertir texto en video. Hay diferentes formatos para ads, casi que todos funcionan, ok, eso es algo que van a aprender de mí, es como no hay solo una forma de hacerlo y muchas veces cuando uno enseña esto, digamos, para mí que me toca enseñarlo, a veces es como poco conveniente decir",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1807.92,
+   "end": 1822.5,
+   "text": "que todos funcionan porque entonces la gente que está aprendiendo es como no pero yo quiero saber la forma en que debería hacerlo verdad yo quiero saber el ABC el paso a paso 100% entendible pero también de mi lado yo quiero ser sincero y decir",
+   "avg_logprob": -0.069,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1822.5,
+   "end": 1851.66,
+   "text": "Todas funcionan, nada más que hay que probar cuál es la que funciona mejor y hay ciertos formatos que funcionan mejores que otros en ciertas plataformas. Pero yo no les voy a decir que solo hay una forma de hacerlo porque eso sería mentira. Entonces, los diferentes formatos que hay, se puede hacer vertical, sentado, o sea, yo estoy aquí sentado, ¿verdad? Estoy en una silla y el celular está grabándome. Es vertical, celular, sentado, horizontal, sentado, ¿verdad? También está vertical selfie.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1851.95,
+   "end": 1883.73,
+   "text": "Acá está horizontal selfie o está alguien más grabando de frente, o sea que el celular esté de frente pero alguien más lo está grabando, entonces sí hay cierto movimiento, ¿verdad? No es tan estático. Alguien más grabando de lado, en vez de que sea de frente, que alguien está grabando de lado, me está grabando de lado, entonces se ve que yo no tengo el celular en mis manos, alguien más lo tiene y eso da otro ángulo. Vamos a ver ejemplos. O casual improvisado.",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 1883.95,
+   "end": 1914.35,
+   "text": "¿Qué puede ser? Uno en selfie o alguien más grabándolo. Esto ya no sería en trípode porque en trípode se ve como que la persona puso el celular para grabar, ya no se ve casual. Entonces, ya no se ve tan casual, ¿verdad? Tal vez hay formatos en que se puede poner el celular en un trípode y se vea casual, pero por lo general cuando uno ya usa un trípode es porque ok, a lo que vinimos, a grabar un video. Entonces, usualmente los videos casuales son como selfie o alguien más grabando lo que uno está haciendo, las actividades que uno hace mientras uno habla el copy.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 1914.64,
+   "end": 1937.31,
+   "text": "Entonces, otra cosa es entender el contexto de la plataforma. Por ejemplo, Instagram es una plataforma de que es vertical, ¿verdad? Casi que todo es vertical. Entonces, si la plataforma es vertical y casi todo el mundo ve cosas verticales, lo ideal es tener un video vertical. YouTube. YouTube ahora tiene shorts, pero en general yo siento que es una plataforma más horizontal.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1937.31,
+   "end": 1967.44,
+   "text": "Al igual que LinkedIn, es como una plataforma creo que más como horizontal, pero eso no significa que uno no pueda crear el otro y que no funcione, de hecho perfectamente puede funcionar, yo podría, yo estoy seguro que yo mando mis ads ganadores verticales en Instagram y los mando horizontales y va a funcionar casi que igual, porque lo que quiero que entiendan es esto, si el alchemy del ad está bien hecho con los diferentes elementos, si es vertical o horizontal casi que no importa, o sea casi que no importa, puede ser cuadrado, puede ser circular,",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1967.44,
+   "end": 1990.22,
+   "text": "El ad lo más seguro es que funcione porque tiene dos elementos. Estos son como detalles pequeños, pero que igual es parte de verdad. Ahora, un video estándar. Como tengo que enseñar esto y dar como una estructura más básica, estándar, que la aplique a la mayoría de la gente, yo les voy a decir que es esta. Un video vertical. ¿Por qué? Porque ahora...",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1990.22,
+   "end": 2005.9,
+   "text": "El metaverso se consume casi que la mayoría del tiempo de manera vertical, por eso es que para un formato más universal le recomiendo vertical, porque casi todo el mundo está viendo el metaverso en el celular, ¿verdad?",
+   "avg_logprob": -0.08,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2006.13,
+   "end": 2033.01,
+   "text": "2. Un video de 60 a 90 segundos. ¿Por qué 60 a 90 segundos? Porque, digamos, si quieren crear un ad que sea un reel, va a tener que ser máximo 90 segundos. Es un formato que actualmente está funcionando muy bien. Hay que ver en el futuro, pero actualmente funciona muy bien. Y solo se puede máximo 90 segundos. Entonces, para poder incluirlo en ese rango de lugares en donde podemos crear ads,",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 2033.52,
+   "end": 2058.29,
+   "text": "Yo lo voy a decir, máximo 90 segundos para un formato universal. Entonces, 60 a 90 segundos, ustedes ahí pueden decir su ad copy de manera vertical y se abren las puertas a la mayoría de formatos en la mayoría de plataformas. Si graba un video de 40 minutos, que yo he tenido ads de 40 minutos, puede que sea un ad muy bueno, nada más que definitivamente va a estar limitado a los lugares en los cuales pueden enseñar el ad, porque, por ejemplo,",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 2058.35,
+   "end": 2065.01,
+   "text": "No se va a poder enseñar como real, pero sí se va a poder enseñar como un post, probablemente. Entonces...",
+   "avg_logprob": -0.107,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2065.01,
+   "end": 2093.73,
+   "text": "Hay ciertas limitaciones ya cuando uno se pasa y tiene videos más largos. Y tres, algo que es como algo general para esta estructura es que sea una persona hablándole a la cámara. Entonces, si ustedes tienen esas tres variables, probablemente puedan grabar un buen ad siempre y cuando tengan los diferentes elementos de un ad ganador. Avatar, oferta, autoridad, etcétera, todas esas cosas. Entonces, es una forma súper, súper general de crear ads.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2093.73,
+   "end": 2124.18,
+   "text": "Y igual pueden crear ads de 3 minutos y hacer millones de dólares. Igual pueden crear ads de 10 minutos y hacer millones de dólares. Yo he tenido un ad que, uno de mis mejores ads ha sido de 40 minutos, ¿verdad? De 40 minutos. Y sí, la mayoría de la gente no lo ve hasta el final, pero la gente que ve, que sí lo ve hasta el final, usualmente compra bastante. Entonces, todo funciona. Es como de ver cuál es el ad ideal con base a la oferta y al negocio y la plataforma. Entonces, veamos diferentes tipos de videos.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2126.22,
+   "end": 2144.08,
+   "text": "Selfie vertical. Este es uno de mis ads y aquí pueden ver, este es el engagement, este es un ad de Facebook y este video es un video vertical selfie. En donde estoy caminando en una casa.",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2144.4,
+   "end": 2173.65,
+   "text": "Y estoy hablando, estoy hablándole a la cámara de una manera bastante casual. Usualmente los videos selfie se consideran casuales y funcionan bastante bien siempre y cuando uno tenga los elementos ganadores de un video. En este caso es un video de tres minutos y medio y este lo está corriendo en Facebook. Facebook es una plataforma que mucha gente diría como mejor un video horizontal, pero cuánta gente ve Facebook desde el celular.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2173.65,
+   "end": 2203.89,
+   "text": "Cuando la gente está viendo el feed y sale un video vertical, funciona súper bien. La mayoría de plataformas yo diría que se están volviendo verticales porque están en celulares y los celulares no son cuadrados, ¿verdad? Son así y la gente los usa de frente. Entonces, ese es el formato selfie vertical. Lo uso muchísimo porque es muy casual, pero cuando meto autoridad, crea una paradoja de mucha autoridad, mucho proof.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 2204.21,
+   "end": 2234.26,
+   "text": "Pero al mismo tiempo casual, ¿verdad? Y la gente le gusta eso porque la gente le gusta sentir como que uno es una persona normal con muchos resultados porque así ellos dicen, yo también puedo hacerlo, ¿verdad? En cambio, también porque ese es mi estilo, ese es mi estilo. Yo ando camisa de tirantes a cada rato y ese es como mi estilo casual. Yo nunca uso saco y corbata, yo nunca, casi que nunca uso camisas o ropa formal. Entonces, de cierta manera, eso se alinea mucho con mi estilo, crear esa paradoja que es,",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 2234.26,
+   "end": 2258.88,
+   "text": "Mucha autoridad y demostrar la experiencia junto con un formato casual y verme casual. Entonces la gente se siente identificada y dicen, si esa persona pudo, yo también, porque se ve igual que yo. Entonces, eso son como cosas ya más a nivel psicológico que uno puede analizar en un video, pero que tal vez...",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 2258.88,
+   "end": 2283.22,
+   "text": "Y tal vez la mayoría de la gente no se da cuenta, o sea, yo sé exactamente que estoy haciendo en este video, en este video yo estoy, de hecho yo estaba enseñando los resultados, creo que fue una, un video en donde yo estaba enseñando que el día de ayer había generado 12 mil dólares en ventas, entonces estaba enseñando mi computadora, literalmente estaba refrescando la página, enseñando los números y después estaba enseñando como casual un video selfie, entonces yo sé la...",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2283.25,
+   "end": 2311.31,
+   "text": "La comparación, yo sé que eso funciona muy bien porque la gente tal vez no lo piensa así como demasiado directamente, pero subconscientemente eso es lo que analizan. Este ad funcionó súper bien. Otro es, de hecho esto fue en la misma casa, que estábamos en la playa y dijimos, vamos a grabar unos ads. Aquí yo estaba haciendo una sesión de coaching, como decir esta, para uno de mis programas.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2311.31,
+   "end": 2329.1,
+   "text": "Y yo estaba nada más en la sesión y yo estaba sentado y alguien más, uno de mis amigos, empezó a grabar, ¿verdad? Y la razón por la cual grabamos este video es porque en este video empezaron a entrar ventas mientras yo estaba haciendo la sesión, entonces le estaba enseñando a los clientes como...",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2329.33,
+   "end": 2357.33,
+   "text": "Como estaba entrando ventas mientras estábamos teniendo la sesión y a mí me grabaron enseñando eso. Esto fue un ad súper súper bueno porque es súper casual. Además hasta salgo ahí como con un vinito que me estaba tomando y no me recuerdo si era un vinito, parece un vinito o si era jugo de manzana, no me recuerdo. Pero el punto es que se ve como súper casual, un background muy bonito y además undeniable proof que es prueba que no se puede negar porque yo estoy enseñándolo en mi celular y estoy refrescando la página.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 2357.33,
+   "end": 2382.64,
+   "text": "Entonces eso es para el nicho de mercadeo, pero es un formato que me gusta mucho porque se ve muy casual y yo siento que muchas veces es bueno tener un formato como que no parezca demasiado como intrusivo, no sé si se dice intrusivo o un formato en donde se sienta demasiado que la persona está tratando demasiado duro de venderle a alguien. No sé si a ustedes les pasa, pero digamos cuando yo veo un video.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2382.7,
+   "end": 2407.95,
+   "text": "Como yo soy un Media Buyer, yo soy un Marketer, yo lo sé analizar muy claramente cuando alguien está esforzándose demasiado por vender y alguien que tal vez no se está esforzando demasiado o se está esforzando demasiado pero no lo hace parecerse así, yo como que veo, analizo muy bien eso y yo siento que cuando veo a alguien que siento que se está esforzando demasiado por vender algo, como que a veces uno...",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2407.95,
+   "end": 2435.76,
+   "text": "Es como que pierde un poco de interés, no sé si a ustedes les pasa eso, pero entonces me gustan mucho los formatos que son como más casuales, como vea, esto es lo que hay, esto es lo que tengo, esto es lo que le voy a enseñar y si le interesa, aquí está la forma que pueda entender y aprender, pero como que no se siente demasiado, necesito demasiado su atención, necesito demasiado su aprobación, necesito demasiado su dinero, ¿verdad? Entonces este formato es bastante bueno, es alguien grabando y uno haciendo algo más y diciendo el ad copy.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2436.66,
+   "end": 2465.01,
+   "text": "También está este formato que es un formato ya un poco más como de ok quiero comunicar un mensaje directamente a esto lo que vine a esto vinimos a yo decirle a copy que esto funciona muy bien igual que he sentado vertical y esto es nada más con el trípode del celular y un micrófono y diciendo la copy en este caso disminuimos las variables que hay disponibles porque por ejemplo aquí hay muchas variables está la cámara que se está moviendo estoy yo que no tengo",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 2465.01,
+   "end": 2488.78,
+   "text": "de como estoy improvisando totalmente, estoy haciendo otra cosa, hay muchas variables, aquí hay muy pocas variables, el fondo es igual, la cámara no se mueve, el audio es igual, yo estoy en una misma posición y lo único que hay realmente es el ad copy, mis palabras y la oferta, entonces me gusta mucho probar este video de ads, este tipo de ads.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2488.78,
+   "end": 2514.19,
+   "text": "Para ofertas que ya están probadas, ¿verdad? Como ofertas ya ganadoras, por decirlo así, o que ya están validadas en el mercado. Algo que ya se está vendiendo bien. Digo, estoy pensando que tengo mi cerebro en otro lado. Este ad me gusta cuando no están validadas y cuando no sé si se venden bien, porque como tiene muy pocas variables, así puedo enfocarme en las variables que quiero validar, que son la oferta y las palabras.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2514.45,
+   "end": 2540.98,
+   "text": "Si yo a este video le agrego muchas otras variables, si no funcionó, no sé si es por el background, no sé si es porque improvisé, no sé si es porque otras variables entrometieron el proceso de prueba. Yo sé que si aquí el video no funciona, si las no funcionan es porque la oferta no era buena, porque el texto no era bueno, porque son las únicas variables dinámicas. El fondo es igual, el audio es igual, yo estoy en el mismo lugar. Entonces...",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2541.17,
+   "end": 2570.75,
+   "text": "Estos ads me gustan para probar cosas nuevas, en resumen. Entonces, si ustedes tienen un cliente y el cliente está probando una oferta que tal vez no está muy validada o están probando algo muy nuevo, lo mejor es no tener muchas variables y enfocarse nada más en ver que el ad copy funcione y que el video y la oferta funcione. De hecho, aquí hay más ejemplos, no voy a volver a esos, pero les quiero enseñar uno.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2570.75,
+   "end": 2596.66,
+   "text": "¿Qué es este? Este es el video que a mí me permitió crear de cierta manera este programa y este negocio. Y es un video que no tiene casi nada de variables. A lo que me refiero con esto es que fondo blanco, camisa de tirantes y leyendo un documento sumamente feo. Aquí no hay muchas variables, no hay nadie grabando, no hay un fondo.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2596.69,
+   "end": 2607.87,
+   "text": "Que distraiga a la gente, no hay improvisación, soy yo leyendo palabras escritas de una manera sumamente poco entretenida o divertida.",
+   "avg_logprob": -0.083,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2607.87,
+   "end": 2629.28,
+   "text": "Pero, eso es bueno para mí para saber si esta oferta es buena, porque si este video funciona significa que no fue por mi ropa, no fue por mi fondo, no fue por la grabación, no fue por el entretenimiento, fue porque la oferta es buena, entonces me gusta cuando yo puedo tener convicción, ok, esto funcionó por la oferta, estoy trabajando con una oferta ganadora.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2629.28,
+   "end": 2651.34,
+   "text": "Ya después de eso yo puedo llegar y ya volverme muy loco con videos hablando de esa oferta ganadora y metiendo un montón de variables porque a mí ya no me importa si me están grabando, si estoy tirándome paracaídas, si estoy corriendo, si estoy caminando y me están grabando. No importa nada, eso importa mucho porque ya tengo una oferta ganadora y siempre y cuando diga la oferta ganadora en cualquier formato va a funcionar.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2651.41,
+   "end": 2680.74,
+   "text": "Ahí es cuando ya me empecé a volver más creativo. Ya tengo una oferta ganadora, ya sé que funciona, puedo grabarla en el carro, puedo grabarla manejando por aquí. Bueno, por ahí tenía el ad que estaba... Ah, bueno, es el de CapCut S. Ya puedo grabarlo casual, ya puedo hablar como muy casual, porque ya estoy trabajando con algo que funciona. Espero que esto les haga clic, porque eso sí es bastante importante. Es como disminuir la cantidad de variables.",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2680.74,
+   "end": 2709.74,
+   "text": "El siguiente es esta, tercera persona vertical casual, en donde nada más alguien está caminando con la cámara y me está grabando y yo estoy haciendo algo más y estoy hablando de la oferta de manera improvisada. Esto usualmente también, como les dije, funciona para ofertas que uno ya sabe que venden bien y no como para andar probando a ver si algo funciona o no. Igual, no significa que uno no pueda probar una oferta nueva con un formato así, nada más que ahora uno está involucrando muchas variables.",
+   "avg_logprob": -0.016,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2710.06,
+   "end": 2713.01,
+   "text": "Otro formato es tercera persona.",
+   "avg_logprob": -0.082,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2713.1,
+   "end": 2741.9,
+   "text": "horizontal, entonces alguien grabando 45 grados, caminando, uno diciendo la copy, yo en este video dije la copy casi palabra por palabra porque me lo sabía casi que de memoria, verdad, entonces este video funcionó muy bien, es una copy ganador y además es un fondo muy disruptivo que mantiene a la gente entretenida, entonces estoy manteniendo atención mientras digo un copy ganador, verdad, mantengo atención, digo copy ganador y ahí es a donde consigo atención más.",
+   "avg_logprob": -0.091,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 2741.9,
+   "end": 2771.47,
+   "text": "Interés en lo que estoy vendiendo.",
+   "avg_logprob": -0.484,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2772.75,
+   "end": 2798.77,
+   "text": "y documento vertical, entonces he leído documentos verticales, he leído documentos horizontales y todos estos son formatos que se pueden probar. Los formatos que yo usaría para una oferta que tal vez no está 100% definida o que no es, no considero una oferta ganadora o que ya tiene Product Market Fit, yo usaría un formato muy simple, ok.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2798.99,
+   "end": 2826.5,
+   "text": "Yo usaría un formato muy simple, yo o lo grabaría sentado con un trípode al frente, con un fondo estático, un buen fondo que se vea bien, que se escuche bien, pero un video relativamente estático para probar la oferta y para probar el ad copy, para yo saber que eso funciona. Otro es leyendo un documento, ¿verdad?",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2826.5,
+   "end": 2854.18,
+   "text": "Esto es un video sumamente estático pero que nos permite saber si el ad copy funciona. O finalmente grabar un video, un selfie, un video selfie en donde uno, como es un video muy normal, casual, no es nada sumamente entretenido o con muchas variables, simplemente hablarle el copy y la oferta a la cámara y ver cómo reacciona el mercado. Entonces esos son formatos que yo suelo usar cuando pruebo...",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2854.18,
+   "end": 2884.53,
+   "text": "cosas nuevas e inclusive cuando algo ya funciona también me gusta hacerlos así porque funcionan muy bien. Ahora, revisión del ad más feedback. Una vez mandamos el ad copy y le decimos al cliente cómo grabar el ad, entonces el cliente nos lo va a devolver y nosotros vamos a revisar el ad y le vamos a dar feedback al cliente para poder grabar un mejor ad o si el ad está bien decirle está suficientemente bien.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2884.62,
+   "end": 2915.15,
+   "text": "Ahora, yo trato de, digamos, cuando yo le mando el ad copy a un cliente e instrucciones para grabar el ad, no le voy a decir dar instrucciones muy complicadas, ¿verdad? También por eso, por un tema de mantener las cosas prácticas y fáciles y simples, no me gusta usar formatos de ads muy complicados porque el cliente probablemente no sepa hacerlo tan bien como uno, ¿verdad?",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2915.15,
+   "end": 2933.26,
+   "text": "Es mejor dar instrucciones simples. Vea, nada más, pon el trípode, la cámara, fondo bonito, audio bonito, video que se vea bien y diga las palabras de la mejor manera posible, con la mejor forma de comunicación posible, me lo manda y lo reviso. Eso es una, eso son instrucciones simples.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2933.33,
+   "end": 2962.7,
+   "text": "No estamos diciéndole vaya y haga un hike al volcán y que lleves un camarógrafo que lo grabe y que esté moviendo la cámara. No podemos agregar ese nivel de complejidad especialmente para grabar un ad que ni siquiera tenemos idea que va a funcionar porque no sabemos si la oferta va a reaccionar bien en el mercado. Entonces no tiene sentido meter mucha complejidad. Es mejor mantener todo sumamente simple, minimalista, con pocas variables al principio, especialmente si estamos mandándole instrucciones a un cliente. Ahora, una vez el cliente nos manda...",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2962.7,
+   "end": 2983.57,
+   "text": "Ad, que de hecho, a mí me acaban de mandar, me da risa porque justo antes de esta sesión, justo antes de esta sesión me mandó un cliente, bueno, aquí está, no voy a enseñar el nombre, pero básicamente, no sé si pueden ver por ahí, una clienta me acaba de mandar ese video.",
+   "avg_logprob": -0.081,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 2983.66,
+   "end": 3003.33,
+   "text": "que ni siquiera lo he visto, me dice hola Sebastián acá va el video, mi iPhone es mi cámara y micrófono, ok, de momento no tengo más aparatos pero usted me dice que tal y que puede mejorarse, gracias, tenga buen día, ok, vamos a ver, pero eso está bueno, eso está súper bien porque yo ahora puedo ver el video",
+   "avg_logprob": -0.096,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3003.33,
+   "end": 3031.12,
+   "text": "Es un video que no tiene muchas variables, solo ella hablando en la cámara y puedo ver, ok, lo dijo bien, puedo mandarle feedback. Y yo puedo mandarle feedback, uno, uno, del ad copy. Tal vez leyó el ad copy pero no lo leyó bien. O tal vez se lo trató de memorizar y le faltó una parte. Por ejemplo, yo puedo decirles, te faltó mencionar la parte del cliente que ayudaste, que la autoridad. Entonces, revisar los diferentes elementos y dar feedback.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3031.28,
+   "end": 3060.91,
+   "text": "Tal vez el audio se escucha súper mal en este video que me acaban de mandar y yo tengo que decirle no entendí nada, grábalo otra vez porque en serio no entendí nada y si yo no entendí nada nadie más va a entenderlo. Video, tal vez el video se vea así como súper pixeleado como Minecraft, ¿verdad? O es un video que nada más no se ve bien, entonces mejor grábalo otra vez porque nada se pierde y además no es que el video tiene que estar perfecto pero si está muy mal eso puede ser una variable que la gente diga no, ¿para qué voy a...?",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3061.14,
+   "end": 3085.86,
+   "text": "O sea, es como que uno lo puede enjuzgar por el video, como el video está tan mal, como, ¿será que esta persona hace las cosas así de mal en todo? O, di, simplemente me dio pereza ver un video que no se ve bien. Entonces, no estoy diciendo, no hay que irse a los extremos, no tiene que ser perfecto, pero tampoco tiene que ser demasiado malo, ¿verdad? Siempre y cuando el ad copy, la oferta sea buena, uno puede estar ahí en un punto medio, tirando para acá, de bueno, y probablemente funcione.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3085.86,
+   "end": 3096.85,
+   "text": "En cuanto a comunicación, eso es cómo se comunican las palabras en el video. Eso incluye el tono de voz, la...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3096.85,
+   "end": 3123.79,
+   "text": "Confianza en uno mismo, eso es una variable muy importante. Yo puedo estar leyendo el ad copy, la oferta, tener todos los elementos perfectos, pero si mi voz no suena como con confianza, eso se transmite. Eso es una variable que puede hacer que el retorno de inversión pase de ser 3X a un 2X o de un 2X a perder dinero. La confianza que uno tiene en uno mismo, en la oferta, en lo que vende, eso es demasiado importante.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3124.24,
+   "end": 3152.66,
+   "text": "Por eso es que es importante uno tener convicción que puede ayudar a la gente, tener una convicción que uno tiene un proceso que puede ayudar a alguien a conseguir un resultado, convicción en lo que uno vende, en uno mismo, porque si uno no la tiene, uno cómo va a comunicar eso en un video, es como estar, ni aunque uno trate de engañarse, va a hacerlo bien, entonces es importante comunicarse de una manera efectiva, pero para eso yo creo que hay que tener confianza en uno mismo y en lo que uno vende.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 3153.49,
+   "end": 3181.46,
+   "text": "Y creo que, aunque el ad copy sea perfecto, si la gente no puede sentir eso, es que ni siquiera... Es como una variable que es como difícil de medir, ¿verdad? Cómo uno mide el nivel de confianza que uno tiene en la comunicación. No es tan fácil. Es una variable sumamente subjetiva, pero se siente. Son esas variables que se sienten. Es como que yo diga, ¿cómo puedo medir el nivel de confianza que alguien tiene en mí? ¿Verdad? Yo puedo decir, esta persona...",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3181.62,
+   "end": 3210.5,
+   "text": "Confía en mí, pero ¿cuánto? No sé, mucho. Esa persona puede decir mucho, yo confío mucho en vos, pero del 1 al 10, ¿verdad? Entonces, no es como que Facebook o Instagram a uno le das las métricas, como nivel de confianza a este ad, 10. Este otro ad, nivel de confianza, 3. O sea, no, es nada más como que la gente lo siente. Entonces, hay que tener eso presente y por eso es muy importante también ser, es una variable que no mencioné, pero ser sumamente auténtico.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 3210.5,
+   "end": 3240.05,
+   "text": "y genuino en el video. No importa si tal vez no se comunican perfecto, pero si la gente siente que ustedes son auténticos y genuinos o sus clientes están hablando de esta manera, eso es un feedback que le pueden dar. Ellos prefieren trabajar con alguien auténtico y genuino que alguien que está tratando de ser alguien que no es. Muy importante, muy importante. Es como, digamos, a veces a mí la gente que no me conoce muy bien o no me sigue.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 3240.05,
+   "end": 3243.68,
+   "text": "A cada rato me tira que yo uso Spanglish, ¿verdad?",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3243.68,
+   "end": 3270.8,
+   "text": "Feedback. ¿Por qué usé la palabra feedback en vez de... Feedback creo que es retroalimentación en español. Porque mi cerebro está pensando en feedback. Y yo no estoy tratando de ser alguien que no soy. Yo nada más estoy poniendo esto porque así es como lo pienso y así es como soy. Y la gente que me sigue y la gente que confía en mí entiende. Así es como está pensando y entiendo, ¿verdad? Pero la gente que...",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 3270.86,
+   "end": 3298.54,
+   "text": "Y hay gente que tal vez diga como, ah no, es que porque está jugando de americano, ¿verdad? Pero esto es gente que ni siquiera ha hecho click con el mensaje, o sea, hay gente que ni siquiera probablemente quiero que sea mi cliente. Entonces es como entender muy bien eso, el tema de la autenticidad, de ser genuino en la comunicación de un video, eso es clave, es clave. Para mí es casi que igual de importante que, de ahí no sé, que la autoridad de una...",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3298.54,
+   "end": 3327.18,
+   "text": "Ustedes pueden tener autoridad, pero si no se siente genuino, si no se siente con un video auténtico, es difícil que la gente... Recuérdense, las ventas son confianza, son confianza, la gente compra personas, lo están comprando ustedes y si no, la gente no siente que usted es auténtica, entonces va a ser difícil que ellos los compren. Entonces, quiero que veamos unos cuantos videos y con base a esto, Tim, mucho de esto es mandarse al agua.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3327.18,
+   "end": 3356.51,
+   "text": "Yo lo que trato aquí es decirles las variables que hay que fijarse, los diferentes formatos, enseñarles ejemplos, todo esto. Y yo les voy a dar, les doy los templates, les doy los ejemplos, les voy a dar un link a todos estos videos para que ustedes los analicen. Todos estos ads a mí me han funcionado sumamente bien. Yo aquí no puse ads que realmente no hayan funcionado. Casi que todos me han hecho bastante cash. No sé cuántos específicamente, pero todos han tenido un retorno de inversión positivo.",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 3356.51,
+   "end": 3385.26,
+   "text": "Todo esto se lo estoy dando, pero muy importante entender que al final este es un juego de mandarse al agua. Es un juego de mandarse al agua, no es un juego de tratar de a la primera tener el mejor ad que le va a cambiar la vida. Es me mando al agua y ahí aprendo. Ahí es donde uno se aprende, en el agua, testeando. Porque yo no sé, puede que ustedes me den un video o me enseñen un video que van a probar y yo les diga, me gusta mucho.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3385.65,
+   "end": 3408.08,
+   "text": "De hecho, yo paso revisando ads de todo el mundo, ¿verdad? Y yo puedo decirle, de 1 al 10 es un 8, me gusta, o sea, probémoslo. Pero puede que el mercado piense que es un pésimo ad. O sea, puede que el mercado diga, no nos interesa. Y entonces, muchas veces, es lo que es, son los números. No hay emociones en este juego, entonces...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3408.08,
+   "end": 3424.24,
+   "text": "El mercado al final va a definir qué es bueno y qué es malo sin importar la opinión de uno. Yo puedo decir esto es de hecho este video de acá. Si no me equivoco, es el video que mejor está funcionando para personas que están mercadeando el programa.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3424.24,
+   "end": 3447.2,
+   "text": "Y yo honestamente no pensé que era el mejor, yo pensé que había otro que iba a ser mejor y al final de cuentas así es, así es esto. Entonces, otra cosa importante es esta, el primer ad probablemente no es el ad ganador, yo eso se lo digo a todos mis clientes. No espere que su primer versión del ad, por ejemplo, esta es la primera versión que me mandaron, esta clienta, yo le voy a decir, este ad no le va a cambiar la vida, lo más probable.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3447.2,
+   "end": 3475.95,
+   "text": "¿Cuántos ads está dispuesto a probar? 3, 100, los que sean.",
+   "avg_logprob": -0.134,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3477.07,
+   "end": 3504.34,
+   "text": "Honestamente yo, así es como yo lo pensé desde el principio, yo cuántos ads estoy dispuesto para poder vivir la vida que quiero vivir por el resto de mi vida, los que sean, cuántos, 200, se prueban, así es esta cosa, entonces qué tanto lo quiere, qué tanto lo quiere y también aplicar este mindset a sus clientes, no funcionó el primer ad, ya le dejamos claro al cliente que así es como funciona el juego, vamos a seguir probando y puede que el quinto.",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3504.34,
+   "end": 3530.86,
+   "text": "Y entonces es muy importante aplicar ese mindset. Ahora vamos a ver algunos de estos videos. Ya muchos de estos creo que ustedes los han visto, no los voy a poner todos porque se los voy a dar y creo que los van a poder ver y escuchar mejor, pero quiero enseñarles como algunos que son...",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 3531.86,
+   "end": 3562.45,
+   "text": "De diferentes estilos, ¿ok? Y unos están en inglés, otros en español porque yo antes me quedaba mucho en inglés, ahora en español. Entonces, digamos, les quiero enseñar este que este ad, este ad funcionó súper bien, conseguí un montón de hate, pero me conseguí un montón de sales, ¿verdad? Porque es un ad como que no sé por qué consiguió tanto, tantos mensajes, pero como que a la gente, a la gente, bueno, también Latinoamérica le da cólera como este nicho es un nicho en donde uno consigue fricción porque también hay mucha gente diciendo cosas que,",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 3562.45,
+   "end": 3599.38,
+   "text": "y tal vez no son o lo que sea, pero veamos este video.",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3600.02,
+   "end": 3631.57,
+   "text": "Estos son Deniable Proof",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3632.3,
+   "end": 3670.38,
+   "text": "Y pueden ir a este highlight, van a ver, no se acaba, no se acaba, no se acaba. Y ahí voy a seguir subiendo. Todo el mundo haciendo cash. Ojo. 2K, llevamos ya a 4K, van a hacer 5K este mes, 4K al día, 3K al día, 15K en 3 días. Ahora, tal vez se estén preguntando cómo es que funciona este modelo de negocio y qué es exactamente lo que estoy haciendo y les voy a decir. Ahí quiero hacer una pausa. En este punto, la primera parte del video.",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3670.38,
+   "end": 3687.5,
+   "text": "Ya enseñé tanta prueba que no se puede negar y autoridad que lo que sea que diga después ya va a tener peso. Por eso lo creé de esta manera. Es un formato que no he aprobado tanto así, pero...",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3687.5,
+   "end": 3710.77,
+   "text": "El punto de este formato es como decir, vea, toda la prueba de que yo tengo los resultados, toda la prueba de que la gente que lo aplica tiene los resultados, y ahora lo que sea que yo diga, no importa si estoy vendiendo, si les digo que lo nuevo es productos físicos, que lo nuevo es vender cursos, que lo nuevo es vender servicios, ya van a poner atención, ¿verdad? Y no importa si el video de este punto de adelante es casual.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3710.77,
+   "end": 3719.44,
+   "text": "O si me veo casual, o si no me veo muy bien, o lo que sea, ya viene como con peso, ya como que creé ese momentum al principio.",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3720.21,
+   "end": 3747.6,
+   "text": "Lo único que se necesita es un celular y una cuenta de Instagram en donde ustedes puedan crecer su marca personal. Lo único que yo estoy haciendo es yendo a Instagram, creando contenido, la gente me manda un mensaje para aprender de mi programa, yo le mando información, los que se quieren unir, le mando un link de pago, pagan, entran al programa, la estallan como la gente de mis stories, de mis highlights que está haciendo cash y listo. Eso es todo lo que estoy haciendo.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.11
+  },
+  {
+   "start": 3747.6,
+   "end": 3770.0,
+   "text": "Esos 12K que hice ayer fue haciendo eso. Yo solo, sin un equipo de ventas, dedicándole dos o tres horas al día, sin tener que perseguir a la gente con márgenes de ganancia de más del 80%. Es un modelo simple, minimalista, sin complicaciones. Este modelo minimalista, digital, del nuevo mundo, exactamente lo que estoy haciendo. Dele click a este ad.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.027
+  },
+  {
+   "start": 3770.1,
+   "end": 3796.99,
+   "text": "A este video, a algún lugar y de fijo vaya a mi Instagram, vea mis stories, dele click al highlight de la impresora para que vea los resultados ustedes mismos con sus propios ojos y no me crea una palabra de lo que estoy diciendo, vaya a ver los resultados y va a ver que no solo me sirve a mi sino que le sirve a toda la otra gente, entonces dele click a este video, nos vemos ahí. Entonces ahí esa última parte fue el llamado a acción, ¿verdad?",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 3796.99,
+   "end": 3826.54,
+   "text": "Y además, algo que les dije que es demasiado poderoso es, no me crean ni una palabra lo que estoy diciendo, vaya a ver los resultados usted mismo. Y entonces la gente es como, ok, no le creo nada, voy a ir a verlo y cuando lo vean ya me van a creer. Entonces, eso es un ad que funciona súper bien. Este otro ad es Selfie. Yo sabía que usted podía hacer de 10 mil a 100 mil dólares al mes con su marca personal usando Instagram.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3826.58,
+   "end": 3858.74,
+   "text": "Sin un equipo, sin mandarle mensajes a desconocidos, sin complicaciones, simplemente usted, su celular e Instagram. Y lo único que tiene que hacer es hacer posts con redads muy simples y decirle a la gente que le va la mensaje para más información. Y si usted habla con la gente como una persona normal, la gente que quiere comprarle, puede comprarle por chat. Ni siquiera necesita llamadas de antes.",
+   "avg_logprob": -0.095,
+   "no_speech_prob": 0.049
+  },
+  {
+   "start": 3858.77,
+   "end": 3885.68,
+   "text": "Entonces si quieres aprender más de este modelo minimalista, que es lo que mejor está funcionando ahora, dale click a este video para más información. Ese es otro video que en realidad no tiene muchos elementos de los cuales estábamos hablando, de hecho no todos mis ads tienen los elementos, pero les voy a decir por qué igual no me preocupo tanto. Ese es un ad que mucha gente que ya me conocía vio, entonces ese es un ad que...",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3886.54,
+   "end": 3915.15,
+   "text": "Hay personas que lo vieron, pero esas personas ya han visto mis otros videos que enseñaban la prueba y la autoridad. Entonces, cuando ustedes ya tienen un grupo de personas que han visto muchos ads, muchos videos, han consumido la, o sea, saben que hay autoridad, saben que hay pruebas, saben que hay algo bueno pasando. Ustedes pueden crear un video que tal vez no tiene todos los elementos, es como más casual y no tiene, además, mucha estructura. Y puede que ese sea el video que los lleve a tomar acción.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3915.89,
+   "end": 3957.95,
+   "text": "También tenemos por aquí este video, bueno, este no sé si lo han visto, igual va a tener todos los links, entonces no quiero pasar demasiado tiempo viendo los ads, porque los pueden ver, pero este es uno que es como súper, totalmente diferente, casual, y este funcionó muy bien, también consiguió bastante hate, pero bueno, así es la cosa. Y literalmente haciendo esta llamada, aquí tenemos cuántas personas tenemos en este momento, tenemos, vean, saluden team, vean, todas las personas que tenemos, ojo ahí, pum pum pum pum pum.",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 3957.95,
+   "end": 3985.9,
+   "text": "Literalmente, no solo les estoy enseñando el blueprint de cómo imprimir cash, también están los pagos en vivo, 500 dólares justo en esta llamada, y justo les estaba enseñando cerrar cejos contestando DMs en Instagram, y estábamos viendo las conversaciones, y justo en el momento de la conversación, me puso aquí, bro, pasa mi link para pagar los 4.500 dólares, pero aquí no estoy mintiendo, ahí está, bro, pasa mi link de los 4.500.",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3987.25,
+   "end": 4015.86,
+   "text": "Ah, está ahí un blueprint, está ahí un blueprint. Si ustedes quieren aprender este blueprint, nada más denle click a este ad para conseguir información, ver un video, ahí va a poner más detalles de cuál es el siguiente paso para conseguir más información. Eso es todo. Ustedes lo saben con sus propios ojos. Si quieren acercarse, denle click a este ad. Y ese es un ad que de hecho grabé con, yo le dije al grupo, voy a grabar un ad mientras tenemos la sesión para que ustedes vean cómo grabar un ad de manera improvisada. Entonces los ads improvisados también funcionan muy bien porque se ve que es como...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 4015.95,
+   "end": 4040.75,
+   "text": "Pero yo siento que cuando uno hace un ad improvisado es porque uno ya más o menos tiene una estructura en la mente. Eso también es importante saberlo. Entonces, ¿qué es lo que vamos a hacer ahora? Lo que vamos a hacer ahora es grabar el video. Si ustedes tienen su propia oferta, si ustedes tienen su propia oferta, van a grabar un video para esa oferta y no importa si no queda perfecto.",
+   "avg_logprob": -0.02,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4041.26,
+   "end": 4068.21,
+   "text": "del todo no importa, ok, el primero no va a ser el ganador, la mayoría de los casos, entonces con su oferta van a, ya tienen que tener el diagnóstico, ya tienen que tener una versión del ad copy, van a grabar varias versiones del ad, ok, pueden grabar una en selfie, pueden grabar una en trípode, alguien más grabándolos y van a analizarlos y van a ver cuáles, cómo se ven, cuál sienten que es el mejor, pero recuérdense, el único que va a determinar",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4068.4,
+   "end": 4088.18,
+   "text": "¿Quién es el mejor? ¿Cuál es el mejor? Es el mercado una vez se prueba. Por eso es que hay que tomar acción masiva, imperfecta. Esto fue lo que me dijo mi mentor hace como 10 años o 9 años. Massive imperfect action. Tomar acción masiva que no es perfecta. Mandarlo y arreglarlo en el proceso.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4088.34,
+   "end": 4132.46,
+   "text": "Y eso es lo que van a hacer. Y si ya tienen sus clientes, entonces ya van a tener el diagnóstico ad copy y van a crear el ad para sus clientes. Pueden modelar uno de estos ads, pueden usar estos formatos y probar. Y solo así, solo así se gana este juego. Entonces, esta es la sesión de hoy. Espero haya sido valiosa y ahorita lo que vamos a hacer es hacer preguntas. Dani, Dani tiene una pregunta.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4159.38,
+   "end": 4166.7,
+   "text": "Cuando la gente me ve a mí hablando sobre Masterkey, no es Marius hablando sobre Masterkey.",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 4166.83,
+   "end": 4192.91,
+   "text": "Es Daniela Correa X hablando sobre Masterkey, entonces para Daniela Correa es una oferta nueva, yo soy una persona nueva que está building ese, bueno, building no, o sea, que tengo que show la autoridad, el undeniable proof, ¿verdad? Yo sé que la oferta es ganadora, yo soy cerradora de esa oferta, yo sé los ganadores que es, digamos, pero...",
+   "avg_logprob": -0.069,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 4192.91,
+   "end": 4212.59,
+   "text": "Yo no he sido la cara de eso, lo he sido hasta hace muy poco y hasta ahora es que la gente me está empezando a conocer por eso. Entonces, yo estoy haciendo un copy de oferta ganadora, pero tal vez tengo que irme un paso atrás y hacer eso que vos estabas diciendo de eso.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4212.59,
+   "end": 4240.1,
+   "text": "Leyendo el texto, diciendo las cosas y probar la variable más simple y no yo jugando golf, o sea, le meto demasiado, o sea, tengo muchas variables, yo jugando golf, o yo en el carro manejando, o yo a las 3 de la tarde en el salón de belleza, siento más bien ahora con lo que dijiste, son demasiadas variables para algo que yo estoy apenas iniciando a pesar de que sé que funciona.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.048
+  },
+  {
+   "start": 4240.1,
+   "end": 4270.16,
+   "text": "Este, y entonces me gustaría ahora, más bien, quiero agarrar ese copy, hacerlo más simple, la verdad más simple que yo pueda, literalmente así, yo hablando tal cual, y yo siempre pensaba como, bueno, primero quiero saber cómo, qué opinas de eso, como back to basics, o sea, me parece que es un poco más delete, pero es un delete simple, digamos. Sí, sí, eso es una excelente pregunta, de hecho, bueno, número uno.",
+   "avg_logprob": -0.114,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 4270.42,
+   "end": 4298.67,
+   "text": "Ponerse muy creativo con los ads y los formatos y la grabación y los ángulos, ¿verdad? Porque probablemente también usaste diferentes ángulos en diferentes videos. Eso es como hacerlo al revés, porque estamos haciendo todo este esfuerzo para hacer algo que es como el ejemplo de echarle perfume a Nala, ¿verdad? Entonces estamos echando todos estos perfumes a Nala, pero Nala está toda sucia.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 4299.25,
+   "end": 4313.47,
+   "text": "En ese caso lo mejor es eso, es irse a los basics y probar casi que dos variables, el texto y la oferta, nada más, eso con un formato muy simple que no...",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4313.47,
+   "end": 4339.86,
+   "text": "No tiene que ser el mejor, pero que no sea el peor tampoco. Entonces que uno sabe, ok, este formato, hay gente que le funciona, no es lo más creativo, pero a mucha gente le funciona. Y lo que es mi meta es probar la oferta y el ad copy. Entonces, grabar ads que sean más simples y dos, empezar a, bueno, pensar en cuál va a ser el approach, el método para promocionar esta oferta.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4339.86,
+   "end": 4368.27,
+   "text": "Ahora, en este caso, vos sos una afiliada. Básicamente, sos una afiliada de la oferta y estás generando la autoridad a el creador de la oferta. Entonces, así es como funciona esto. Cuando uno hace mercadeo de afiliados y uno está promocionando la oferta de otra persona, o uno está vendiendo otra persona, o uno está vendiendo otro programa, el approach en una opción es...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4368.82,
+   "end": 4381.01,
+   "text": "Que el anuncio esté dándole toda la autoridad, toda la prueba y todo esté apuntando hacia los que crearon la oferta ganadora. Por ejemplo.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4381.74,
+   "end": 4408.13,
+   "text": "Si actualmente usted es una persona que tiene un trabajo 9 a 5 y le gustaría empezar a invertir de manera simple y no solo eso, ordenar sus finanzas porque tal vez usted ahorita tiene un desastre con sus finanzas, tiene sus tarjetas, su deuda y le gustaría tener un plan de ataque para ya poder tener libertad financiera, le quiero contar de mi experiencia con un programa que se llama Masterkit que fue creado por Gus y Mari.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4408.13,
+   "end": 4433.7,
+   "text": "Y yo empecé en este programa y la verdad estaba demasiado perdida con mis finanzas, pero cuando pasé por este programa finalmente tuve claridad y esto me cambió la vida. De hecho, yo pasé de ser antes a ser después. Y esto fue gracias a este programa. De hecho, Gus y Mari ya llevan 10 años en finanzas, se retiraron desde los 35 años y ya empezaron a viajar por el mundo. Entonces, si usted es una persona que estaba en mi situación.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 4433.7,
+   "end": 4463.15,
+   "text": "Y le gustaría empezar este proceso y le gustaría conseguir más información de este programa, manden un mensaje y yo le puedo ayudar a contestar sus preguntas, a ver su situación también y ver si el programa es una buena opción para usted. Eso es un buen ad de afiliado, porque en el ad de afiliado uno está vendiendo la otra persona, uno está vendiendo el programa de otra persona. Eso es usualmente lo que se hace en affiliate. Otra opción de hacer affiliate es casi que no.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4463.15,
+   "end": 4481.23,
+   "text": "O sea, casi que crear un ad para la marca personal de uno y después mandarlos de otro lado a la oferta. Por ejemplo, puede ser como Hola, mi nombre es Dani y en los últimos años he estado enfocada en finanzas personales y ayudar a personas a...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4481.33,
+   "end": 4508.0,
+   "text": "Mejorar sus finanzas, invertir y si a vos te interesa este tema, te gustaría aprender más de cómo puedes hacerlo, estoy dando mucho contenido en mi Instagram, estoy grabando videos, tengo un grupo, si te interesaría unirte a ese, irte a esa dirección, seguime, mandame un mensaje y hablemos. Entonces como que el propósito ese es meterlos al ecosistema y una vez estados en el ecosistema, ahí pueden decirle como ok, yo les recomiendo este programa.",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4508.0,
+   "end": 4524.66,
+   "text": "Eso es usualmente lo que hacen los affiliates o los mandan directamente al programa vendiendo las personas que crearon el programa y el programa o los meten a su mundo, a su ecosistema con un ad relativamente general y después de ahí los mandan a la oferta de la otra persona. En ambos casos yo pienso que...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4524.69,
+   "end": 4550.75,
+   "text": "Tienes que analizar si crecer tu marca personal es una prioridad, es importante para vos. En ese caso sería bueno meterlos a tu mundo, ¿verdad? Y de tu mundo mandarlos a la oferta de afiliados. Para mercados afiliados, el negocio sigue siendo tu marca personal, pero la oferta es la de alguien más. Es muy importante recordarse de eso. O sea, si vas a crecer tu marca, si vas a ser afiliada, igual crea tu propio activo.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4550.75,
+   "end": 4579.82,
+   "text": "que es tu marca personal para que si la empresa que estás promocionando algún día no existe, no te quedas sin nada, ¿verdad? Igual tenés lo tuyo y nada más promueves tu propia oferta en el futuro la da alguien más. Entonces, crea varios ad copies, una promocionando como con tu historia, la experiencia del programa y puede ser un ad copy más general como para gente que quiere aprender de finanzas y después cuando entran a tu mundo, te mandan un mensaje, los apuntas a la oferta después de ahí.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 4582.13,
+   "end": 4611.47,
+   "text": "Yo soy una de las mentores financieras del equipo, entonces tengo como varios sombreros ahí, digamos, dentro de... Y lo otro era que yo siempre, como que yo veía tus ads que me gustaban mucho del proof y la autoridad cuando enseñas, cuando te caen las ventas y eso, yo decía, qué madre, o sea, yo no puedo enseñar eso porque mis ventas no caen así, mis ingresos no caen de esa forma, caen de otra, pero, perdón, ya viéndote, yo sí lo puedo hacer. Yo puedo enseñar todos los correos que me llegan.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 4611.6,
+   "end": 4633.94,
+   "text": "Todos los meses de todos los ingresos pasivos que yo tengo, como está este, este me cae el 15, este me cae el primero, esto me cae todos los 5, esto me cae no sé qué, y esto es todos los meses de mi vida, ¿verdad? Prácticamente haciendo demasiado poco, digamos, o sea, algo que no es mucho. Creo que lo puedo resolver así y después...",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 4634.16,
+   "end": 4662.56,
+   "text": "Meta, porque yo también tengo un montón de testimonios y de hecho hace poco ya los subí a mi IG, o sea, ya hice como un highlight como de testimonios de alumnos y es como, ok, y estos son, por ejemplo, algunos de los resultados de los alumnos, que es como las cosas, es como, bueno, ya he recibido tanta plata, es como, ya salí de deuda, ya estoy invirtiendo, ya estoy demasiado feliz porque tengo el carro libre, ya tengo, ya voy a empezar esta inversión, ya voy a, entonces, creo, como que hasta ahorita se me prende el foco escuchándote hablar en esta clase de, hey, yo también.",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4662.56,
+   "end": 4689.62,
+   "text": "No lo tengo en el mismo formato, pero lo tengo y lo puedo mostrar y ese es como el undeniable proof, o sea, de cómo es eso. Me gustaría hacer una versión así, ¿sabes? Como una versión, eso que acabas de decir, me encanta, de una, o sea, una de, en realidad yo quiero trabajar mi marca personal, digamos, no sé si es un error descartar la primera opción de un solo, de solo afiliada.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 4689.62,
+   "end": 4705.3,
+   "text": "Igual me parece una buena idea, pero bueno, podría test, test, test, la puedo testear. Me gustaría como hacer tres, entonces ahora como una full afiliada, una yo desarrollando mi marca personal y otra que sea esa como una...",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4705.3,
+   "end": 4722.26,
+   "text": "más alivianada de, hey, vean todo lo que me ha caído este mes, o sea, esto me cayó tal día, esto tal otro, esto tal otro, esto en este estado, esto no sé dónde, esto aquí, o sea, y después, hey, estos son los resultados de mis alumnos, talará, y...",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 4722.48,
+   "end": 4750.06,
+   "text": "Lo hice de esta forma, como muy resumido, ese video como de un minutito nada más, y si usted quiere saber más, bla, bla, bla. Y tendría ya como hay tres versiones que digamos que podría testear a ver cuál juega mejor, y me olvido de aquella, y me olvido como de lo que hablé la lección pasada, que era como, hey, me pongo a editar el video que tengo que me servía mucho, porque tiene demasiadas variables, o sea, pero bueno, eso era lo que... Sí, yo pienso...",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4750.06,
+   "end": 4776.19,
+   "text": "Sí, yo pienso que bueno, número uno, puedes probar esas tres cosas que dijiste, esos tres tipos de ads y todos mandarlos a mensajes y después ver cuál es el ad que te consigue más mensajes y un mejor retorno. Y ese es el approach que más va a funcionar. Eso lo vas a saber con base a números, ¿verdad? Los números te van a decir este formato con este tipo de ad, siendo full afiliado, siendo más general, me genera un mejor retorno de inversión. Al final, lo único que importa es...",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4776.19,
+   "end": 4805.6,
+   "text": "¿Cuánto se invirtió? ¿Cuánto se generó? Todos los negocios en el mundo son así. ¿Cuánto se generó? ¿Cuánto se invirtió? ¿Cuánto se generó? Y el profit. Entonces, sea cual sea el approach que pruebes, lo único que importa a gran escala es eso. Y también, bueno, el video que habías dicho que ibas a probar, cortarlo y eso, también no hay que descartarlo. Es otro test. No deja de ser otro test y se puede probar perfectamente. Entonces, yo siento que definitivamente",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 4805.6,
+   "end": 4839.34,
+   "text": "Tienes que sacar las herramientas, bueno eso es parte de la lección, es más, que es, todo el mundo tiene, todo el mundo tiene una caja de herramientas, verdad, verdad, todo el mundo tiene esto, entonces, mi caja de herramientas, yo aquí tengo un desatornillador, verdad, este desatornillador es mi cuenta de Stripe, ahí me llegan pagos ahí, yo puedo enseñarlos, pero tal vez vos no tenés cuenta de Stripe, no te llegan los pagos ahí, a vos te llegan...",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4839.34,
+   "end": 4867.09,
+   "text": "Por email, notificaciones de tus ingresos pasivos. Esa es tu herramienta. Digamos, puede que yo no la tenga. Entonces, cada uno tiene herramientas y tiene que ver cuáles tiene y usarlas lo mejor posible. Tal vez vos no tenés el income de Stripe, pero tenés otra que yo no tengo. Entonces, de eso se trata. Es como ver qué tengo, qué puedo usar y qué puedo usar de la mejor manera. Perfectamente podrías crear un ad que sea como un documento.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 4867.6,
+   "end": 4880.48,
+   "text": "Eso funciona súper bien también. Es otro formato como los que yo hago. ¿Cómo genero 3.277 dólares al mes de manera pasiva por los últimos 10 años?",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 4880.48,
+   "end": 4902.53,
+   "text": "Entonces, ese es el tema de este video. Lo primero que voy a hacer antes de decirte, de continuar con lo que sea, es enseñarte prueba de esto. De hecho, este es mi email, puedes ver aquí, estos son los últimos pagos y me devuelvo aquí 10 años, siguen entrando, así es como lo he hecho. O sea, es como un documento, leyendo, como lo mismo que yo hago, pero para esa oferta. Entonces...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4902.53,
+   "end": 4928.4,
+   "text": "Eso es lo bueno de este juego y es un juego muy, de hecho, ya digo entre comillas aburrido, pero en realidad para mí no es aburrido, es súper entretenido porque hay tantas combinaciones que uno puede hacer que más bien es como, a veces uno se puede confundir como por cuál empiezo. Por eso es que mi recomendación es siempre mantenerlo lo más simple posible, menos variables, mejor. Pero es muy entretenido porque uno puede volverse, se puede volver loco, loco de una forma buena, o sea como...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 4928.53,
+   "end": 4963.28,
+   "text": "Follow up question, digamos, es este...",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4963.41,
+   "end": 5005.62,
+   "text": "Ok, ok, sí, eso se los voy a pasar por el grupo, los detalles por ahí, entonces, para que como todo esto queda grabado, entonces esas preguntas específicas se las paso por el grupo. A ver, yo les paso todo eso. Entonces, ahí está bien, yo les paso todo. ¿Qué más? ¿Qué más? Tenemos una de José por aquí, creo. José Conejo.",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5005.94,
+   "end": 5040.06,
+   "text": "Ahí va, José. Buenos días. ¿Hacemos una hipotética relacionada a lo nuestro o que usemos una que ya existe? ¿Quieres aprovechar lo más que se pueda esta tarea que me estás poniendo? Ok, sí, digamos, hay diferentes formas que se puede hacer esta tarea. Número uno, si no, empecemos por la...",
+   "avg_logprob": -0.108,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5040.06,
+   "end": 5063.47,
+   "text": "¿Qué es como más fácil? Si uno ya tiene algo que vender, algo propio, un programa, un servicio, un coaching, eso ya queda súper claro, ok, esto es lo que voy a vender. Dos, si uno es afiliado, que vende el producto de alguien más, entonces, ¿qué es usualmente el plan B? Cuando uno tiene su propio producto, vende el de alguien más, ¿verdad? Por ejemplo, Dani, Dani está vendiendo el de alguien más.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 5063.47,
+   "end": 5071.47,
+   "text": "Es crear el ad, el, bueno y todo, el ad copy y el video, grabarlo para vender el de alguien más.",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 5071.76,
+   "end": 5100.4,
+   "text": "Y tres, para practicar es una estructura hipotética del ad copy y grabar eso en un video. Entonces, por ejemplo, digamos que uno vende, no tiene nada que ver con fitness, no tiene nada que ver con perder peso, ganar músculo, eso no es nuestro nicho. Entonces, pero en el programa está un ejemplo de ese ad copy y se puede grabar solo para ver cómo es el flow, ¿verdad? Ahora, acuérdense que como media buyer, muchas veces...",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 5100.59,
+   "end": 5117.63,
+   "text": "O sea, lo que uno escoge, si lo usa esta habilidad para su propio negocio, para clientes, usualmente el cliente graba los videos, entonces por ese lado, si se quieren ir por esa ruta, el cliente lo graba, pero para mí es muy importante aprender, para mí es demasiado importante aprender porque al final es...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5117.63,
+   "end": 5142.32,
+   "text": "Están metiendo herramientas en su caja, habilidades que van a usar eventualmente en un futuro. Todo el mundo eventualmente en el futuro va a grabar un ad aquí para su propia oferta del futuro. Entonces yo practicaría con el ejemplo hipotético del programa o con la oferta de alguien más. Puede ser este programa o pueden ser el de otro conocido o con su propia oferta. Esas son como las tres opciones.",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 5142.32,
+   "end": 5178.53,
+   "text": "O sea, esto es como un ejercicio, nada más puede ser con una idea.",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 5178.53,
+   "end": 5208.18,
+   "text": "¿Verdad? Al final, perfectamente, no hay problema. Gracias. Con gusto. Por aquí, Mario. ¿Le va, Mario? Gracias, Sebas. Muy buena sesión, gracias. Sebas, pregunta. Digamos que en el lado de generar valor, ¿verdad? Donde no hay world proof que mencionabas.",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5208.37,
+   "end": 5232.96,
+   "text": "Supongamos que estamos vendiendo este servicio y queremos crear ads para vender este servicio, ¿verdad? Pero somos nuevos en el negocio, estamos aprendiendo esta habilidad y queremos empezar a comercializarlo online también para atraer clientes para nuestro negocio de Media Buyers. ¿Cuál crees que sea una buena recomendación como para iniciar desde cero? Porque no tenemos esa parte de la prueba.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 5232.96,
+   "end": 5260.4,
+   "text": "Pero si queremos empezar a atraer clientes, ¿cuál sería tu recomendación de ese lado? Y la otra es, si podrías ayudarnos tal vez a cargar un documento en el Drive, donde tengamos algunos ejemplos de los prompts que utilizas para pedirle al AI que cree algunos ejercicios de los que hemos visto también. Ok, ok, sí, la segunda es que ya están los prompts.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 5260.4,
+   "end": 5284.85,
+   "text": "es un solo prompt en realidad que con ese el ad copy sale súper bien pero bueno ahí puedo seguir agregando al documento y el link ya está en el área miembros en la sesión de la vez pasada y en la sección de recursos que agregué una sección de recursos en el área miembro ahí están todos los documentos, ad copies, done for you entonces ahí lo pueden ver eso por ese lado es nada más de reemplazar la información del prompt con la información del negocio a la cual le quieren crear el ad",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 5285.39,
+   "end": 5295.42,
+   "text": "Y la primera pregunta es, vuelve al ejemplo de la caja de herramientas, ¿cuáles herramientas tiene y cuáles se pueden usar? Y a veces uno no tiene la herramienta de autoridad.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 5295.42,
+   "end": 5317.98,
+   "text": "Entonces, tienen que jugar con las que tienen, ¿verdad? Porque uno no puede fabricar autoridad, si no la tiene, digamos. O uno no puede fabricar on the now the proof si no la tiene. Entonces, muchas veces es jugar con las herramientas que uno tiene y a veces lo que uno tiene es el conocimiento del ad copy, crear buenos ads y a veces no tiene la prueba, pero...",
+   "avg_logprob": -0.123,
+   "no_speech_prob": 0.029
+  },
+  {
+   "start": 5317.98,
+   "end": 5340.0,
+   "text": "Pero, no sé, porque tal vez uno está promocionando el producto de alguien más, o sea, cual sea la razón, digamos que uno tiene una herramienta, igual uno crea la ad copy de la mejor manera posible, lo dice de la mejor manera posible, y eso funciona, o sea, no es que si no tienen una variable no va a funcionar, si va a funcionar, probablemente, tal vez no funcione tan bien, yo tengo un montón de clientes que...",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 5340.0,
+   "end": 5369.62,
+   "text": "Y están empezando desde cero, están consiguiendo sus primeros clientes, pero tienen una habilidad muy buena y no tienen casos de estudio ni nada de eso, igual llevan un montón de leads, leads por un dólar, un dólar y medio, dos dólares y tienen llamadas y cierran ventas, entonces es 100% posible, nada más que uno juega con lo que tiene y conforme va pasando el tiempo uno va agregando herramientas y todo se vuelve más fácil, ¿verdad? Si yo creo un ad ahorita, ya es tanto tiempo haciendo lo mismo.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.027
+  },
+  {
+   "start": 5369.71,
+   "end": 5373.2,
+   "text": "Como consiguiendo momentum en el mismo tema que...",
+   "avg_logprob": -0.097,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 5373.2,
+   "end": 5401.86,
+   "text": "Ya uno siempre tiene las herramientas para el ad, entonces si yo creo un nuevo ad ahorita, yo puedo sacar todas mis herramientas, ponerlas todas en la mesa y usarlas todas porque ya las tengo, entonces como que llega un punto donde se vuelve más fácil en ese sentido, pero igual si no las tuviera, con solo la habilidad de crear un buen ad copy, yo sé que puedo crear un ad que sea rentable, entonces es como eso, uno ve lo que tiene y lo usa y también sigue enfocándose en...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 5401.86,
+   "end": 5418.61,
+   "text": "Conseguir más herramientas. Por eso es que uno siempre tiene que estar desarrollando habilidades a lo largo del tiempo. Uno tiene que estar mejorando su habilidad de venta, mejorando su habilidad de marketing, de comunicación, porque así uno llega y llega a un punto en donde tiene tantas herramientas que es casi imposible no hacer cash. Es casi imposible no ser súper exitoso.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.015
+  }
+ ]
+}

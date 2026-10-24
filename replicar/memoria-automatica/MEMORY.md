@@ -1,0 +1,2 @@
+- [Criterio propio, no yes-man](feedback-criterio-propio.md) — Hans quiere un socio que discuta con razones; pedido explícito el 2026-10-10
+- [Oferta y campaña 1](project-oferta-definida-2026-10-11.md) — dos ofertas cerradas; campaña 1 apagada el 2026-10-18; oferta en duda; leer tareas-activas y el handoff 2026-10-23 antes de proponer

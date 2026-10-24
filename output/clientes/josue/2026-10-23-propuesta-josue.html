@@ -1,0 +1,344 @@
+<title>Propuesta para Josué</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<style>
+  /* Hoja de producto centrada: cabecera con firma, dos pestañas (la propuesta y el plan para el broker), tarjetas con aire */
+  :root {
+    --ground:#F5F6F8; --surface:#FFFFFF; --surface-2:#F7F8FA;
+    --ink:#101828; --ink-soft:#475467; --ink-faint:#667085;
+    --line:#E2E5EA; --line-strong:#98A2B3;
+    --accent:#7C3AED; --accent-ink:#5B32D6; --accent-wash:#F4F2FF;
+    --ok:#047857; --ok-wash:#ECFDF5; --warn-ink:#92400E; --warn-wash:#FEF3C7; --warn:#D97706;
+    --on-accent:#FFFFFF;
+    --brand:linear-gradient(90deg,#2140FE 0%,#7900ED 38%,#E500A5 70%,#FC7466 100%);
+    --sans:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+    --mono:"JetBrains Mono",ui-monospace,"Cascadia Mono",Consolas,monospace;
+    --r:12px; --r-s:8px; --measure:66ch;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:#0B0F16; --surface:#131822; --surface-2:#1A2029;
+      --ink:#E7EAF0; --ink-soft:#A3ADBA; --ink-faint:#8B95A3;
+      --line:#262D38; --line-strong:#3B4552;
+      --accent:#A78BFA; --accent-ink:#C4B5FD; --accent-wash:#1E1A33;
+      --ok:#34D399; --ok-wash:#0F2A22; --warn-ink:#FBBF24; --warn-wash:#2A2110; --warn:#FBBF24;
+      --on-accent:#1A1030;
+      color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:#0B0F16; --surface:#131822; --surface-2:#1A2029;
+    --ink:#E7EAF0; --ink-soft:#A3ADBA; --ink-faint:#8B95A3;
+    --line:#262D38; --line-strong:#3B4552;
+    --accent:#A78BFA; --accent-ink:#C4B5FD; --accent-wash:#1E1A33;
+    --ok:#34D399; --ok-wash:#0F2A22; --warn-ink:#FBBF24; --warn-wash:#2A2110; --warn:#FBBF24;
+    --on-accent:#1A1030;
+    color-scheme:dark;
+  }
+
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--ground); color:var(--ink); font-family:var(--sans);
+         font-size:1rem; line-height:1.55; -webkit-font-smoothing:antialiased; }
+  body::before { content:""; position:fixed; inset:0 0 auto; height:env(safe-area-inset-top,0px); z-index:10; background:var(--surface); }
+  ::selection { background:var(--accent-wash); }
+  :focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+  h1,h2,h3 { margin:0; color:var(--ink); text-wrap:balance; }
+  p { margin:0; }
+
+  .sheet { max-width:64rem; margin:0 auto; background:var(--surface); min-height:100%;
+           border-left:1px solid var(--line); border-right:1px solid var(--line); }
+  .brandrule { height:5px; background:var(--brand); }
+  .wrap { padding-left:max(16px, env(safe-area-inset-left,0px)); padding-right:max(16px, env(safe-area-inset-right,0px)); }
+  @media (min-width:48rem) { .wrap { padding-left:max(2.5rem, env(safe-area-inset-left,0px)); padding-right:max(2.5rem, env(safe-area-inset-right,0px)); } }
+
+  /* cabecera */
+  .top { background:var(--surface-2); padding-block:1.1rem 1.6rem; display:flex; flex-direction:column; gap:1.3rem; }
+  .top-row { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:0.5rem 1rem; }
+  .brandbar { display:flex; align-items:center; gap:0.6rem; }
+  .logomark { height:1.4rem; width:auto; display:block; }
+  .brandbar span { font-weight:800; font-size:1rem; letter-spacing:-0.03em; }
+  .sello { font-family:var(--mono); font-size:0.72rem; color:var(--ink-faint); }
+  .hero { display:flex; flex-direction:column; gap:0.6rem; max-width:52rem; }
+  .eyebrow { font-family:var(--mono); font-size:0.72rem; font-weight:500; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent-ink); }
+  h1 { font-size:clamp(1.7rem,4.6vw,2.6rem); font-weight:800; letter-spacing:-0.035em; line-height:1.1; }
+  .lead { font-size:clamp(1rem,1.9vw,1.12rem); color:var(--ink-soft); max-width:var(--measure); }
+  .para { font-size:0.9rem; color:var(--ink-faint); }
+  .para b { color:var(--ink); }
+
+  /* pestañas */
+  .tabs { position:sticky; top:env(safe-area-inset-top,0px); z-index:4; background:var(--surface);
+          border-bottom:1px solid var(--line); display:flex; gap:0.2rem; overflow-x:auto; scrollbar-width:none; }
+  .tabs::-webkit-scrollbar { display:none; }
+  .tab { flex:0 0 auto; background:none; border:none; border-bottom:3px solid transparent; padding:0.9rem 0.75rem 0.7rem;
+         font:600 0.95rem var(--sans); color:var(--ink-soft); cursor:pointer; white-space:nowrap; }
+  .tab:hover { color:var(--ink); }
+  .tab[aria-selected="true"] { color:var(--accent-ink); border-bottom-color:var(--accent); }
+
+  .panel { padding-block:1.8rem 2.4rem; display:flex; flex-direction:column; gap:2.2rem; }
+  .sec { display:flex; flex-direction:column; gap:0.9rem; }
+  .sec-head { display:flex; flex-direction:column; gap:0.25rem; }
+  .sec-head h2 { font-size:clamp(1.2rem,2.6vw,1.5rem); font-weight:800; letter-spacing:-0.025em; line-height:1.2; }
+  .sec-head p { color:var(--ink-soft); font-size:0.95rem; max-width:var(--measure); }
+  .label { font-family:var(--mono); font-size:0.68rem; font-weight:500; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-faint); }
+
+  /* cifras del trato */
+  .cifras { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:0.8rem; }
+  @media (max-width:52rem) { .cifras { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+  .cifra { border:1px solid var(--line); border-radius:var(--r); background:var(--surface); padding:1rem 1.05rem;
+           display:flex; flex-direction:column; gap:0.3rem; min-width:0; }
+  .cifra.principal { border:2px solid var(--accent); background:var(--accent-wash); }
+  .cifra .num { font-size:clamp(1.8rem,4vw,2.3rem); font-weight:800; letter-spacing:-0.04em; line-height:1; color:var(--ink);
+                font-variant-numeric:tabular-nums; }
+  .cifra.principal .num { color:var(--accent-ink); }
+  .cifra p { font-size:0.88rem; line-height:1.45; color:var(--ink-soft); }
+
+  /* qué recibe */
+  .recibe { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(min(18rem,100%),1fr)); gap:0.8rem; }
+  .item { border:1px solid var(--line); border-radius:var(--r); background:var(--surface); padding:1rem 1.1rem;
+          display:flex; flex-direction:column; gap:0.45rem; min-width:0; }
+  .item h3 { font-size:1rem; font-weight:700; letter-spacing:-0.01em; }
+  .item p, .item li { font-size:0.9rem; line-height:1.5; color:var(--ink-soft); }
+  .item ul { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.35rem; }
+  .item li { padding-left:1.05rem; position:relative; }
+  .item li::before { content:""; position:absolute; left:0.1rem; top:0.6em; width:0.38rem; height:0.38rem; border-radius:50%; background:var(--accent); }
+  .tag { align-self:flex-start; font-family:var(--mono); font-size:0.66rem; letter-spacing:0.06em; text-transform:uppercase;
+         padding:0.12rem 0.5rem; border-radius:var(--r-s); border:1px solid var(--line-strong); color:var(--ink-faint); }
+
+  .dos { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0.9rem; }
+  @media (max-width:44rem) { .dos { grid-template-columns:1fr; } }
+  .caja { border:1px solid var(--line); border-radius:var(--r); background:var(--surface); padding:1rem 1.15rem;
+          display:flex; flex-direction:column; gap:0.7rem; min-width:0; }
+  .caja.hundida { background:var(--surface-2); }
+  .caja h3 { font-size:1.02rem; font-weight:700; }
+  ul.puntos { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.55rem; font-size:0.92rem; line-height:1.5; color:var(--ink-soft); }
+  ul.puntos li { padding-left:1.2rem; position:relative; }
+  ul.puntos li::before { content:""; position:absolute; left:0.1rem; top:0.58em; width:0.42rem; height:0.42rem; border-radius:50%; background:var(--accent); }
+  ul.puntos strong { color:var(--ink); }
+
+  .aviso { border:1px solid var(--line); border-left:3px solid var(--warn); border-radius:var(--r); background:var(--surface-2);
+           padding:0.9rem 1.1rem; display:flex; flex-direction:column; gap:0.55rem; }
+  .aviso h3 { font-size:1rem; }
+
+  ol.pasos { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:0.8rem; counter-reset:p; }
+  @media (max-width:44rem) { ol.pasos { grid-template-columns:1fr; } }
+  ol.pasos li { counter-increment:p; border:1px solid var(--line); border-radius:var(--r); padding:0.95rem 1.05rem; display:flex; flex-direction:column; gap:0.35rem; background:var(--surface); }
+  ol.pasos li::before { content:counter(p); font-family:var(--mono); font-size:0.75rem; color:var(--on-accent); background:var(--accent);
+                        width:1.6rem; height:1.6rem; border-radius:var(--r-s); display:grid; place-items:center; }
+  ol.pasos b { font-size:0.97rem; }
+  ol.pasos span { font-size:0.88rem; color:var(--ink-soft); line-height:1.45; }
+
+  .cta { align-self:flex-start; display:inline-flex; align-items:center; gap:0.5rem; border:none; border-radius:var(--r-s);
+         background:var(--brand); color:#FFFFFF; font:700 0.95rem var(--sans); padding:0.75rem 1.2rem; cursor:pointer; }
+  .cta:hover { filter:brightness(1.06); }
+
+  /* plan para el broker */
+  .ab { display:grid; grid-template-columns:minmax(0,1fr) auto minmax(0,1fr); gap:0.8rem; align-items:stretch; }
+  .ab .flecha { align-self:center; font-family:var(--mono); color:var(--accent-ink); font-size:1.2rem; }
+  @media (max-width:44rem) { .ab { grid-template-columns:1fr; } .ab .flecha { justify-self:center; transform:rotate(90deg); } }
+  .falta { display:inline-block; font-family:var(--mono); font-size:0.78rem; color:var(--warn-ink); background:var(--warn-wash);
+           border:1px dashed var(--warn); border-radius:var(--r-s); padding:0.02rem 0.45rem; white-space:nowrap; }
+
+  ol.semanas { list-style:none; margin:0; padding:0; display:flex; flex-direction:column; position:relative; }
+  ol.semanas li { display:grid; grid-template-columns:6.2rem minmax(0,1fr); gap:0.2rem 1.1rem; padding:0.85rem 0; border-bottom:1px solid var(--line); }
+  ol.semanas li:last-child { border-bottom:none; }
+  .sem { font-family:var(--mono); font-size:0.74rem; color:var(--accent-ink); padding-top:0.15rem; }
+  .sem-body { display:flex; flex-direction:column; gap:0.2rem; min-width:0; }
+  .sem-body b { font-size:0.96rem; }
+  .sem-body p { font-size:0.89rem; color:var(--ink-soft); line-height:1.5; }
+  .quien { font-size:0.78rem; color:var(--ink-faint); }
+  @media (max-width:34rem) { ol.semanas li { grid-template-columns:1fr; } }
+
+  .tbl-wrap { overflow-x:auto; border:1px solid var(--line); border-radius:var(--r); background:var(--surface); }
+  table.tbl { border-collapse:collapse; width:100%; min-width:32rem; font-size:0.88rem; line-height:1.45; }
+  .tbl th, .tbl td { text-align:left; vertical-align:top; padding:0.6rem 0.85rem; border-top:1px solid var(--line); }
+  .tbl thead th { border-top:none; font-family:var(--mono); font-size:0.68rem; font-weight:500; letter-spacing:0.06em; text-transform:uppercase;
+                  color:var(--accent-ink); background:var(--accent-wash); white-space:nowrap; }
+  .tbl td { color:var(--ink-soft); }
+  .tbl td:first-child { color:var(--ink); font-weight:700; }
+  .tbl td.num { color:var(--ink); font-weight:600; font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .tbl tr.destacada td { background:var(--accent-wash); }
+  .formula { font-family:var(--mono); font-size:0.82rem; color:var(--ink-soft); background:var(--surface-2); border:1px solid var(--line);
+             border-radius:var(--r); padding:0.8rem 1rem; display:flex; flex-direction:column; gap:0.3rem; overflow-x:auto; }
+  .formula b { color:var(--ink); font-weight:500; }
+  .nota { font-size:0.86rem; color:var(--ink-faint); max-width:var(--measure); }
+
+  .pie { border-top:1px solid var(--line); background:var(--surface-2); padding-block:1rem; display:flex; flex-wrap:wrap;
+         justify-content:space-between; gap:0.4rem 1.5rem; font-size:0.85rem; color:var(--ink-soft); }
+  .pie b { color:var(--ink); }
+</style>
+<style>
+  .main-wrap { display:flex; flex-direction:column; }
+  .borrador { border:1px dashed var(--warn); background:var(--warn-wash); color:var(--warn-ink); border-radius:var(--r-s);
+              padding:0.55rem 0.8rem; font-size:0.85rem; }
+  a.cta { text-decoration:none; }
+</style>
+
+<style>
+  .fuentes { display:flex; flex-direction:column; gap:0.4rem; border-top:1px solid var(--line); padding-top:0.7rem; }
+  .fuentes ul { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.45rem; }
+  .fuentes li { font-size:0.84rem; line-height:1.5; color:var(--ink-soft); }
+  .fuentes a { color:var(--accent-ink); font-weight:600; text-decoration:underline; text-underline-offset:2px; }
+</style>
+<div class="sheet">
+  <div class="brandrule"></div>
+  <header class="top wrap">
+    <div class="top-row">
+      <div class="brandbar"><svg class="logomark" viewBox="0 0 2000 1551" role="img" aria-label="Momentum AI"><defs><linearGradient id="mg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#2140FE"/><stop offset=".38" stop-color="#7900ED"/><stop offset=".7" stop-color="#E500A5"/><stop offset="1" stop-color="#FC7466"/></linearGradient></defs><path fill="url(#mg)" d="M0.00 409.50C-0.00 183.34 183.34 0.00 409.50 0.00L530.17 0.00C756.33 -0.00 939.67 183.34 939.67 409.50L939.67 1168.20C939.67 1201.52 966.68 1228.53 1000.00 1228.53C1033.32 1228.53 1060.33 1201.52 1060.33 1168.20L1060.33 409.50C1060.33 183.34 1243.67 0.00 1469.83 0.00L1590.50 0.00C1816.66 -0.00 2000.00 183.34 2000.00 409.50L2000.00 1346.25C2000.00 1459.33 1908.33 1551.00 1795.25 1551.00C1682.17 1551.00 1590.50 1459.33 1590.50 1346.25L1590.50 368.70C1590.50 335.38 1563.49 308.37 1530.17 308.37C1496.85 308.37 1469.83 335.38 1469.83 368.70L1469.83 1141.50C1469.83 1367.66 1286.49 1551.00 1060.33 1551.00L939.67 1551.00C713.51 1551.00 530.17 1367.66 530.17 1141.50L530.17 368.70C530.17 335.38 503.15 308.37 469.83 308.37C436.51 308.37 409.50 335.38 409.50 368.70L409.50 1346.25C409.50 1459.33 317.83 1551.00 204.75 1551.00C91.67 1551.00 0.00 1459.33 0.00 1346.25Z"/></svg><span>Momentum AI</span></div>
+      <span class="sello">23 de octubre de 2026</span>
+    </div>
+    <div class="hero">
+      <span class="eyebrow">Propuesta de servicio</span>
+      <h1>Llamadas con personas que tienen capital para invertir, y saber qué anuncio las trae</h1>
+      <p class="lead">Anuncios suyos en Instagram, mensajes listos para calificar a quien escribe y un sistema que mide cada conversación. Usted contesta, presenta y cierra; yo armo y mido el resto. Mis honorarios, solo si usted gana.</p>
+      <p class="para">Para <b>Josué Miranda</b> · de <b>Hans Villalobos</b></p>
+    </div>
+  </header>
+
+  <main class="panel wrap">
+
+    <section class="sec">
+      <div class="sec-head">
+        <span class="label">El trato</span>
+        <h2>Usted me paga solo cuando gana</h2>
+      </div>
+      <div class="cifras">
+        <div class="cifra principal"><span class="num">10 %</span><p>de lo que usted gana con cada cliente que llegó por el anuncio.</p></div>
+        <div class="cifra"><span class="num">$0</span><p>al mes de honorarios. La pauta va aparte, directo a Meta.</p></div>
+        <div class="cifra"><span class="num">90 días</span><p>y revisamos con los números. Si quiere seguir solo con comisión, seguimos así.</p></div>
+        <div class="cifra"><span class="num">30 días</span><p>de aviso para salir, sin plazo mínimo.</p></div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head">
+        <span class="label">Qué recibe</span>
+        <h2>Del primer anuncio a la llamada, medido</h2>
+      </div>
+      <ul class="recibe">
+        <li class="item">
+          <span class="tag">Arranque</span>
+          <h3>Diagnóstico y revisión de su oferta</h3>
+          <p>60 minutos sobre a quién le habla, qué le preocupa a ese inversionista, el capital mínimo y cómo califica a un prospecto. Con eso reviso su oferta (qué ofrece, a quién y por qué ahora) y le propongo los ajustes antes del primer anuncio.</p>
+        </li>
+        <li class="item">
+          <span class="tag">Anuncios</span>
+          <h3>Varios anuncios, no uno</h3>
+          <p>El primer anuncio rara vez es el que gana. Por eso le escribo tres guiones con ángulos distintos y los graba el mismo día, hasta 90 segundos cada uno, con el celular.</p>
+          <ul>
+            <li>Se prueba uno a la vez. Si no da resultado según las reglas, entra el siguiente.</li>
+            <li>Cada mes, un ángulo nuevo con lo que dicen las conversaciones.</li>
+            <li>La campaña va en su cuenta: Reels de Instagram, en Costa Rica.</li>
+          </ul>
+        </li>
+        <li class="item">
+          <span class="tag">Mensajes</span>
+          <h3>Mensajes listos para contestar</h3>
+          <p>Le dejo escritos los mensajes de cada momento: el primero, dos preguntas para saber si la persona tiene el capital y está lista, la invitación a la llamada con dos horarios, los recordatorios y los seguimientos. Los contesta usted o su asistente, como una conversación normal.</p>
+        </li>
+        <li class="item">
+          <span class="tag">Medición</span>
+          <h3>Saber qué anuncio trae a los buenos</h3>
+          <ul>
+            <li>Cada contacto queda registrado con el anuncio que lo trajo, con lo que su CRM ya tiene o en una planilla. Si quiere que su CRM lo marque solo, es un desarrollo aparte que se cotiza.</li>
+            <li>Le aviso a Meta qué contactos avanzan, sin montos, para que busque más personas como ellos.</li>
+            <li>Leo las conversaciones, y el siguiente anuncio habla de lo que de verdad preguntan.</li>
+          </ul>
+        </li>
+        <li class="item">
+          <span class="tag">Llamada</span>
+          <h3>La llamada que cierra</h3>
+          <p>Un guion para la llamada que viene del anuncio, armado con usted sobre cómo ya cierra. Y, con el consentimiento del prospecto, la revisión de llamadas grabadas para ver dónde se cae el cierre.</p>
+        </li>
+        <li class="item">
+          <span class="tag">Cada semana</span>
+          <h3>Reporte y números</h3>
+          <p>Cada lunes, un reporte con lo invertido, las conversaciones, los calificados, las llamadas y los clientes nuevos. Cada mes, la cuenta de pérdidas y ganancias: cuánto se invirtió en pauta, cuánto ganó usted con esos clientes y el retorno.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="sec">
+      <div class="dos">
+        <div class="caja">
+          <span class="label">Qué pone usted</span>
+          <ul class="puntos">
+            <li><strong>Grabar</strong> las tres versiones en los 7 días siguientes a recibir los guiones.</li>
+            <li><strong>Contestar</strong> los mensajes en menos de 5 minutos, usted o su asistente, con los textos que le dejo.</li>
+            <li><strong>Hacer las llamadas</strong> y anotar qué pasó con cada prospecto.</li>
+            <li><strong>La pauta en Meta,</strong> desde USD 10 al día. La puede financiar el broker.</li>
+          </ul>
+        </div>
+        <div class="caja">
+          <span class="label">Cómo se cobra</span>
+          <ul class="puntos">
+            <li><strong>10 % de lo que usted gana</strong> con cada cliente que llegó por el anuncio: la comisión, el honorario y lo que le llegue cada semana o cada mes mientras ese cliente siga invirtiendo.</li>
+            <li><strong>Una vez al mes,</strong> contra el estado de cuenta que le manda el broker.</li>
+            <li><strong>Sin monto mensual.</strong> Mis honorarios, solo si usted gana. La pauta es aparte.</li>
+            <li>Cada contacto del anuncio queda registrado, así los dos sabemos qué cliente vino de ahí.</li>
+            <li><strong>A los 90 días</strong> revisamos con los números. Cualquier cambio en la forma de cobro lo tiene que aceptar usted.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head">
+        <span class="label">Cómo sale</span>
+        <h2>Cómo sale, si un día quiere</h2>
+      </div>
+      <div class="dos">
+        <div class="caja hundida">
+          <ul class="puntos">
+            <li><strong>Cuando quiera,</strong> con 30 días de aviso y sin plazo mínimo.</li>
+            <li><strong>Si le cambio las condiciones</strong> y no las acepta, sale de inmediato.</li>
+            <li><strong>El 10 % sigue 12 meses</strong> sobre los clientes que ya llegaron por el anuncio.</li>
+          </ul>
+        </div>
+        <div class="caja hundida">
+          <ul class="puntos">
+            <li><strong>Se queda con todo lo suyo:</strong> cuenta publicitaria, página, videos, guiones y datos.</li>
+            <li><strong>Lo instalado en su CRM sigue funcionando,</strong> sin mensualidad para mí.</li>
+            <li>Si algo corre en mis cuentas, pasa a las suyas con 30 días de aviso.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="aviso">
+      <h3>Lo que se anuncia</h3>
+      <ul class="puntos">
+        <li><strong>Su asesoría y su forma de trabajar,</strong> sin prometer rendimientos, ni garantizados ni pasados.</li>
+        <li><strong>El copy trading apalancado no se anuncia:</strong> si su broker lo opera como CFD, Meta lo prohíbe, y los anuncios con rendimientos del trader tampoco se permiten. En la llamada usted ofrece lo que le sirva al cliente.</li>
+        <li>Los términos se confirman por escrito.</li>
+      </ul>
+      <div class="fuentes">
+        <span class="label">Fuentes</span>
+        <ul>
+          <li><a href="https://transparency.meta.com/policies/ad-standards/restricted-goods-services/financial-services" target="_blank" rel="noopener">Meta · Política de productos y servicios financieros</a>: entre los productos prohibidos en anuncios está el «Contract for Difference trading» (CFD), junto con las opciones binarias y las ofertas iniciales de monedas.</li>
+          <li><a href="https://transparency.meta.com/policies/ad-standards/deceptive-content/prohibited-commercial-practices/" target="_blank" rel="noopener">Meta · Prácticas comerciales prohibidas</a>: no se permiten rendimientos garantizados ni anuncios que usen ganancias pasadas para que se espere que se repitan.</li>
+          <li><a href="https://www.esma.europa.eu/node/200553" target="_blank" rel="noopener">ESMA (regulador de valores de la Unión Europea) · Guía de supervisión del copy trading</a>: el copy trading atrae sobre todo a inversionistas con poca experiencia y está bajo vigilancia de los reguladores.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head">
+        <span class="label">Siguientes pasos</span>
+        <h2>Cómo arrancamos</h2>
+      </div>
+      <ol class="pasos">
+        <li><b>Confirmamos los términos</b><span>Por escrito, con lo que está en esta página.</span></li>
+        <li><b>Diagnóstico y revisión de la oferta</b><span>Con eso escribo los tres guiones.</span></li>
+        <li><b>Plan para el broker</b><span>Lo completamos con sus números para que se lo presente y financie la pauta.</span></li>
+      </ol>
+      <a class="cta" href="https://claude.ai/artifact/Wxc3N4zd7CfkvtmphPFi3y">Ver el plan para el broker</a>
+    </section>
+  </main>
+
+  <footer class="pie wrap">
+    <span><b>Hans Villalobos</b> · Momentum AI</span>
+    <span>Propuesta del 23 de octubre de 2026</span>
+  </footer>
+</div>
