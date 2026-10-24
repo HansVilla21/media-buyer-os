@@ -24,8 +24,8 @@ Lo que no trae:
 | Falta | Por qué | Qué hacer |
 |---|---|---|
 | Los videos del curso (3 GB) | la materia prima ya es la transcripción | solo para retranscribir: están en la máquina de Hans (`inputs/curso/LEEME.md`) |
-| `.venv/` y `.cache/` (6,7 GB) | el entorno y los modelos del transcriptor se reinstalan | paso 6, solo si hay videos nuevos |
-| Lo que vive fuera de la carpeta | el cerebro, los otros departamentos, los conectores de la cuenta de Claude | paso 5 |
+| `.venv/` y `.cache/` (6,7 GB) | el entorno y los modelos del transcriptor se reinstalan | paso 5, solo si hay videos nuevos |
+| Lo que vive fuera de la carpeta | el cerebro, los otros departamentos, los conectores de la cuenta de Claude | paso 4 |
 
 ## 1. Clonar
 
@@ -42,11 +42,13 @@ gh repo clone HansVilla21/media-buyer-os . -- -c core.longpaths=true
 - **Después de clonar,** `git status` sale limpio y las cuentas dan: 20 skills, 10 transcripciones, 10
   exámenes y 15 notas del manual. Si no, se para y se le dice a Hans.
 - Si la carpeta no está vacía, se clona en una subcarpeta y se le pregunta a Hans antes de mover nada.
+  Desde ahí, todo se hace en la carpeta del clon.
 - Después se lee `CLAUDE.md` entero: la sesión no lo cargó al abrir, porque la carpeta estaba vacía.
 
 ## 2. Una pregunta a Hans: ¿para qué es la réplica?
 
-- **A · El mismo caso, en otra carpeta o en otra máquina.** No se cambia nada. Sigue en el paso 4.
+- **A · El mismo caso, en otra carpeta o en otra máquina.** No se cambia nada, y `origin` sigue siendo
+  este repositorio. Sigue en el paso 4.
 - **B · Otro producto de Hans.** Paso 3.
 - **C · El producto de otra persona**, un cliente del servicio de media buying. Paso 3.
 
@@ -59,10 +61,13 @@ Meta se va a pautar.
 ejemplo, `construir-oferta` remite a `output/oferta/2026-10-11-oso-y-gso-sistemas-a-medida.md`). Si se
 mueven, esas referencias se rompen.
 
-1. **Las carpetas del producto:** `inputs/clientes/<producto>/` para lo que traiga el dueño (llamadas,
+1. **Git:** la réplica no sube nada al repositorio del original. `git remote rename origin original`: así
+   puede traer lo que el original aprenda (ver «Mantener la réplica») sin empujarle nada por error. Un
+   repositorio propio para la réplica se crea solo si Hans lo pide.
+2. **Las carpetas del producto:** `inputs/clientes/<producto>/` para lo que traiga el dueño (llamadas,
    datos, material) y `output/clientes/<producto>/` para lo que se produzca. La estructura ya está hecha
    para varios clientes.
-2. **La memoria:**
+3. **La memoria:**
    - `memory/tareas-activas.md` se reescribe para el producto nuevo. Primera línea: «El caso Hans quedó
      como antecedente; su estado al 2026-10-23 está en `memory/session-handoff-2026-10-23.md`».
    - `memory/proyecto.md`: arriba, el estado de la réplica. Lo de Hans queda abajo, bajo «Caso Hans
@@ -70,7 +75,13 @@ mueven, esas referencias se rompen.
    - `memory/decisions.md`: una entrada nueva, «Réplica para <producto>». Lo que manda es `CLAUDE.md`. Las
      decisiones de Hans sobre su oferta son precedentes, no reglas del producto nuevo.
    - `memory/learnings.md` queda como está: todo aplica.
-3. **`CLAUDE.md`:** se cambia solo lo que describe el negocio.
+   - **Los handoffs del caso Hans no se pisan.** El primero de la réplica se escribe al cerrar su primera
+     sesión; si ya hay uno con esa fecha, el nuevo lleva `-replica` en el nombre
+     (`session-handoff-2026-10-23-replica.md`).
+4. **`CLAUDE.md`:** se cambia solo lo que describe el negocio.
+   - **El encabezado** dice que es el departamento `media-buyer` del Business OS. La réplica no lo es: se
+     dice que es una réplica del media buyer, desde qué fecha y para qué producto. Si Hans quiere que los
+     otros departamentos le hablen, se registra con el CEO, con su OK.
    - «Qué es» y el párrafo de «Hoy está»: el producto, su dueño y en qué estado está.
    - **En C**, lo que decide el dueño en «La oferta tiene un solo dueño» (precio, garantía, plazo,
      capacidad, forma de pago) pasa a ser del dueño del producto, a través de Hans. Los OK en Meta siguen
@@ -84,44 +95,41 @@ mueven, esas referencias se rompen.
      trabajar con Hans» y «Cómo trabajamos».
    - Los cambios se escriben en un archivo, a Hans se le pasa una línea con el enlace, y se guardan con
      su OK.
-4. **Las skills** quedan con su estado. «En prueba» o «probada» quiere decir con el caso Hans: en el
+5. **Las skills** quedan con su estado. «En prueba» o «probada» quiere decir con el caso Hans: en el
    producto nuevo, el primer uso es una prueba nueva. Algunas traen datos de la cuenta de Hans como
-   ejemplo: en `lanzar-campana-business-manager`, el `page_id`, el `instagram_user_id`, la cuenta en
-   colones y el tipo de cambio del BCCR; en `responder-dm-y-agendar` y `grabar-y-revisar-el-ad`, la
-   palabra VENTAS y ManyChat. Al usarlas se reemplazan por los del producto nuevo, y la skill se corrige
-   recién cuando el uso salga bien, como dice `CLAUDE.md`.
-5. **Por dónde se empieza:** por la oferta, antes de cualquier copy. El orden que se siguió con Hans
-   (`memory/proyecto.md`): `construir-oferta` → `evaluar-la-oferta` (las 6 preguntas) →
+   ejemplo: `lanzar-campana-business-manager`, el `page_id`, el `instagram_user_id`, la cuenta en colones,
+   el tipo de cambio del BCCR y ManyChat; `responder-dm-y-agendar`, `grabar-y-revisar-el-ad` y
+   `leer-conversaciones`, la palabra VENTAS. Al usarlas se reemplazan por los del producto nuevo, y la
+   skill se corrige recién cuando el uso salga bien, como dice `CLAUDE.md`.
+6. **Por dónde se empieza:** por la oferta, antes de cualquier copy. `memory/proyecto.md` da el camino
+   que se siguió con Hans (candidatas → 6 preguntas → diagnóstico → copy → ad), y cada skill dice en su
+   descripción cuándo se usa. En skills: `construir-oferta` → `evaluar-la-oferta` →
    `diagnostico-de-cliente` (con `elegir-proceso-de-ventas` en la pregunta 17) → `escribir-ad-copy` →
-   `revisar-antes-de-grabar` → `grabar-y-revisar-el-ad` → `definir-presupuesto` →
+   `revisar-antes-de-grabar` → `grabar-y-revisar-el-ad` → `responder-dm-y-agendar` (el chat, listo antes
+   de publicar) → `definir-presupuesto` → `preparar-business-manager` (si la cuenta de Meta es otra) →
    `lanzar-campana-business-manager` → `leer-los-numeros`.
 
-## 4. La memoria automática
-
-Claude Code guarda su memoria automática por carpeta, así que la réplica arranca sin ella. Se escribe en
-la carpeta de memoria de la sesión nueva, con su línea en `MEMORY.md`:
-
-- `replicar/memoria-automatica/feedback-criterio-propio.md`, **siempre**: es cómo quiere Hans que se le
-  discuta.
-- `replicar/memoria-automatica/project-oferta-definida-2026-10-11.md`, **solo en A**: es el estado del
-  caso Hans.
-
-## 5. Lo que vive fuera del repositorio
+## 4. Lo que vive fuera del repositorio
 
 - **El `CLAUDE.md` global de Hans** (`C:\Users\hvill\.claude\CLAUDE.md`): en su máquina se carga solo.
-  Lo que el media buyer necesita de ahí ya está en el `CLAUDE.md` del proyecto.
-- **Los conectores de la cuenta de Claude:** Meta (anuncios), Apify (tres cuentas, en el orden del
-  `CLAUDE.md` global) y el canal interno (`consultar_proyecto`). Se confirma que la sesión los ve; si
-  falta uno, se le dice a Hans. ManyChat no tiene conector: lo maneja Hans.
-- **Los guardrails de Meta.** `.claude/settings.json` le prohíbe al media buyer activar, editar, borrar y
-  promocionar en Meta, con el nombre exacto de cada herramienta. Ese nombre lleva el identificador del
-  conector (`mcp__f3d38e99-c205-4edd-b39a-95559e285e22__…`). **Si en la sesión nueva el conector de Meta
-  tiene otro identificador, los guardrails no bloquean nada.** Se comparan los nombres, y si no coinciden
-  se le avisa a Hans antes de cualquier otra cosa en Meta: tocar `.claude/settings*` lleva su OK.
+  Fuera de ella faltan reglas que el media buyer usa: el orden de las tres cuentas de Apify, cuándo
+  consultar al Mentor CRM, no instalar nada global, y nunca secretos en archivos ni commits en `main`. En
+  ese caso se le pide a Hans una copia antes de trabajar.
+- **Los conectores de la cuenta de Claude:** Meta (anuncios), Apify (tres cuentas) y el canal interno
+  (`consultar_proyecto`). Se confirma que la sesión los ve; si falta uno, se le dice a Hans. ManyChat no
+  tiene conector: lo maneja Hans.
+- **Los guardrails de Meta.** `.claude/settings.json` bloquea siete herramientas: activar, editar
+  campañas, conjuntos y anuncios (`ads_update_entity`), editar y borrar creativos, borrar audiencias,
+  cambiar sus usuarios y promocionar posts. Las demás que escriben en Meta (crear, píxeles, catálogos,
+  audiencias, experimentos) no están bloqueadas por código: las cubre la regla de `CLAUDE.md`, con el OK
+  de Hans por cada cambio. Los nombres llevan el identificador del conector
+  (`mcp__f3d38e99-c205-4edd-b39a-95559e285e22__…`): **si en la sesión nueva el conector de Meta tiene
+  otro, los guardrails no bloquean nada.** Se prueba en el paso 6, y tocar `.claude/settings*` lleva el
+  OK de Hans.
 - **El cerebro y los departamentos** (`cerebro\` y `CEO\scripts\pedir.mjs`, con las rutas de
   `CLAUDE.md`): solo existen en la máquina de Hans, dentro del Business OS.
 
-## 6. El transcriptor (solo si hay videos nuevos)
+## 5. El transcriptor (solo si hay videos nuevos)
 
 Para las sesiones 10–16 o para otro curso.
 
@@ -146,25 +154,40 @@ Para las sesiones 10–16 o para otro curso.
 4. **Después, el ritual de `CLAUDE.md`:** leer entera la transcripción, apuntes, manual, skills,
    autoexamen, reporte corto a Hans e índice.
 
-## 7. Prueba de que quedó igual
+## 6. Reabrir en la carpeta del clon y probar
 
-Los permisos y las skills se cargan al abrir la sesión, y esta se abrió con la carpeta vacía. Antes de
-seguir se escribe como primera línea de `memory/tareas-activas.md`: «Réplica: seguir `REPLICAR.md` desde
-el paso 7». Hans abre una sesión nueva en la carpeta, y esa sesión hace la prueba:
+Los permisos, las skills y la memoria automática son por carpeta y se cargan al abrir la sesión, y esta
+se abrió con la carpeta vacía. Se escribe como primera línea de `memory/tareas-activas.md`: «Réplica:
+seguir `REPLICAR.md` desde el paso 6». Hans abre una sesión nueva en la carpeta del clon, y esa sesión:
 
-1. **Las skills:** aparecen las 20.
-2. **Los guardrails:** los nombres de `.claude/settings.json` coinciden con los de las herramientas de
-   Meta que ve la sesión. Con el OK de Hans, como en el original el 2026-10-14: un `ads_update_entity`
-   sobre un identificador que no existe tiene que salir bloqueado.
-3. **El conocimiento:** cinco preguntas al azar de exámenes de sesiones distintas
-   (`knowledge/curso/*.examen.md`), contestadas sin mirar la respuesta del examen, solo con el manual y
-   los apuntes, con su cita `[CURSO Sx @ h:mm:ss]`. Cada una se verifica contra la transcripción. Si una
-   falla, se lee entera esa sesión antes de seguir.
-4. **A Hans, una línea:** qué quedó replicado, qué falló y qué falta.
+1. **Escribe la memoria automática**, en su carpeta de memoria y con su línea en `MEMORY.md`:
+   - `replicar/memoria-automatica/feedback-criterio-propio.md`, **siempre**: es cómo quiere Hans que se
+     le discuta;
+   - `replicar/memoria-automatica/project-oferta-definida-2026-10-11.md`, **solo en A**: es el estado
+     del caso Hans.
+2. **Las skills:** aparecen las 20.
+3. **Los guardrails:** las herramientas de Meta que ve la sesión llevan el mismo identificador que los
+   nombres de `.claude/settings.json`. Si las siete bloqueadas no aparecen entre las herramientas, el
+   bloqueo está activo. Si aparecen, con el OK de Hans se prueba una, como en el original el 2026-10-14:
+   un `ads_update_entity` sobre un identificador que no existe tiene que salir bloqueado.
+4. **El conocimiento:** cinco preguntas al azar de exámenes de sesiones distintas. Se leen solo las
+   preguntas, sin la respuesta, que está en la misma fila:
+
+   ```bash
+   cut -d'|' -f2,3 knowledge/curso/04-video-ad-alchemy.examen.md
+   ```
+
+   Se contestan solo con el manual y los apuntes, con su cita `[CURSO Sx @ h:mm:ss]`. Recién después se
+   comparan con la respuesta del examen, y cada cita se verifica contra la transcripción. Si una falla,
+   se lee entera esa sesión antes de seguir.
+5. **A Hans, una línea:** qué quedó replicado, qué falló y qué falta.
 
 Cuando pasa, se borra la línea de `tareas-activas.md` y se empieza a trabajar.
 
 ## Mantener la réplica
 
 - Lo que la réplica aprenda y el original no sepa se le avisa a Hans como candidato para el original.
+- Cuando el original procese sesiones nuevas del curso, la réplica las trae con `git fetch original` y
+  `git checkout original/main -- inputs/curso knowledge`, con el OK de Hans y después de mirar qué pisa:
+  si la réplica cambió una nota, se fusiona a mano. Las skills nuevas o cambiadas se traen de a una.
 - El original sube cambios a este repositorio solo cuando Hans lo pide, en una rama con PR.

@@ -357,3 +357,23 @@ rutas de más de 260. El original no lo sufre porque su carpeta tiene 85.
 `core.longpaths=true` y, después de clonar, cuenta skills, transcripciones, exámenes y notas antes de seguir.
 Un clon se da por bueno recién cuando las cuentas dan.
 
+## 2026-10-23 — Los guardrails de Meta cubren menos de lo que dice la decisión
+
+**Qué pasó:** el ensayo de la réplica comparó `.claude/settings.json` con todas las herramientas del conector de
+Meta. La decisión del 2026-10-14 dice que el media buyer no puede activar, publicar, editar ni borrar en Meta,
+pero la lista bloquea siete herramientas: `ads_activate_entity`, `ads_update_entity`, `ads_boost_ig_post`,
+`ads_creative_update`, `ads_creative_delete`, `ads_delete_custom_audience` y `ads_update_custom_audience_users`.
+Quedan sin bloquear 15 que editan, borran o desconectan: `ads_update_custom_audience`, cuatro de píxeles
+(`ads_pixel_event_update`, `ads_pixel_event_delete`, `ads_pixel_parameter_update`,
+`ads_pixel_parameter_delete`), nueve de catálogos (`ads_catalog_update_catalog`, `ads_catalog_update_product`,
+`ads_catalog_update_product_feed`, `ads_catalog_update_product_set`, `ads_catalog_delete_product`,
+`ads_catalog_product_feed_delete`, `ads_catalog_product_feed_delete_rule`, `ads_catalog_product_set_delete`,
+`ads_catalog_event_source_disconnect`) y `ads_experiment_abtest_update_test`.
+
+**Causa raíz:** la lista del 2026-10-14 se armó con las herramientas de campañas, anuncios, creativos y
+audiencias, y no hay registro de que se haya comparado con el conector entero.
+
+**Qué hacemos distinto:** un guardrail se verifica contra la lista completa de herramientas del conector, no
+contra las que se pensaron. Mientras Hans no decida agregarlas, para esas 15 vale la regla de `CLAUDE.md`: nada
+se escribe en Meta sin su OK.
+

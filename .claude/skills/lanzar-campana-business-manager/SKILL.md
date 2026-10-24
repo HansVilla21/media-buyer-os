@@ -27,7 +27,9 @@ esa campaña.
 
 **OKs** (`CLAUDE.md`): el OK 1 de Hans es para cargar en pausa, y el OK 2 es publicar, que hace él mismo. Cada
 cambio posterior pide su propio OK. Los guardrails de `.claude/settings.json` le impiden al media buyer activar,
-editar, borrar o hacer Boost: **no se esquivan**, ni por la pantalla ni con otra herramienta.
+editar, borrar o hacer Boost: **no se esquivan**, ni por la pantalla ni con otra herramienta. Son siete
+herramientas y no cubren todo: píxeles, catálogos, experimentos y la edición de audiencias quedan fuera
+(`memory/learnings.md`, 2026-10-23). Para esas vale igual la regla del OK.
 
 ## 0. Antes de cargar
 
