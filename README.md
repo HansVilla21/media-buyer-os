@@ -7,10 +7,11 @@ real: la oferta y la primera campaña de Hans (2026-10-07 a 2026-10-23).
 > **Privado.** Trae material pagado del curso, el texto de libros de Hormozi y datos de clientes: no se
 > hace público ni se comparte con terceros.
 
-**Para replicarlo:** abrir Claude Code en una carpeta vacía y pegarle esto:
+**Para replicarlo:** abrir Claude Code en una carpeta vacía, con una ruta de menos de 150 caracteres, y
+pegarle esto:
 
 ```text
-Cloná acá el repositorio privado HansVilla21/media-buyer-os (gh repo clone HansVilla21/media-buyer-os .) y replicá el media buyer siguiendo REPLICAR.md.
+Cloná acá el repositorio privado HansVilla21/media-buyer-os (gh repo clone HansVilla21/media-buyer-os . -- -c core.longpaths=true) y replicá el media buyer siguiendo REPLICAR.md.
 ```
 
 **Para trabajar en el original:** Claude Code en la carpeta. Todo lo que hace falta saber está en

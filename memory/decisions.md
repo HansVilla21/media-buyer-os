@@ -803,7 +803,9 @@ parte técnica (`output/pedidos/2026-10-14-estrategia-tecnica-campana-septiembre
 cambiar sin rehacer los anuncios; Hans quiere controlar los mensajes desde un solo lugar.
 
 **Consecuencia:** guardrails por código conectados el 2026-10-14 (`.claude/settings.json`: el media buyer no puede
-activar, publicar, editar ni borrar en Meta; probado con un identificador inexistente y bloqueado). El media
+activar, publicar, editar ni borrar en Meta; probado con un identificador inexistente y bloqueado). (Corrección
+del 2026-10-23: bloquea siete herramientas; otras 15 que editan, borran o desconectan en Meta no están en la
+lista, ver `memory/learnings.md`.) El media
 buyer carga campaña y conjunto en borrador con el OK 1; Hans arma el anuncio con ManyChat y publica (OK 2).
 
 ## 2026-10-14 — El anuncio va con el video tal como está, con música de fondo

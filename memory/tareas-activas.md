@@ -48,6 +48,10 @@ La campaña 1 (sistemas a medida, copy 3) corrió del 2026-10-14 al 2026-10-18 y
 
 ## Pendiente de Hans
 
+- **Los guardrails de Meta** (2026-10-23): bloquean siete herramientas. Otras 15 que editan, borran o desconectan
+  (píxeles, catálogos, audiencias y experimentos) no están en `.claude/settings.json`. Decidir si se agregan;
+  tocar ese archivo lleva su OK. Detalle: `memory/learnings.md`, 2026-10-23.
+
 - **La oferta y el cierre de la campaña 1** (2026-10-20, vino de Contenido). Hans le dijo a Contenido: «ni
   siquiera yo sé cuál es mi oferta ahorita», y que apagó el anuncio a los dos o tres días. Falta que decida:
   - si la oferta sigue siendo sistemas a medida (cerrada el 2026-10-11) o pasa a su idea de «sistemas» en tres
