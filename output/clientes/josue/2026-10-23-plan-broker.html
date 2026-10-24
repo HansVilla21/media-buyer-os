@@ -1,0 +1,361 @@
+<title>Plan de clientes para el broker</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<style>
+  /* Hoja de producto centrada: cabecera con firma, dos pestañas (la propuesta y el plan para el broker), tarjetas con aire */
+  :root {
+    --ground:#F5F6F8; --surface:#FFFFFF; --surface-2:#F7F8FA;
+    --ink:#101828; --ink-soft:#475467; --ink-faint:#667085;
+    --line:#E2E5EA; --line-strong:#98A2B3;
+    --accent:#7C3AED; --accent-ink:#5B32D6; --accent-wash:#F4F2FF;
+    --ok:#047857; --ok-wash:#ECFDF5; --warn-ink:#92400E; --warn-wash:#FEF3C7; --warn:#D97706;
+    --on-accent:#FFFFFF;
+    --brand:linear-gradient(90deg,#2140FE 0%,#7900ED 38%,#E500A5 70%,#FC7466 100%);
+    --sans:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+    --mono:"JetBrains Mono",ui-monospace,"Cascadia Mono",Consolas,monospace;
+    --r:12px; --r-s:8px; --measure:66ch;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:#0B0F16; --surface:#131822; --surface-2:#1A2029;
+      --ink:#E7EAF0; --ink-soft:#A3ADBA; --ink-faint:#8B95A3;
+      --line:#262D38; --line-strong:#3B4552;
+      --accent:#A78BFA; --accent-ink:#C4B5FD; --accent-wash:#1E1A33;
+      --ok:#34D399; --ok-wash:#0F2A22; --warn-ink:#FBBF24; --warn-wash:#2A2110; --warn:#FBBF24;
+      --on-accent:#1A1030;
+      color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:#0B0F16; --surface:#131822; --surface-2:#1A2029;
+    --ink:#E7EAF0; --ink-soft:#A3ADBA; --ink-faint:#8B95A3;
+    --line:#262D38; --line-strong:#3B4552;
+    --accent:#A78BFA; --accent-ink:#C4B5FD; --accent-wash:#1E1A33;
+    --ok:#34D399; --ok-wash:#0F2A22; --warn-ink:#FBBF24; --warn-wash:#2A2110; --warn:#FBBF24;
+    --on-accent:#1A1030;
+    color-scheme:dark;
+  }
+
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--ground); color:var(--ink); font-family:var(--sans);
+         font-size:1rem; line-height:1.55; -webkit-font-smoothing:antialiased; }
+  body::before { content:""; position:fixed; inset:0 0 auto; height:env(safe-area-inset-top,0px); z-index:10; background:var(--surface); }
+  ::selection { background:var(--accent-wash); }
+  :focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+  h1,h2,h3 { margin:0; color:var(--ink); text-wrap:balance; }
+  p { margin:0; }
+
+  .sheet { max-width:64rem; margin:0 auto; background:var(--surface); min-height:100%;
+           border-left:1px solid var(--line); border-right:1px solid var(--line); }
+  .brandrule { height:5px; background:var(--brand); }
+  .wrap { padding-left:max(16px, env(safe-area-inset-left,0px)); padding-right:max(16px, env(safe-area-inset-right,0px)); }
+  @media (min-width:48rem) { .wrap { padding-left:max(2.5rem, env(safe-area-inset-left,0px)); padding-right:max(2.5rem, env(safe-area-inset-right,0px)); } }
+
+  /* cabecera */
+  .top { background:var(--surface-2); padding-block:1.1rem 1.6rem; display:flex; flex-direction:column; gap:1.3rem; }
+  .top-row { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:0.5rem 1rem; }
+  .brandbar { display:flex; align-items:center; gap:0.6rem; }
+  .logomark { height:1.4rem; width:auto; display:block; }
+  .brandbar span { font-weight:800; font-size:1rem; letter-spacing:-0.03em; }
+  .sello { font-family:var(--mono); font-size:0.72rem; color:var(--ink-faint); }
+  .hero { display:flex; flex-direction:column; gap:0.6rem; max-width:52rem; }
+  .eyebrow { font-family:var(--mono); font-size:0.72rem; font-weight:500; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent-ink); }
+  h1 { font-size:clamp(1.7rem,4.6vw,2.6rem); font-weight:800; letter-spacing:-0.035em; line-height:1.1; }
+  .lead { font-size:clamp(1rem,1.9vw,1.12rem); color:var(--ink-soft); max-width:var(--measure); }
+  .para { font-size:0.9rem; color:var(--ink-faint); }
+  .para b { color:var(--ink); }
+
+  /* pestañas */
+  .tabs { position:sticky; top:env(safe-area-inset-top,0px); z-index:4; background:var(--surface);
+          border-bottom:1px solid var(--line); display:flex; gap:0.2rem; overflow-x:auto; scrollbar-width:none; }
+  .tabs::-webkit-scrollbar { display:none; }
+  .tab { flex:0 0 auto; background:none; border:none; border-bottom:3px solid transparent; padding:0.9rem 0.75rem 0.7rem;
+         font:600 0.95rem var(--sans); color:var(--ink-soft); cursor:pointer; white-space:nowrap; }
+  .tab:hover { color:var(--ink); }
+  .tab[aria-selected="true"] { color:var(--accent-ink); border-bottom-color:var(--accent); }
+
+  .panel { padding-block:1.8rem 2.4rem; display:flex; flex-direction:column; gap:2.2rem; }
+  .sec { display:flex; flex-direction:column; gap:0.9rem; }
+  .sec-head { display:flex; flex-direction:column; gap:0.25rem; }
+  .sec-head h2 { font-size:clamp(1.2rem,2.6vw,1.5rem); font-weight:800; letter-spacing:-0.025em; line-height:1.2; }
+  .sec-head p { color:var(--ink-soft); font-size:0.95rem; max-width:var(--measure); }
+  .label { font-family:var(--mono); font-size:0.68rem; font-weight:500; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-faint); }
+
+  /* cifras del trato */
+  .cifras { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:0.8rem; }
+  @media (max-width:52rem) { .cifras { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+  .cifra { border:1px solid var(--line); border-radius:var(--r); background:var(--surface); padding:1rem 1.05rem;
+           display:flex; flex-direction:column; gap:0.3rem; min-width:0; }
+  .cifra.principal { border:2px solid var(--accent); background:var(--accent-wash); }
+  .cifra .num { font-size:clamp(1.8rem,4vw,2.3rem); font-weight:800; letter-spacing:-0.04em; line-height:1; color:var(--ink);
+                font-variant-numeric:tabular-nums; }
+  .cifra.principal .num { color:var(--accent-ink); }
+  .cifra p { font-size:0.88rem; line-height:1.45; color:var(--ink-soft); }
+
+  /* qué recibe */
+  .recibe { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(min(18rem,100%),1fr)); gap:0.8rem; }
+  .item { border:1px solid var(--line); border-radius:var(--r); background:var(--surface); padding:1rem 1.1rem;
+          display:flex; flex-direction:column; gap:0.45rem; min-width:0; }
+  .item h3 { font-size:1rem; font-weight:700; letter-spacing:-0.01em; }
+  .item p, .item li { font-size:0.9rem; line-height:1.5; color:var(--ink-soft); }
+  .item ul { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.35rem; }
+  .item li { padding-left:1.05rem; position:relative; }
+  .item li::before { content:""; position:absolute; left:0.1rem; top:0.6em; width:0.38rem; height:0.38rem; border-radius:50%; background:var(--accent); }
+  .tag { align-self:flex-start; font-family:var(--mono); font-size:0.66rem; letter-spacing:0.06em; text-transform:uppercase;
+         padding:0.12rem 0.5rem; border-radius:var(--r-s); border:1px solid var(--line-strong); color:var(--ink-faint); }
+
+  .dos { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0.9rem; }
+  @media (max-width:44rem) { .dos { grid-template-columns:1fr; } }
+  .caja { border:1px solid var(--line); border-radius:var(--r); background:var(--surface); padding:1rem 1.15rem;
+          display:flex; flex-direction:column; gap:0.7rem; min-width:0; }
+  .caja.hundida { background:var(--surface-2); }
+  .caja h3 { font-size:1.02rem; font-weight:700; }
+  ul.puntos { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.55rem; font-size:0.92rem; line-height:1.5; color:var(--ink-soft); }
+  ul.puntos li { padding-left:1.2rem; position:relative; }
+  ul.puntos li::before { content:""; position:absolute; left:0.1rem; top:0.58em; width:0.42rem; height:0.42rem; border-radius:50%; background:var(--accent); }
+  ul.puntos strong { color:var(--ink); }
+
+  .aviso { border:1px solid var(--line); border-left:3px solid var(--warn); border-radius:var(--r); background:var(--surface-2);
+           padding:0.9rem 1.1rem; display:flex; flex-direction:column; gap:0.55rem; }
+  .aviso h3 { font-size:1rem; }
+
+  ol.pasos { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:0.8rem; counter-reset:p; }
+  @media (max-width:44rem) { ol.pasos { grid-template-columns:1fr; } }
+  ol.pasos li { counter-increment:p; border:1px solid var(--line); border-radius:var(--r); padding:0.95rem 1.05rem; display:flex; flex-direction:column; gap:0.35rem; background:var(--surface); }
+  ol.pasos li::before { content:counter(p); font-family:var(--mono); font-size:0.75rem; color:var(--on-accent); background:var(--accent);
+                        width:1.6rem; height:1.6rem; border-radius:var(--r-s); display:grid; place-items:center; }
+  ol.pasos b { font-size:0.97rem; }
+  ol.pasos span { font-size:0.88rem; color:var(--ink-soft); line-height:1.45; }
+
+  .cta { align-self:flex-start; display:inline-flex; align-items:center; gap:0.5rem; border:none; border-radius:var(--r-s);
+         background:var(--brand); color:#FFFFFF; font:700 0.95rem var(--sans); padding:0.75rem 1.2rem; cursor:pointer; }
+  .cta:hover { filter:brightness(1.06); }
+
+  /* plan para el broker */
+  .ab { display:grid; grid-template-columns:minmax(0,1fr) auto minmax(0,1fr); gap:0.8rem; align-items:stretch; }
+  .ab .flecha { align-self:center; font-family:var(--mono); color:var(--accent-ink); font-size:1.2rem; }
+  @media (max-width:44rem) { .ab { grid-template-columns:1fr; } .ab .flecha { justify-self:center; transform:rotate(90deg); } }
+  .falta { display:inline-block; font-family:var(--mono); font-size:0.78rem; color:var(--warn-ink); background:var(--warn-wash);
+           border:1px dashed var(--warn); border-radius:var(--r-s); padding:0.02rem 0.45rem; white-space:nowrap; }
+
+  ol.semanas { list-style:none; margin:0; padding:0; display:flex; flex-direction:column; position:relative; }
+  ol.semanas li { display:grid; grid-template-columns:6.2rem minmax(0,1fr); gap:0.2rem 1.1rem; padding:0.85rem 0; border-bottom:1px solid var(--line); }
+  ol.semanas li:last-child { border-bottom:none; }
+  .sem { font-family:var(--mono); font-size:0.74rem; color:var(--accent-ink); padding-top:0.15rem; }
+  .sem-body { display:flex; flex-direction:column; gap:0.2rem; min-width:0; }
+  .sem-body b { font-size:0.96rem; }
+  .sem-body p { font-size:0.89rem; color:var(--ink-soft); line-height:1.5; }
+  .quien { font-size:0.78rem; color:var(--ink-faint); }
+  @media (max-width:34rem) { ol.semanas li { grid-template-columns:1fr; } }
+
+  .tbl-wrap { overflow-x:auto; border:1px solid var(--line); border-radius:var(--r); background:var(--surface); }
+  table.tbl { border-collapse:collapse; width:100%; min-width:32rem; font-size:0.88rem; line-height:1.45; }
+  .tbl th, .tbl td { text-align:left; vertical-align:top; padding:0.6rem 0.85rem; border-top:1px solid var(--line); }
+  .tbl thead th { border-top:none; font-family:var(--mono); font-size:0.68rem; font-weight:500; letter-spacing:0.06em; text-transform:uppercase;
+                  color:var(--accent-ink); background:var(--accent-wash); white-space:nowrap; }
+  .tbl td { color:var(--ink-soft); }
+  .tbl td:first-child { color:var(--ink); font-weight:700; }
+  .tbl td.num { color:var(--ink); font-weight:600; font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .tbl tr.destacada td { background:var(--accent-wash); }
+  .formula { font-family:var(--mono); font-size:0.82rem; color:var(--ink-soft); background:var(--surface-2); border:1px solid var(--line);
+             border-radius:var(--r); padding:0.8rem 1rem; display:flex; flex-direction:column; gap:0.3rem; overflow-x:auto; }
+  .formula b { color:var(--ink); font-weight:500; }
+  .nota { font-size:0.86rem; color:var(--ink-faint); max-width:var(--measure); }
+
+  .pie { border-top:1px solid var(--line); background:var(--surface-2); padding-block:1rem; display:flex; flex-wrap:wrap;
+         justify-content:space-between; gap:0.4rem 1.5rem; font-size:0.85rem; color:var(--ink-soft); }
+  .pie b { color:var(--ink); }
+</style>
+<style>
+  .main-wrap { display:flex; flex-direction:column; }
+  .borrador { border:1px dashed var(--warn); background:var(--warn-wash); color:var(--warn-ink); border-radius:var(--r-s);
+              padding:0.55rem 0.8rem; font-size:0.85rem; }
+  a.cta { text-decoration:none; }
+</style>
+
+<style>
+  .fuentes { display:flex; flex-direction:column; gap:0.4rem; border-top:1px solid var(--line); padding-top:0.7rem; }
+  .fuentes ul { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.45rem; }
+  .fuentes li { font-size:0.84rem; line-height:1.5; color:var(--ink-soft); }
+  .fuentes a { color:var(--accent-ink); font-weight:600; text-decoration:underline; text-underline-offset:2px; }
+</style>
+<div class="sheet">
+  <div class="brandrule"></div>
+  <header class="top wrap">
+    <div class="top-row">
+      <div class="brandbar"><svg class="logomark" viewBox="0 0 2000 1551" role="img" aria-label="Momentum AI"><defs><linearGradient id="mgb" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#2140FE"/><stop offset=".38" stop-color="#7900ED"/><stop offset=".7" stop-color="#E500A5"/><stop offset="1" stop-color="#FC7466"/></linearGradient></defs><path fill="url(#mgb)" d="M0.00 409.50C-0.00 183.34 183.34 0.00 409.50 0.00L530.17 0.00C756.33 -0.00 939.67 183.34 939.67 409.50L939.67 1168.20C939.67 1201.52 966.68 1228.53 1000.00 1228.53C1033.32 1228.53 1060.33 1201.52 1060.33 1168.20L1060.33 409.50C1060.33 183.34 1243.67 0.00 1469.83 0.00L1590.50 0.00C1816.66 -0.00 2000.00 183.34 2000.00 409.50L2000.00 1346.25C2000.00 1459.33 1908.33 1551.00 1795.25 1551.00C1682.17 1551.00 1590.50 1459.33 1590.50 1346.25L1590.50 368.70C1590.50 335.38 1563.49 308.37 1530.17 308.37C1496.85 308.37 1469.83 335.38 1469.83 368.70L1469.83 1141.50C1469.83 1367.66 1286.49 1551.00 1060.33 1551.00L939.67 1551.00C713.51 1551.00 530.17 1367.66 530.17 1141.50L530.17 368.70C530.17 335.38 503.15 308.37 469.83 308.37C436.51 308.37 409.50 335.38 409.50 368.70L409.50 1346.25C409.50 1459.33 317.83 1551.00 204.75 1551.00C91.67 1551.00 0.00 1459.33 0.00 1346.25Z"/></svg><span>Momentum AI</span></div>
+      <span class="sello">Borrador · 23 de octubre de 2026</span>
+    </div>
+    <div class="hero">
+      <span class="eyebrow">Plan de 90 días</span>
+      <h1>Clientes nuevos con publicidad en Instagram, medidos semana a semana</h1>
+      <p class="lead">Anuncios en video de Josué Miranda, mensajes que califican a quien escribe y una llamada para cerrar. Se mide cada semana y se decide con reglas escritas.</p>
+      <p class="para">De <b>Josué Miranda</b>, con <b>Hans Villalobos</b></p>
+      <p class="borrador">Borrador. Los campos «a completar» se llenan con los números de Josué antes de presentarlo.</p>
+    </div>
+  </header>
+
+  <main class="panel wrap">
+
+    <section class="sec">
+      <div class="sec-head">
+        <span class="label">Resumen</span>
+        <h2>Qué se pide y qué se entrega</h2>
+        <p>Se pide financiar la pauta en Meta durante 90 días desde el lanzamiento. No se garantizan inversiones. Lo que se compromete por escrito: los anuncios, la campaña, los mensajes, el reporte de cada lunes y el informe de los 90 días.</p>
+      </div>
+      <div class="cifras">
+        <div class="cifra principal"><span class="num">USD 10</span><p>al día el primer mes (unos USD 300). Pasa a USD 20 al día solo si los números lo justifican, con aprobación.</p></div>
+        <div class="cifra"><span class="num">90 días</span><p>contados desde que el primer anuncio sale al aire.</p></div>
+        <div class="cifra"><span class="num">Cada lunes</span><p>un reporte con lo invertido, las conversaciones, las llamadas y los clientes nuevos.</p></div>
+        <div class="cifra"><span class="num">Día 90</span><p>informe y decisión: seguir, ajustar o parar.</p></div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><span class="label">Del punto A al punto B</span><h2>De dónde se parte y a dónde se busca llegar</h2></div>
+      <div class="ab">
+        <div class="caja hundida">
+          <h3>Hoy</h3>
+          <ul class="puntos">
+            <li>Los clientes llegan por la red de Josué y por LinkedIn.</li>
+            <li>La publicidad no es un canal medido: se probó sin calificar en los mensajes ni saber qué anuncio traía clientes.</li>
+            <li>Por mes: reuniones <span class="falta">a completar</span>, clientes nuevos <span class="falta">a completar</span>.</li>
+          </ul>
+        </div>
+        <span class="flecha" aria-hidden="true">→</span>
+        <div class="caja">
+          <h3>Lo que se busca a los 90 días</h3>
+          <ul class="puntos">
+            <li>Saber cuánto cuesta cada conversación, cada llamada y cada cliente nuevo que llega por publicidad.</li>
+            <li>Llamadas cada semana con personas que cumplen el capital mínimo de <span class="falta">a completar</span>.</li>
+            <li>Al menos un anuncio que trae prospectos que encajan, listo para crecer.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><span class="label">Cómo se trabaja</span><h2>Qué cambia respecto de lo que ya se probó</h2></div>
+      <div class="dos">
+        <div class="caja"><ul class="puntos">
+          <li><strong>El anuncio es Josué hablándole a cámara,</strong> hasta 90 segundos. El mensaje deja claro con quién trabaja («trabajo con personas que tienen…»), así la segmentación la hace el mensaje.</li>
+          <li><strong>Una sola plataforma con presupuesto bajo:</strong> Reels de Instagram, en Costa Rica.</li>
+          <li><strong>Los mensajes califican antes de la llamada:</strong> Josué o su asistente contestan en menos de 5 minutos con textos ya escritos, y a quien encaja le ofrecen dos horarios.</li>
+        </ul></div>
+        <div class="caja"><ul class="puntos">
+          <li><strong>Josué presenta solo a quien calificó.</strong></li>
+          <li><strong>Todo queda medido:</strong> cada contacto registrado con el anuncio que lo trajo, y a Meta solo se le avisa qué contactos avanzan, sin montos.</li>
+          <li><strong>Sin promesas de rendimiento</strong>, ni garantizado ni pasado. El anuncio habla del asesor y de cómo trabaja, no de ganancias.</li>
+        </ul></div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head">
+        <span class="label">Varios anuncios, no uno</span>
+        <h2>El primer anuncio rara vez es el que gana</h2>
+        <p>Por eso se trabaja con varios ángulos desde el inicio, uno por campaña para poder compararlos.</p>
+      </div>
+      <ol class="pasos">
+        <li><b>Tres versiones en la primera grabación</b><span>Tres guiones con ángulos distintos, grabados el mismo día.</span></li>
+        <li><b>Una a la vez con USD 10 al día</b><span>Si una no cumple las reglas de la sección «Reglas de decisión», entra la siguiente. Con USD 20 al día se prueban dos a la vez.</span></li>
+        <li><b>Un ángulo nuevo cada mes</b><span>Aunque uno funcione, cada mes se graba y se prueba otro al lado, con lo que dicen las conversaciones.</span></li>
+      </ol>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><span class="label">Semana por semana</span><h2>El plan de trabajo</h2></div>
+      <ol class="semanas">
+        <li><span class="sem">Semana 0</span><div class="sem-body"><b>Acuerdo y accesos</b><p>Acuerdo por escrito. Acceso parcial a la página y la cuenta publicitaria de Josué, con el pago de la pauta acordado con el broker.</p><span class="quien">Josué, broker y Hans</span></div></li>
+        <li><span class="sem">Semana 1</span><div class="sem-body"><b>Diagnóstico y guiones</b><p>60 minutos con Josué: a quién le habla, qué le preocupa a ese inversionista, el capital mínimo, la oferta y cómo cierra. Tres guiones con ángulos distintos, revisados por Josué y, si el broker lo pide, por su área de cumplimiento.</p><span class="quien">Hans; revisan Josué y el broker</span></div></li>
+        <li><span class="sem">Semana 2</span><div class="sem-body"><b>Grabación, mensajes y lanzamiento</b><p>Josué graba las tres versiones; se revisan antes de publicar. Se dejan escritos los textos de los mensajes, se deja listo cómo se anota de qué anuncio vino cada contacto, y se prueba todo el recorrido desde otra cuenta. Sale el primer anuncio, revisado contra una lista de chequeo. Desde ese día corren los 90 días.</p><span class="quien">Josué graba; Hans revisa, arma y lanza</span></div></li>
+        <li><span class="sem">Días 1–30</span><div class="sem-body"><b>Primer mes: medir</b><p>Lectura diaria de los números, respuesta en menos de 5 minutos y llamadas. Si un anuncio no cumple las reglas, entra la siguiente versión. Reporte cada lunes. Al día 30, la primera cuenta de pérdidas y ganancias.</p><span class="quien">Hans lee y reporta; Josué atiende</span></div></li>
+        <li><span class="sem">Días 31–60</span><div class="sem-body"><b>Ajustar</b><p>Lo que funciona no se toca. Un ángulo nuevo con lo que dicen las conversaciones. Si los números lo justifican, el presupuesto diario pasa de USD 10 a USD 20, con aprobación.</p><span class="quien">Hans propone; Josué y el broker aprueban</span></div></li>
+        <li><span class="sem">Días 61–90</span><div class="sem-body"><b>Crecer y cerrar el ciclo</b><p>Otro ángulo nuevo. Si sigue dando resultado, el presupuesto diario puede pasar a USD 30, con aprobación. Informe de 90 días con el costo por conversación, por llamada y por cliente, y la recomendación.</p><span class="quien">Hans</span></div></li>
+      </ol>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><span class="label">Inversión</span><h2>La pauta que se pide financiar</h2><p>Se paga directo a Meta, en la cuenta publicitaria de Josué. Se arranca en Base: USD 10 al día. El presupuesto diario sube un escalón (de 10 a 20, y de 20 a 30) solo cuando lo que dejan los clientes del anuncio supera lo invertido, y siempre con aprobación.</p></div>
+      <div class="tbl-wrap"><table class="tbl">
+        <thead><tr><th>Escenario</th><th>Por día</th><th>Por mes</th><th>90 días</th></tr></thead>
+        <tbody>
+          <tr class="destacada"><td>Base</td><td class="num">USD 10</td><td class="num">≈ USD 300</td><td class="num">≈ USD 900</td></tr>
+          <tr><td>Medio</td><td class="num">USD 20</td><td class="num">≈ USD 600</td><td class="num">≈ USD 1.800</td></tr>
+          <tr><td>Alto</td><td class="num">USD 30</td><td class="num">≈ USD 900</td><td class="num">≈ USD 2.700</td></tr>
+        </tbody>
+      </table></div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><span class="label">Resultados esperados</span><h2>Cuánto cuesta en pauta cada cliente nuevo</h2><p>Escenarios, no promesas. Lo que importa no es cuántos clientes llegan en un mes, sino cuánto cuesta cada uno contra lo que deja.</p></div>
+      <div class="formula">
+        <span><b>costo por cliente</b> = costo por conversación ÷ % de conversaciones que terminan en cliente</span>
+        <span><b>se paga solo</b> cuando lo que deja un cliente en 12 meses es mayor que su costo</span>
+      </div>
+      <div class="tbl-wrap"><table class="tbl">
+        <thead><tr><th>90 días en Base (≈ USD 900)</th><th>Conservador</th><th>Realista</th><th>Optimista</th></tr></thead>
+        <tbody>
+          <tr><td>Costo por conversación</td><td class="num">USD 5</td><td class="num">USD 3</td><td class="num">USD 2</td></tr>
+          <tr><td>Conversaciones</td><td class="num">180</td><td class="num">300</td><td class="num">450</td></tr>
+          <tr><td>Clientes con el tiempo, con 1 % de referencia</td><td class="num">1,8</td><td class="num">3</td><td class="num">4,5</td></tr>
+          <tr class="destacada"><td>Costo en pauta por cliente</td><td class="num">USD 500</td><td class="num">USD 300</td><td class="num">USD 200</td></tr>
+          <tr><td>Lo que deja un cliente en 12 meses</td><td colspan="3"><span class="falta">a completar</span></td></tr>
+        </tbody>
+      </table></div>
+      <p class="nota">Cómo leerlo: si un cliente nuevo le deja al broker más de USD 500 en un año, la pauta se paga sola incluso en el escenario conservador. Las referencias (USD 1–3 por conversación y cerca del 1 % que termina en cliente con el tiempo) son generales del método y de otros rubros; desde el primer mes se reemplazan por lo medido, y con los porcentajes reales de cierre de Josué. En una prueba propia de 4 días en Costa Rica, de otro rubro y con unos USD 46, las pocas conversaciones salieron de Reels, a unos USD 2–3 cada una: es una señal, no una referencia.</p>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><span class="label">Reglas de decisión</span><h2>Cuándo se cambia, cuándo se para y cuándo se sube</h2></div>
+      <div class="tbl-wrap"><table class="tbl">
+        <thead><tr><th>Si pasa esto</th><th>Se hace esto</th></tr></thead>
+        <tbody>
+          <tr><td>2 días sin conversaciones</td><td>Se revisa que el anuncio se esté mostrando y que los mensajes funcionen; si todo está bien, entra la siguiente versión.</td></tr>
+          <tr><td>Más de USD 6 por conversación durante 7 días</td><td>Entra la siguiente versión.</td></tr>
+          <tr><td>Un anuncio gastó lo que deja un cliente en 12 meses sin ningún cliente</td><td>Se pausa ese anuncio y entra otro ángulo.</td></tr>
+          <tr><td>Llegan, pero no califican</td><td>El anuncio cambia para dejar más claro con quién trabaja Josué.</td></tr>
+          <tr><td>Califican, pero no agendan</td><td>Se revisan los mensajes.</td></tr>
+          <tr><td>Agendan, pero no invierten</td><td>Se revisa con Josué la llamada y la oferta.</td></tr>
+          <tr><td>Lo que dejan los clientes del anuncio supera lo invertido</td><td>El presupuesto diario sube un escalón (de USD 10 a 20, o de 20 a 30), con aprobación.</td></tr>
+          <tr><td>Día 90 sin clientes ni en proceso</td><td>Se para, y con los datos se decide si cambia la oferta o el canal.</td></tr>
+        </tbody>
+      </table></div>
+    </section>
+
+    <section class="sec">
+      <div class="dos">
+        <div class="aviso">
+          <h3>Cumplimiento</h3>
+          <ul class="puntos">
+            <li><strong>Meta:</strong> sin rendimientos garantizados ni pasados, sin promesas de duplicar capital, y sin productos que Meta prohíbe anunciar, como el trading de CFD.</li>
+            <li><strong>Datos personales (Ley 8968):</strong> en el primer mensaje, una línea dice quién usa los datos y para qué, y que la persona puede pedir que se borren. Las llamadas se graban solo con consentimiento.</li>
+          </ul>
+          <div class="fuentes">
+        <span class="label">Fuentes</span>
+        <ul>
+          <li><a href="https://transparency.meta.com/policies/ad-standards/restricted-goods-services/financial-services" target="_blank" rel="noopener">Meta · Política de productos y servicios financieros</a>: entre los productos prohibidos en anuncios está el «Contract for Difference trading» (CFD), junto con las opciones binarias y las ofertas iniciales de monedas.</li>
+          <li><a href="https://transparency.meta.com/policies/ad-standards/deceptive-content/prohibited-commercial-practices/" target="_blank" rel="noopener">Meta · Prácticas comerciales prohibidas</a>: no se permiten rendimientos garantizados ni anuncios que usen ganancias pasadas para que se espere que se repitan.</li>
+          <li><a href="https://www.esma.europa.eu/node/200553" target="_blank" rel="noopener">ESMA (regulador de valores de la Unión Europea) · Guía de supervisión del copy trading</a>: el copy trading atrae sobre todo a inversionistas con poca experiencia y está bajo vigilancia de los reguladores.</li>
+        </ul>
+      </div>
+        </div>
+        <div class="caja">
+          <h3>Qué pone cada parte</h3>
+          <ul class="puntos">
+            <li><strong>El broker:</strong> la pauta y, si lo pide, la revisión de los guiones en 48 horas.</li>
+            <li><strong>Josué:</strong> diagnóstico, grabaciones, respuesta en menos de 5 minutos, las llamadas y el registro de cada prospecto.</li>
+            <li><strong>Hans:</strong> estrategia, guiones, campañas, mensajes, medición, reportes y decisiones con reglas.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="pie wrap">
+    <span><b>Josué Miranda</b> con <b>Hans Villalobos</b> · Momentum AI</span>
+    <span>Borrador del 23 de octubre de 2026</span>
+  </footer>
+</div>

@@ -1,0 +1,2 @@
+# Los scripts de shell se corren con Git Bash: con fin de línea CRLF se rompen al clonar en Windows.
+*.sh text eol=lf

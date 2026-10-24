@@ -1,0 +1,105 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+Si eres un dueño de una agencia de marketing o ofreces un servicio B2B y estás buscando escalar tu negocio y llenar tu agenda con llamadas de venta, en este video te voy a estar explicando cómo funciona nuestro embudo de adquisición nueva generación para agencias de marketing o para negocios B2B. Es el mismo embudo que nosotros utilizamos para generar más de 100 llamadas de venta calificadas al mes y es exactamente lo mismo que nosotros implementamos en el negocio de nuestros clientes. Si no sabes quién soy o qué es lo que hacemos, nosotros somos NuGen, ofrecemos un servicio Done For You, donde nosotros implementamos nuestras estrategias y nuestros sistemas para poder escalar agencias de marketing a múltiples cinco o seis cifras al mes.
+
+Así que en este video voy a estar explicándote cómo es que nosotros utilizamos Cloud para poder hacer una segmentación hiperspecífica del tipo de cliente al que le estamos apuntando, cómo funciona nuestro sistema de anuncios, cómo es que con nuestros anuncios apuntamos directamente al perfil de cliente al, cómo es que armamos los VSLs más las plantillas de los guiones de los VSLs, cómo saber si un prospecto califica, si no califica. Te vamos a estar enseñando toda nuestra secuencia de correo electrónico para cuando un prospecto agenda una llamada de venta. Te vamos a estar explicando también cómo funciona nuestro proceso de ventas de la A a la Z, desde que un prospecto ve el anuncio hasta que se cierra el negocio.
+
+Y también te vamos a estar enseñando cómo es que funciona nuestra estrategia de to call close, la primera llamada de escurrimiento y luego la segunda llamada de cierre, para que de esta manera puedas tener una tasa de cierre muchísimo más alta. Ahora, muy bien, esto no es para cualquier dueño de agencia o negocio B2B. Esto es solamente para aquellas personas que ya tienen un negocio sólido, que ya facturan por lo menos cinco cifras al mes, que tienen muy buenos casos de éxito y clientes que están muy contentos de trabajar con ustedes.
+
+¿Y por qué digo esto? Porque la realidad es que muchos de los anuncios que nosotros utilizamos son aquellos que explican cómo es que ayudamos a nuestros clientes a escalar el negocio. Porque de esta manera, las personas que están viendo el video conectan con lo que estamos diciendo y, por ende, le dan más ganas de poder agendar una llamada con nosotros. Ahora, no es el único tipo de anuncio que nosotros utilizamos, pero nos hemos dado cuenta en estos últimos años que es uno que convierte muy bien.
+
+Así que empecemos. Ah, bueno. Perdón, antes de empezar, muy importante dejarles saber que voy a estar dejando este link con este miro abajo en la descripción de este video de YouTube para que tú mismo lo puedas implementar sin nuestra ayuda.
+
+Literalmente te estoy dando el paso a paso desde cómo usamos Cloud, cómo escribimos los guiones de anuncios, cómo escribimos el VSL, qué es lo que tiene que ir en las secuencias de e-mails con el prospecto de agenda, cómo funciona el proceso de ventas. Así que lo voy a estar dejando para que tú mismo lo puedas implementar en tu negocio. Y de nuevo, vas a estar utilizando el mismo sistema que nos genera más de 100 llamadas de ventas calificadas al mes y que ha ayudado a nuestros clientes a poder facturar múltiples 5 y 6 cifras mensuales.
+
+Ahora sí, empecemos. Lo primero que hacemos es armar el sistema de anuncios con la ayuda de Cloud. Nosotros le estamos dando a Cloud un poco de información sobre nuestro servicio, información de nuestro cliente o el tipo de cliente al que le queremos apuntar.
+
+Le vamos a estar dando las grabaciones de FADM de las llamadas con nuestros clientes, inclusive estas llamadas de venta. Y le vamos a estar explicando muy bien el nivel de sofisticación del tipo de cliente con el que queremos trabajar. Además de eso, vamos a estar llenando estos documentos de acá para que Cloud tenga un mejor entendimiento de cómo funciona nuestro tipo de cliente.
+
+Vamos a estar haciendo un análisis de nuestra competencia, decirle quién es nuestro competidor, cuáles son sus fortalezas claves, cuáles son sus principales debilidades, cuál es su ventaja clave o por qué son competitivos, cuál es su estrategia de marketing, cuál es su experiencia del cliente o cómo la dan y en qué fallan, cómo supone su servicio y cómo se posicionan en comparación con nosotros. Luego le vamos a estar diciendo cuál es la perspectiva de nuestro tipo de cliente. Por ejemplo, a quién estamos empatizando, qué queremos que hagan, qué queremos que vean, qué dicen, qué hacen, qué oyen, qué piensan y qué sienten, cuáles son los dolores y los beneficios.
+
+Luego le vamos a estar explicando cuál es la situación actual de nuestro tipo de cliente, cuál es su situación deseada y la brecha entre ambas. Por ejemplo, están facturando X cantidad de dinero al mes y les gustaría estar facturando Y cantidad de dinero al mes. Vamos a estar entendiendo muy bien qué es lo que ya han intentado anteriormente, por qué fue que no les funcionó, sus principales frustraciones, por qué esto es tan doloroso para ellos, por qué es que no pueden escalar.
+
+Vamos a explicarle cuál es la situación deseada, la brecha entre ambas. Y por último, vamos a estar dándole a Claude la personalidad y la psicología a nuestro tipo de cliente. ¿Qué tipo de comprador son y cómo son? Si son más dopamínicos, si son más de testosterona, están buscando más influencia y percepción, más cortisol que están buscando orden o estabilidad, oxitocina que están buscando más comodidad o si son más de inspiración y facilidad.
+
+Porque Claude nos va a ayudar a entender con el tipo de personas con los que nos vamos a estar reuniendo en estas llamadas de venta y dependiendo si son amarillos, rojos, azul o verde. Vamos a saber cómo venderles en esta llamada de venta a nuestro servicio Hi Ticket. Ahora, del tipo de cliente y del mercado objetivo, vamos a entender muy bien cuál es el nivel de conciencia.
+
+Si son conscientes del problema que tienen, si son conscientes de la solución que les podemos dar nosotros y entender muy bien el nivel de sofisticación. Si son primeros en el mercado, segun el mercado, ya han escuchado otras afirmaciones. Básicamente, le vamos a estar dando toda esta información a Claude para que Claude nos diga exactamente quién es nuestro tipo de cliente.
+
+La idea es poder hacer esa segmentación hiper específica. Una vez que terminamos de hacer esto con Claude, es cuando ya empezamos a armar lo que es el sistema de anuncios. Vamos a estar armando distintos tipos de anuncios a donde aquí ustedes van a poder ver los guiones que nosotros utilizamos, pero básicamente hacemos anuncios hiper específicos.
+
+Anuncios de casos de éxito, anuncios directos o indirectos. Ustedes aquí literalmente están recibiendo el SOP de cómo nosotros escribimos los guiones para nuestra oferta y para la de nuestros clientes. Literalmente pueden copiar y pegarlo y nada más adaptarlo para su oferta y su tipo de cliente.
+
+Entonces, estos anuncios hiper específicos, vamos a estar lanzándolos con meta, a donde la inteligencia artificial de meta va a detectar el tipo de cliente al que le estamos apuntando en base a lo que estamos diciendo en los videos o enseñando los creativos estáticos. Ahora, las personas que están viendo este video van a entrar a una página de captación con un VSL. En este VSL, nosotros vamos a tener la promesa, que en este caso para nosotros es que implementamos un sistema de marketing done for you que se paga solo o no pagas y luego enseñando casos de éxito.
+
+Ahora, en este VSL, nosotros también te estamos dando aquí la plantilla de carta de ventas del VSL. Literalmente solamente tienes que completar los espacios en blanco. Es el mismo guión como la misma estructura que nosotros utilizamos para poder grabar nuestro VSL.
+
+Hicimos exactamente lo mismo con los guiones para los anuncios. Así que volviendo a el paso a paso que toma el prospecto cuando el anuncio. El anuncio, el algoritmo avanzado de inteligencia artificial de meta detecta el tipo de cliente.
+
+Esa persona entra a el VSL, a donde es una vía de ventas directo y es a donde ahora la persona va a estar enviando el formulario. Ahora, aquí suceden dos caminos. Si el prospecto sí envía el formulario o si no envía el formulario.
+
+Digamos que el prospecto no envió el formulario. No pasa nada. Hizo un envío parcial.
+
+Pero con ese envío parcial, nosotros hicimos set up el form para que nos diga primero su nombre, su correo electrónico y su número de teléfono. Entonces, como ya tenemos esa información del prospecto, lo que va a pasar es que nuestro equipo de ventas va a estar haciendo una llamada saliente. Porque en esta llamada saliente vamos a identificar si el prospecto que envió parcialmente el formulario califica o no califica.
+
+Si no califica, no lo vamos a descartar. Lo vamos a dar como una pérdida para el futuro a donde vamos a estar metiéndolo en una campaña de email marketing para hacerle seguimiento, a donde vamos a estar haciéndole secuencias de nutrición de prospectos que en este momento no califican, pero sí pueden calificar para el futuro. Si la persona que está haciendo la llamada saliente no está seguro si el prospecto califica, entonces se le hace una llamada de triaje que en esa misma llamada se le hacen entre 8 a 10 preguntas para entender si el prospecto sí califica para agendar una llamada de ventas con nosotros.
+
+Si no es así, de nuevo, pérdida para el futuro. Si sí es así, entonces se le agenda una llamada de ventas. Bien.
+
+Ahora, digamos que el envío sí se hizo el formulario, pero ahora hay que ver si lo que puso en el formulario califica o no califica. Ahora, es muy importante que en el formulario podamos hacer una precalificación. ¿Qué significa precalificación? Que en base a las respuestas que está dejando el formulario, nosotros vamos a saber si precalifica o no precalifica.
+
+Ahora, ¿por qué esto es tan importante? Porque de esta manera, dependiendo de las respuestas que está dejando en el formulario, si son las que estamos buscando y envía el formulario, el píxel de meta se va a estar alimentando con esta información. Lo que significa que nos va a estar generando más prospectos calificados que son aquellos con los que sí podemos trabajar. ¿Esto cómo funciona? Hacemos una pregunta, un ejemplo, un gran ejemplo es una pregunta de la facturación mensual de tu negocio.
+
+Digamos que el ICP con el que nosotros trabajamos son aquellos que facturan más de $10,000 al mes. Bueno, todos los que digan que facturan menos de $10,000 al mes, no califican. Entonces, lo vamos a estar enviando a un final no calificado y lo vamos a estar redigiendo a nuestra página de YouTube, a nuestro perfil de YouTube, para que puedan ver nuestros videos, a donde en un futuro haya posibilidad de que el prospecto si te califique y si pueda trabajar con nosotros.
+
+Entonces, no solamente lo estamos enviando a el canal de YouTube, sino que nosotros también lo que estamos haciendo es que lo estamos metiendo en una campaña de email marketing a donde va a estar recibiendo dos fases de correos electrónicos. La primera fase, a donde vamos a estar creando conexión, más autoridad, más valor. Y la segunda fase, a donde vamos a estar cambiando esas perspectivas profundas, ese cambio de creencias, haciendo más llamadas a la acción para que reserven una llamada de venta con nosotros cuando ya estén listos.
+
+Ahora, de nuevo, repito, esto es muy importante porque queremos alimentar al píxel de meta con buena información, que las personas que digan que sí tienen más de $10,000, que facturan más de $10,000 al mes, sean aquellas con las que queremos trabajar. Entonces, el píxel de meta va aprendiendo eso. Ahora, si envió el formulario, si califica, ahora va a caer a lo que es nuestra página de reserva para que pueda generar unas llamadas de ventas con nosotros.
+
+Ahora, ¿agendó una llamada? Bien. Se hace la reserva a la llamada agendada. ¿No agenda la llamada? No pasa nada.
+
+Nuestro equipo de ventas va a estar haciendo una llamada saliente, a donde vamos a estar viendo si califica o si no califica, y el mismo proceso. Si no, pérdida. Si sí, entonces ya.
+
+Si no está seguro, entonces llamada triaje. Si sí, entonces se le termina agendando la llamada. Ahora, ¿quién es esta persona o las personas que hacen la llamada saliente? El setter o el triajer.
+
+O sea, no hay ningún problema que el setter haga el mismo trabajo que el triajer. Ahora, ¿qué pasa cuando la llamada es reservada? Lo primero es que el prospecto va a estar recibiendo correos electrónicos por tres canales distintos de comunicación. El primero es, por el calendario, una automatización inmediatamente.
+
+Le envía un correo electrónico con la invitación. 24 horas antes de la llamada se le envía un correo electrónico recordatorio. 2 horas antes de la llamada se le envía otro correo electrónico más un mensaje de texto de recordatorio.
+
+Ahora, este muy importante, el contacto personalizado. El fundador o el equipo de ventas va a estar inmediatamente armando un grupo de WhatsApp a donde va a estar el setter, el prospecto y el closer dando esa presentación, asegurándonos que conozcan un poco más de qué somos, mandándole recursos como de casos de éxito, teniendo una conversación con ellos previo a la llamada de ventas. Manual, 24 horas antes de la llamada se le envía otro mensaje de WhatsApp de recordatorio.
+
+Y en la mañana, o sea, el día de la llamada, en la mañana se le envía otro recordatorio. Y por último, hacemos otra campaña de email marketing. Nosotros utilizamos Go High Level para poder enviarle correos automatizados.
+
+Por ejemplo, 10 minutos después de la reserva, el primer correo electrónico, donde vamos a estar hablando sobre el posicionamiento de autoridad sobre nuestra empresa y nuestra trayectoria, los casos de éxito que hemos conseguido, 1 a 2 horas después de la reserva, más casos de éxito y luego de 3 a 4 horas después de la reserva, un recordatorio sutil de la llamada que vamos a estar teniendo. Ahora, lo que recomendamos es tiempo máximo recomendado entre la reserva, la llamada y la llamada en sí, son 3 días. Ahora, muy bien, esto es apenas la persona agenda la llamada.
+
+Claramente, es lo que el backend, por así decirlo, es lo que nosotros vamos a estar enviándole a él. Pero lo que va a estar pasando con la persona es que apenas agenda la llamada, además de recibir todos esos contactos por correo electrónico y por WhatsApp, va a estar entrando a nuestra página de gracias, a donde en la página de gracias va a haber un video explicando cuáles son los pasos a seguir. Le vamos a estar hablando sobre cómo se va a ver la llamada que vamos a estar teniendo, vamos a estar indagando su situación actual, entender a dónde quiere llegar, ver si somos un buen encaje, si realmente lo podemos ayudar.
+
+Y, bueno, básicamente recordándole que confirme la llamada desde su correo para que aparezca en su calendario, dejarle saber que le vamos a estar enviando un mensaje de WhatsApp, lo vamos a estar metiendo en un grupo. Básicamente, como que entienda la trayectoria que está por venir. Ahora, genial.
+
+Agenda la llamada, recibe los e-mails, página de gracias. Y aquí es a donde sucede la llamada estratégica, que ya sea que lo está haciendo el founder o lo va a estar haciendo el closer. Nosotros hacemos two call close.
+
+La primer llamada es a donde realizamos el discovery. Queremos saber muy bien si realmente podemos ayudar a esta persona. Si realmente vemos que lo podemos ayudar, hacemos el descubrimiento, una llamada de 30, 45 minutos.
+
+Tenemos la información del prospecto, sabemos muy bien sobre la empresa, en qué punto está. Sabemos que lo que tenemos que armar para él, si es posible, y si lo podemos ayudar a escalar. Y lo que le decimos al final de las llamadas, que vamos a estar preparando una propuesta personalizada, donde se lo vamos a estar presentando dentro de 24 horas.
+
+La idea es poder agendarlo lo más pronto posible, el día siguiente. Y en esta segunda llamada es a donde le vamos a estar presentando la oferta y exactamente qué es lo que vamos a estar haciendo para el negocio de esta persona, para que entienda un poco cómo el plan de ataque que vamos a estar implementando y luego el alcance que puede llegar a tener con nosotros. Ahora, ¿qué pasa si el prospecto no se presenta en esa primera llamada? De una vez lo reprogramamos.
+
+Hacemos 3 a 5 seguimientos personales para reprogramar la llamada. Si aún no responde, lo volvemos a incluir en una campaña de email marketing, a donde le hacemos más nutrición a largo plazo y más puntos de contacto. De nuevo, esto lo hacemos con GoHighLevel.
+
+Ahora, si se presentó al discovery, si lo podemos ayudar, ya agendamos la segunda llamada de venta para dentro de 24 horas. Aquí lo único que queda es, o acepta la oferta o no acepta la oferta. Si no acepta la oferta, le hacemos nutrición a largo plazo, lo metemos otra vez en la campaña de email marketing.
+
+Esto realmente puede depender mucho de cómo fue la llamada y de por qué la persona no compró. Pero con GoHighLevel lo metemos en la campaña de marketing para poder hacerle seguimiento y nutrición a largo plazo. Otra cosa muy importante también.
+
+No aceptó la oferta. Depende de cómo fue la llamada. Le hacemos seguimiento por el grupo WhatsApp dentro de dos semanas.
+
+Dentro de 4 semanas. Luego 6 semanas. Y vamos haciéndole seguimiento conforme va pasando el tiempo.
+
+Para poder entender si tal vez ya está listo para acceder al servicio que nosotros le estamos ofreciendo. Básicamente es una llamada telefónica a donde le decimos, Felipe, ¿qué tal? ¿Cómo va todo? ¿Cómo ha ido todo de la última vez que hablábamos? ¿Lograste solucionar este cuello o botella que tenías? Sí, no, no. Bueno, ¿qué te parece si agendamos una llamada para presentarte la oferta especial que hemos armado para ti? Y de esa manera recuperas a muchas personas que tal vez el día que tuviste la llamada de venta con ellos no estaban listos para comprar, pero 2, 4, 6, 8 semanas después sí están listos para comprarte.
+
+Ahora, si en esa segunda llamada aceptan la oferta, pues enhorabuena. Ahí lo único que queda es cerrar el deal. Así que bueno, esto que acabamos de ver es el embudo de adquisición nueva generación para agencias de marketing y negocios B2B.
+
+Como te había prometido, abajo de este video te voy a estar dejando el link del mirror board por si tú lo quieres implementar para tu agencia de marketing o para tu empresa B2B, pero si necesitas ayuda para hacerlo o quieres que profesionales lo hagan, que lo implementen dentro de tu negocio por ti y que además te garanticen que tengas un retorno de inversión al implementarlo, entonces te invito a que agendes una llamada de venta con nosotros. Abajo de este video también voy a estar dejando un link para que pueda reservar una llamada con mi equipo de ventas. Así que nada, eso ha sido todo.
+
+Nos vemos en la próxima.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)

@@ -1,0 +1,1897 @@
+{
+ "video": "C:\\Users\\hvill\\Downloads\\Media Buyer HQ\\Sesion 6\\sesion-6-ad-campaign-ignition.mp4",
+ "video_duration_seconds": 6546.9,
+ "transcribed_seconds": 6546.9,
+ "model": "large-v3",
+ "compute_type": "int8_float16",
+ "batch_size": 4,
+ "language": "es",
+ "language_probability": 1,
+ "transcribed_at": "2026-10-09T17:28:24",
+ "elapsed_seconds": 1083.4,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 23.09,
+   "text": "Bueno, bienvenidos a este entrenamiento. Hoy vamos a hablar de Campaign Setup. Entonces, vamos a hablar de ya cómo publicar los ads. Hoy vamos a ver el primer método que vamos a usar. Este es el método más simple, es el método más rápido, es el método también más práctico que les puede dar resultados más rápido. Y también vamos a ver otro método en otra sesión.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.356
+  },
+  {
+   "start": 23.22,
+   "end": 50.58,
+   "text": "Pero hoy empezamos con el primero ya. A partir de esta sesión ya pueden publicar sus ads. De hecho, justo después de esta sesión pueden empezar a ver leads, ¿ok? A lo que vinimos. Estas semanas que han pasado y los entrenamientos pasados han sido entrenamientos para realmente ver los principios de ser un media buyer y hacer las cosas bien desde el principio. El otro día estaba hablando con mi hermano.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 50.58,
+   "end": 69.46,
+   "text": "De lo importante que es dar resultado rápido cuando uno empieza un programa, ¿verdad? Entonces él me está diciendo como que es demasiado importante que en mi programa yo le dé los resultados a la gente lo antes posible. Y obviamente esa es mi meta, ¿verdad? Pero al mismo tiempo uno tiene que buscar un punto medio entre dar resultado rápido y...",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 69.46,
+   "end": 81.71,
+   "text": "y cubrir todas las bases, porque para mí es muy fácil, digamos, que alguien se una a este programa y en el primer video decirles, nada más dele click aquí, aquí, aquí, manda este ad y empieza a ver, no sé, leads de algo.",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 81.84,
+   "end": 108.93,
+   "text": "Pero igual la persona no sabe nada, o sea, tuvo resultados, pero no sabe por qué, no sabe cómo funcionó, no sabe cómo crear el ad, no sabe absolutamente nada. Entonces, para mí sí es importante, obviamente, dar resultados lo antes posible y llegar ahí, a este punto, pero para mí también es demasiado importante que obviamente aprendan todas las bases y fundamentos para ser un buen Media Buyer, porque al final de cuentas, para eso ustedes están acá, para hacerse unos cracks en Media Buyers, en Media Buying, en curar ads, en generar leads y que ustedes puedan agarrar estabilidad.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 108.93,
+   "end": 138.74,
+   "text": "y que no me necesiten a mí por el resto de su vida. Que ustedes ya sepan hacerlo y que puedan ser autosuficientes y vendérselo a otros negocios o usarlo para cualquier negocio del futuro. Esta habilidad es increíble porque la pueden usar para cualquier negocio. De hecho, yo he tenido varios negocios, varias ofertas y para todos los negocios lo he usado. Entonces, hasta el momento este es el proceso que hemos cubierto. Número uno, el primer punto es, por decirlo así ya, cerrar la venta y tener un cliente.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 138.8,
+   "end": 167.82,
+   "text": "¿Verdad? Nosotros vamos a ver el proceso de adquirir clientes, ¿verdad? En las futuras sesiones, entonces por eso no hemos cubierto eso, porque no tiene sentido ver cómo conseguir clientes si no sabemos hacer el fulfillment, ¿verdad? Pero digamos, el primer paso es cerrar un cliente, cerrar una venta y tener un cliente. Después vimos la parte del diagnóstico, que es cómo llegar y con base a la información del negocio y del cliente, crear un documento donde digamos, ok, toda esta información que tenemos,",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 167.82,
+   "end": 195.6,
+   "text": "nicho, avatar, oferta, proceso de ventas, dolores, deseos, todo con base a eso. Siguiente paso, tenemos la idea del ad. Tercer paso, la creación del ad copy, ¿verdad? El ad copy son las palabras que van a salir de la boca de la persona que graba el ad. El texto es todo. Recuérdense, todo en la vida es texto. Esa conversación que ustedes tuvieron con su novia o con su novio, con su esposo, su esposa, su mamá.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 195.6,
+   "end": 216.98,
+   "text": "Eso es Cosmic Copy, eso no deja de ser Cosmic Copy, ¿verdad? Cuando ustedes tienen una conversación, sentados en la mesa, cenando, recuérdense, están diciendo Copy. Todos son palabras y todas las oraciones son palabras y toda la comunicación son palabras, pero eso es lo más importante al final de cuentas. Ustedes pueden leer por video o por texto, todo eso es Cosmic Copy. Después...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 217.33,
+   "end": 242.13,
+   "text": "Mandamos el ad copy al cliente para que lo revise y las instrucciones para grabarlo. Recibimos el video, ¿verdad? Aquí abajo pueden ver el video y después se revisa el ad y ahora vamos por esta parte que es la creación de la campaña, ¿ok? Cómo publicar la campaña para que empiecen a entrar leads. Entonces esto es un resumen de lo que hemos visto. Hemos hecho el diagnóstico, el ad copy.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 242.13,
+   "end": 270.77,
+   "text": "aprobación del ad copy, ya tenemos un video, recuerden el video usualmente lo graba el cliente, esto lo graba el cliente, a menos que uno tenga su propio negocio, su propia oferta y uno esté grabando el video uno mismo para su negocio, ya definimos bien el proceso de ventas, la sesión pasada vimos todos los diferentes procesos de ventas y definimos que el más simple para empezar es simplemente correr un ad, generar leads, o sea mensajes y de mensajes llevarlos a una llamada para cerrar la venta.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 270.77,
+   "end": 292.83,
+   "text": "Ese es el más simple y probado de todos, igual los otros funcionan, pero es uno bueno para empezar. Y ahora sí, Campaign Setup. Entonces, empecemos con esto. Lo más importante es el video, ¿verdad? El video ad. Dos, la oferta que se comunica en el video. Y tres, la comunicación con el lead en el proceso de ventas.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 292.83,
+   "end": 315.44,
+   "text": "que se pueden usar los templates para comunicarse con los leads, ya sea por chat o por llamada, que esto se los puse en el área de miembros. Si esas dos variables, bueno, si esas tres variables en realidad son buenas, entonces por lo general el video consigue leads en la mayoría de placements y plataformas y también suele tener un retorno de inversión positivo en la mayoría de formatos. ¿A qué me refiero con esto?",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 315.47,
+   "end": 334.1,
+   "text": "Que si ustedes tienen un buen video, digamos este, ustedes tienen un buen video y el video tiene un buen ad copy y el ad copy está hablando de una buena oferta para el avatar correcto, o sea, hay product market fit, verdad, es un avatar que está buscando una solución y se la estamos dando por medio del video.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 334.1,
+   "end": 359.41,
+   "text": "Y si después de eso empiezan a llegar leads y la comunicación con esos leads es buena o normal, digamos, nada más que no sea mala, entonces no importan tanto los detalles, ¿verdad? De si esto se mandó en Instagram de esta manera, salió en los stories o se salió en el feed o si se mandó en Facebook y en Facebook apareció en el Explore o si apareció por acá.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 359.47,
+   "end": 371.95,
+   "text": "Esos detalles no importan mucho siempre y cuando el video, la oferta y la comunicación cuando entran a leads sean buenas. De hecho, la mayoría de placements y con eso me refiero placements es como a donde sale el ad.",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 372.18,
+   "end": 399.86,
+   "text": "Va a funcionar siempre y cuando el video sea bueno. Entonces eso es súper importante entenderlo. Si una campaña no funciona o no está dando buenos resultados, no está generando muchos leads o no está dando un retorno de inversión positivo, no está generando ventas, no es por el placement. La mayoría de casos no es porque se corrió y salió en Explore y no tenía que salir en Explore. Es por el video.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 399.86,
+   "end": 425.5,
+   "text": "Una campaña que tiene un retorno de inversión negativo por tener un mal video, una mala oferta y mala comunicación con los leads no se arregla al enseñar el ad en otra plataforma. Hay un pequeño typo. Entonces...",
+   "avg_logprob": -0.129,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 425.5,
+   "end": 453.2,
+   "text": "Si el ad es malo, no lo van a arreglar nada más diciendo, ok, pongámoslo en otro formato, otro placement. Es un mal ad, probablemente no funcione en la mayoría de lugares. Aquí les doy un ejemplo. Entonces, si el ad, la oferta y la comunicación están mal, rara vez se arregla al probar otra plataforma de ads. Digamos que estamos corriendo este ad en Facebook y digamos que es un mal ad. Es un video que no está...",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 453.2,
+   "end": 465.79,
+   "text": "Dando una buena oferta, no le está hablando al avatar correcto, no está comunicándose bien, puede que el video ni siquiera esté bien grabado, lo que sea. Digamos que en general es un mal video ad.",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 465.79,
+   "end": 489.87,
+   "text": "Aparte de eso, cuando llegan leads, estamos, digamos, esto es el inbox, ya sea de Instagram o WhatsApp, no estamos teniendo buena comunicación con los leads, ¿verdad? Yo les doy un template a ustedes que pueden usar ese template para hablar con la gente, pero digamos que no lo están usando o simplemente, no sé, no lo están haciendo bien, entonces, o el cliente de ustedes, entonces esto está mal. Y digamos que en la llamada también, tienen una llamada y la llamada no la hacen bien.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 490.03,
+   "end": 511.98,
+   "text": "Y esto se está, este ad se está corriendo en Facebook. Entonces, mucha gente podrá decir, no, esto es una mala, esta campaña está dando malos resultados, está dando un retorno de inversión negativo, ¿verdad? No está generando profit. Entonces, para arreglarla, probemos YouTube. Entonces, la manda en YouTube y en YouTube tampoco funciona. A eso me refiero con esto, que cuando un video es malo.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 511.98,
+   "end": 541.17,
+   "text": "Por tener mal ad copy, mala oferta y no estar ofreciéndole la solución correcta al avatar que está buscando esa solución, no importa si lo ponen en Facebook, en YouTube, en LinkedIn, en Instagram, en todo lado, lo más probable es que no funcione. Entonces, por eso es que los Media Buyers se hacen expertos y especialistas en el video, porque de hecho, cuando tiene un buen video, cuando tiene un buen video, va a funcionar en la mayoría de los placements y plataformas. Yo he tenido...",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 541.17,
+   "end": 557.78,
+   "text": "Un video, de hecho muchos, yo he tenido videos que son ganadores en Facebook, o sea me producen un retorno de inversión positivo en Facebook, me generan leads, esos leads me generan ventas y esas ventas equivalen a un monto más alto de lo que estoy invirtiendo y llego y lo pongo en YouTube.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 557.87,
+   "end": 579.78,
+   "text": "Y funciona muy bien. ¿Por qué? Porque el video, al final de cuentas, son humanos viendo en video y los humanos están diciendo eso es lo que necesito y el video les está diciendo exactamente lo que quieren escuchar y lo que necesitan. Entonces no importa si el humano está viéndolo en una plataforma que se llama YouTube o Facebook, no deja de ser comunicación que les está...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 579.78,
+   "end": 607.41,
+   "text": "Haciendo click, ¿verdad? Entonces, no es como que hay humanos de YouTube, no es como que hay humanos de Facebook, solo hay humanos en plataformas y hay videos comunicándose con ellos, ¿verdad? Entonces, obviamente las plataformas son un poco diferentes, la forma en que se crean los ads y así, pero el punto es que si ustedes tienen un buen ad que está siendo exitoso en Facebook y lo ponen en YouTube, muchas veces va a funcionar. No siempre, pero muchas veces. Hay una alta probabilidad de que sí, solo porque el video es bueno.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 607.41,
+   "end": 613.36,
+   "text": "Ese es mi punto y eso es como importante entenderlo porque muchas veces ustedes van a...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 613.39,
+   "end": 642.99,
+   "text": "Mandar ads en Facebook o Instagram y tal vez no funcionen y quieran probar otra plataforma o irse a otro lado, pero esa no da solución. O sea, probablemente, o sea, si no funciona ahí es porque es malo. Y en Facebook e Instagram hay suficiente tráfico para hacer millones de dólares, millones de dólares al mes. Entonces no tienen que irse a otro lado a buscar un retorno de inversión positivo si no lo han logrado en un lugar que todo el mundo lo está haciendo funcionar. O sea, si es un lugar probado.",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 642.99,
+   "end": 658.83,
+   "text": "Instagram Boost",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 658.83,
+   "end": 676.05,
+   "text": "Pero después la empecé a usar bien y me di cuenta que sí es una muy buena opción, funciona muy muy bien y es una opción que cualquier persona puede usar y en literalmente horas, bueno para no decir horas mientras aprueban el ad, pero en un día puede empezar a ver leads y",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 676.08,
+   "end": 704.99,
+   "text": "es algo tan simple que está ahí como en plena vista de todo el mundo y muy poca gente lo sabe usar o lo usa porque el ad es malo en realidad la forma en que se crea ads con esto es demasiado fácil pero no tienen buenos resultados con esto porque el ad es malo entonces tenemos que ser especialistas de crear un buen ad entonces vamos a ver cómo mandar los ads con Instagram Boost y yo a pesar de que tengo otros métodos de crear ads que vamos a ver en el futuro que son un poco más elaborados",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.259
+  },
+  {
+   "start": 704.99,
+   "end": 716.34,
+   "text": "Traen más opciones, más detalles. Yo Instagram Boost lo he usado un montón y me ha dado excelentes resultados, aunque sea bastante limitado en lo que se puede hacer, porque recuérdense.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.05
+  },
+  {
+   "start": 716.34,
+   "end": 744.5,
+   "text": "Muchas veces entre más simple mejor, entre menos opciones mejor, entre más minimalista mejor. Si ustedes tienen un buen video, no se necesitan muchas opciones, no se necesitan muchos, muchos features, verdad, para hacer los ads complicados. El ad es bueno, boost y genera leads y los leads, si les hablamos y retorno a inversión. Yo con clientes estoy viendo de 300 a 1000% retorno a inversión con videos de 60 a 90 segundos.",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 744.5,
+   "end": 774.26,
+   "text": "Mandando mensaje con Instagram Boost. Así se los pongo, es increíble. Entonces vamos a ver este método y ya después vamos a ver el que es un poco más elaborado. Entonces, primero vamos a ver los screenshots de cómo hacerlo aquí en la presentación y después voy a ir a mi celular y les voy a enseñar básicamente lo mismo pero en mi celular para que vean cómo es en vida real. Ok, entonces el paso número uno es ir a su cuenta de Instagram, ¿verdad?",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 774.38,
+   "end": 791.89,
+   "text": "Subir el Reel. Ok, entonces va a subir un Reel que sea de máximo 90 segundos. Si ustedes están trabajando con un cliente, entonces le van a decir al cliente que suba el Reel a su cuenta de Instagram. Ahora, este Reel es el ad, ¿verdad?",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 792.02,
+   "end": 816.54,
+   "text": "Este es el ad que se creó con base al ad copy, que el ad copy se creó con base al diagnóstico y que este video lo grabó el cliente, verdad, si están usándolo para clientes o si es para su propio negocio que lo grabaron ustedes. Entonces este reel al que me refiero es el ad y estamos subiéndolo como un reel porque los reel ads están funcionando extremadamente bien.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 816.54,
+   "end": 827.71,
+   "text": "Ok, actualmente al final el reel no es nada más que simplemente un formato, es un formato, es un tipo de video, pero si tenemos un máximo de 90 segundos.",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 827.71,
+   "end": 857.62,
+   "text": "Para la duración del video, entonces tenemos que asegurarnos de que sea menos que eso. Por eso es que es importante a la hora de crear el ad copy, que el texto a la hora de leerlo o de decirlo, que no se pase de 90 segundos, porque si no, digamos que no vamos a poder usar este placement específico, que está funcionando demasiado bien y da resultados demasiado rápido. Entonces, por eso es importante tener un video que sea de 90 segundos.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 857.74,
+   "end": 886.02,
+   "text": "No usar música con copyright. De hecho, mejor evitar música del todo cuando se está testeando. Esto es algo súper importante porque ya me ha pasado con clientes, digamos, que graban un video y le ponen subtítulos y para que se vea más bonito o suene más bonito, le ponen música de fondo. Pero para mí eso no es una buena idea. Les voy a decir por qué. Número uno, copyright.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 886.02,
+   "end": 913.49,
+   "text": "Estamos usando una canción relativamente conocida, la mayoría de canciones Instagram les va a dar problema y a la hora de subir el ad les va a decir que no lo pueden hacer y se los van a bajar porque dicen que la música es de alguien más y tendrían que usar la música del feature de Reel, ¿verdad? Esta de acá, pero que en realidad ya ahí digamos que arruina de cierta manera el audio del video, ¿ok?",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 913.49,
+   "end": 922.91,
+   "text": "Mejor no usar música por esa razón para evitar problemas y segunda razón es algo que ya hemos mencionado en los trainings pasados que es",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 922.91,
+   "end": 949.22,
+   "text": "tener la menor cantidad de variables posibles esto puede que no sea una variable de demasiado peso como que uno diga ah bueno el reel funcionó por tener una buena canción pero no deja de ser una variable entre menos variables mejor así se garantizan que si el ad está dando un retorno de inversión positivo no es por la canción no es porque es una buena canción no es porque la canción genera engagement fueron por las palabras que salieron de la boca de la persona que está grabando el ad",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 949.22,
+   "end": 965.62,
+   "text": "Ok, y esas palabras incluyen la oferta de lo que se está comunicando la oferta. Entonces esa siempre es mi filosofía. No metan más variables de las necesarias porque así si no es más difícil leer la situación, analizar la situación, por qué está funcionando, por qué no.",
+   "avg_logprob": -0.079,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 965.81,
+   "end": 992.99,
+   "text": "Entonces, por eso es que no ponemos música, nada más RAW, así, RAW, el video, las palabras que se dicen y el setup. Ok, el setup es a dónde se está grabando el video, si en selfie, si con este background, en este caso, como pueden ver, es un video RAW, nada más yo manejando, grabándome en selfie con subtítulos y listo. Yo sí le pongo subtítulos, siento que los subtítulos no es una variable que...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 992.99,
+   "end": 1013.76,
+   "text": "Es una variable que no tiene demasiado peso, pero sí hace que la gente lo pueda leer más fácilmente, especialmente si a veces ustedes hablan en Spanglish como yo y dicen palabras raras, como Cosmic o como Galactic o como todas estas cosas, entonces la gente no entiende, pero los subtítulos por eso son buenos. Entonces, muy simple.",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1013.76,
+   "end": 1040.77,
+   "text": "Va aquí, a su cuenta, le dan al plus, aquí, escogen el video, como pueden ver, 90 segundos exactos, ni un segundo más, ni uno menos, pero esto yo, yo lo tenía full presente, cuando estaba grabando este video, yo sabía que no me podía pasar de 90 segundos, entonces, yo no sé si a ustedes les pasa lo mismo, pero yo en mi cabeza tengo como un timer ahí, como que, como que va contando los segundos y entonces como que tengo un instinto de cuándo parar, verdad, no sé si es por ya grabar demasiados videos, pero esto fue así.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1040.77,
+   "end": 1067.44,
+   "text": "90 segundos, de hecho 89 segundos, 89.8 y si me pasa un poco nada más lo corto, entonces escojo el video, ya me permite subirlo como real, si esto detecta que el video es más largo que 90 segundos lo va a subir como un post, entonces ya va a ser digamos como otro formato por decirlo así, entonces lo escogen, le dan next, aquí pueden cortarlo un poco o lo pueden hacer desde el celular o en CapCut y",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 1067.44,
+   "end": 1093.84,
+   "text": "Los siguientes pasos son muy, muy simples para subir un Reel. Aquí les va a pedir, número uno, que editen el Cover. El Cover es la portada, por decirlo así. Entonces, hay dos opciones para Cover. El Cover del Reel, ¿verdad? Entonces, cuando sale la sección de Reels, esto es como lo primero que sale. Yo aquí, a ver, esto no importa tanto, pero trato como de, no sé, como escoger un Cover que no sea...",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1094.0,
+   "end": 1111.39,
+   "text": "Yo no lo trato de hacer clickbait, volvemos a lo mismo. Yo no quiero que si un ad funciona sea porque fue clickbait. Yo quiero que el ad funcione porque dije un buen copy. No quiero buscar hacks, no quiero buscar shortcuts para hacer un ad funcional. Yo quiero tener un sistema...",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 1111.39,
+   "end": 1140.13,
+   "text": "Replicable, que cada vez que escribo este tipo de copy funciona sin clickbait, sin música, sin emojis volando, sin animaciones, sin cámaras profesionales, solo las palabras. Quiero ser un experto de decir palabras que generen cash. Nada más sexy que eso, Tim. No hay nada más sexy que poder tener control del retorno de inversión con una variable, las palabras que salen de su boca. Si uno crea un ad,",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1140.13,
+   "end": 1165.6,
+   "text": "Y el ad funcionó, porque tuvo música, fue demasiado interactivo, tuvo clickbait, tuvo muchas animaciones. Se puede replicar, pero es más difícil. Ahora necesitamos todo eso para que funcione otra vez, ¿verdad? Porque el copy no fue tan bueno. O sea, el copy como que, por decir, es como el ejemplo que les di la vez pasada. Si Nala se fue a jugar, y Nala es mi perro, mi golden. Si se fue a jugar y le metieron un barrial, solo porque yo le ponga más colonia.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 1165.6,
+   "end": 1191.09,
+   "text": "No va a ser que esté limpia, ¿verdad? O sea, eso es... Entonces, ese es el punto, como no echarle colonia a algo que huele feo. Mejor nada más lo hacemos bien y que esté limpia y bonita después del grooming. Entonces, ese es el cover. Hay una parte normal. Yo trato como de que lo que sale en el video sea como... No sé, tal vez es que no salga siendo una mueca súper loca y que el texto...",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1191.57,
+   "end": 1212.3,
+   "text": "No sé, obviamente el texto no da mucho contexto porque los subtítulos solo dan como una oración, pero aquí sale si usted es alguien que está buscando, entonces como que queda un poco de misterio, como que está buscando, ¿verdad? Entonces, pero esto no importa tanto. Y después Profile Grid, aquí ya es para que esto salga en el grid del perfil de Instagram.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1212.37,
+   "end": 1242.38,
+   "text": "Entonces esto tampoco importa tanto, esto si la gente lo va a ver cuando se meta al feed, va a ver este cover ahí, entonces si les importa que sea estético o lo que sea, entonces ahí van a escoger la parte del video que prefieran, pero van a ver que ahorita ni siquiera se necesita ponerlo en el feed, de hecho se puede esconder, eso es la siguiente parte, aquí van a ver que",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 1242.74,
+   "end": 1271.63,
+   "text": "Se puede esconder. Entonces, ya pusimos aquí el cover, esas dos opciones. Después nos va a pedir que pongamos el texto del ad. Yo les voy a dar diferentes opciones de copy ya creados por mí en un documento que va a estar en la lección por aquí en algún lado. Y les voy a dar diferentes opciones que ustedes básicamente pueden casi que copiar y pegar o modelar muy parecidas. Esta es mi filosofía con el ad copy, el ad copy del texto, ¿verdad?",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1271.79,
+   "end": 1288.85,
+   "text": "Hay ad copy de video, que es el que hablamos, y hay ad copy de texto. Este texto de aquí lo puse más grande acá. Si le interesa aprender a hacer un media buyer, mándeme un mensaje diciendo media buyer para más información del grupo. Es un copy que es relativamente aburrido. Es un copy que es relativamente...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1289.01,
+   "end": 1317.04,
+   "text": "poco elaborado y no tiene muchos detalles. ¿Por qué? Por la misma razón. Yo no quiero que el ad funcione por este texto. Yo quiero que el ad funcione por las palabras que salen de mi boca, por el ad copy principal del video. Por eso es que yo no quiero llegar y escribir siete párrafos aquí con un montón de detalles porque si funciona, yo no sé si fue por este párrafo gigante o si fue por el video. Entonces, con este mini ad copy, yo puedo saber...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1317.04,
+   "end": 1344.4,
+   "text": "que si funciona fue por el video porque esto realmente no es nada convincente no es nada que esté convenciendo a alguien de manera muy agresiva o sea simplemente es como si le interesa aprender a hacer un Media Buyer la gente va a decir que es un Media Buyer tiene que ver el video entonces si lo esfuerzo a ver el video mándame un mensaje diciendo Media Buyer para más información del grupo lo que sí les puedo decir es que esto tiene que ser como muy fácil de entender siempre que estén comunicándose en su marketing porque al final los Media Buyers son marketers recuerden",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1344.4,
+   "end": 1373.9,
+   "text": "Está Marketing, la sombrilla, y después aquí hay una especialidad de Media Buyer. Es como decir, está Medicina General y aquí está el Neurocirujano. Entonces los Media Buyers son Marketers. Y en Marketing hay que hablarle a la gente como si tuvieran 10 años. Recuérdense este principio, yo siempre lo uso, todos los días de mi vida lo uso. Yo tengo que hablarle a la gente en el metaverso como si estuviera hablándole a un chiquito de 10 años. Si el chiquito de 10 años no entiende, entonces no estoy comunicándolo bien.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1374.06,
+   "end": 1393.47,
+   "text": "Por eso este texto es así como súper fácil de entender. Si le interesa aprender a ser un Media Buyer, mándenme un mensaje diciendo Media Buyer para más información del grupo. Es como muy difícil que no lo entiendan, no entiendan lo que estoy diciendo y ese principio también aplica acá para el...",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1393.47,
+   "end": 1422.98,
+   "text": "Para el video, ¿verdad? Ahora, ustedes a veces me escuchan en mis Instagram hablar demasiada basura, a veces, con demasiadas palabras ahí raras, pero eso es porque estoy hablándole a gente como que ya me conoce y tiene una relación muy cercana conmigo, no estoy tratando de, o sea, a veces como que juego con eso, por decirlo así, no me lo tomo muy en serio, pero cuando uno está creando una campaña que ya la está mandando al metaverso, al cold traffic, al tráfico frío, sí es como muy importante ser muy claro y en general, creo que",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 1422.98,
+   "end": 1452.85,
+   "text": "La comunicación tiene que siempre ser muy fácil de entender y muy directa y muy al grano. Entonces, por eso les estoy explicando el porqué de algo así tan simple y esto es lo que ustedes pueden usar para sus clientes, es lo que pueden usar para sus propios ads. Es algo sumamente simple y es algo que funciona muy bien y la gente si quiere información simplemente le va a mandar la palabra que ustedes pusieron aquí. Entonces, si ustedes tienen un ad,",
+   "avg_logprob": -0.09,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 1452.85,
+   "end": 1466.9,
+   "text": "Venden un programa de Real Estate. Entonces, si aquí en el video están hablando de Real Estate, entonces nada más ponen, si les interesa aprender más cómo...",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1467.06,
+   "end": 1496.34,
+   "text": "¿Cómo generar un ingreso extra como agente de Real Estate? Mándenme la palabra Real Estate para más información del programa. Algo así tan simple funciona muy bien. O si tienen, o hayamos hecho un ejemplo de fitness, ¿verdad? Si ustedes están ayudando a CEOs a perder peso, entonces si les interesa aprender cómo bajar esa panza, mándenme un mensaje diciendo Fit CEO para más información del grupo. Voy a hacer algo bien directo. Entonces, ese es el texto que sale aquí.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1496.46,
+   "end": 1524.58,
+   "text": "y después Tag People, aquí no ponemos nada, Audiencia, Everyone, Profile Display, esto de Profile Display es justamente esto que sale aquí. Pueden escoger ponerlo en el Main Grid, que esto salga público en el perfil, que siempre igual lo pueden esconder, entonces no importa tanto. O puede salir en el Reels Grid Only. ¿Qué significa eso? Ustedes han visto que Instagram está...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1524.58,
+   "end": 1538.4,
+   "text": "Bueno, está aquí en Instagram, está el feed principal y después que está este del centro. Y si vamos ahí, si vamos al centro, ahí salen solo los reels. Eso significa que el main grid...",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 1538.4,
+   "end": 1565.68,
+   "text": "Main Grid and Reels Grid sale en el feed y en el de Reels, pero si quieren esconderlo del feed principal, entonces solo escogen Reels Grid Only para que salga solo aquí. Entonces no va a salir en el principal por si les interesa que el feed principal se vea, no sé, bien nada más con los posts que tienen, entonces pueden ponerlo nada más en el Reels Grid Only. Eso no afecta en nada, ¿ok? No afecta en el...",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1565.68,
+   "end": 1583.97,
+   "text": "En los resultados del ad, entonces no importa si lo ponen solo en la sección de Reels, de hecho yo ahí tengo casi que la mayoría de mis Reels, yo no los tengo en mi perfil, entonces eso también es importante porque muchas veces ustedes van a querer probar un ad, ¿verdad? Con esta función de Boost",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1583.97,
+   "end": 1612.62,
+   "text": "Pero quieren probar también otros 5, entonces si suben 6 Reels ahí al feed que puede que ni siquiera funcionen, entonces como tal vez el feed se vea desordenado o se vea raro o no quieren que todo el mundo esté viendo eso en el feed, pueden nada más subirlos y no ponerlos en el Main Grid, o sea, ponerlos en la sección de Reels. De hecho, eso es una buena idea. Yo cuando estoy probando como videos, como Reels, que no quiero que salgan en mi perfil, que se queden ahí, nada más los pongo todos en el Reels Grid Only.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1612.62,
+   "end": 1631.95,
+   "text": "¿Verdad? Entonces, eso es como el razonamiento. Puede que sea por un tema de lo estético que se vea o simplemente que quieran probar muchos videos y que no quieren que todo el mundo esté viendo ese montón de videos que estén ahí todos feos en el feed, por decirlo así. Pero no afecta en nada.",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1632.18,
+   "end": 1654.05,
+   "text": "Ahora, paso número 2. Ya subieron esto. Muy simple, ¿vieron? Muy simple subir ese reel. Muy simple el ad copy. De momento todo ha sido súper fácil, ¿verdad? Tenemos un buen video, 90 segundos lo subimos, simple ad copy de texto y listo. Paso 2. Boost.",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1654.05,
+   "end": 1672.14,
+   "text": "Boost, ese es el botón mágico, Tim, ese es el botón mágico, que mucha gente habla mal de este botón, incluyéndome a mí antes, cuando no lo usaba muy bien, pero todo bien, de eso se trata, y después empecé a usarlo y vi el poder de Boost, es muy simple.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1672.3,
+   "end": 1701.71,
+   "text": "y este es el botón mágico que ustedes le dan boost y empiezan a entrar leads como magia, como si tuviéramos una varita mágica y hiciéramos así, pum, y empiezan a entrar los leads. Entonces, boost post. Ok, ahora cuando le damos boost post van a ver, la primera opción va a ser escoger el objetivo de la campaña. Esto también lo vamos a ver ahorita, pero el objetivo de la campaña. Entonces, el objetivo significa, ok,",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1701.71,
+   "end": 1730.96,
+   "text": "Después del ad, cuando la gente vea el ad, ¿qué va a pasar después? Esto es relacionado al proceso de ventas. ¿Se recuerdan que vimos el proceso de ventas? Y en el proceso de ventas uno puede mandar del ad a un mensaje o del ad a una página donde vea un video o del ad a una página donde mete el email para después ver un video. Ya eso es un tema de proceso de ventas. Entonces, esto es relacionado a eso. Básicamente Instagram nos está diciendo.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1731.89,
+   "end": 1739.22,
+   "text": "¿Qué quiere que la gente haga cuando la gente ve su ad? ¿Cuál es el siguiente paso?",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1739.22,
+   "end": 1763.22,
+   "text": "Ad, mensaje.",
+   "avg_logprob": -0.873,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1763.28,
+   "end": 1790.1,
+   "text": "Book Call, o sea, conseguir la llamada y en la llamada cerrar la venta. Casi la mayoría de coaches, consultores, personas que hacen servicios en líneas usan ese proceso. Hablan con personas por WhatsApp o Instagram, agendan llamadas y en la llamada cierran la venta. Eso es casi que lo que hace todo mundo y porque funciona súper bien. Si todo el mundo lo hace es porque funciona, ¿verdad? Entonces, aquí está la opción de visitar el perfil.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 1790.67,
+   "end": 1818.5,
+   "text": "Visitar su página o mandarle un mensaje. De hecho, curiosamente, yo no me he dado cuenta de esto, pero estos son los tres tipos de proceso de ventas que nosotros vimos en la sesión pasada. De hecho, yo ni me he dado cuenta que son las únicas opciones aquí, pero es que en realidad son las únicas opciones porque son las más populares. Entonces, la primera es que la gente vea el ad y después hay un botón para ir a visitar el perfil.",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1818.5,
+   "end": 1835.34,
+   "text": "¿Se recuerdan que esa opción solo es buena si el perfil le suma, no le resta? Si tiene un buen perfil, buen feed, buenos stories, buen contexto, eso funciona muy bien para conseguir tráfico del perfil y del perfil. Suben stories.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1835.34,
+   "end": 1861.71,
+   "text": "2. Visit your website. Esto es que del ad la gente le da tap al video y lo manda a una página, a un link. Aquí no hay...",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1861.71,
+   "end": 1882.06,
+   "text": "Contacto humano inmediatamente. Yo lo que quiero es que ustedes traten de conseguir ese contacto humano apenas la gente termina de ver el video. Entonces la gente ve el video, consume el ad copy y inmediatamente contacto humano, ya sea por chat o por llamada, porque el contacto humano es lo que genera un retorno de inversión.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1882.1,
+   "end": 1908.43,
+   "text": "WhatsApp o Instagram",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1908.43,
+   "end": 1935.22,
+   "text": "¿Por qué WhatsApp o Instagram? Porque Meta es dueño de WhatsApp, Meta es dueño de Instagram, Meta es dueño de Facebook. Entonces tenemos dos opciones. Si le damos clic aquí a Instagram, si le damos clic aquí nos va a pedir ¿Qué prefiere? ¿Instagram o WhatsApp? ¿Verdad? Aquí igual, como pueden ver, Instagram o WhatsApp. Entonces veamos aquí abajo primero, digamos que escogemos Instagram. Entonces escogemos Instagram.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1935.22,
+   "end": 1955.09,
+   "text": "y aquí ponemos el call to action. Recuerden, call to action es llamado a acción. El botón, esto es lo que va a decir. Send message, o sea, mande un mensaje, contáctenos, aprenda más. Book now, o sea, agenda una llamada, revise si está disponible o ordenar ahora.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1955.09,
+   "end": 1971.02,
+   "text": "El que yo les recomiendo que es como el más simple y más claro en cuanto a comunicación, recuérdense todo es comunicación, es mande un mensaje, mande un mensaje es como que todo el mundo lo entiende, mande un mensaje, ok, this es mandar un mensaje, ¿verdad? Learn more, aprender más es...",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1971.44,
+   "end": 2000.59,
+   "text": "Es un poco subjetivo, como aprender más, pero ¿qué me va a mandar? ¿qué voy a hacer? O sea, como aprender más es como un término subjetivo y siento que el de mandar mensajes es como más al grano. Entonces, si escogen Instagram, yo les recomiendo mandar mensaje, así la gente sabe exactamente qué hacer, mandar mensaje. Ahora, si escogen WhatsApp, Business, que es lo que yo les recomiendo, WhatsApp Business, o sea, en cuanto a WhatsApp, no es que les recomiendo solo WhatsApp, les recomiendo usar WhatsApp Business.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2000.59,
+   "end": 2029.07,
+   "text": "para cerrar ventas por WhatsApp. Si escogen WhatsApp. Entonces, si escogen WhatsApp en vez de Instagram, van a escoger acá WhatsApp Business y aquí les va a decir que agreguen su número de WhatsApp Business. Entonces, los va a llevar a esta siguiente página en donde van a agregar el número, les va a mandar un código a ese número en WhatsApp. Aquí les va a decir Facebook Business, les manda este código y lo meten.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2029.2,
+   "end": 2055.07,
+   "text": "Para verificar el número. Ya cuando lo verifican les va a salir así, que tienen WhatsApp con su número. Entonces es muy simple. Si escogen WhatsApp, lo escogen y verifican el número y listo. Si escogen Instagram, entonces le dan ese message y listo. Ahora, ¿cuál es mejor? La pregunta del millón. ¿WhatsApp o Instagram? Mi mejor respuesta es, pruébelas.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2055.07,
+   "end": 2084.21,
+   "text": "Pruébelas porque las dos funcionan muy bien y yo he trabajado con muchos clientes, tengo clientes que la están estallando con Instagram, tengo clientes que la están estallando con WhatsApp, ¿verdad? Y los dos dan retorno de inversión positivo siempre y cuando el ad sea bueno y la comunicación cuando llega al lead sea buena. Volvemos a lo mismo, los detalles no son tan importantes cuando hay un buen ad y hay buena comunicación. Si llega una persona a ver el video y le manda un mensaje por Instagram,",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2084.21,
+   "end": 2113.74,
+   "text": "Y usted hace un buen trabajo en la comunicación o su cliente, entonces va a funcionar. Y si lo hacen por WhatsApp, va a funcionar. Si el ad es malo y la comunicación es mala, entonces ninguno va a funcionar. Es como, eso es como el principio. Ahora, si yo tuviera que escoger uno, porque me dicen, si no escoge uno, matamos a toda su familia. Ok, entonces yo tengo que escoger uno. Yo escogería probablemente WhatsApp. ¿Por qué WhatsApp? Porque...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2114.32,
+   "end": 2134.96,
+   "text": "Siento que la gente ve más WhatsApp que Instagram, verdad? O sea, como que en general la gente pasa más pegada a WhatsApp que Instagram porque involucra su número telefónico, verdad? Y que está ligado a que es como más serio que un usuario de Instagram. Siento que la gente le da más peso a su número.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2134.96,
+   "end": 2158.48,
+   "text": "de WhatsApp que a su usuario de Instagram y siento que la gente todo el día está viendo WhatsApp para hablar con su familia, para hablar de negocios, para mandar memes o lo que sea. Instagram como que es un ambiente de más dopamina que WhatsApp, ¿verdad? Y yo siento que la dopamina hay que saber cómo manejarla porque si todos nuestros leads están en un ambiente donde hay dopamina alta, si nuestro mensaje es dopamina baja,",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2158.48,
+   "end": 2176.56,
+   "text": "Entonces probablemente no quieran verlo, ¿verdad? Por ejemplo, si alguien tiene su inbox en Instagram con 20 memes de amigos y uno le mandó mensaje serio como para perder peso, para mejorar su situación financiera, es como, ya voy, voy a ver mi meme que me mandó mi compita, ¿verdad?",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2176.56,
+   "end": 2192.24,
+   "text": "Entonces, eso es algo real, ¿verdad? Eso es algo real. El cerebro va a buscar lo que le genera más dopamina instantáneamente. WhatsApp es como un ambiente más aburrido, ¿verdad? En general creo que es como más aburrido. Igual se pueden mandar memes y así. Pero si yo tuviera que escoger uno, probablemente escogería WhatsApp.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2192.24,
+   "end": 2213.87,
+   "text": "Porque siento que la gente lo usa demasiado y a mí me está funcionando demasiado bien también, entonces podrían simplemente empezar con WhatsApp y probarlo, ver qué tal y podrían también eventualmente probar Instagram. Es como me decía mi mentor y esto a mí me ponía un poco frustrado, ¿verdad? Pero fue una de las mejores lecciones que me dio.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 2214.1,
+   "end": 2240.13,
+   "text": "Mi coach de ads antes se llamaba Michael, ¿verdad? Yo creo que yo les había comentado de Michael en una sesión pasada y yo cuando tenía una pregunta de si probar A o probar B, yo le preguntaba a Michael como, Michael, ¿qué pruebo? ¿Pruebo este texto o pruebo este otro texto? ¿Cuál va a funcionar mejor? Usted es el experto, ¿verdad? Entonces, ¿cuál va a funcionar mejor? Y él me contestaba...",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2240.13,
+   "end": 2267.66,
+   "text": "Sebastián, coma, test, así, Sebastián, test, como diciéndome, yo no sé, o sea, es imposible que yo sepa a menos que usted lo pruebe, porque yo no tengo, yo no soy, yo no soy un adivino, el mercado va a, y el data de las redes sociales, los números que nos dan, eso es lo que va a determinar que es mejor o no, yo le puedo decir, si, no sé, si está siguiendo la estructura que estamos hablando o así.",
+   "avg_logprob": -0.075,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2267.66,
+   "end": 2277.31,
+   "text": "Pero yo no puedo decirle cuál va a ser el outcome o cuál que va a tener más probabilidad de éxito porque al final los dos funcionan, puede que los dos funcionen, ¿verdad? Entonces...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2277.31,
+   "end": 2304.32,
+   "text": "Eso también es un principio que a mí me da un poco de cólera porque yo invertí todos mis ahorros, 5 mil dólares más mil dólares para ads en este programa, quedé en cero y la respuesta a mis preguntas con D era ¿qué pruebo? A o B, era test, pero después entendí, eso fue demasiado valor para mí porque me di cuenta, nadie sabe, es imposible saber si uno no lo prueba y entonces como que eso de cierta manera me dio la mentalidad que tengo hoy como que",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2304.32,
+   "end": 2323.73,
+   "text": "Nadie sabe, nadie sabe a menos que se pruebe. No el coach, no el experto en ads, nadie, nadie sabe que va a funcionar mejor a menos que se pruebe. Uno trata de crear un buen ad copy, trata de usar el placement que cree que sea mejor y así, pero al final los números hablan. Uno va a recibir números, ¿verdad?",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2323.76,
+   "end": 2340.82,
+   "text": "Costo por lead aquí para WhatsApp, costo por lead para Instagram, retorno de inversión para WhatsApp, retorno de inversión para Instagram, ventas en WhatsApp, ventas en Instagram y esos números nos van a dar respuestas y todo se hace con base a los números. Esos números yo les llamo el data.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2340.82,
+   "end": 2364.1,
+   "text": "¿Verdad? El data es los números. Entonces, aquí tomamos decisión con base a data y estamos invirtiendo en ads para comprar data y ese data lo usamos para tomar decisiones. Eso es otro principio que me enseñó Michael, que era que cuando invertimos en ads, el mindset es estamos comprando data.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2364.1,
+   "end": 2390.26,
+   "text": "Porque el data nos permite tomar decisiones y si no lo compramos no podemos tomar decisiones. Entonces es como no llegar y mandar un ad y esperar que mágicamente nos va a cambiar la vida. No, el mindset test no importa que no funcione porque estamos comprando el data que nos va a permitir llegar al segundo, tercer, cuarto, quinto test que eventualmente es el que nos va a funcionar. Y también no tener expectativas masivas.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2390.26,
+   "end": 2413.3,
+   "text": "O sea, como decir, este primer ad va a ser el ganador y me va a cambiar la vida y voy a hacer mil dólares al día en ventas con este ad. Ojalá, pero realísticamente el primer ad no es el que a uno le cambia la vida. Eso se lo digo de experiencia. Yo antes pensaba que sí, solo porque le había pagado a alguien 5K. Pensaba que el primer ad es el que me iba a funcionar y después me di cuenta que el primero no funcionaba, el segundo tampoco, el tercero. Y uno lo que le enseña es a...",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2413.3,
+   "end": 2436.66,
+   "text": "¿Cómo manejar ese proceso para uno poder eventualmente siempre encontrar ads ganadores? Entonces, aquí me salió un poco del tema, pero el punto es, yo creo que pueden empezar con WhatsApp, es una buena opción, es probado, y después pueden probar Instagram. Cuatro, ya cuando escogemos la meta de la campaña, nos va a pedir la audiencia. Ahora, aquí esto es importante.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 2437.87,
+   "end": 2467.46,
+   "text": "Yo la audiencia, yo trato de, bueno, número uno, la audiencia se define con base a el avatar. ¿Quién es el avatar? Si estamos vendiendo el programa para, el programa a CEOs para bajar de peso y los CEOs usualmente no tienen 20 años, 30, son 40 plus, entonces ya habíamos definido que el avatar era hombres mayores a 40 que quieren perder peso.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 2467.46,
+   "end": 2493.81,
+   "text": "Entonces aquí es cuando escogemos eso en la audiencia. Entonces vamos aquí a audiencia. Aquí no hay que poner special requirements, no hay que poner nada de esto. Y en caso de que queramos ser específicos con la audiencia, vamos a ir aquí a audiencia, editar y vamos a crear una audiencia. Podemos llamarle audiencia 1 y",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2494.42,
+   "end": 2524.05,
+   "text": "Nos va a dar diferentes opciones para crear esa audiencia. Número uno, la ubicación. ¿Cuál es la ubicación del avatar? Hablemos primero de la ubicación, que es la variable número uno. ¿A dónde corremos los ads? ¿En qué país? Hay cientos de países. ¿En qué país corremos los ads? Entonces, la primera variable, y creo que la más importante, es el idioma, ¿verdad? Si uno está corriendo un ad que está en español,",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2524.18,
+   "end": 2554.13,
+   "text": "¿Verdad? Entonces lo ideal es enseñarles a gente que hable español. Yo sé que suena obvio, pero eso es lo ideal, que no haya una barrera de idioma. Entonces, ya ahí pasamos de tener 300 opciones a tener, por ejemplo, 20. Latinoamérica, ¿ok? Ahora, ¿qué país de Latinoamérica? Lo que yo les recomiendo para empezar es que usen el país, digamos, en donde...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 2554.93,
+   "end": 2582.26,
+   "text": "¿El país nativo de su cliente o el país nativo de ustedes? Porque usualmente la gente cuando ve un anuncio de una persona que tiene su mismo idioma y su mismo acento se pueden relacionar muy rápido. Entonces, por ejemplo, si yo soy de Costa Rica y yo tengo acento de alguien de Costa Rica y alguien de Costa Rica ve mi ad y ve que conseguí X resultado que usualmente uno menciona en la ad copy.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2582.35,
+   "end": 2596.59,
+   "text": "Ellos lo que piensan es, a alguien igual que yo, de mi mismo país, un país de Latinoamérica considerado tercer mundo, pudo conseguir este resultado, significa que yo tengo una oportunidad de hacerlo.",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2596.59,
+   "end": 2624.27,
+   "text": "La gente piensa así, muchas veces, si uno ve un ad en Costa Rica, de alguien de México, por ejemplo, uno dice, tal vez en México hay diferentes oportunidades que Costa Rica, es un país diferente, es totalmente diferente, es más grande, más gente, pero si es del mismo país, la gente hace ese conecte. Entonces, por lo general, correr ads en el país nativo de la persona que está hablando en el video es una buena idea, siempre y cuando también...",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 2625.17,
+   "end": 2646.0,
+   "text": "Cumpla como con esta variable. Esta es la segunda variable en cuanto a país. Si el país tiene una situación económica demasiado mala, entonces yo siento que aunque la gente se pueda relacionar con uno, si uno está vendiendo caro, entonces puede que no sea la mejor opción. De hecho, justamente eso estaba hablando con un cliente el otro día.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2646.06,
+   "end": 2669.68,
+   "text": "Que el cliente es de Perú y me está diciendo yo vendo algo high ticket. Entonces yo le dije bueno, se puede vender en Perú porque la gente va a conectar mucho con vos, pero cuál es el salario mínimo en Perú? Vimos, nos pusimos a buscar 300 dólares al mes, verdad? 300 dólares al mes y la oferta creo que creo que la oferta empezaba en mil dólares. Entonces son tres meses de salario para alguien.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2669.68,
+   "end": 2681.49,
+   "text": "Mínimo, ¿verdad? El salario mínimo. Obviamente hay gente que gana más. Entonces nos pusimos a averiguar más y vimos que varios clientes eran de España, ¿verdad? Varios clientes venían de España.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 2681.58,
+   "end": 2711.01,
+   "text": "y ya tenía como tres clientes de España. Entonces nos pusimos a averiguar cuál era el salario mínimo de otros países. Vimos que en Costa Rica eran como 700 dólares, el doble que Perú, pero en España son 1200, creo que era euros, 1200 euros. Entonces 300 en Perú, 700 en Costa Rica, 1200 en España y España ya tiene clientes. Ya puede tener, mencionar casos de estudio de España. Entonces no importa que sea de Perú, en el ad puede mencionar que ya trabajó.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.049
+  },
+  {
+   "start": 2711.01,
+   "end": 2738.83,
+   "text": "Con gente de España, entonces tiene sentido. Entonces, hemos visto dos variables. Uno, bueno, tres variables. Idioma, acento para relacionarse, pero la tercer variable de si la gente no tiene cash en el país en donde uno nació y realmente es un país con muy pocos recursos, en donde la gente tiene pocos recursos, a veces es mejor irse a otro. Por ejemplo, si yo hubiera nacido en Haití, ¿verdad? Y yo tengo acento de alguien de Haití.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2739.63,
+   "end": 2767.28,
+   "text": "Y probablemente igual yo no enseñaría anuncios en IT porque la gente simplemente no va a poder pagarlo. O sea, la mayoría de la gente es un país que no tiene muy poco poder adquisitivo. Entonces son los facts. Ahí es a donde yo empiezo a buscar. Ok, es lo que es. Voy a buscar otro. Entonces, si ustedes son de Costa Rica, por ejemplo, Costa Rica es un país en donde la gente se puede relacionar mucho por su acento, pero también es un país que no está tan mal económicamente. Entonces es un techo de los mejores países de Latinoamérica. Yo pienso que es el mejor.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2767.28,
+   "end": 2788.05,
+   "text": "Objetivamente creo que no hay ningún país mejor que Costa Rica. Entonces es un país en donde sí, la gente no es multimillonaria, no es como Suiza, pero al mismo tiempo no es como Perú o no es como Honduras, en donde realmente hay muy poco poder adquisitivo. Entonces es como un buen sweet spot si quieren empezar y si son de Costa Rica. Entonces espero que eso te haya sentido.",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2788.05,
+   "end": 2803.63,
+   "text": "Hay como diferentes variables a considerar y esto tienen que considerarlo para sus clientes y para ustedes mismos. Entonces en este caso, escogimos la ubicación y escogimos por ejemplo Costa Rica. Digamos que ustedes son de Costa Rica, entonces están poniendo ads en Costa Rica.",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2803.63,
+   "end": 2833.65,
+   "text": "Perfecto. Ahora, ponemos un país o dos o tres, volvemos a lo mismo. Manténgalo simple y con pocas variables. ¿Para qué vamos a meter Costa Rica y, no sé, México si ni siquiera hemos probado la oferta? Y si funciona la oferta, ya vamos a saber si funciona en Costa Rica o funciona en México. El algoritmo va a empezar a mandárselo a un montón de gente en diferentes lados y el algoritmo es algo que no tenemos mucho control. Entonces, entre menos variables, mejor.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2833.65,
+   "end": 2862.45,
+   "text": "Así de simple. Entonces, Costa Rica, intereses, yo no soy muy fan de poner intereses, honestamente, porque siento que el algoritmo es suficientemente inteligente para enseñárselo a la gente correcta y eso lo he visto demasiadas veces. Yo casi que nunca uso intereses, casi que nunca uso intereses y lo dejo broad, super broad. Y aquí en edad y género.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 2862.67,
+   "end": 2877.17,
+   "text": "Vamos a poner la edad y el género del avatar. Si es hombre 40+, ahí lo vamos a poner. Targeting expansion, esto es como que si Instagram ve que puede haber mejores resultados saliéndonos de esto.",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2877.17,
+   "end": 2901.98,
+   "text": "Entonces, si le permitimos o no. Esto, dije los dos, yo he probado los dos. Honestamente, si quieren ser como más específicos, lo quitan. O sea, como si quieren que no se salga de eso. Por ejemplo, si quieren específicamente solo trabajar con personas de 40, 50 años, entonces lo dejan sin esto, porque quieren solo eso. Pero si no les molesta trabajar con gente que tal vez es un poco más joven y que Instagram.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2901.98,
+   "end": 2931.86,
+   "text": "Haga lo suyo y el algoritmo haga lo suyo, entonces pueden ponerlo on, así Instagram va a decir, bueno, también hay mucha gente que tiene 30 que les pueden generar buenos leads, entonces se los vamos a enseñar. Entonces, esa es su opción, ¿verdad? Aquí es un poco más específico, como pueden ver, la sección de intereses. Aquí, si quieren escoger un interés, pueden poner la palabra marketing y escogerla. La edad de la parte de edad y género, escogen la edad aquí.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2931.86,
+   "end": 2961.79,
+   "text": "Y escogen el género. Y al final ya se va a ver así cuando escogieron todo. Audiencia 1, ubicación Costa Rica, Internet Marketing y edad de género. Aquí les va a salir la edad de género y digamos que la dejaron 1. Ahora, hay una forma mucho más simple de hacer esto. Esta es como la forma más específica. Hay una forma muy simple, aquí me voy a volver un slide, que es simplemente darle Suggested Audience.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 2961.79,
+   "end": 2972.27,
+   "text": "Le dan click aquí y no ponen audiencia. Yo a veces hago eso. ¿Por qué? Porque yo también, volvemos a lo mismo, keep it simple. A veces yo ni siquiera...",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 2972.37,
+   "end": 3001.14,
+   "text": "Por ejemplo, mi nicho es un nicho en donde todo el mundo le funciona lo que yo vendo, ¿verdad? O sea, yo vendo una oportunidad de que la gente pueda hacer dinero sin experiencia. O sea, yo les enseño la habilidad y con la habilidad ya pueden ir a hacer dinero. Entonces, eso es una oferta que le sirve a todo mundo. No es como una oferta que solo le sirve a una edad específica, en una ubicación específica, un género específico. Si ustedes tienen una audiencia que es muy amplia, por decirlo así,",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 3001.23,
+   "end": 3016.03,
+   "text": "Pueden darle Suggested Audience y esto puede que les funcione mucho mejor que si son específicos. Porque eso se llama en inglés un Mass Appeal Offer. Es una oferta que le funciona a todo el mundo, ¿verdad?",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 3016.03,
+   "end": 3045.78,
+   "text": "Ese tipo de ofertas son usualmente cosas relacionadas a generar más dinero, todo el mundo quiere ganar más dinero, no sé, salud mental, todo el mundo está mal de la salud mental, entonces eso le sirve a todo el mundo, todo el mundo quiere estar fit, entonces hay cosas como que todo el mundo quiere, entonces Suggested Audience es una excelente opción para keep it simple, ¿verdad? Pocas variables, esto le funciona a todo el mundo, Instagram haga lo suyo. Entonces le damos como el control a Instagram, ¿ok?",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3046.03,
+   "end": 3064.14,
+   "text": "Entonces aquí no hay como una respuesta correcta como a qué país se lo enseño, este es el único país o esta es la única edad o este es el único género o usamos el Just Audience específico, casi que todos funcionan pero parte de la habilidad del Media Buyer es identificar",
+   "avg_logprob": -0.103,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3064.3,
+   "end": 3077.94,
+   "text": "¿Cuál es la mejor opción para empezar? Si quieren mantenerlo súper simple y tienen una oferta que aplica a mucha gente, nada más ven aquí lanzo Justed Audience. Yo esto lo hago a cada rato. Yo sé que mi ad es muy bueno.",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3077.94,
+   "end": 3106.26,
+   "text": "Yo sé que el algoritmo de Instagram es muy bueno. Yo sé que mi ad filtra a la gente porque yo les digo si ustedes, esta persona tiene este problema y quiere esta solución, vea este video. El algoritmo agarra esa información del video y se la enseña a esa gente. Entonces a veces ni siquiera hay que ser específicos aquí porque Instagram igual se lo va a enseñar a esa gente porque el ad ya filtra con el copy. De hecho, eso es, mucha gente a veces me pregunta.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3106.32,
+   "end": 3132.91,
+   "text": "Sebas, ¿cómo hago que mi ad atraiga gente más específica? Si igual ya estoy segmentando aquí con la edad y el género y el país y el interés, igual no me llega gente específica. Y yo le digo, es por su ad copy. Entonces, el ad copy, las primeras palabras del ad van a filtrar o van a excluir a la mayoría de la gente. Por ejemplo, si yo tengo un ad que dice...",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3133.01,
+   "end": 3150.54,
+   "text": "Si usted es un CEO generando mínimo 100 mil dólares al año y le gustaría conseguir un 10% de retorno en ese dinero porque en el banco no está haciendo nada, vea este video. Pero si usted no está haciendo mínimo 100 mil dólares al año, no vea este video.",
+   "avg_logprob": -0.023,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3150.64,
+   "end": 3179.28,
+   "text": "Ok, eso ya el copy independientemente de si yo lo dejo aquí, Suggested Audience va a atraer gente que gana más, ¿verdad? Porque eso fue lo que yo les dije en el video. Entonces, de cierta manera, la mejor forma de segmentar el tráfico, eso es importante, recuérdense, la mejor forma de segmentar el tráfico y conseguir tráfico que esté más calificado es por medio de las palabras que uno dice en el ad, o sea, el ad copy del texto.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3179.28,
+   "end": 3205.07,
+   "text": "No tanto de esto, porque si ustedes aquí ponen interés marketing, eso no les va a dar mejor tráfico. Si ustedes en vez de poner un interés de marketing ponen un interés de, no sé, ads, eso no les va a dar tráfico más calificado. Lo que les va a dar tráfico calificado es ser específico con el ad copy y decirle, si usted tiene 40 años y es un CEO y gana 100 mil dólares al año y está gordo y quiere perder peso.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3205.1,
+   "end": 3226.77,
+   "text": "Eso sí, filtra el ad. O si actualmente usted es el dueño de una agencia de marketing, usted hace 10 mil dólares al mes, pero usted no tiene tiempo y usted hace todo manual y usted quiere productizar su conocimiento, vea este video. Pero si usted no tiene una agencia, por favor, no vea este video, siga pasando. Ese es el mejor targeting que hay y mucha gente no entiende eso. Es como, ¿cómo segmento mis ads?",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3226.77,
+   "end": 3254.7,
+   "text": "No lo segmente con la plataforma mucho porque igual no sirve tan bien. Honestamente, la segmentación de las plataformas es relativamente mala porque los algoritmos son demasiado buenos. Entonces ya ni siquiera hay que segmentar mucho. Lo importante es el ad copy. Yo sé que pasé mucho tiempo aquí en la audiencia, pero sí es bastante importante eso. Entonces aquí ya vimos esto, los intereses, edad, género, igual lo quiero cubrir para que esté por ahí. Y paso 5, presupuesto y duración.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3256.21,
+   "end": 3274.4,
+   "text": "Aquí podemos escoger el presupuesto diario, el presupuesto base que hablamos del programa son 10 dólares al día, que son 300 dólares al mes, que no se gastan inmediatamente, se gastan 10 dólares al día. Eso es lo bueno de los ads, que uno dice voy a invertir 1000 dólares en ads, no hay que invertirlos ya hoy.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3274.4,
+   "end": 3301.82,
+   "text": "Uno puede vivirlos a lo largo de 30 días, de 60 días, de 90 días, de un año, ¿verdad? O sea, hay que tener un presupuesto, pero no hay que invertirlo ya. Y uno usualmente invierte más nada más cuando genera más, ¿verdad? Cuando entra cash, ya uno reinvierte más. Esa es como mi filosofía. Por eso es muy difícil perder en esto, porque uno no sube presupuestos a menos que ya tenga más cash en la cuenta, porque entró cash de ventas. Entonces, es relativamente poco riesgo. Obviamente, si yo les digo...",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 3301.82,
+   "end": 3322.42,
+   "text": "Tim, aquí es invirtiendo todo el día uno, ¿verdad? Obviamente ahí sí hay alto riesgo, porque si no funciona, entonces si no recuperamos ese dinero el mismo día con una venta, entonces perdimos mil dólares, pero obviamente no lo hacemos así. Entonces aquí escogemos el presupuesto y la duración, 10 dólares al día, la duración...",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3322.77,
+   "end": 3347.92,
+   "text": "Aquí es con base al presupuesto total que tienen. Por ejemplo, si dicen yo tengo 300 dólares para invertir. Ok, vamos a invertirlos 10 dólares al día por 30 días. Aquí lo máximo que se puede es 30 días. A menos que haya alguna forma de subirlo, pero que yo sepa no. Y listo, 10 dólares 30 días. Hay un protocolo que yo escribí súper específico.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3347.98,
+   "end": 3375.82,
+   "text": "que les explica cómo definir el presupuesto diario, el presupuesto total de la campaña y cuándo subir presupuestos. Lo voy a poner por algún lado acá y vamos a leer una parte de esta sesión, pero nada es para que sepan, hay un protocolo específico para definir esto y la versión simple es 10 dólares al día. Eso es en resumen la respuesta simple, pero les voy a poner eso abajo de esta sesión también para que lo puedan leer.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3376.02,
+   "end": 3392.3,
+   "text": "y ya cuando escogemos eso le damos next y aquí podemos ver un preview del ad, o sea cómo es que se va el ad en los diferentes placements y formatos, aquí nos da un resumen, la meta de mandar mensajes a este número, esta es la audiencia que escogimos, si escogimos",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3392.3,
+   "end": 3419.79,
+   "text": "el, la audiencia recomendada de Instagram, o sea, Suggested Audience, aquí nos va a salir eso, y Budget y Duración, 300 dólares en 30 días, ok, ahora nos va a decir el Payment Method, cero, no tenemos dinero para los ads, entonces, hay que agregar dinero, muy importante esta parte que les voy a decir, nos va a decir Ad Funds, y nos va a llevar a esta página, y nos va a dar una pésima noticia, ¿cuál es la pésima noticia?",
+   "avg_logprob": -0.084,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3419.79,
+   "end": 3441.78,
+   "text": "Que Apple, si creamos los ads por medio de Boost en el celular, nos va a cobrar 30% de todo lo que queramos invertir. Un Apple Service Fee. Esto básicamente mató nuestra campaña, en resumen. Entonces, vamos a ver cómo crearlos en la...",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3441.87,
+   "end": 3465.97,
+   "text": "Laptop",
+   "avg_logprob": -0.98,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3466.06,
+   "end": 3491.66,
+   "text": "Vamos a agregar, no sé por qué puse 280 en vez de 300, pero digamos que 280 dólares a nuestra cuenta nos va a cobrar 400 dólares, porque son 280 más 30% de Apple, 120 dólares. Dice, Apple service fees are not retained by Instagram or Meta. O sea, los fees de Apple no los captura Instagram o Meta, esto lo captura Apple.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3491.66,
+   "end": 3521.71,
+   "text": "Ok, entonces, obviamente no queremos darle, no queremos regalarle 30% de nuestro presupuesto a Apple, ¿verdad? Es una pésima idea. Entonces, ya sabemos cómo crear los ads, pero ahora lo vamos a hacer, ya sabemos cómo hacer en el celular, pero vamos a hacer en la computadora, porque ahí es a donde podemos ahorrarnos ese 30% de tax. Es un fee, pero yo le digo tax, porque es un, yo lo hago como un tax. Ok, entonces, ahí es a donde vamos a ver el Instagram Boost en la computadora.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 3521.87,
+   "end": 3545.04,
+   "text": "Ahora, para poder usar el Instagram Boost en la computadora, tenemos que subir el Reel primero en el celular. Esto es lo que yo les recomiendo. Suban el Reel desde su celular, igual, 90 segundos, sin música, igual, igual, igual. Lo suben y hacen lo mismo. Estos son los mismos pasos y ya les va a salir en el desktop. Así les va a salir.",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3545.04,
+   "end": 3573.97,
+   "text": "Aquí estamos en la cuenta de Instagram en la computadora. Van a Instagram.com y se meten a su cuenta una vez ya subieron el reel. Y aquí seguimos los mismos pasos, ese idéntico, pero con el formato ya de desktop. Como pueden ver, es lo mismo. Boost, aquí MessageU, ¿verdad? ¿Qué preferimos? ¿Perfil a ir al website o MessageU? Escogemos mensajes. Escogemos WhatsApp o Instagram, ¿verdad?",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3574.54,
+   "end": 3600.88,
+   "text": "Y verificamos el número. Escogemos Suggested Audience o crear nuestra propia audiencia, ¿verdad? Si tenemos una oferta que es un Mass Appeal Offer, o sea una oferta que le aplica a mucha gente, podemos dejarlo acá o crear la audiencia. Presupuesto, 30 días, duración, digo, este no lo he cambiado, aquí lo cambio.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3600.88,
+   "end": 3625.17,
+   "text": "en la que sigue, bueno aquí estoy enseñando la audiencia, eso ya lo vimos, Costa Rica, Interés, Sociedad, aquí ya lo cambio, ¿verdad? 10 dólares al día y dijimos que por 30 días y boost, ok, pero van a ver que aquí a la derecha sale para meter el método de pago, ven que dice ad, ok, le damos ad",
+   "avg_logprob": -0.093,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3625.26,
+   "end": 3650.48,
+   "text": "Y ya no hay un tax, ya no hay un fee de Apple porque ya no estamos usando el celular, estamos en la computadora. Aquí metemos el método de pago, dólares, ¿verdad? Yo le recomiendo usar dólares y método de pago, tarjeta de débito, crédito, PayPal o online banking. Recomendado, usar tarjeta de débito o crédito, ¿ok? Esto lo he recomendado para empezar.",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3650.93,
+   "end": 3672.3,
+   "text": "2. Usar tarjetas de débito o crédito diferentes para diferentes cuentas. Yo no soy fan de usar el mismo método de pago para diferentes negocios o para diferentes cuentas publicitarias. Esto va a tener todavía más sentido cuando creemos ads por medio del Business Manager, que eso lo vamos a ver en las siguientes sesiones.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3672.62,
+   "end": 3693.54,
+   "text": "Porque cuando creamos diferentes cuentas publicitarias hay que tener un método de pago diferente para cada una por si banean una no se van las otras dos. Cuando tenemos el mismo método de pago ligado a las mismas cuentas publicitarias si se va una se pueden ir las tres de una y eso no está muy bien.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3693.54,
+   "end": 3721.81,
+   "text": "tarjeta de débito o crédito, usar tarjetas diferentes para diferentes cuentas, Paypal sirve, que pueden ver aquí, pueden usar Paypal, pero no es muy bueno para escalar, porque Paypal es un servicio demasiado doloroso, o sea, yo lo he usado, pero para escalar no es la mejor opción, porque es como un servicio intermediario, no agarra el dinero directamente de la cuenta, es como lo, se usa de intermediario para agarrarlo, entonces, a mí no me gustan mucho esos servicios, online banking es lo ideal para escalar, ok.",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3722.06,
+   "end": 3735.09,
+   "text": "Yo, digamos, en mis días de e-commerce estaba invirtiendo 10 mil, 15 mil dólares al día. Inclusive las tarjetas de débito, crédito, era un problema, un problema súper grande porque...",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3735.09,
+   "end": 3763.9,
+   "text": "De ahí, los bancos veían débitos de 10 mil dólares cada día y por más que yo subía el límite me pasaban bloqueando las transacciones porque pensaban de que alguien se había robado la tarjeta y que eran... Y entonces era un dolor cuando no pasaban los pagos porque el banco denegaba la transacción, yo tenía que estar llamándolos y llamándolos y llamándolos, todos los días los llamaba. Y a veces me levantaba a las 2 o 3 de la mañana, llamaba a los bancos para que aceptaran mis transacciones porque estaba perdiendo miles de dólares por hora porque no pasaban mis pagos de Facebook.",
+   "avg_logprob": -0.027,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3763.9,
+   "end": 3790.83,
+   "text": "Entonces, esto no va a ser un problema cuando, o sea, con volumen más bajo, pero online banking es la mejor forma para escalar porque el pago se hace por medio de ACH. ACH. Entonces, Meta agarra el dinero directo de la cuenta, no de la tarjeta. Y entonces pasa, o sea, pasa de fijo. Esa es la mejor forma de escalar. Pero para mantenerlo simple, tarjeta débito o crédito funciona muy bien.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3793.04,
+   "end": 3819.28,
+   "text": "Aquí meten los detalles de la tarjeta débito o crédito, graban y boost. Eso es todo. Ahora, hemos hablado de muchas cosas a considerar en este proceso, pero si se dan cuenta, Tim, esto es algo que se hace en 20 minutos máximo. Voy a darle, voy a ir para atrás. ¿Cuánto se dura subiendo este reel?",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 3819.5,
+   "end": 3850.7,
+   "text": "Literalmente se dura 5 minutos. Ya el copy estaba creado. Subimos el video, copy, cover, 5 minutos máximo. Después, boost, 5 segundos, message you, ¿verdad? Digamos, verificamos WhatsApp, 3 minutos. Después, suggested audience, 1 segundo o create your own audience, 3 minutos. Presupuesto, 10 dólares al día.",
+   "avg_logprob": -0.07,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3851.15,
+   "end": 3869.07,
+   "text": "Unos segundos y el número de días y boost. Estamos hablando de que podemos mandar una campaña en 15 minutos, 20 minutos. O sea, esto es súper, súper rápido. Yo ayer estaba hablando con alguien que estaba interesado en el programa y...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3869.07,
+   "end": 3897.81,
+   "text": "Me estaba preguntando cuánto se dura en mandar los ads, cuánto se dura en el proceso, ¿verdad? Y como en mandar los ads y todo con el programa. Y yo le dije, vea, el programa para que usted aprenda cómo hacer las cosas bien, tenemos cinco sesiones, ahora seis, y cada una póngale de una hora, seis horas. Pero para mandar los ads, estamos hablando de 15 minutos. 15 minutos, eso es algo que es sumamente rápido.",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3897.84,
+   "end": 3921.49,
+   "text": "Entonces, toma tiempo ver toda la teoría y los principios para ser exitoso en esto, pero a la hora de la ejecución, esto es una habilidad que se ejecuta así. Esto es una habilidad sumamente, digamos que tiempo efectiva, ¿verdad? Porque no es como por decirlo así, ser un diseñador gráfico. Un diseñador gráfico le dicen, hágame un logo.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3921.49,
+   "end": 3951.09,
+   "text": "Puede durar, no sé, horas pensando en cómo hacer el logo, en diseñarlo, en hacer diferentes opciones, mandarlo, que no le guste, que se lo devuelvan, hacerle tres correcciones, mandarlo. Se fueron dos días creando un logo en el entregable. Los ads, o sea, lo que toma tiempo es hacer el diagnóstico, crear el ad copy y ya publicar el ad es súper, súper rápido. Por eso es que yo con mis clientes, yo les digo, si yo veo cuál es su negocio, cuál es su diagnóstico y yo veo...",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 3951.41,
+   "end": 3979.6,
+   "text": "O sea, ya sé cuál es la idea del ad, o sea, el primer día puede estar activo, o sea, en 24 horas se puede escribir el ad copy, grabar una versión del video, mandarlo, boost y listo, y entran leads el siguiente día, 10, 20, 30 leads el siguiente día, así, crazy, resultados rápido, entonces, hemos hablado muchos detalles, pero nada más quiero que sepan, esto en realidad es súper rápido, eso se hace súper, súper rápido, y ok, aquí seguimos, ahora",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3979.6,
+   "end": 4007.66,
+   "text": "El protocolo de ad budget, vamos a leerlo rápidamente porque si cubrimos cuánto presupuesto usar para los ads y cuánto presupuesto tener para los ads. Entonces nada más quiero leer este documento, la primera parte y les voy a poner el link para que ustedes también lo lean. Ok, entonces vamos a irnos aquí. Ah bueno, lo que íbamos a ver, de hecho.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4008.5,
+   "end": 4035.31,
+   "text": "Voy a enseñarles cómo hacer esto del celular, van a ver que es exactamente igual, pero estos estaban mis planes para la sesión, entonces vamos a hacerlo súper rápido aquí, súper rápido, nada más para que vean. Boom, magia. Subimos el Reel, ¿verdad? ¿Cómo? Con el Plus. Vamos aquí al Plus, subimos el Reel. Dos, Boost, Boost Post.",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4037.71,
+   "end": 4065.57,
+   "text": "Por favor, no me de problemas, Instagram, que estoy en una sesión de coaching y queda grabada. Mentira, ahí está. Ok, podemos escoger perfil, ¿verdad? Website, aquí nos va a pedir el link a donde queramos mandar a la gente, pero no es nuestro caso, o MessageU. Entonces podemos escoger o WhatsApp o Instagram. Yo ya te he verificado mi número.",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4065.57,
+   "end": 4094.9,
+   "text": "Y si es Instagram, nada más escogemos el call to action que queremos, send message. Vamos a usar, no sé, Instagram en este caso para probar. Save. Después, Next. Aquí escogemos Suggested Audience. Yo, con este ad, si soy sincero con ustedes, es una buena oferta probada, ad copy probado. Yo sé que le funciona a todo mundo. Todo el mundo quiere hacer cash. Ese es mi mindset. Entonces, voy a decirle a Instagram.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4095.15,
+   "end": 4116.24,
+   "text": "Mándese usted, haga lo que tenga que hacer, confío en su algoritmo, de hecho es demasiado bueno, por eso es que empezamos con Meta, porque el algoritmo para mí es el mejor de todos y usted enséñeselo a la gente que vaya a darme buenos resultados. Next. Bueno, igual aquí podemos escoger audiencia, ¿verdad? Create your own, audiencia, ubicación.",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4117.39,
+   "end": 4148.88,
+   "text": "¿Verdad? No sé, Costa Rica o Texas o Oaxaco por zona. No les recomiendo usar provincias o lugares muy específicos. Mejor usen un país y usen un solo país para empezar. Pocas variables. Edad, ¿verdad? Género. A veces también el género va a depender de su avatar, ¿verdad? En mi caso es una oferta que la mayoría de la gente que me compra son hombres, entonces probablemente se lo enseñe solo a hombres.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4149.07,
+   "end": 4178.64,
+   "text": "Pero yo también después se lo enseño a ambos géneros. O sea, para para testear algo nuevo, usualmente escojo el género que más me da resultados que es hombres. Pero cuando ya veo que funciona, yo meto los dos géneros porque es algo que le funciona a los dos. En el nicho de ustedes o de sus clientes puede que no sea el caso, que sea un nicho, por ejemplo, no sé, pilates. Obviamente ahí el género de mujeres, porque casi la mayoría de clientes son mujeres. Entonces ahí ustedes lo miden y targeting expansion.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4178.64,
+   "end": 4210.16,
+   "text": "Entonces, aquí seguimos, next, budget, boom, budget, aquí subimos y aquí nos va a tirar el total del budget multiplicado por el número de días, next, y ya va a hacer el review y agregar funds, ok. Eso es en el celular, como pueden ver, extremadamente rápido, extremadamente fácil y en el desktop nos metemos a Instagram, instagram.com, usuario, password, aquí está el mismo reel.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4210.16,
+   "end": 4242.64,
+   "text": "Boost Post, Message You, Instagram, Call to Action, Suggested Audience, Presupuesto, $10, 30 días, Meto de Pago,",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4242.67,
+   "end": 4263.09,
+   "text": "Aquí va a salir. E-Boost. Así de simple, como arte de magia, va a estar recibiendo leads en 24 horas. Así es como funciona. Ahora le damos el protocolo ad budget y después vamos ya a hacer preguntas. Protocolo ad budget. A continuación.",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4263.09,
+   "end": 4285.81,
+   "text": "Va a encontrar mi protocolo para definir el presupuesto total para aprobar una oferta, al igual que el presupuesto diario para los ads y subir presupuestos de los ads. Este es el mismo protocolo que he usado por años y también representa mi mindset relacionado a testear ads para conseguir un retorno de inversión positivo. En resumen, estas son las preguntas. ¿Cuánto se debería invertir en total para ver si un ad funciona?",
+   "avg_logprob": -0.012,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4286.86,
+   "end": 4301.49,
+   "text": "La respuesta es, lo que uno está dispuesto a invertir en total para un ad, tiene que ser lo que sea que uno cobre por la oferta. Si el precio de la oferta es 500 dólares, uno tiene que estar dispuesto a invertir 500 dólares en ads para aprobar la oferta.",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4301.52,
+   "end": 4328.48,
+   "text": "Si el precio de la oferta son mil dólares, uno tiene que estar dispuesto a invertir mil dólares en ads para aprobar la oferta. Si el precio de la oferta son dos mil dólares, uno tiene que estar dispuesto a invertir dos mil dólares en ads para aprobar la oferta. Eso es como en general lo que uno tiene que estar dispuesto a invertir. Ahora, ¿por qué estar dispuesto a invertir el precio de la oferta en ads? El por qué de esta respuesta. Esta es ya la parte que justifica esta respuesta. El razonamiento.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4328.48,
+   "end": 4352.69,
+   "text": "Es que con una venta se recupera la inversión. Si usted invierte mil dólares en ads y hace una venta de mil dólares, entonces no perdió ni ganó. Quedó cero dólares neto. Pero tuvo un profit de atención, seguidores y leads. Este fue su profit. No fue en dólares, fue atención, seguidores y leads. Y esto es la moneda del nuevo mundo. La atención es un currency.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 4352.88,
+   "end": 4380.43,
+   "text": "Y a lo largo de los meses una parte de esa atención, seguidores y leads van a convertirse en ventas. Entonces tal vez no vio el retorno inmediatamente, pero a lo largo de los meses se va a generar. E inclusive en caso de que no venda nada, está consiguiendo atención, tráfico y tráfico de gratis porque no gastó nada. Invirtió mil y generó mil, es igual a cero. Con solo que usted pueda invertir mil dólares y generar mil dólares ya está ganando porque está comprando atención de gratis. La atención siempre es profit.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4380.69,
+   "end": 4407.95,
+   "text": "Es por esta razón que lo que uno debería de estar mentalmente preparado a invertir debe ser lo que sea que uno cobre por la oferta. Porque si su oferta tiene un precio de mil dólares, no importa si no genera ventas en los primeros 100, 200, 800 dólares que gasta en ads. Siempre y cuando genere una venta dentro de los mil dólares de presupuesto está creciendo su negocio gratis. O sea, si mi programa vale mil dólares o el del cliente y yo gasto 100 dólares, no importa, me quedan 900.",
+   "avg_logprob": -0.021,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4407.95,
+   "end": 4437.74,
+   "text": "Si yo gasto $200, no importa, me quedan $800. Si gasto $800 y vendo uno, hice $200 profit que antes no tenía y además conseguí un montón de leads que se van a convertir en el futuro. Ahora, claramente la meta es conseguir un retorno de inversión positivo a corto plazo y ganar más de lo que se invierte. Y eso es exactamente en lo que nos vamos a enfocar. Pero mentalmente el presupuesto que tiene que estar dispuesto a invertir es el precio de la oferta.",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4438.29,
+   "end": 4462.35,
+   "text": "Finalmente, es importante saber que por más que usted esté mentalmente preparado a invertir lo que sea que cueste la oferta, muchas veces usted va a saber si encontró un buen ad o si tiene un mal ad mucho antes de invertir el presupuesto total. Si está dispuesto a invertir mil dólares porque ese es el precio de su oferta, no significa que tiene que gastar mil dólares completos para poder tomar una decisión de si dejar el ad o pausarlo.",
+   "avg_logprob": -0.015,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4462.35,
+   "end": 4478.29,
+   "text": "Puede que los 200 dólares, puede que al gastar 200 dólares ya sepa si el ad es bueno o malo y no tenga que gastar los mil completos. Ahora, ¿cuál debería ser el presupuesto diario para un ad? Yo les dije 10 dólares para empezar es la respuesta simple. Aquí está el por qué de eso.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4478.83,
+   "end": 4498.58,
+   "text": "La respuesta a esta pregunta va a depender de las siguientes variables. El capital total que usted tenga, puede que tenga 2000 total, 3000 total o 100 total. Precio de la oferta, cuánto está cobrando, cuál es su experiencia en ads, principiante, intermedio o avanzado y qué tan qué tanta urgencia tiene usted de conseguir ese data rápido.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4498.96,
+   "end": 4519.38,
+   "text": "Entonces, la primera variable es capital. Nunca invierta más capital de lo que está dispuesto a perder. Obviamente tratamos de mitigar el riesgo en esto con un buen ad copy, con una buena oferta, con un buen ad, pero siempre hay riesgo. Es como toda inversión. No invierta el capital que necesita para su estilo de vida. Si su alquiler cuesta mil dólares.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4519.38,
+   "end": 4547.7,
+   "text": "Y usted dice, bueno, voy a usarlo para ads y ojalá que haga el doble para así poder pagar mi alquiler y quedar con mil profit. No piense así porque va a perder, se lo digo. Es demasiado estresante y esto es, esto es una, uno tiene que tener mente fría para esto. Si no tiene el capital mínimo, que es el precio de la oferta, o sea, si usted cobra mil dólares y no tiene mil dólares en su cuenta bancaria, lo más probable es que vaya a correr ads con mucha presión económica, lo cual afecta a la toma de decisiones.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4547.82,
+   "end": 4576.46,
+   "text": "El precio. Si el precio de su oferta es de mil dólares, entonces presupuesta ese monto para ads, independientemente de si se usa todo o no. Nada más mentalmente téngalo ahí. Experiencia. Si usted se considera principiante, es mejor empezar con un presupuesto diario más bajo para mitigar el riesgo, porque usted todavía está empezando y mejor ir lento, pero seguro. Si no tiene mucho capital y además no tiene mucha experiencia, entonces 10 dólares al día es un buen presupuesto base para empezar. Esto lo voy a poner en amarillo porque aquí está la respuesta. En resumen.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4576.69,
+   "end": 4603.66,
+   "text": "¿Qué? Esta es la situación tal vez de muchos de ustedes. Tal vez si tienen capital, pero están empezando, no tienen tanta experiencia, entonces mejor empecemos en 10 dólares al día. Yo empecé así, poco, 10 dólares al día. Si usted se considera intermedio, puede empezar con un presupuesto un poco más alto. Igual no se vuelva muy loco porque está probando una oferta nueva. 3. Si usted se considera avanzado y además tiene alta convicción en la oferta que está promocionando en sus ads,",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4603.66,
+   "end": 4613.14,
+   "text": "Entonces tiene mi permiso de usar un presupuesto más alto ya que su experiencia disminuye el riesgo de la situación en general.",
+   "avg_logprob": -0.084,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4613.2,
+   "end": 4638.85,
+   "text": "Si usted me dice, Sebas, yo llevo 5 años corriendo ads, tengo una oferta ganadora, tengo este VSL, ya me genera cash, te echo 10k con esto, quiero correr estos ads, dele con 50 dólares al día, no hay problema, dele con 100, usted es veterano en esto, al final, igual, si pierde, no importa, usted ya está haciendo cash con algo más, entonces puede, no es dinero que usted necesita para su vida. Y cuatro, urgencia, esta variable aplica más si usted es avanzado, tiene alta convicción en el ad y oferta que está promoviendo.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4638.85,
+   "end": 4666.72,
+   "text": "Probando y quiere comprar data más rápido. Con comprar data me refiero a correr ads para después ver los números y poder tomar decisiones. Los números de los ads son el data. Ese data hay que comprarlo con el presupuesto de ads. Si usted tiene urgencia de comprar ese data más rápido, use un presupuesto más diario, más alto en el ad. Si usted no tiene tanta urgencia o simplemente se considera más principiante, use un presupuesto más bajo. Entonces, si usted es veterano, usted tiene una buena oferta, usted dice.",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4666.72,
+   "end": 4695.5,
+   "text": "Quiero comprar data rápido para poder tomar decisiones rápido para escalar esto a la luna lo antes posible. No use 10 dólares al día porque eso es un poco lento para usted. Use 50, ¿verdad? O sea, sí, estaría llegando un poco más, pero igual usted tiene convicción en su anuncio, en su oferta, en sus habilidades. Igual usted puede aguantar el downside o el... Sí, puede aguantar el escenario en que no salgan las cosas bien porque usted tiene bastante capital.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4695.95,
+   "end": 4701.01,
+   "text": "Acá hay una mini fórmula de cómo lidiar con esto. Si usted tiene urgencia alta",
+   "avg_logprob": -0.102,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4701.07,
+   "end": 4730.29,
+   "text": "¿Verdad? Divida el capital en 30 días. Entonces, si usted tiene mil dólares de capital, divídalo en 30 días, eso le va a dar un presupuesto diario de 33 dólares al día. Si usted tiene urgencia media, no le urge tomar decisiones tan rápido, usted está empezando y quiere ver cómo funciona todo, divida el capital entre 60 días. Mil dólares dividido entre 60 son 16 dólares al día de presupuesto. Y si no tiene mucha urgencia, está empezando, quiere ir lento, pero seguro, no está mal, así es como lo recomiendo.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 4730.29,
+   "end": 4759.66,
+   "text": "Divida el capital entre 90 días. Tiene mil dólares, divídalo entre 90, le va a dar 11 dólares al día, 10 dólares al día, básicamente. Entonces, redondeado, 30 dólares al día, con más urgencia, 15 con intermedio, 10 con poca. Habiendo explicado estas variables, la forma más simple de terminar el presupuesto diario es con los siguientes ejemplos. Acá hay unos ejemplos y terminamos esto. Este ejemplo, usted tiene un capital de mil dólares para invertir en ads. Su oferta vale mil dólares.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4760.08,
+   "end": 4775.47,
+   "text": "Usted tiene baja experiencia y baja urgencia. No le urge comprar el data en tres días o una semana. Entonces va a usar un rango de 90 días. Va a dividir mil entre 90.",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4775.47,
+   "end": 4805.17,
+   "text": "¡Gracias por ver este video!",
+   "avg_logprob": -0.63,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4805.23,
+   "end": 4835.18,
+   "text": "Tiene capital el mismo, la oferta el mismo, pero su experiencia es alta, si usted tiene urgencia alta, porque usted ya tiene experiencia alta, usted quiere todo ya, usted ya se ha experimentado, entonces puede gastar más cash, en 30 días lo divide. Esto es lo mismo con otros precios. Entonces, este es el protocolo, hay otra parte acá de cuándo subir presupuestos, pero esto no es para esta sesión. Aquí hablamos del presupuesto porque el presupuesto es parte de crear una campaña. Ok, entonces, esta es la sesión de hoy.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4835.79,
+   "end": 4843.57,
+   "text": "Estuvo súper intensa. Es algo tan simple y que toma tan poco tiempo realmente de hacer.",
+   "avg_logprob": -0.105,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4843.86,
+   "end": 4871.06,
+   "text": "Pero es importante ir viendo cada variable para que ustedes ya quedan armados. Quedan armados, Tim, quedan con un... como cuando van a la guerra, que van con estos trajes de metal, los samuráis, van preparados para la guerra. Entonces, esto no es algo que es complicado, esto no es algo difícil, esto lo puede hacer cualquier persona que entiende el blueprint. Aquí tienen el blueprint, hemos visto el blueprint, cómo crear Cosmic Copy.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 4871.06,
+   "end": 4901.42,
+   "text": "¿Cómo grabar los ads? ¿Cómo mandar los ads de la manera más simple? En 24 horas. Si ustedes mandan sus ads hoy, que eso es lo que me gustaría, de hecho, que ustedes lleguen y digan, la verdad tengo esta oferta y voy a hacer una prueba, ¿verdad? Voy a hacer una prueba. Puede que no esté perfecta, lo más probable es que no lo sea perfecta. Puede que el ad del 1 al 10 sea un 4. Igual van a conseguir leads, estoy seguro. Entonces, si actualmente tienen una oferta,",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4902.74,
+   "end": 4921.2,
+   "text": "Yo lo que les recomiendo es que tomen acción masiva e imperfecta, no se preocupen de la perfección, la perfección mata todos los sueños, entonces de una, graben su ad con base a su copy, súbanlo como reel, tápense los ojos y denle boost a ver qué pasa.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 4921.2,
+   "end": 4948.45,
+   "text": "Así es como uno aprende, uno se manda al agua y después así aprende a nadar, ¿verdad? No sea como la gente que trata de que todo sea perfecto y que siempre tiene miedo de que hacer algo mal, aquí la mentalidad es entre más rápido fracasemos, más rápido aprendemos, más rápido sabemos cómo hacer que las cosas funcionen. Entonces, nada más quiero darle esa motivación de si usted tiene una oferta, mándese al agua, pruébela, lo peor que puede pasar es que no funcione, perdió 20 dólares, perdió 30 dólares.",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4948.45,
+   "end": 4977.57,
+   "text": "Pregúntese también qué es lo mejor que puede pasar. Entonces, no te da miedo de probar algo. Si tiene algún cliente, aplique el blueprint. Puede que en 24 horas le esté consiguiendo leads. Y cuando postee los leads, vaya al post de wins del grupo y comparta sus wins. Comparta cuántos leads generó el primer día, cuánto le costaron esos leads. Todo el progreso son wins. En el grupo hay un post donde puede poner todos sus ganes. Entonces, lo digo porque a este punto del programa ya ustedes pueden estar generando leads.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4977.57,
+   "end": 5015.63,
+   "text": "Ok, ya pueden estar generando leads y eso es increíble. Entonces, vamos a ver preguntas y terminamos. Ok, vamos a ver. Ok, ok, ok. Vamos a ver. Preguntas. Uy, hoy sí tenemos, hoy sí tenemos preguntas. Vamos a, primero déjame tomar un café para dar la mejor respuesta.",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5022.13,
+   "end": 5066.83,
+   "text": "Si quieren también poner las preguntas en el chat, bienvenidos. Les puedo responder todavía más rápido. Y si quieren que les dé on mute, nada más ahí levantan la mano. Ok, Marco pregunta. Marco pregunta, ¿qué recomiendas hacer en caso de que mi cliente quiera atacar varios países? Muchas veces los clientes quieren algo, pero no saben cómo funciona el proceso. Ok, entonces también es parte del trabajo de un Media Buyer.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5067.22,
+   "end": 5092.72,
+   "text": "Darle como un poco esa guía al cliente. Muchas veces los clientes creen que saben algo, pero en realidad no tienen mucha experiencia. Y esa es la realidad. Entonces, la pregunta es, ¿por qué alguien quiere atracar varios países? Mi mindset es, si usted no está generando mínimo mil dólares en un país, y el país se considera normal económicamente,",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5092.88,
+   "end": 5121.17,
+   "text": "O sea, tiene potencial. ¿Para qué se va a ir a otro si no está haciendo mínimo mil dólares al día? Entonces, por lo general, cuando yo agrego más países a una lista es porque voy con un presupuesto muy alto o voy con el mindset de escalar así a la luna. Pero para testear algo nuevo, ¿para qué va a meter muchos países? Ahora está metiendo la variable de más culturas. La cultura es una variable gigante. La cultura es una de las variables más grandes que hay, ¿verdad?",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5121.17,
+   "end": 5140.8,
+   "text": "Entonces, yo así lo veo. O sea, si no está haciendo 30K al mes en un país, ¿para qué se va a ir a otro? De hecho, en un país usted puede hacer 100K al mes. Entonces, nada más, si el cliente realmente quiere atacar varios países, preguntémosle por qué quiere hacerlo, a ver si tiene una razón válida.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5140.8,
+   "end": 5170.48,
+   "text": "Y si es una razón que en realidad no es muy válida, se puede recomendar empezar en el país en donde tenga más clientes actualmente para irse con la opción más probada, ¿verdad? Jair dice, a nivel de coaching call, King, ¿qué diferencia has notado entre ads en el administrador de anuncios versus estas herramientas que ahora muestras? Honestamente, no mucha. Es que como les digo, cuando el ad es bueno,",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5170.48,
+   "end": 5196.14,
+   "text": "Hay un buen video, va a funcionar con el administrador de anuncios, o sea, el Business Manager, que es lo que vamos a ver después, o el Boost. Eso es lo que yo he notado. Ahora, que si hay más opciones en el Business Manager, sí hay más opciones, pero también mi filosofía es keep it simple, ¿verdad? Entonces a veces uno, yo siento que con solo el botón de Boost, no, no lo siento, lo sé, lo he visto, solo con dándole botón.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5196.14,
+   "end": 5222.35,
+   "text": "Dándole tap al botón azul de boost, usted puede hacer $10,000 al mes profit. No estoy jodiendo. Solo con ese botón. Entonces, por eso es que cuando yo he visto eso, yo digo, ¿por qué le recomendaría a alguien complicar demasiado todo si dándole botón de boost pueden hacer esa cantidad de cash que les puede cambiar la vida? Entonces, a veces nada más como que trato de no dar más información de la cuenta porque sé que a veces puede costarles más.",
+   "avg_logprob": -0.069,
+   "no_speech_prob": 0.035
+  },
+  {
+   "start": 5222.35,
+   "end": 5250.83,
+   "text": "Entonces, la realidad es que en el administrador de anuncios, que vamos a ver después, hay muchas más opciones de todo, pero no se necesitan realmente. Un buen ad, que la gente lo vea y listo. Daniela, esta pregunta puede ser obvia, pero para confirmar, brindando servicios como Media Buyer, nuestro cliente es el que hace todo ese proceso, ¿verdad? Nosotros solo lo guiaríamos diciéndole qué poner en cada sección.",
+   "avg_logprob": -0.023,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5251.76,
+   "end": 5273.3,
+   "text": "Digamos, en realidad, el Media Buyer crea los ads, o sea, crea el ad copy, manda instrucciones para grabar el ad, porque usualmente eso lo graba la cara, la persona que es la cara del negocio, y el Media Buyer crea la campaña, ¿ok? También crea la campaña, o sea, esto que estamos haciendo, esto lo hace el Media Buyer. Ahora...",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5273.3,
+   "end": 5297.65,
+   "text": "Media Buyer, Media Buyer,",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5298.13,
+   "end": 5319.7,
+   "text": "Ejecuta la creación de la campaña. Si no la ejecutara, entonces sería más como un consultor de ads, ¿verdad? Que también puede venderse. Yo soy su consultor de ads, usted lo hace. Pero también tiene como menos valor, porque ahora el cliente tiene que hacerlo y le va a tomar tiempo. Entonces el punto del Media Buyer es ahorrarle tiempo al cliente. Michelle.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 5319.76,
+   "end": 5350.48,
+   "text": "Una vez que el anuncio está live, ¿cuántos días tengo que darle chance al ad para saber que sí está funcionando? Eso te lo puedo contestar, podría ser así una hora. De hecho, tengo un protocolo que es, de hecho, la segunda parte del protocolo, que es del documento, habla parte de eso, cuándo subir presupuestos y cuándo pausar. Pero eso ya es algo que vamos a ver después, porque sí es como una, es todo un tema. Eso es una hora de sesión, de hecho, solo analizar los números. Pero para darte una respuesta a esto,",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 5352.3,
+   "end": 5367.74,
+   "text": "Si se genera una venta antes de invertir en lo que sea que cuesta la oferta, se mantiene activo, ¿verdad? Porque obviamente está rentable. Si gastamos 200, si hicimos 1000 con una venta, hicimos 800 profit, obviamente vamos a dejar ese ad.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5367.74,
+   "end": 5382.54,
+   "text": "Y vamos a gastar más porque está rentable. Si invertimos en ads y no hemos generado una venta y ya gastamos lo que sea que vale la oferta, no es una buena señal. Probablemente haya que pausar y probar algo más. Esa es como la respuesta corta.",
+   "avg_logprob": -0.015,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 5383.54,
+   "end": 5411.15,
+   "text": "iPhone de Anthony, tengo una pregunta parecida a la de Daniela, todo ese proceso lo podemos aplicar para nosotros mismos si es nuestra oferta, pero si es para un cliente, debemos explicarle cómo hacerlo, tendríamos acceso a sus cuentas para nosotros hacerlo. Sí, entonces los dos, o sea, lo puede hacer el cliente o lo pueden hacer ustedes, pero por lo general los Media Buyers se encargan de ese proceso y les dan acceso para crear las campañas. Daniela, Dani, aquí dándole al boost de nuevo entonces, con todo.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5411.15,
+   "end": 5436.88,
+   "text": "Destruyan ese botón de boost. Piensen en esto. Dos preguntas. ¿Qué es lo peor que puede pasar? Yo siempre me pregunto esto. ¿Qué es lo peor que puede pasar en una situación? ¿Verdad? ¿Ok? ¿Perdieron 10 dólares? ¿Perdieron 20? ¿O tal vez 10 dólares al día por 7 días? ¿Perdieron 70? Nada les va a pasar. ¿Verdad? Usualmente, si ustedes aplican este blueprint.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 5436.88,
+   "end": 5465.9,
+   "text": "¿Qué es? Un blueprint conservador. Yo enseño Media Buying la manera conservadora porque hay Media Buyers muy sádicos. Los más les van a decir 10K para testear, 200 dólares al día, pero eso ya son trainings para más veteranos, ¿verdad? Esta es la manera conservadora. Con esta manera, muy difícil que pierdan. Muy, muy difícil que pierdan. O sea, realmente hay que esforzarse para que eventualmente algo no esté rentable. Entonces,",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 5466.26,
+   "end": 5493.76,
+   "text": "Las preguntas son, ¿qué es lo peor que puede pasar? ¿Pierdo un poco de presupuesto? Igual eventualmente con todo este montón de leads que generé, puede que algo pegue. En dos meses compré a alguien y recuperé todo. ¿Qué es lo mejor que puede pasar? Esa es la segunda pregunta. ¿Qué es lo mejor que puede pasar si esto me funciona? Literalmente les puede cambiar la vida. Yo lo he visto con mis propios ojos. He tenido clientes que llegan, empiezan mi programa, pasan de $500 al mes a $2000 de manera orgánica, encienden los ads.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5493.76,
+   "end": 5518.7,
+   "text": "Con un ad que nunca pensaron que fuera a funcionar y ahora están en 20k al mes. Entonces, ¿qué es lo peor que podía pasar en ese test? No funcionaron, perdieron 100 dólares. ¿Qué es lo mejor? 20k al mes. Entonces, también tienen que ver el lado negativo. ¿Qué es lo más negativo que puede pasar? ¿Qué es lo más positivo? Entonces, literal, esto es como dice Russell Brunson, you're one funnel away.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5518.74,
+   "end": 5548.75,
+   "text": "Yo pienso que uno, más realísticamente que you are one funnel away, you are one ad away. El ad es el que trae el tráfico. Ok, entonces, eso es súper importante entenderlo. Si ustedes hacen esto funcionar, esto les puede cambiar la vida. Y si están corriéndole ads a clientes, su cliente va a decir, y man, nunca había tenido tantos leads. Este es como, es un ángel caído del cielo que ahora está en mi negocio, ¿verdad? Entonces, los media buyers buenos se hacen indispensables para los negocios.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5549.33,
+   "end": 5561.58,
+   "text": "Danny dice, cuando estamos creando una marca personal hay alguna cantidad de followers que vos viste te hizo la diferencia a nivel de ventas. Followers don't pay the bills, acuérdense de eso. Likes don't pay the bills, followers don't pay the bills.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5561.94,
+   "end": 5589.78,
+   "text": "Lo que sí paga las cuentas son los leads. Hay gente que tiene muchos followers, no tiene leads. Hay gente que tiene muchos views, no tiene leads. Hay gente que tiene mucho tráfico, no tiene leads. Lo que más importa es tener leads, pidiendo información. Pásame info del programa, pásame info del servicio, cuánto cuesta, cómo funciona, pásame esos detalles. Leads, leads, leads, leads es igual a cash. Entonces, todas esas cosas son puro ruido. Los followers no importan. Ustedes pueden tener 10, ustedes pueden tener mil followers.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 5589.78,
+   "end": 5613.78,
+   "text": "Un ad que le está generando 100 leads al día, 120 dólares al día de presupuesto, printing money con mil followers. Followers don't pay the bills. Se pueden poner un tatuaje acá, se puede hacer un tatuaje en el brazo. Followers don't pay the bills. Si ya se ponen, se meten mucho en el tema. Anthony dicen.",
+   "avg_logprob": -0.09,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5614.13,
+   "end": 5637.41,
+   "text": "Si nosotros no tenemos una oferta propia para correr nuestros propios ads, ¿cómo podemos empezar a practicar? Y además, también, con base a esa pregunta, asumo que no tienen clientes en donde puedan poner esto en práctica también. Pues les tengo muy buenas noticias porque en estos días les voy a hacer un post de algo que pueden empezar a hacer para poner todo en práctica y hacer bastante cash en el proceso.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5637.41,
+   "end": 5669.04,
+   "text": "Entonces pronto pronto estén ahí atentos al grupo porque voy a publicar algo que tal vez les ponga muy felices. Rafael pregunta, Sebastián tengo una oferta de desarrollo de web que puedo ir creándola apenas lleguen clientes sin necesidad de saber de código pero no la veo escalable como el Media Buyer. Entonces me enfocaré en el servicio de Media Buyer pero aquí siento que aún me falta aprender si llegan clientes. A ver si entiendo la pregunta.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5669.14,
+   "end": 5699.78,
+   "text": "Tengo una oferta de desarrollo de web que puedo ir creándola apenas lleguen clientes sin necesidad de saber de código, pero no la veo escalable. A ver, ¿por qué no sería escalable? Pregunta número uno, ¿es por el fulfillment o por los ads? Porque de parte de los ads sí es escalable. Todo es escalable en el metaverso, hay billones de personas que pueden conseguir cientos o miles de leads, entonces no creo que no sea escalable en la parte de los ads. Ahora, si no es escalable en la parte del fulfillment...",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 5699.78,
+   "end": 5725.68,
+   "text": "Eso ya es otra historia, ¿verdad? El famoso, el famoso Guillermo. Voy a poner esto en airplane mode. Entonces sí, ahí creo que necesito más contexto. Ok, vamos a quién José quiere hablar.",
+   "avg_logprob": -0.102,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5726.06,
+   "end": 5744.03,
+   "text": "Kevin, ahí le va el Mike, José, Sebas, si nosotros tenemos acceso solo al data de ad, si estamos cobrando revenue share, sería el cliente quien nos pasa el data de las ventas cerradas. Sí, tienen que tener un spreadsheet en donde se vaya documentando las ventas y muchas veces al Media Buyer le da acceso a la cuenta de Stripe.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5744.03,
+   "end": 5771.49,
+   "text": "Pero con accesos de, o sea, no todos los accesos para que vaya viendo el revenue. Entonces a veces los clientes usan un CRM en donde se ven los sales o usan Stripe o simplemente un spreadsheet se va viendo el revenue. Eso también dejarlo muy claro. Vea, yo voy a hacer el trabajo, yo le voy a generar leads, yo voy a escalar su negocio, pero yo quiero full transparencia de también cuánto se está generando porque si quedamos en un 10% para yo saber cuánto me toca a mí. Todo directo.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5771.49,
+   "end": 5802.93,
+   "text": "La gente le gusta que le hablen así, que le hablen sin pelos en la lengua, que le hablen así, porque así a uno lo respetan. Entonces, que el cliente vea que no puede jugar con ustedes, estar haciéndole jueguitos. Ok, José dice, José, no dice nada, aquí en mute, ahí está, ahora sí.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 5803.44,
+   "end": 5831.73,
+   "text": "Sí, en ese caso, esa oferta está específicamente diseñada para ese público Meta, esa ubicación, ese tipo de personas, entonces ahí uno lo manda ahí, ¿verdad? Esto de los ads también...",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 5832.05,
+   "end": 5859.38,
+   "text": "No es como todo blanco y negro en el sentido de que si la gente no tiene su mismo acento no lo haga ahí o si la gente no es de su mismo país no lo haga ahí, no es como así de blanco y negro, hay como varias variables, entonces en este caso hay una variable que es el público meta ideal está en Florida por ejemplo, que hay muchos latinos, entonces ahí el ad se enseña específicamente a Florida, a latinos en Florida y perfectamente se puede decir algo así como",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5859.38,
+   "end": 5879.58,
+   "text": "Si actualmente usted es un latino viviendo en Florida, usted tiene un trabajo 9 a 5, gana unos 5 mil dólares al mes después de taxes, pero le gustaría aprender de ventas para tener una habilidad en su caja de herramientas que le permita escalar a 10 mil al mes y poder vivir mejor, porque usted sabe, Florida es carísimo. Vea este video.",
+   "avg_logprob": -0.023,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5879.58,
+   "end": 5907.9,
+   "text": "Entonces ya ahí usted está targeteando Florida, esa gente específicamente, entonces ya no hay que meterse mucho en el tema de es que el acento, eso ya no importa, el ad está específicamente creado para esa gente, entonces también es importante como considerar todas las variables y de hecho es como lo difícil de ser un Media Buyer en ese sentido, como que no hay como un blueprint que aplique para todo, como hay que tener la habilidad de poder analizar",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 5907.9,
+   "end": 5939.41,
+   "text": "De el diagnóstico, que eso es de toda la información y variables de un negocio y decir, esta es la mejor opción. Entonces, sí, todo bien, puede mandarlo ahí. Él nos está comentando que, bueno, le estaba metiendo ads, metió como 5 pruebas, 5 tests, como por 15 días, ¿verdad? Con un presupuesto igual de 10, 15 dólares, si mal no recuerdo. Digamos, en ese caso, meterlo por 15 días es como para ver cuál tiene mayor, como...",
+   "avg_logprob": -0.082,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 5939.41,
+   "end": 5947.06,
+   "text": "como interacción y a partir de eso dejar los que funcionan en tan poco tiempo o es mejor dejarlo como un plazo de 30 días.",
+   "avg_logprob": -0.081,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 5947.82,
+   "end": 5974.64,
+   "text": "Yo siento que el plazo no importa tanto, o sea, si uno lo deja por 15 días o 30 días, eso no va a hacer que el ad sea mejor o peor. El rango es simplemente para uno darse suficiente espacio para colectar suficiente data para poder llegar a un punto donde se puede tomar una decisión. Si uno gasta 10 dólares al día y lo deja una semana, el presupuesto total que se va a gastar son 70 dólares. Ahora, en el caso de Kurt, por ejemplo, vende el programa...",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 5974.64,
+   "end": 6004.38,
+   "text": "No sé cuánto vale, pero digamos, vende a 2 mil dólares. Gastamos el big picture, o sea, el escenario a gran escala, gastamos 70 para tratar de vender algo de 2 mil. Y estamos ya juzgando lo de que no funciona. O sea, podemos gastar hasta 500 y hacer 2 mil. Podemos gastar 1 mil y hacer 2 mil. Entonces, muchas veces, aunque se hayan gastado, no sé, aunque un ad haya estado activo una semana o dos o tres,",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 6004.38,
+   "end": 6021.36,
+   "text": "¿Cuánto gastamos y cuál es el potencial de generar cash? ¿Qué tan cerca estamos de convertir un lead a un sale? Entonces, si estamos cerca, déjenlo activo. Igual, si gastamos 800 para hacer 2000, ganamos. Entonces, el rango de tiempo para mí no es muy importante. De hecho...",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 6021.42,
+   "end": 6050.72,
+   "text": "Van a ver que cuando creamos una campaña en el administrador de anuncios ya de Meta, el Business Manager, yo no le pongo una duración, yo le pongo una duración en Boost porque es la opción que nos dan. Instagram nos dice, escoja una duración y creo que no hay una opción de ponerlo indefinido, si no me equivoco, creo que no hay una opción de ponerlo indefinido, voy a revisar, pero el punto es que la duración no importa, lo único que importa es cuánto gastamos y cuánto generamos y...",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.026
+  },
+  {
+   "start": 6050.72,
+   "end": 6077.31,
+   "text": "Poder llegar a un punto donde tenemos la capacidad de tomar esa decisión. Por eso es importante cobrar caro o trabajar con clientes que cobran caro, porque imagínense qué difícil. Trabajar con un cliente que cobra 50 dólares. Gastamos 10 dólares al día por 5 días y ya el cliente nos está diciendo, bro, 50 dólares, ya gastamos 50 y si genera una venta, bro, no hicimos profit. Entonces como que es muy difícil.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 6077.31,
+   "end": 6106.67,
+   "text": "¿Cuál es el mindset detrás de esto?",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 6107.95,
+   "end": 6125.39,
+   "text": "Dani pregunta, Daniel felicidades por esa venta, felicitemos a Daniel por esa venta de 500 dólares al mes más un 10% Easy Work, eso es lo bueno de ser Media Buyer, es algo que es fácil de vender, Tim, no hay nada más fácil que vender que esto",
+   "avg_logprob": -0.084,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 6125.39,
+   "end": 6153.33,
+   "text": "Fácil entre comillas, ¿verdad? Tampoco quiero que piensen que es como... Pero es fácil en el sentido de que es algo que todo el mundo busca, algo que todo el mundo necesita, es un dolor demasiado grande, es una solución demasiado valiosa. Es fácil de vender cuando alguien tiene una necesidad muy grande. No importa si ustedes son el mejor vendedor del mundo, si están tratando de vender algo que la gente no necesita, entonces es difícil venderlo. Yo les voy a ser sinceros, Tim, yo no soy el mejor vendedor del mundo.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 6153.33,
+   "end": 6163.02,
+   "text": "Yo nunca he visto un programa de sales y nunca me he leído un libro de sales y yo nunca he pasado, invertido mucho tiempo en cosas relacionadas a sales.",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 6163.18,
+   "end": 6188.14,
+   "text": "Simplemente a lo largo de los años he generado tanto tráfico, tanto leads, que con mis habilidades semi básicas de YouTube, de sales, he podido convertirlos porque son muchos leads, ¿verdad? Entonces eso es lo bueno de ser Media Buyer, cuando usted tiene muchos leads, usted es solo, con un buen script normal, un script normal, yo le doy un script que no es tal vez el mejor del mundo, pero si ustedes tienen buenos leads, les va a funcionar, ¿verdad? Entonces eso es lo bueno de ser Media Buyer, es como...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 6188.14,
+   "end": 6210.37,
+   "text": "No hay que ser el mejor closer del mundo y ustedes igual van a hacer cash. Obviamente, entre mejor closer sean, entre mejores en venta sean, más van a poder convertir un porcentaje más alto de los leads que van entrando. Entonces, yo he experimentado eso con clientes. Los clientes que son buenos closers tienen mejor retorno de inversión en sus ads que los clientes que son malos closers. Eso sí lo he visto de fijo.",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 6210.37,
+   "end": 6231.09,
+   "text": "Pero inclusive un mal closer con muchos leads igual puede tener una campaña con retorno de inversión positiva. Siempre y cuando la oferta sea buena. Entonces yo lo que les recomiendo es lo siguiente. Pulan sus habilidades de Media Buyers, pulan sus habilidades de Sales, porque la combinación de eso es lo que les puede hacer Millions. Así de simple.",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 6231.28,
+   "end": 6256.91,
+   "text": "Clara, Simón, ¿qué hacemos si el país nativo de mi cliente no tiene un poder adquisitivo alto? Por ejemplo, Colombia, ¿probamos distintos o siempre recomiendas el país nativo? Creo que eso ya lo respondí, pero es como ver las diferentes variables, ¿verdad? O sea, yo siento que en Colombia hay muchos emprendedores. De hecho, Colombia es un país con poco poder adquisitivo, pero yo tengo un compa, un amigo que está haciendo...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 6256.98,
+   "end": 6290.37,
+   "text": "Como 15k al día vendiendo coaching de 3k o a 5k en Colombia. Entonces es un país donde hay muchos emprendedores y los emprendedores pagan. Simón, ¿Cómo consiguió Dani el cliente? ¿Prospección en frío? No estoy muy seguro, de hecho, hay que preguntarle a Dani. A ver, vamos a... Por aquí hay otra pregunta de Javier. Ahí le va el mic a Javier.",
+   "avg_logprob": -0.073,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 6290.37,
+   "end": 6313.14,
+   "text": "Rápidamente Sebas, por ejemplo, ahorita que ya uno va a iniciar a mandar ya los ads para el offer, digamos, para personas que estén interesados en el servicio de Media Buying, si es conveniente ahorita, por ejemplo, armarse uno tal vez un track record de las ventas que ya uno ha hecho previamente y inicialmente tal vez cobrar un retainer de 500 dólares por mes.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 6313.71,
+   "end": 6342.19,
+   "text": "Si tienen apalancamiento que pueden usar, recuérdense, todos tenemos una caja de herramientas, algunos tenemos más herramientas que otros en la caja de herramientas, ¿verdad? Entonces uno tiene que agarrarse de lo que tiene. Si actualmente usted tiene casos de estudio de clientes que están en ventas, clientes que han hecho cash, de lo que sea, y se pueden usar para, se pueden, de cierta manera, conectar a la oferta del ad, obviamente eso le va a dar una ventaja competitiva, ¿verdad?",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 6342.19,
+   "end": 6359.76,
+   "text": "Hay que ver, hay que sacar todas las herramientas al metaverso. Uno tiene que ver qué tiene y lo saca, ¿verdad? Y si no tiene mucho, saca lo que tiene. Y si tiene mucho, lo saca lo más posible, porque al final de cuentas todo el mundo está compitiendo por un espacio en el feed. Y mucha gente corre ads, pero no tienen resultados. Entonces...",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 6359.79,
+   "end": 6386.03,
+   "text": "Cuando ustedes sí tienen, ustedes pueden simplemente dominar eso, ¿verdad? Es como, si actualmente usted es un doctor y le gustaría tener su consultorio lleno de clientes al punto que usted ya no puede ni siquiera agendar citas, usted tiene, le agendan citas para seis meses, usted ya no sabe ni qué hacer, tiene que abrir más consultorios y tantos leads, le gustaría ese sentimiento, tener ese problema, que es un buen problema y no lo tiene, entonces, quiero enseñarle como ayudé a Juan que es un...",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 6386.03,
+   "end": 6415.44,
+   "text": "Dermatólogo, antes tenía tres clientes a la semana, ahora tiene citas para seis meses. Le gustaría poder estar en ese punto donde usted ya no sabe ni qué hacer con sus leads. Mándeme un mensaje, yo me especializo, yo soy Media Buyer para doctores, yo genero leads para doctores y si usted quiere tener ese problema, entonces mándeme un mensaje y yo se lo doy. Eso sería increíble, pero ya uno tiene como esa herramienta del doctor, del dermatólogo, que uno pueda apalancarse de eso y el otro decir, si Juan pudo.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 6415.44,
+   "end": 6452.5,
+   "text": "Chat, Daniel, Dani, yo quiero saber si el cliente le preguntó por resultados y que le respondió experiencia. Sí, hay que preguntarle a ver cómo fue la cosa. Pero bueno, Tim.",
+   "avg_logprob": -0.123,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 6452.5,
+   "end": 6475.98,
+   "text": "Sesión larga, un poco larga, más larga de la cuenta, pero espero haya sido valiosa. Otra cosa es que se los agradecería, de fijo es si pueden taggear mi Instagram y dar sus comentarios del programa o simplemente postearlos en el grupo o lo que sea, se los agradecería porque obviamente es un programa que está en...",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 6476.02,
+   "end": 6501.26,
+   "text": "Bien, proceso, estamos construyendo todo esto juntos, de cierta manera, este programa no existía hace 30 días, o sea, entonces, si pueden postear un comentario en el grupo, pueden taggear algunos stories, se los agradecería, y nada, entonces, atentos, atentos porque se viene una muy buena noticia, bueno, una muy buena oportunidad para gente que no tiene una oferta.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 6501.52,
+   "end": 6524.83,
+   "text": "y quiere poner en práctica lo que ha aprendido y que tal vez ahorita no tiene clientes para poner lo que aprenden. Entonces, yo entiendo esa situación. Hay gente que viene a este programa, ya tiene algo que vender. Hay gente que viene a este programa, ya tienen clientes, pueden poner inmediatamente en práctica lo que están aprendiendo. Pero también entiendo que mucha gente viene a este programa, quiere aprender, pero no tiene...",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 6524.83,
+   "end": 6546.91,
+   "text": "algo en lo que pueda ejecutar inmediatamente entonces les voy a dar una opción vamos a llenar todos los gaps tienen clientes, tienen oferta, tienen clientes y si no tienen oferta va a dar una opción ok entonces ahora voy a darles más detalles pero eso es todo, esta es la sesión de hoy espero les haya servido y nos vemos en la próxima",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.001
+  }
+ ]
+}

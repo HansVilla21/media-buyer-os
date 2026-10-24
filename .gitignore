@@ -1,0 +1,26 @@
+# Secretos — NUNCA en git
+.env
+.env.*
+!.env.example
+
+# Claude Code
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Registros locales
+output/logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Materia prima pesada y cachés locales
+.cache/
+*.mp4
+*.wav

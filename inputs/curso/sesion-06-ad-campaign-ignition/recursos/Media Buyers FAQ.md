@@ -1,0 +1,573 @@
+# Media Buyers FAQ
+
+A continuación las preguntas más frecuentes de Media Buyers. Le recomiendo leer este documento porque aquí va a poder encontrar las respuestas a la mayoría de sus preguntas, o preguntas que va a tener en el futuro. Aunque no tenga preguntas en este momento, va a poder encontrar muchos Golden Nuggets en las respuestas.
+
+**Indice:**
+
+[¿Cuál es el presupuesto diario para empezar los ads?	2](#¿cuál-es-el-presupuesto-diario-para-empezar-los-ads?)
+
+[¿Uso video o imagen para mis ads?	2](#¿uso-video-o-imagen-para-mis-ads?)
+
+[¿Cuál es la forma más simple y rápida de generar leads si estoy empezando desde cero?	2](#¿cuál-es-la-forma-más-simple-y-rápida-de-generar-leads-si-estoy-empezando-desde-cero?)
+
+[¿Para mandar mis primeros ads, uso Boost o mando mis ads desde el Meta Business Manager?	3](#¿para-mandar-mis-primeros-ads,-uso-boost-o-mando-mis-ads-desde-el-meta-business-manager?)
+
+[¿Cuál es el proceso de ventas recomendado para empezar?	3](#¿cuál-es-el-proceso-de-ventas-recomendado-para-empezar?)
+
+[¿Escogemos Whatsapp o Instagram para recibir mensajes de los ads?	3](#¿escogemos-whatsapp-o-instagram-para-recibir-mensajes-de-los-ads?)
+
+[¿Qué objetivo escojo para la campaña si quiero recibir mensajes?	4](#¿qué-objetivo-escojo-para-la-campaña-si-quiero-recibir-mensajes?)
+
+[¿Qué objetivo escojo para la campaña si quiero mandar gente directo a un funnel/pagina/website/landing page para colectar leads (emails)?	4](#¿qué-objetivo-escojo-para-la-campaña-si-quiero-mandar-gente-directo-a-un-funnel/pagina/website/landing-page-para-colectar-leads-\(emails\)?)
+
+[¿Segmento la audiencia con intereses o escojo “Suggested Audience” y lo dejo más broad?	4](#¿segmento-la-audiencia-con-intereses-o-escojo-“suggested-audience”-y-lo-dejo-más-broad?)
+
+[¿Cuándo usó intereses para segmentar mi ads?	5](#¿cuándo-usó-intereses-para-segmentar-mi-ads?)
+
+[¿Es mejor segmentar con género y edad o lo dejo “broad”?	5](#¿es-mejor-segmentar-con-género-y-edad-o-lo-dejo-“broad”?)
+
+[¿Qué pasa si no se segmenta con género y edad?	5](#¿qué-pasa-si-no-se-segmenta-con-género-y-edad?)
+
+[¿Es posible tener buenos resultados si no segmento con intereses y además no segmento con género y edad?	5](#¿es-posible-tener-buenos-resultados-si-no-segmento-con-intereses-y-además-no-segmento-con-género-y-edad?)
+
+[¿Segmento con países?	5](#¿segmento-con-países?)
+
+[¿Escojo solo 1 país, o varios países?	6](#¿escojo-solo-1-país,-o-varios-países?)
+
+[¿Qué país escojo para empezar?	6](#¿qué-país-escojo-para-empezar?)
+
+[¿Qué texto uso para el ad?	7](#¿qué-texto-uso-para-el-ad?)
+
+[¿Cual es el done-for-you ad copy recomendado para grabar el video ad?	7](#¿cual-es-el-done-for-you-ad-copy-recomendado-para-grabar-el-video-ad?)
+
+[¿Cuánto se debería invertir en total para ver si funciona un ad?	7](#¿cuánto-se-debería-invertir-en-total-para-ver-si-funciona-un-ad?)
+
+[¿Cuándo debería subirle el presupuesto a los ads?	8](#¿cuándo-debería-subirle-el-presupuesto-a-los-ads?)
+
+[¿Mis ads están activos pero no están gastando el presupuesto?	8](#¿mis-ads-están-activos-pero-no-están-gastando-el-presupuesto?)
+
+[¿Mis ads están consiguiendo muchos clicks, pero no estoy generando leads, que está pasando?	9](#¿mis-ads-están-consiguiendo-muchos-clicks,-pero-no-estoy-generando-leads,-que-está-pasando?)
+
+[¿Mis ads están consiguiendo muchos mensajes a buen precio pero cuando les mando el template para responderles el mensaje y darles mas info, la mayoría no me contesta. Que hago?	9](#¿mis-ads-están-consiguiendo-muchos-mensajes-a-buen-precio-pero-cuando-les-mando-el-template-para-responderles-el-mensaje-y-darles-mas-info,-la-mayoría-no-me-contesta.-que-hago?)
+
+[¿Cuánto tiempo tengo que dejar mi ad activo para saber su funciona?	11](#¿cuánto-tiempo-tengo-que-dejar-mi-ad-activo-para-saber-su-funciona?)
+
+[¿Vale la pena pedirle al cliente que grabe diferentes variantes de ads de una sola vez? Hay clientes lentos para dar feedback o ejecutar, entonces quería saber si considerás que es una buena idea	11](#¿vale-la-pena-pedirle-al-cliente-que-grabe-diferentes-variantes-de-ads-de-una-sola-vez?-hay-clientes-lentos-para-dar-feedback-o-ejecutar,-entonces-quería-saber-si-considerás-que-es-una-buena-idea)
+
+[¿Es buena idea mandar directamente del ad al funnel/website/link?	12](#¿es-buena-idea-mandar-directamente-del-ad-al-funnel/website/link?)
+
+[¿Cuál es el mejor proceso de venta para vender o alquilar propriedades de Real Estate?	13](#¿cuál-es-el-mejor-proceso-de-venta-para-vender-o-alquilar-propiedades-de-real-estate?)
+
+[¿Por qué un cliente me seguiría pagando si ya le cree un ad que le genera un retorno positivo, buenos profits, y que está activo 24/7?	13](#¿por-qué-un-cliente-me-seguiría-pagando-si-ya-le-cree-un-ad-que-le-genera-un-retorno-positivo,-buenos-profits,-y-que-está-activo-24/7?)
+
+[¿Cuánto cobrar por el servicio de Media Buying?	14](#¿cuánto-cobrar-por-el-servicio-de-media-buying?)
+
+### 
+
+### 
+
+### ¿Cuál es el presupuesto diario para empezar los ads? {#¿cuál-es-el-presupuesto-diario-para-empezar-los-ads?}
+
+El presupuesto diario que recomiendo para empezar para la mayoría de personas y campañas es de \$10/día. Sin embargo el presupuesto diario recomendado puede variar para cada persona o situación. En este documento puede ver una explicación mucho más detallada de cuál presupuesto diario usar.
+
+[https\://docs.google.com/document/d/1eTdXoh7F5zv3wwVYvB95plSlbqzYjdU\_WH\_0dbg-vbw/edit?usp=sharing](https://docs.google.com/document/d/1eTdXoh7F5zv3wwVYvB95plSlbqzYjdU_WH_0dbg-vbw/edit?usp=sharing)
+
+### ¿Uso video o imagen para mis ads? {#¿uso-video-o-imagen-para-mis-ads?}
+
+Recomiendo usar un video ad para la mayoría de casos. En ciertos casos funcionan mejor las fotos e imágenes que tienen un muy buen copy en el ad (text), pero en mi experiencia los videos usualmente tienen un mucho mejor retorno de inversión. De igual forma, puede que una imagen funcione mejor que un video, y es importante estar abierto a probar. Si va a probar una imagen, asegúrese de que sea una imagen que llame mucho la atención y que el texto del ad sea muy bueno. Si la imagen no es buena, y el texto del ad no es bueno, probablemente no funcione muy bien. Si quiere testear una imagen como ad, pruébala, no hay problema. Como decía Michael, mi primer mentor de ads: “Sebastian, test.”
+
+### ¿Cuál es la forma más simple y rápida de generar leads si estoy empezando desde cero? {#¿cuál-es-la-forma-más-simple-y-rápida-de-generar-leads-si-estoy-empezando-desde-cero?}
+
+La forma más de conseguir leads en 24 horas como principiante, es creando un video de 60-90 segundos, subirlo a Instagram como Reel, agregarte el texto al Reel con un CTA de “Mandeme un mensaje para más info”, y después darle “Boost” usando desktop. Use un presupuesto de \$10/día. Eso le va a generar de 5-10 leads al día en latinoamérica con un costo por mensaje de \$1-\$2.
+
+### ¿Para mandar mis primeros ads, uso Boost o mando mis ads desde el Meta Business Manager? {#¿para-mandar-mis-primeros-ads,-uso-boost-o-mando-mis-ads-desde-el-meta-business-manager?}
+
+Usar Boost es la manera más simple y rápida para empezar a generar leads, siempre y cuando el video dure menos de 90 segundos. Puede empezar con Boost, ver como reacciona el ad, cuántos leads entran, cuál es el costo por lead, y tratar de conseguir ROI+ con Boost. Una vez le funciona, puede testear nuevos ads, o videos más largos, usando el business manager. Boost es una forma rápida para ver resultados, pero en general es mucho más limitada.
+
+### ¿Cuál es el proceso de ventas recomendado para empezar? {#¿cuál-es-el-proceso-de-ventas-recomendado-para-empezar?}
+
+El proceso de ventas recomendado para la mayoría de ofertas de coaching, consultoría o servicios high ticket es:
+
+Ad → DM → Agendar llamada → Cierre
+
+Igual hay otros procesos de ventas que funcionan muy bien. El proceso de ventas que escoja va a depender de varias variables. Para ver los detalles relacionados a procesos de venta vea el entrenamiento aqui: 
+
+[https\://marketing.sebastiangomez.com/products/media-buyers/categories/2155784793/posts/2180399913](https://marketing.sebastiangomez.com/products/media-buyers/categories/2155784793/posts/2180399913)
+
+### ¿Escogemos Whatsapp o Instagram para recibir mensajes de los ads? {#¿escogemos-whatsapp-o-instagram-para-recibir-mensajes-de-los-ads?}
+
+Los 2 funcionan increíblemente bien, por eso es difícil dar 1 sola respuesta. En ambos va a recibir demasiados leads casi que inmediatamente. Pienso que la primera respuesta es: “Test”. Escoja 1, y testeela. Después testee la otra. Mi 2da respuesta es que depende de qué tanto apalancamiento tenga con su cuenta de Instagram. Si usted tiene una cuenta de Instagram super optimizada, con muy buen contenido en el feed, muy buenos stories, y en general su perfil siente que le va a SUMAR, entonces puede mandar mensajes a Instagram. La gente le va a mandar un DM por Instagram y también va a ver su perfil. Si su perfil es bueno, le va a sumar. Si su perfil no es bueno, le va a restar, y en ese caso mejor mandar a Whatsapp. En otras palabras, si su contenido en Instagram, más bien le quita credibilidad y confianza, mejor que la gente no lo vea y simplemente hable con usted por Whatsapp.
+
+### ¿Qué objetivo escojo para la campaña si quiero recibir mensajes? {#¿qué-objetivo-escojo-para-la-campaña-si-quiero-recibir-mensajes?}
+
+- Si está creando los ads con “Boost” y quiere recibir mensajes, escoja “Send Messages”.
+
+- Si está creando los ads con el Business Manager y quiere recibir mensajes a Instagram, escoja “Leads” y después “Instagram” en el adset.
+
+- Si está creando los ads con el Business Manager y quiere recibir mensajes a Whatsapp, escoja “Traffic”, después “Messaging Apps”, y después Whatsapp en el adset.
+
+### ¿Qué objetivo escojo para la campaña si quiero mandar gente directo a un funnel/pagina/website/landing page para colectar leads (emails)? {#¿qué-objetivo-escojo-para-la-campaña-si-quiero-mandar-gente-directo-a-un-funnel/pagina/website/landing-page-para-colectar-leads-(emails)?}
+
+- Si está creando los ads con “Boost” y quiere mandar gente a un link, escoja “Website”.
+
+- Si está creando los ads con el Business Manager y quiere mandar gente directo al funnel, escoja el objetivo de “Leads”.
+
+### ¿Segmento la audiencia con intereses o escojo “Suggested Audience” y lo dejo más broad? {#¿segmento-la-audiencia-con-intereses-o-escojo-“suggested-audience”-y-lo-dejo-más-broad?}
+
+En la mayoría de casos es mejor usar “Suggested Audience”, o simplemente **no** usar intereses, especialmente si:
+
+1- La comunicación con el Avatar en el ad sea específica. Por ejemplo, *“Si usted es un profesional con más de \$10,000 ahorrados en el banco, pero le gustaría invertir para generar un 10% anual en ese dinero, entonces este video es para usted”*.
+
+2- La oferta es un “mass appeal offer”, osea una oferta que soluciona un dolor que la mayoría de la gente tiene. Por ejemplo, hacer más dinero, perder peso, parar de estar deprimido etc… En otras palabras, algo que le aplique a muchas personas.
+
+El algoritmo de Meta es muy bueno, y va a enseñarle el ad a la gente que tiene más probabilidad de convertir en leads y cliente, siempre y cuando la comunicación del ad sea la correcta. Meta tampoco hace magia. Si el ad no se comunica bien con el Avatar correcto, entonces el algoritmo no va a mágicamente enseñarselo al avatar correcto. El ad copy y el algoritmo trabajan juntos para enseñarle el ad a la gente correcta, y por ende de esta manera conseguir ROI+.
+
+### ¿Cuándo usó intereses para segmentar mi ads? {#¿cuándo-usó-intereses-para-segmentar-mi-ads?}
+
+Yo probaría intereses con el mindset de que es un “test” para hacer un “split test” y compararlo con no usar intereses. Personalmente no le veo mucho beneficio a usar intereses hoy en día porque el algoritmo de Meta es demasiado bueno, y porque yo ya he visto que mi ad puede tener ROI masivo sin intereses, siempre y cuando la comunicación de las palabras que se dicen en el ad sean las correctas. Usar intereses me puede limitar el alcance.
+
+### ¿Es mejor segmentar con género y edad o lo dejo “broad”? {#¿es-mejor-segmentar-con-género-y-edad-o-lo-dejo-“broad”?}
+
+Esto depende de su Avatar y del diagnóstico que se hizo del negocio. Si su avatar son hombres de 40-50, porque ese es su cliente ideal, entonces lo ideal es que en el video usted diga: *“Si usted es un hombre entre 40-50 años”*, y ADEMAS tambien segmente con género de hombres, y edad de 40-50. Eso le va a enseñar su ad a la gente correcta porque su comunicación en el ad es la correcta \+ está limitando su audiencia a solo hombres 40-50.
+
+### ¿Qué pasa si no se segmenta con género y edad? {#¿qué-pasa-si-no-se-segmenta-con-género-y-edad?}
+
+Si la comunicación en su video es muy específica y le habla muy específicamente a un avatar, entonces probablemente el algoritmo entienda eso y le enseñe el ad a ese tipo de personas. Pero si quiere estar seguro que solo esa gente lo va a ver, entonces segmente con género y edad.
+
+### ¿Es posible tener buenos resultados si no segmento con intereses y además no segmento con género y edad? {#¿es-posible-tener-buenos-resultados-si-no-segmento-con-intereses-y-además-no-segmento-con-género-y-edad?}
+
+Si tiene un “mass appeal offer” en el ad que soluciona un problema que mucha gente tiene, entonces si puede conseguir buenos resultados dejando el targeting 100% broad.
+
+### ¿Segmento con países? {#¿segmento-con-países?}
+
+Si, segmentar por países es importante.
+
+### ¿Escojo solo 1 país, o varios países? {#¿escojo-solo-1-país,-o-varios-países?}
+
+Mejor 1 para empezar. De esa forma tiene menos variables. Todos los países son muy diferentes y tienen culturas muy diferentes. Mi filosofía es mantener la menor cantidad de variables posibles cuando se está probando un nuevo video ad y una nueva oferta. Entre más variables agregue al test, más difícil saber si el video o la oferta son realmente buenas.
+
+### ¿Qué país escojo para empezar? {#¿qué-país-escojo-para-empezar?}
+
+Primero pregúntese, adónde está mi Avatar? Si su avatar vive en un país específico, entonces escoja ese país.
+
+Si su país puede vivir en varios países, y no está limitado a un solo país, o en otras palabras, usted puede conseguir clientes de diferentes países para la oferta y no hay problema, entonces en ese caso tiene que escoger 1 país para empezar.
+
+Primero que nada, escoja un país donde el idioma sea igual al del ad. Si su ad es en espanol, entonces escoja un país que hable espanol. Puede ser un país en latinoamérica o también puede ser España.
+
+En ese caso, hay muchos países que hablan español, entonces en cual comienzo?
+
+Recomiendo empezar con el país de donde es la persona que sale en el ad. Si la persona que habla en el ad es de Costa Rica, y tiene acento de Costa Rica, recomiendo empezar solo con Costa Rica.
+
+Si la persona que habla en el ad es de México, y tiene acento mexicano, recomiendo empezar solo con México. Aunque no lo crea, el acento es una variable con demasiado peso. Cuando la gente ve a alguien con su mismo acento compartiendo sus resultados, eso genera más confianza e inspiración que si la persona en el ad fuera alguien de otro país. Los Ticos confían más en Ticos por ser del mismo país. Si ven a alguien de su país teniendo éxito, ellos piensan que es más realista para ellos también tener éxito.
+
+¿Cuál es la excepción?
+
+Si su país está en una muy mala situación económica, aunque usted tenga el mismo acento, es mejor evitar targetear a su país porque ahí la gente no va a poder pagar sus precios.
+
+Ejemplo, si usted es de Haití, aunque usted la gente se relaciones muy bien con usted, 99% de la gente simplemente no tiene el dinero requerido para trabajar con usted. En ese caso, escoja otro país de latinoamérica o España y trate de analizar cuál puede ser la mejor opción para empezar y test. Tire los dados.
+
+En mi opinión los mejores países en para ads en español son:
+
+México, Costa Rica, Colombia, y España. 
+
+España es el país con el salario mínimo más alto, pero al mismo tiempo hay una barrera cultural muy grande con los latinos. Entonces puede ser una espada de doble filo. Como dije, la mejor opción en ese caso es Test.
+
+### ¿Qué texto uso para el ad? {#¿qué-texto-uso-para-el-ad?}
+
+Aquí le doy varios textos done-for-you para usar para el ad \+ varios ejemplos que yo uso:
+
+[https\://docs.google.com/document/d/19PdDRDVYj5xcxyiQ9RZV32CQ8Ngq9dOAu8XTAx3qLR0/edit?usp=sharing](https://docs.google.com/document/d/19PdDRDVYj5xcxyiQ9RZV32CQ8Ngq9dOAu8XTAx3qLR0/edit?usp=sharing)
+
+### ¿Cual es el done-for-you ad copy recomendado para grabar el video ad? {#¿cual-es-el-done-for-you-ad-copy-recomendado-para-grabar-el-video-ad?}
+
+Este es el ad copy base que me ha funcionado muy bien a mi y mis clientes ya por más de 1 año. Puede usarlo como base y adaptarlo a su nicho, avatar y oferta: 
+
+[https\://docs.google.com/document/d/1MzXKW05hj7hvcJgVvrAMjX4KgyGmQD45UVmfM8T269M/edit?usp=sharing](https://docs.google.com/document/d/1MzXKW05hj7hvcJgVvrAMjX4KgyGmQD45UVmfM8T269M/edit?usp=sharing)
+
+Es importante tomar en cuenta que este ad copy es para usar con una base. Puede que no sea el mejor y puede que usted cree/pruebe uno que sea 10x mejor.
+
+Recuérdese, lo más importante siempre es testear\!
+
+### ¿Cuánto se debería invertir en total para ver si funciona un ad? {#¿cuánto-se-debería-invertir-en-total-para-ver-si-funciona-un-ad?}
+
+Lo que uno está dispuesto a invertir en total para un ad, tiene que ser lo que sea que cobre por la oferta.
+
+Si el precio de la oferta es de **\$500**, uno tiene que estar dispuesto a invertir **\$500** en ads para probar la oferta.
+
+Si el precio de la oferta es de **\$1,000**, uno tiene que estar dispuesto a invertir **\$1,000** en ads para probar la oferta.
+
+Si el precio de la oferta es de **\$2,000,** uno tiene que estar dispuesto a invertir **\$2,000** en ads para probar la oferta.
+
+### ¿Cuándo debería subirle el presupuesto a los ads? {#¿cuándo-debería-subirle-el-presupuesto-a-los-ads?}
+
+Mi formula para saber cuándo subir presupuestos es muy simple:
+
+Subir presupuesto diario si el ad tiene un retorno de inversión positivo.
+
+**Ejemplo:**
+
+* **Presupuesto diario:** \$10/día  
+* **Invertido en ads:** \$200  
+* **Precio de la oferta:** \$1,000  
+* **Ventas:** 1  
+* **Retorno de Inversión en ads:** 500%
+
+Subir de \$10/día → \$20/día → \$30/día→ \$40/día → \$50/día → \$100/día
+
+Si está generando leads, pero no ha generado ventas, deje los ads activos con el mismo presupuesto hasta conseguir 1 venta y un retorno de inversión positivo (ROI+). No suba presupuestos hasta conseguir un ROI+.
+
+Está bien si sube el presupuesto diario sin haber tenido un ROI+, siempre y cuando el presupuesto diario se este subiendo para probar más volumen de diferentes ads y testear diferentes variaciones.
+
+### ¿Mis ads están activos pero no están gastando el presupuesto? {#¿mis-ads-están-activos-pero-no-están-gastando-el-presupuesto?}
+
+A veces puede durar 24 horas en que los ads empiecen a gastar el presupuesto.
+
+Si después de 24 horas, los ads están activos, pero no están gastando el presupuesto, entonces cree otra campaña desde cero y los manda otra vez.
+
+Si eso todavía no funciona, probablemente haya un problema con la cuenta y haya que verificar algo.
+
+### ¿Mis ads están consiguiendo muchos clicks, pero no estoy generando leads, que está pasando? {#¿mis-ads-están-consiguiendo-muchos-clicks,-pero-no-estoy-generando-leads,-que-está-pasando?}
+
+Hay muchas razones por las cuales esto puede estar pasando.
+
+Lo primero es asegurarse que el objetivo del campaign no esté en “Traffic”. La única razón por la que usamos el objetivo de “Traffic” es para conseguir mensajes a Whatsapp.
+
+Aparte de eso, realmente no usamos “Traffic” porque ese objetivo optimiza los ads para generarnos muchos clicks pero no muchos leads. Con ese objetivo, el algoritmo le enseña los ads a la gente que tiene mayor probabilidad a darle “click” a un ad, pero no necesariamente a un tipo de persona que manda un mensaje o hace optin para convertirse en un lead. El comportamiento de alguien que hace click, es muy diferente al de alguien que hace optin o manda un mensaje.
+
+Usualmente cuando uno usa el objetivo de “Traffic” uno consigue demasiados clicks a un precio muy bajo, pero muy poco leads.
+
+En caso de que el objetivo de la campaña NO sea “Traffic”, y si se haya escogido el objetivo de “Leads” o “Mensajes", entonces puede que el ad simplemente sea muy malo y por eso no está generando leads.
+
+Si ha corrido un ad por más de 7 días, y no ha generado nada de leads, o ha generado muy pocos leads a precios mucho más altos del promedio (\$1-\$3 por mensaje en LATAM) habiendo usando el objetivo y configuraciones correctas, lo más probable es que el ad no es bueno y hay que probar otro.
+
+Si está usando las configuraciones correctas de la campaña y el ad es relativamente bueno, va a recibir leads muy rápido. Si el ad no es muy bueno, igual puede conseguir leads pero a precios mucho más altos, lo cual rápidamente le va a permitir saber que no es un buen ad y hay que crear otra versión para testearlo.
+
+### ¿Mis ads están consiguiendo muchos mensajes a buen precio pero cuando les mando el template para responderles el mensaje y darles mas info, la mayoría no me contesta. Que hago? {#¿mis-ads-están-consiguiendo-muchos-mensajes-a-buen-precio-pero-cuando-les-mando-el-template-para-responderles-el-mensaje-y-darles-mas-info,-la-mayoría-no-me-contesta.-que-hago?}
+
+Es normal que un % de la gente no le conteste su mensaje cuando se le está enseñando los ads a tráfico frio. Otro % si va a contestar.
+
+Lo primero es probar diferentes respuestas para ver cual hace que la gente reaccione mejor a los mensajes.
+
+**Ejemplo:**
+
+1- “Hola \_\_\_, perfecto. Cual es tu meta \#1?”  
+2- “Hola \_\_\_, ¿cómo estás?”  
+3- “Hola \_\_\_. Claro con gusto. Antes de mandarte el entrenamiento podés decirme cual es tu situación actual?
+
+Etc etc….
+
+También le recomiendo probar mandando un pequeño audio para que la gente escuche su voz y genere confianza. Eso a veces ayuda mucho.
+
+Al final de cuentas lo único que realmente importa en el juego de Media Buying es:
+
+MONEY IN, MONEY OUT.
+
+No importa si hay un % de gente que no contesta a los mensajes, siempre y cuando un % si conteste y compre y eso genere ROI+.
+
+Si absolutamente nadie responde a los mensajes, a pesar que ha probado muchos tipos de respuestas a los mensajes, entonces le recomiendo pasar de mandar mensajes a Instagram, a Whatsapp.
+
+Si estaba recibiendo mensajes a Whatsapp, pruebe recibiendo mensajes en Instagram.
+
+Si nada de eso funciona, probablemente hay un problema con la comunicación del ad. 
+
+Aunque sería raro que uno consiga demasiado leads a buen precio, lo cual es indicador que la gente quiere información, pero que después nadie responda.
+
+### 
+
+### 
+
+### ¿Cuánto tiempo tengo que dejar mi ad activo para saber su funciona? {#¿cuánto-tiempo-tengo-que-dejar-mi-ad-activo-para-saber-su-funciona?}
+
+Yo no decido si dejar un ad activo con base al tiempo que lleva activo, sino a los resultados del ad relativo a cuánto he invertido.
+
+Para saber si un ad funciona o no, hay que considerar una combinación de diferentes variables. Cuánto se ha invertido, cuántos leads, cuál es el costo por lead, cuántas ventas, revenue, ROI, profit, interacción en el ad…
+
+**La regla es simple:** Si hace profit y ROI+ entonces funciona. Si no ha hecho profit y ROI+, nos fijamos en los números y costos para ver si el ad se ven bien. Si los números se ven bien (costo por lead, costo por llamada, engagement, nivel de demanda en mensajes) lo dejamos activo un tiempo más. Si se ven mal, mandamos un nuevo ad.
+
+Raramente el tiempo es un buen indicador para saber si un ad funciona o no. Por ejemplo, si usted tiene un ad activo por 30 días, eso puede sonar como mucho tiempo, pero si invierte \$1/día, entonces \$30 no le va a conseguir mucho data para tomar decisiones, especialmente si usted vende algo más caro (\$1,000+). Entre más caro cobre, más usted puede invertir para conseguir data.
+
+Ahora, si usted tiene un ad en \$10/día, y lo ha tenido activo por 30 días, tenemos \$300 de data. Digamos que usted cobra \$1,000. Si ya vendió 1, entonces ha hecho 300% ROI. Si no ha vendido nada, entonces nos fijamos en la cantidad de leads, costo por lead, llamadas, costo por llamada y el nivel de demanda con base a la interacción de las personas. Si todo eso se ve bien, podemos apostarle a mantener ese ad activo hasta que invierta \$500, para tratar de cerrar una venta de \$1,000 y hacer un 200%. Si todos los números y costos se ven muy altos y malos, podemos decidir no tomar esa apuesta, y mandar un nuevo ad que nos de mejores números.
+
+### ¿Vale la pena pedirle al cliente que grabe diferentes variantes de ads de una sola vez? Hay clientes lentos para dar feedback o ejecutar, entonces quería saber si considerás que es una buena idea {#¿vale-la-pena-pedirle-al-cliente-que-grabe-diferentes-variantes-de-ads-de-una-sola-vez?-hay-clientes-lentos-para-dar-feedback-o-ejecutar,-entonces-quería-saber-si-considerás-que-es-una-buena-idea}
+
+Hay clientes de clientes. Hay clientes proactivos y hay otros lentos. Aveces si es mejor grabar varios en bulk y tenerlos para testear. Aveces es bueno testear ads muy diferentes porque si todos son parecidos entonces los resultados son parecidos. Entonces aveces es bueno tener versiones diferentes que se graban en diferentes momentos.
+
+### ¿Es buena idea mandar directamente del ad al funnel/website/link? {#¿es-buena-idea-mandar-directamente-del-ad-al-funnel/website/link?}
+
+Si funciona para mandar directo de un ad a un funnel, pero es más avanzado y un poco más difícil de hacer funcionar y conseguir ROI+. Lo único que cambia es el CTA del ad. 
+
+Por ejemplo: 
+
+"Si quiere más info/ver el video dele click al link". 
+
+Sin embargo, pienso que es mucho más fácil vender si uno manda a un mensaje primero, antes de el siguiente paso.
+
+Ejemplo:
+
+Ad → Mensaje → Llamada/Funnel/Link
+
+Yo estoy haciendo eso, al igual que la mayoría de mis clientes. Y los resultados son increíbles. El mensaje agrega más el elemento humano, y eso siempre ayuda a mejorar la confianza y las conversiones.
+
+Si está empezando, le recomiendo mandar de Ad → Mensaje → Llamada/Funnel/Link Una vez tiene muy buenos resultados, puede probar mandando directo a la página.
+
+### ¿Cuál es el mejor proceso de venta para vender o alquilar propiedades de Real Estate? {#¿cuál-es-el-mejor-proceso-de-venta-para-vender-o-alquilar-propiedades-de-real-estate?}
+
+Por lo general el proceso de ventas para real estate es:
+
+Ad \--\> Whatsapp \--\> Colecta email/numero \--\> Agenda cita  
+Ad \--\> Colecta email/numero \--\> Whatsapp \--\> Agenda cita
+
+Yo usaría el primero.
+
+Lo que hace diferencia a nivel de resultados es el ad.
+
+Yo haría un mini tour de 90 segundos en el proyectos, hablando de la oportunidad, para quien es, detalles y CTA de mandar DM.
+
+De ahí a Whatsapp y agendar cita.
+
+Ese proceso de ventas es probado.
+
+### ¿Por qué un cliente me seguiría pagando si ya le cree un ad que le genera un retorno positivo, buenos profits, y que está activo 24/7? {#¿por-qué-un-cliente-me-seguiría-pagando-si-ya-le-cree-un-ad-que-le-genera-un-retorno-positivo,-buenos-profits,-y-que-está-activo-24/7?}
+
+Porque los ads tienen una vida útil. A veces un ad dura 1 mes con ROI+.
+
+- A veces 3 meses.  
+- A veces 6 meses.
+
+Un negocio siempre tiene que estar testeando ads y experimentando con el marketing.  
+No es que se manda el ad 1 vez y por el resto de los años no hay que hacer nada más.
+
+Aunque un ad funcione, igual hay que testear nuevos y refrescar. Eso hago yo. Yo tengo un winning ad, pero hoy estoy mandando otro que me parece muy bueno. Por eso es recurrente.
+
+Un dueño de negocio que piensa que despedir al MB que genera un ROI masivo, no es muy inteligente. Cuando un ad pare de funciona y necesite replicar los resultados, no va a poder. Y contratar un MB nuevo que no sepa le va a costar cash.  
+Eso hay que dejárselo claro al cliente.
+
+### ¿Cuánto cobrar por el servicio de Media Buying? {#¿cuánto-cobrar-por-el-servicio-de-media-buying?}
+
+Esto lo vamos a ver en mucho más detalle en la sesión de MB pricing, pero un promedio que no falla es \$500 \- \$1,000/mes por cliente \+ un % de las ventas (10-20%).
+
+Pueden jugar también con eso, dependiendo del cliente y su convicción en poder darle resultados.
+
+Está bien agarrar deals que solo sean revenue share al principio (10-20%), y después de llegar a cierta meta de números, empieza el pago recurrente.
+
+En resumen, trabajar con base a resultados al principio y después meter el pago mensual fijo.
+
+También se puede hacer al revés y solo cobrar el retainer de \$500 \- \$1,000/mes para empezar y después hacer el revenue share cuando se llega a X meta.
+
+\$500 \- \$1,000/mes es un buen recurring para empezar, y 10-20% es un buen rev share.
+
+### ¿Sebas he visto que varios partners están mandando leads del ad/boost a WhatsApp. Mi pregunta es como funciona eso tomando en cuenta que el ad viene de "tu perfil" digamos y el WA ya es otra persona u otro perfil?
+
+Voy a medio camino con el programa. He estado adaptando la comunicación del condominio con base en lo que voy aprendiendo en MB. Todavía no he publicado ads porque no hemos lanzado, entonces voy a empezar a promover el programa de MB para ir ganando experiencia y \$\$\$ en el proceso.
+
+Tuve mi primer mes de \$10K en agosto. Aún no llego en setiembre pero ya llegué a la mitad.. falta poco. Vamos a escalar esos ADS.
+
+Sebas por que Meta ya no lo deja mandar boost en su cuenta principal. No hay alguna manera de quitar ese Ban?
+
+Hola Sebas, podemos ver mis ads? lo de los 500 links sin mensaje. A ver si es algo en la configuración.
+
+Sebas, si yo me hago partner y empiezo ha subir desde mi perfil ¿crees que no es efectivo?
+
+Sebas a mi me esta pasando parecido con el ban de la cuenta. En Facebook me la deshabilitaron y supuestamente tengo 147 días para apelar desde la cuenta de ig, pero la cuenta que infringió las normas de meta no es mía. estoy con las monos atadas. Y ayer cambie la contraseña de mi cuenta de Ig y no considere que había un 2AF, y que ocupo unos códigos, ahora no puedo ingresar a la cuenta. no sé que puedo hacer?
+
+Hola sebas acabo de entrar. Pregunta para los que estamos en partners tengo una duda y es, como podemos saber si los leads que entran entrando con nuestro leads son leads calificados o no? Pregunto esto porque en una de las sesiones si no estoy mal creo fue la 8 hablaste algo así, y que el publico se segmenta con el ad copy. Entonces pregunto como sabemos si esos leads se pueden permitir pagar un programa de \$2,000. Pregunto específicamente porque yo estoy corriendo mis ads en Colombia, tengo buenos numeros pero creo que este mercado no está probado todavía.
+
+Sebas, podríamos la otra semana tener un hot SEAT? Hace algún tiempo que no hemos hecho eso. Sería brutal\!
+
+Tengo una pregunta sobre escalando/optimizando ads durante una venta de 1-4 días como black Friday cuando no es posible optimizar con tiempo. Por ejemplo el black Friday pasado me lancé los ads con un presupuesto de \$1000/dia pero no funcionaron bien y normalmente los mismos ads print super bien en los años pasados. El ultimo día de la venta duplicó la campaña con un presupuesto de \$400/dia y comenzó de funcionar. Qué dice tu experiencia? Como puedo hacerlo este año con un spend lo más alto posible pero que funcione? Yo sé que los ads venden, parece una cuestión de presupuesto y como escalar/optimizar en un tiempo corto. Que me recomiendes para probar este año?
+
+Tengo una historia con FB. A mí se me metió un virus por bajar un PDF Viewer turbio que accedió a mi cuenta de FB hace varios años que empezó a meter ads extraños (que no cumplían con ad policies) y FB me baneó la cuenta. Costó montón un back and forth con Facebook Support para que me desbloquearan la cuenta, pero desde ese momento, implementé el MFA. Recomiendo mucho tener la cuenta de FB segura con MFA 😇
+
+Recien ayer boostie un reel con una cuenta nueva de partner, ya tengo 3 leads. Recomiendas darle unos dias a ese ad solito antes de boost otro? No quiero que me baneen la cuenta que no tiene ni 1 semana por tirar ads seguidos, no se si eso puede pasar
+
+Sebas, curiosidad, a las personas que les banean las cuentas según tu experiencia son más personas que corren sus propios ads o también a los que están registrados en el Business Manager como administradores de cuentas?
+
+(Soy Ale) Estoy viendo en mis ads que puede que la gente no quiera escribirme por WhatsApp por que tiene numero de Alemania. Igual 551 link clicks solo 1 mensaje y no contesto mas
+
+Me paso igual con WhatsApp, la campaña la puse maximize clicks, luego hice una nueva con maximize messages y empezaron a entrar mensajes
+
+Sebas, note que ahora la estrategia es lanzar ADS con campañas de tráfico hacia WhatsApp. Entiendo que esto importa mucho. Antes hemos probado campañas de "Sales" en WhatsApp.  Aún no pruebo las campanas de traffic ya que estoy haciendo Boost ahora mismo. Voy a probarlas pero ¿sientes que traffic es más efectivo en líneas generales?
+
+Sebas yo tenía un quick question con respecto a FB accounts, quería saber como puedo conseguir un equipo en otro país que me corra ads con otras cuentas? Me pareció escuchar que usted ahorita lo maneja así en su FB, cualquier insight que pueda dar, pv\!
+
+Hola Sebas, realmente no es una pregunta si no que quiero compartir las metricas hasta hoy como partner.
+
+Mis metricas hasta el momento son asi:
+
+10\$ x dia durante 30 dias: fearless  
+Invertido hasta hoy: \$58.28 (\$1,000)  
+**Likes:146**  
+Conversaciones: 134  
+CPL: \$0.43  
+Sign Ups/Opt ins/Referral: 30  
+Segmentación : Colombia- Hombre/  
+**Resumen:** Dejar los ads activos por unos: \$350  
+Sebas lance la primera ad para vender el servicio de MB, no obtuvo los resultados esperados y entiendo que tengo que mejorar el ad copy, pero como se QUE ES lo que hay que cambiar del ad copy?
+
+\$1,000/mes \= MB  
+\$1,000 por venta  
+¿Cuánto se ha invertido?  
+\$1,000/mes → \$1,000  
+CPL: \$3
+
+Consulta, el programa de MB es one time payment o el cliente puede segmentar el pago en dos?
+
+Hola mi pregunta es que sigo en revisión de la cuenta por el método de pago, use el script que me diste por Skool pero ya pasaron varios días de eso y no tengo noticias que más podría hacer?
+
+Hola Sebas, estoy usando los conocimientos del programa para:
+
+1\) Promocionar mi propia oferta como especialista en Branding (brand books e identidad corporativa)
+
+2\) Tener un ingreso pasivo como affiliate, enviando tráfico a tiendas online mediante ads
+
+3\) Como partner del programa de MB
+
+Tengo consultas para los puntos 2 y 3\.
+
+\- Si he enviado 480 personas a la tienda online de una marca de proteínas, pero no se convierten en compras, cuál creés que sea el problema? El anuncio si está llevando a la gente al site, pero no compran, entonces no sé bien qué está pasando. 
+
+\- Te mandé por WhatsApp un lead que quiere cerrar venta, ya la mandé al funnel y demás, para que le echés un vistazo cuando podás, por favor.
+
+En ese mismo ejemplo   
+Si estás dispuesto a invertir el primer mes 1000\$  
+Pero lo dejas todo el mes??   
+O en algún momento sería bueno evaluar como va la cosa antes del mes?  
+Hola seas soy el que mando esa pregunta, este ad fue para vender mi servicio y también en los leads, no hubo ninguno.
+
+Sebas en relación con la pregunta de Jose Giraldo, de sus resultados en Colombia, si yo corro una campaña segmentando en varios países, por ejemplo: Costa Rica, México, Chile, cómo sé que tengo un buen CPL? Si según lo que estás diciendo el CPL va a ser bueno o malo también según el país, pero en este caso hay 3 variables.
+
+Y también me surge la pregunta: Si yo sé que mi oferta es bastante genérica, y la pueden comprar en varios países, cuántos países en una campaña es correcto poner, cuánto sería mucho?
+
+Lo mejor seria abrir una cuenta nueva?
+
+¿Que proceso de venta sugiere para Afiliados de MB? o cuales procesos estan dando los mejores resultados
+
+Ad → Mensaje → LINK
+
+Es posible que el mismo creative yo lo pueda pautar dos veces al mismo tiempo? Ejemplo: Tengo corriendo Ads en Colombia y otro en Costa Rica , diferentes campaigns, budget diferente para cada creativo
+
+Sebas y en cuestión de testear mas rápido los DFY Ads para la oferta de MB’s, no seria bueno dentro de 1 campaña, 1 Conjunto de Ad, 3 Ads o mas? Y tomar decisiones en base al mejor rendimiento?
+
+Campana 1: Ad 1 \- \$10/dia
+
+Siguiendo con los test, a ver si entendí. Digamos podría mandar un ad optimizado para mensajes en CR, y luego el mismo ad con otra optimización a ver cuál funciona mejor?  
+Para poder compararlo?
+
+Ad → **Mensaje** → Link/Llamada/Funnel
+
+### **¿Sebas he visto que varios partners están mandando leads del ad/boost a WhatsApp. Mi pregunta es como funciona eso tomando en cuenta que el ad viene de "tu perfil" digamos y el WA ya es otra persona u otro perfil?**
+
+Voy a medio camino con el programa. He estado adaptando la comunicación del condominio con base en lo que voy aprendiendo en MB. Todavía no he publicado ads porque no hemos lanzado, entonces voy a empezar a promover el programa de MB para ir ganando experiencia y \$\$\$ en el proceso.
+
+Tuve mi primer mes de \$10K en agosto. Aún no llego en setiembre pero ya llegué a la mitad.. falta poco. Vamos a escalar esos ADS.
+
+Sebas por que Meta ya no lo deja mandar boost en su cuenta principal. No hay alguna manera de quitar ese Ban?
+
+Hola Sebas, podemos ver mis ads? lo de los 500 links sin mensaje. A ver si es algo en la configuración.
+
+Sebas, si yo me hago partner y empiezo ha subir desde mi perfil ¿crees que no es efectivo?
+
+Sebas a mi me esta pasando parecido con el ban de la cuenta. En Facebook me la deshabilitaron y supuestamente tengo 147 días para apelar desde la cuenta de ig, pero la cuenta que infringió las normas de meta no es mía. estoy con las monos atadas. Y ayer cambie la contraseña de mi cuenta de Ig y no considere que había un 2AF, y que ocupo unos códigos, ahora no puedo ingresar a la cuenta. no sé que puedo hacer?
+
+Hola sebas acabo de entrar. Pregunta para los que estamos en partners tengo una duda y es, como podemos saber si los leads que entran entrando con nuestro leads son leads calificados o no? Pregunto esto porque en una de las sesiones si no estoy mal creo fue la 8 hablaste algo así, y que el publico se segmenta con el ad copy. Entonces pregunto como sabemos si esos leads se pueden permitir pagar un programa de \$2,000. Pregunto específicamente porque yo estoy corriendo mis ads en Colombia, tengo buenos numeros pero creo que este mercado no está probado todavía.
+
+Sebas, podríamos la otra semana tener un hot SEAT? Hace algún tiempo que no hemos hecho eso. Sería brutal\!
+
+Tengo una pregunta sobre escalando/optimizando ads durante una venta de 1-4 días como black Friday cuando no es posible optimizar con tiempo. Por ejemplo el black Friday pasado me lancé los ads con un presupuesto de \$1000/dia pero no funcionaron bien y normalmente los mismos ads print super bien en los años pasados. El ultimo día de la venta duplicó la campaña con un presupuesto de \$400/dia y comenzó de funcionar. Qué dice tu experiencia? Como puedo hacerlo este año con un spend lo más alto posible pero que funcione? Yo sé que los ads venden, parece una cuestión de presupuesto y como escalar/optimizar en un tiempo corto. Que me recomiendes para probar este año?
+
+Tengo una historia con FB. A mí se me metió un virus por bajar un PDF Viewer turbio que accedió a mi cuenta de FB hace varios años que empezó a meter ads extraños (que no cumplían con ad policies) y FB me baneó la cuenta. Costó montón un back and forth con Facebook Support para que me desbloquearan la cuenta, pero desde ese momento, implementé el MFA. Recomiendo mucho tener la cuenta de FB segura con MFA 😇
+
+Recien ayer boostie un reel con una cuenta nueva de partner, ya tengo 3 leads. Recomiendas darle unos dias a ese ad solito antes de boost otro? No quiero que me baneen la cuenta que no tiene ni 1 semana por tirar ads seguidos, no se si eso puede pasar
+
+Sebas, curiosidad, a las personas que les banean las cuentas según tu experiencia son más personas que corren sus propios ads o también a los que están registrados en el Business Manager como administradores de cuentas?
+
+(Soy Ale) Estoy viendo en mis ads que puede que la gente no quiera escribirme por WhatsApp por que tiene numero de Alemania. Igual 551 link clicks solo 1 mensaje y no contesto ma
+
+Me paso igual con WhatsApp, la campaña la puse maximize clicks, luego hice una nueva con maximize messages y empezaron a entrar mensaje.
+
+Sebas, note que ahora la estrategia es lanzar ADS con campañas de tráfico hacia WhatsApp. Entiendo que esto importa mucho. Antes hemos probado campañas de "Sales" en WhatsApp.  Aún no pruebo las campanas de traffic ya que estoy haciendo Boost ahora mismo. Voy a probarlas pero ¿sientes que traffic es más efectivo en líneas generales?
+
+Sebas yo tenía un quick question con respecto a FB accounts, quería saber como puedo conseguir un equipo en otro país que me corra ads con otras cuentas? Me pareció escuchar que usted ahorita lo maneja así en su FB, cualquier insight que pueda dar, pv\!
+
+Hola Sebas, realmente no es una pregunta si no que quiero compartir las metricas hasta hoy como partner.
+
+Mis metricas hasta el momento son asi:
+
+10\$ x dia durante 30 dias: fearless
+
+Invertido hasta hoy: \$58.28 (\$1,000)
+
+**Likes:146**
+
+Conversaciones: 134
+
+CPL: \$0.43
+
+Sign Ups/Opt ins/Referral: 30
+
+Segmentación : Colombia- Hombre/
+
+**Resumen:** Dejar los ads activos por unos: \$350
+
+Sebas lance la primera ad para vender el servicio de MB, no obtuvo los resultados esperados y entiendo que tengo que mejorar el ad copy, pero como se QUE ES lo que hay que cambiar del ad copy?
+
+\$1,000/mes \= MB
+
+\$1,000 por venta
+
+¿Cuánto se ha invertido?
+
+\$1,000/mes → \$1,000
+
+CPL: \$3
+
+Consulta, el programa de MB es one time payment o el cliente puede segmentar el pago en dos?
+
+Hola mi pregunta es que sigo en revisión de la cuenta por el método de pago, use el script que me diste por Skool pero ya pasaron varios días de eso y no tengo noticias que más podría hacer?
+
+Hola Sebas, estoy usando los conocimientos del programa para:
+
+1\) Promocionar mi propia oferta como especialista en Branding (brand books e identidad corporativa)
+
+2\) Tener un ingreso pasivo como affiliate, enviando tráfico a tiendas online mediante ads
+
+3\) Como partner del programa de MB
+
+Tengo consultas para los puntos 2 y 3\.
+
+\- Si he enviado 480 personas a la tienda online de una marca de proteínas, pero no se convierten en compras, cuál creés que sea el problema? El anuncio si está llevando a la gente al site, pero no compran, entonces no sé bien qué está pasando. 
+
+\- Te mandé por WhatsApp un lead que quiere cerrar venta, ya la mandé al funnel y demás, para que le echés un vistazo cuando podás, por favor.
+
+En ese mismo ejemplo 
+
+Si estás dispuesto a invertir el primer mes 1000\$
+
+Pero lo dejas todo el mes?? 
+
+O en algún momento sería bueno evaluar como va la cosa antes del mes?
+
+Hola seas soy el que mando esa pregunta, este ad fue para vender mi servicio y también en los leads, no hubo ninguno.
+
+Sebas en relación con la pregunta de Jose Giraldo, de sus resultados en Colombia, si yo corro una campaña segmentando en varios países, por ejemplo: Costa Rica, México, Chile, cómo sé que tengo un buen CPL? Si según lo que estás diciendo el CPL va a ser bueno o malo también según el país, pero en este caso hay 3 variables.
+
+Y también me surge la pregunta: Si yo sé que mi oferta es bastante genérica, y la pueden comprar en varios países, cuántos países en una campaña es correcto poner, cuánto sería mucho?
+
+Lo mejor seria abrir una cuenta nueva?
+
+¿Que proceso de venta sugiere para Afiliados de MB? o cuales procesos estan dando los mejores resultados
+
+Ad → Mensaje → LINK
+
+Es posible que el mismo creative yo lo pueda pautar dos veces al mismo tiempo? Ejemplo: Tengo corriendo Ads en Colombia y otro en Costa Rica , diferentes campaigns, budget diferente para cada creative.
+
+Sebas y en cuestión de testear mas rápido los DFY Ads para la oferta de MB’s, no seria bueno dentro de 1 campaña, 1 Conjunto de Ad, 3 Ads o mas? Y tomar decisiones en base al mejor rendimiento?
+
+Campana 1: Ad 1 \- \$10/dia
+
+Siguiendo con los test, a ver si entendí. Digamos podría mandar un ad optimizado para mensajes en CR, y luego el mismo ad con otra optimización a ver cuál funciona mejor?
+
+Para poder compararlo?
+
+Ad → **Mensaje** → Link/Llamada/Funnel
+

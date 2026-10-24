@@ -1,0 +1,1736 @@
+{
+ "video": "C:\\Users\\hvill\\Downloads\\Media Buyer HQ\\Sesion 5\\sesion-5-fusion-funnels.mp4",
+ "video_duration_seconds": 6172.1,
+ "transcribed_seconds": 6172.1,
+ "model": "large-v3",
+ "compute_type": "int8_float16",
+ "batch_size": 4,
+ "language": "es",
+ "language_probability": 1,
+ "transcribed_at": "2026-10-09T16:21:32",
+ "elapsed_seconds": 1008.1,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 23.62,
+   "text": "Bueno, bienvenidos al entrenamiento de hoy. Hoy vamos a hablar de Fusion Funnels, de procesos de venta. Y este es un tema súper importante cuando uno está corriendo ads, porque los ads generan el tráfico, los ads generan la atención, pero el proceso de ventas es lo que convierte esa atención en...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.457
+  },
+  {
+   "start": 23.62,
+   "end": 30.74,
+   "text": "ventas, ¿verdad? Ese tráfico en leads y en leads en ventas. Entonces, al final de cuentas, todo va de la mano.",
+   "avg_logprob": -0.094,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 30.83,
+   "end": 58.75,
+   "text": "Y por eso es que es clave que un Media Buyer entienda cómo funcionan los procesos de ventas, cuáles son los diferentes tipos de procesos de ventas y cuál funciona mejor dependiendo de lo que se está vendiendo y dependiendo de la situación, del contexto. Entonces es el tema de hoy. Entonces hagamos un pequeño resumen de lo que hemos visto hasta el momento. Número uno, aprendimos cómo hacer el diagnóstico de un negocio, de un cliente.",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 58.75,
+   "end": 86.0,
+   "text": "Que es básicamente agarrar toda la información del negocio y ponerlo en un documento para saber cuál es el siguiente paso, cuál información que tenemos para poder crear el ad copy, para poder crear el ad. Después aprendimos a hacer el ad copy, tenemos la estructura, tenemos un template para modelar, para hacer el ad copy y también tenemos los prompts para usar AI para crear ad copy con AI.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 86.0,
+   "end": 97.14,
+   "text": "y el ad copy es algo que se va también mejorando con el tiempo y se puede hacer manualmente desde cero, sin templates, sin AI, pero ahí tenemos todas las herramientas para tener un buen ad copy rápido.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 97.3,
+   "end": 121.07,
+   "text": "3. Mandamos el ad copy a aprobación para el cliente, entonces el cliente lee el ad copy y nos da el visto bueno, o sea que es algo que le suena con base a su oferta, a lo que va a decir, o si estamos creando ads para nuestro propio negocio, simplemente volver a leer el ad copy y decir ok, está perfecto. 4. Es ya la grabación del video, del video que se va a usar como ad.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 121.07,
+   "end": 129.58,
+   "text": "que vimos varios ejemplos en la sesión pasada, diferentes tipos de ads, está la de selfie, está la de que se graba vertical, está la que aún no lo graban.",
+   "avg_logprob": -0.083,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 129.62,
+   "end": 157.14,
+   "text": "horizontal, vertical, de todo tipo y ahí es simplemente decir el texto que escribimos y ahora lo que vamos a ver es el proceso de ventas ¿por qué? porque al final de cuentas por más que el Media Buyer se encarga de generar tráfico y generar leads ese tráfico va a ir a alguna parte ¿verdad? después de que la gente ve un anuncio en su feed le va a dar click y después de darle click",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 157.14,
+   "end": 181.52,
+   "text": "o tap en el celular lo va a llegar a un siguiente paso y ese siguiente paso y los que siguen después de eso es lo que en realidad genera el retorno de inversión. El ad lo que genera es el click, verdad? Pero la venta pasa, pasa ya después. Entonces, por más que nuestro trabajo no es, por decirlo así, ser un funnel builder, una persona que construye páginas y cosas y cosas, esas cosas técnicas.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 181.74,
+   "end": 195.78,
+   "text": "Los Media Buyers tienen que tener conocimiento de lo que pasa después del ad, porque si no es difícil también que los ads funcionen. Entonces todo tiene que estar en congruencia, por decirlo así. Entonces, por otro lado, es importante saber.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 195.78,
+   "end": 212.59,
+   "text": "El proceso de ventas porque tenemos que saber cuál va a ser el call to action del ad. El call to action es el llamado a acción, decirle a la gente que haga algo en el ad. Por ejemplo, en la última parte del ad podemos decir, si quiere más información, dele click a este video y mándeme un mensaje.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 212.59,
+   "end": 238.37,
+   "text": "Eso ya significa que nuestro proceso de venta va a involucrar un ad, después mandar un mensaje y después otra parte para cerrar la venta. Entonces necesitamos entender los procesos de venta para que en el anuncio sepamos qué call to action decir. Eso lo cubrimos en general, más o menos en la parte del video, ¿verdad? Y del ad copy, porque tuvimos que escribir el call to action. Pero este entrenamiento quiero realmente ir...",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 238.37,
+   "end": 263.38,
+   "text": "y hablar mucho más en detalle en los procesos de venta porque hay varios y también hay que saber cuál es el mejor, cuál es mejor para esto, para lo otro. Es súper, súper importante. Entonces, esto también lo van a notar que es algo que van a usar por el resto de los años, ¿verdad? Entender, ustedes entienden esto una vez, lo usan para siempre. De hecho, casi que todos estos entrenamientos están diseñados de esa manera.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 263.86,
+   "end": 291.02,
+   "text": "Entonces, Fusion Funnels básicamente es, usé esta palabra porque es como, por decirlo así, unir todas las partículas en un solo lugar. El funnel del proceso de ventas es donde uno une todas las partes del negocio. Entonces, el tráfico que está entrando, el tráfico se convierte en leads, los buenos leads se mandan una llamada y se cierra la venta por la llamada o ahí mismo en chat se cierra. Todo como que se junta en el proceso de ventas.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.037
+  },
+  {
+   "start": 291.02,
+   "end": 301.14,
+   "text": "Y al final lo que sale del otro lado, lo que sale es cash, ya sea un procesador de pago o una transferencia a una cuenta y ese es, por decirlo así, el resultado final.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 301.26,
+   "end": 328.51,
+   "text": "Entonces, ¿qué es el proceso de venta? Vamos a empezar desde lo más básico y ya vamos a ver diferentes ejemplos de procesos de venta. El proceso de venta es el proceso por el cual pasa una persona para comprar, básicamente. Entonces, es como decirlo así, como en un supermercado, ¿qué es lo que uno hace? Uno entra al supermercado, después va a los pasillos, escoge su producto, está viendo varios productos.",
+   "avg_logprob": -0.017,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 328.51,
+   "end": 350.98,
+   "text": "Al final es coger un producto, después ya cuando uno va a pagar, uno se mete como por ese pasillo donde uno le hace un montón de upsells, ¿verdad? Que le venden los confites y le venden todas esas cosas que uno no necesita del todo, pero que uno siempre termina comprando, ¿verdad? Entonces uno pasa por ahí y ya al final llega a la caja. Y entonces en la vida real eso es como un proceso de venta.",
+   "avg_logprob": -0.044,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 350.98,
+   "end": 371.98,
+   "text": "En el mundo digital el proceso de venta es una serie de páginas o una serie de pasos en el celular en donde uno le va dando clic hasta llegar a un punto en donde uno dice ok sí quiero comprar. De hecho al final de cuentas ustedes para estar aquí tuvieron que pasar por un proceso de ventas. Para ustedes la mayoría fue el proceso de ventas fue...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 372.21,
+   "end": 400.98,
+   "text": "Bueno, para el proceso de ventas que yo usé inicialmente es el funnel en donde la gente llega, mete su email, su número de teléfono, ve un video, recibe emails y el día que se abre el programa por email se manda link para ingresar y aquí están. Ese es por decirlo así el equivalente del proceso de ventas del supermercado. Pero hay muchos, hay demasiados. Entonces hay que saber cuál usar y cuándo y por qué. Porque al final ustedes cuando consigan clientes.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 401.78,
+   "end": 429.31,
+   "text": "Van a llegar clientes con diferentes tipos de negocios, no todos van a ser una réplica, verdad? Lo ideal es que uno vaya alineándose en una dirección para conseguir un tipo de cliente más, por decirlo así, más específico, pero al final todos los negocios son diferentes en cierta forma, verdad? Entonces el proceso de ventas es el proceso por el cual pasa una persona para comprar y un ejemplo es que alguien ve un ad, verdad? Le da click.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 429.31,
+   "end": 456.72,
+   "text": "Después de darle clic, manda un mensaje. Después de mandar un mensaje, uno lo lleva a una llamada. En la llamada habla con la persona, así como estamos hablando acá, normal. Y después, después de ver las necesidades de la persona y presentar la oferta y cómo puedes solucionar esos problemas o esas necesidades, ya hace el pago con un link de Stripe, transferencia, PayPal, lo que sea. Es un proceso de ventas. Entonces, visualícenlo así, con estas bolitas negras.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 456.82,
+   "end": 485.71,
+   "text": "A es el ad, después le da clic, va al punto B, después le da clic, va al punto C y el último punto es el punto en donde ya se decidió que quiere comprar. Entonces, veamos diferentes ejemplos de procesos de ventas. Voy a poner más o menos como 8, pero hay demasiados. Pueden haber cientos de procesos de ventas. ¿Por qué? Porque uno puede combinar demasiadas variables. Es como un... O sea, uno puede...",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 485.94,
+   "end": 508.66,
+   "text": "Combinar muchas cosas y entonces se vuelven, se puede hacer una combinación casi que infinita, pero vamos a ver los procesos de venta más comunes, los que yo más he usado y también algo muy importante es para que no se confundan o que digan, pucha, pero estoy viendo un montón de procesos de venta, ¿cuál escojo? Yo les voy a dar al final el que yo les recomiendo para empezar.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 508.82,
+   "end": 537.2,
+   "text": "y que es uno, es el más simple de todos y es el que usualmente da un excelente retorno de inversión, de hecho lo he estado probando últimamente con clientes y el retorno de inversión puede ser en el primer mes de 500 a 1000% retorno de inversión, entonces obviamente eso varía demasiado por demasiadas variables y es la buena oferta, es un buen ad, hay miles de variables, pero el punto es que este es el mismo que estoy usando, que yo he usado para mí y también que he usado para clientes",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 537.3,
+   "end": 566.54,
+   "text": "para conseguir un retorno de inversión masivo. Actualmente no lo estoy usando en este preciso momento, ahora les digo por qué, pero les voy a dar una muy buena opción, muy simple, que les va a dar excelentes resultados a ustedes y a sus negocios y a sus clientes. Entonces, el primer proceso de ventas es tener un anuncio y cuando le dan clic, cuando la persona le da clic, manda un mensaje. Nos llega un mensaje ya sea a Instagram,",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 566.54,
+   "end": 593.1,
+   "text": "¿Cuál es tu meta número uno?",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 593.49,
+   "end": 620.67,
+   "text": "Perfecto, perfecto. De hecho, justamente ese es nuestro protocolo. Así lo hacemos. Nosotros nos enfocamos a ayudar a personas ocupadas a bajar de peso y hacerlo de la manera más eficiente posible. ¿Por qué no tenemos una llamada para ver tu situación actual? Me contás de tu rutina, de lo que estás comiendo y hablamos de cómo el programa te puede ayudar. ¿Te sirve mañana? Ok, ok, perfecto. Mañana, ok, perfecto. Aquí está el link. Tienes una llamada y la llamada se cierra.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 620.67,
+   "end": 647.46,
+   "text": "Eso es un proceso de ventas que en realidad es muy simple y esto funciona extremadamente bien. El segundo proceso de ventas es que uno corre un ad y en vez de mandar a un chat, uno manda a una página. Y ahorita vamos a ver todos los ejemplos como se ve visualmente esta página, etc. Pero uno corre un ad, la gente le da click y va a una página a ver un video. Un video que explica...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 647.46,
+   "end": 675.57,
+   "text": "La oportunidad, por decirlo así, un video en donde se lee el ad copy, básicamente, y se habla de para quién es esto, qué soluciona, cómo funciona y cuál es el siguiente paso para empezar. Cuando la gente ve ese video, después agenda una llamada si le interesa y en la llamada es lo mismo, ahí se habla con la persona y se cierra la venta. Después, el tercer proceso de ventas es...",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 675.92,
+   "end": 695.81,
+   "text": "Que uno corre un ad, la gente le da click al ad, va a ver ese mismo video, después de ver el video, en vez de irse una llamada, le manda un mensaje, por ejemplo, ya vi el video, estoy listo para empezar, ok, perfecto, entonces abre un chat, en el chat se dice, ok, el siguiente paso es agendar una llamada.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 695.81,
+   "end": 724.64,
+   "text": "y ahí se cierra la venta. Entonces aquí nada más metimos un paso en el centro. Como pueden ver, hay procesos de venta más cortos y más largos. Aquí estoy haciendo nada más como un resumen súper general. No estoy entrando en detalle de cómo funciona. Nada más como haciendo la lista de diferentes procesos de ventas para que se vayan dando una idea que hay varios. El cuarto proceso de ventas es que uno corre un ad, la gente le da clic, eso manda el perfil de Instagram. Esto es un poco más avanzado. Entonces uno le dice a la gente.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 724.64,
+   "end": 738.48,
+   "text": "Vaya a mi perfil de Instagram y sígame si le interesa aprender más de este tema. Entonces, la gente llega, lo sigue a uno y ya somos seguidores. Entonces, ¿vieron el feed? ¿Les gustó lo que vieron?",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 738.48,
+   "end": 755.92,
+   "text": "están siguiendo nuestro perfil y a lo largo del tiempo van a ir viendo los stories y en los stories hacemos un llamado a acción, mándenos un mensaje para conseguir más información, nos llega ese mensaje, perfecto, cuál es tu situación actual, cuál es tu meta, excelente, agendemos una llamada y cierra la venta.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 756.3,
+   "end": 780.1,
+   "text": "Esto es un poco más avanzado porque esto solo sirve si el perfil está muy, muy optimizado. O sea, si el perfil se ve muy bien, ya sea el de ustedes o el de su cliente. Porque si el perfil se ve mal, este proceso de ventas es peor porque más bien uno le manda un perfil que la gente dice nada que ver. O sea, no me gusta lo que estoy viendo, no me gusta ya sea los videos, las fotos, el branding en general. Entonces esto solo sirve si uno tiene un perfil muy bueno.",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 780.1,
+   "end": 805.5,
+   "text": "Y si no tienes stories muy buenos y si no entiendes el juego de marca personal muy bien. Si no ese es el caso, entonces mejor no, ni siquiera usar el perfil porque es peor. Entonces es como un arma de doble filo. O funciona mejor o funciona peor, ¿verdad? Pero yo he usado esto muchas veces y de hecho los, yo conseguí como más de 40 mil seguidores solo mandando ads.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.016
+  },
+  {
+   "start": 805.5,
+   "end": 838.08,
+   "text": "De, o sea, corriendo ads a mi perfil de Instagram y a lo largo de los últimos seis o siete años, un porcentaje bastante grande de esos seguidores han convertido en clientes. De hecho, yo podría decir que, a ver, el valor, vamos a ver una mate nada más para ver los números. Sí, digamos, yo siento que en promedio un seguidor a mí.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.026
+  },
+  {
+   "start": 838.08,
+   "end": 860.54,
+   "text": "El valor por seguidor puede estar entre 10 y 30 dólares, que eso es muy muy alto, eso es arriba del promedio, porque yo me he enfocado demasiado en ese juego específico, pero a lo que me refiero con eso es, yo corría ads, después mandé a gente a mi perfil, en mi perfil he estado posteando contenido, posteando stories, vendiendo por chat.",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 860.54,
+   "end": 882.29,
+   "text": "Mandando a la gente ofertas y a lo largo del tiempo en promedio lo que he generado digamos por medio de ese perfil puede ser 10, 30, no he hecho los números, tal vez por ahí debe andar con el perfil de Instagram, unos 10, 30 dólares por seguidor y entonces es un juego, es un juego que requiere bastante marca personal pero aquí lo pongo porque de a mí me ha funcionado.",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 882.67,
+   "end": 909.73,
+   "text": "Y es un proceso de ventas más largo. Como pueden ver, uno como este es más corto porque es directo. Es como ad, pum, directamente mensaje. De hecho, los mensajes llegan en 24 horas de personas interesadas. El mismo día se puede agendar una llamada y casi que en dos días se cierra la venta. Esto es un proceso de ventas más largo en donde estamos, por decirlo así, jugando el juego a largo plazo para conseguir una audiencia. Eventualmente van a comprar y eventualmente es la idea de generar más de lo que estamos gastando en ads.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 909.73,
+   "end": 916.74,
+   "text": "Entonces esos son cuatro procesos de ventas. Acá hay otros cuatro en donde mandamos de un anuncio.",
+   "avg_logprob": -0.091,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 916.74,
+   "end": 940.53,
+   "text": "Ahí la gente le da click y los mandamos a una página donde meten el email y el número de teléfono, o solo el email o solo el número de teléfono. Por lo general es solo el email y de hecho este es el que inicialmente he usado para este programa. De hecho yo pienso que muchos de ustedes pasaron por ese proceso de ventas que simplemente va a una página, en la página le digo, tengo un entrenamiento que explico.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 940.53,
+   "end": 968.83,
+   "text": "Media Buyer, si quiere verlo, meta su email, su número de teléfono, ya tenemos el lead, después de ahí ve el video que explica cómo funciona todo y si le interesa puede agendar una llamada y en la llamada igual se cierra. Ahora, también esta opción, está la opción 6 que es exactamente igual en donde uno corre un ad, la gente le da click, mete su email y o su número de teléfono.",
+   "avg_logprob": -0.099,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 968.83,
+   "end": 995.28,
+   "text": "Después va a haber el video y en vez de mandar una llamada uno puede decir mándenme un mensaje si le interesa comprar el programa y entonces uno cierra por chat. Es un poco más avanzado, un poco más difícil cerrar por chat, pero también es una opción. Después está el proceso de venta 7 que es de uno corre un anuncio, después manda la página, ¿verdad? Donde mete el email y el número de teléfono. Va a haber el video que explica cómo funciona todo, para quien es...",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 995.34,
+   "end": 1021.3,
+   "text": "¿Qué es lo que soluciona? Todo, absolutamente toda la oportunidad. Y después, en vez de mandar a llamada o chat, manda directamente al link de pago. Entonces, para poder hacer eso hay que ser muy, muy bueno creando este video y tiene que ser una muy buena oferta para que la gente, sin hablar con nadie, saque su tarjeta de compra. Esto es mucho más difícil. Mucho más difícil. Eso ya es considerado avanzado. Porque si la persona...",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1021.3,
+   "end": 1045.07,
+   "text": "¿Qué está pasando por este proceso de ventas? O sea, el prospecto no está hablando con un humano, significa que el ad tiene que ser increíble, el video de ventas tiene que ser increíble, la oportunidad en general tiene que ser irresistible y tiene que ser algo que los haga comprar ya por su propia cuenta. Esto es bastante avanzado, obviamente es el escenario ideal porque así no hay que hablar con nadie, ellos compran solos. Entonces ahí se hace la venta y...",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1045.26,
+   "end": 1068.24,
+   "text": "Otro proceso de ventas que es súper simple es de un anuncio. Si le interesa agendar una llamada, voy a poner mi link de Calendly por aquí. Dele click, agende conmigo y nos hablamos. Esto es como así directo del anuncio a Calendly, agenda llamada, habla con la persona y cierra. Pero a veces lo complicado de algo así tan corto y tan simple es que.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1068.56,
+   "end": 1093.01,
+   "text": "El anuncio tiene que vender demasiado bien la oportunidad o vender demasiado bien la idea porque como no hay nada en el medio, no hay conversaciones, no hay chat, no hay un video, no hay nada, el ad tiene que hacer 99% del trabajo y si no lo hace, entonces probablemente no hayan llamadas o las llamadas que sí vengan van a ser malas llamadas, van a ser llamadas de...",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1093.01,
+   "end": 1118.51,
+   "text": "con leads que no son calificados, no son buenos leads. Y hay muchos otros procesos de venta. Estos nada más son algunos para que se den una idea de que esos son por lo general los procesos de ventas con los que van a tener que lidiar. Entonces vamos a ver uno más en detalle cómo se ven visualmente y después vamos a ver el que les recomiendo para empezar para muchos escenarios. Tal vez no aplique para todos, pero para muchos. Entonces.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 1118.58,
+   "end": 1141.46,
+   "text": "Este proceso de ventas es uno de los más comunes y este es el que de hecho está consiguiendo un retorno de inversión súper alto, sumamente rápido para mis clientes y es el siguiente, uno corre un ad, ¿verdad? Un ad puede ser un ad corto de 60, 90 segundos, por lo general esto es lo que yo le recomiendo a los clientes y al final del ad...",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1141.68,
+   "end": 1166.32,
+   "text": "Después de leer el ad copy, que uno menciona el avatar, menciona la oferta, los testimonios, la credibilidad, todo lo que hemos visto en la estructura, uno dice, si le interesa conseguir más información, mándenme un mensaje. Entonces, ya la gente manda un mensaje, esto puede ser un mensaje directo a Instagram DM o a WhatsApp, los dos funcionan. De hecho, yo he estado notando que WhatsApp está funcionando.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1166.32,
+   "end": 1193.06,
+   "text": "Un poco mejor que Instagram porque siento que la gente en WhatsApp está como más pendiente que en Instagram. Es como una conversación más seria porque es como el número de teléfono. Es más difícil de conseguir que la cuenta, que el usuario de Instagram, ¿verdad? Entonces, WhatsApp, esto siento que es algo que tienen que testear, ¿verdad? Instagram versus WhatsApp, pero WhatsApp ha estado funcionando muy bien y los dos se pueden correr con la plataforma de Meta.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1193.06,
+   "end": 1219.31,
+   "text": "Entonces se crea un ad, 60-90 segundos, llamado a acción, mándenme un mensaje para más información, llega el mensaje, el mensaje puede decir, no sé, coaching, ¿verdad? Quiere información del programa de coaching. Y ahí es a donde uno ya transiciona a la llamada. Yo tengo los templates para que ustedes puedan pasar de chat a llamada, qué decirle a las personas para que agenden una llamada, los va a tener por algún lugar de ese entrenamiento.",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1219.31,
+   "end": 1227.42,
+   "text": "Pero puede ser algo así como, hola Juan, qué bueno que querés información, cuál es tu meta financiera, tu meta número uno financiera este año.",
+   "avg_logprob": -0.099,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1227.42,
+   "end": 1254.43,
+   "text": "Ah sí, mi meta es renunciar a mi trabajo y hacer $5,000 dólares al mes. Perfecto, con este programa de Media Buyers justamente puedes hacer eso. De hecho, es una de las mejores habilidades que puedes aprender para eso porque todo el mundo está buscando personas que sepan correr ads y generar leads. Hagamos una cosa, ¿por qué no agendamos una llamada? Mañana me contarás tu situación, ver cuánto tiempo tienes, cuál es tu agenda, cuáles son tus metas y con base a eso ver si el programa de Media Buyers es una buena opción para vos. ¿Te suena?",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 1254.43,
+   "end": 1284.26,
+   "text": "Sí, perfecto, ok, perfecto, aquí te paso el link, me avisas con agendas, ahí está el calendario. Entonces ya la persona agenda y en la llamada, nada más muy simple, hola Juan, ¿cómo estás? ¿De dónde sos? Ok, excelente, bueno, así es como funciona esta llamada, te voy a hacer unas preguntas para ver cuál es su situación y al final, si siento que realmente te puedo ayudar, te voy a hablar más de cómo funciona el programa y cuáles son los siguientes pasos para empezar, ¿te parece? Sí, me parece, ok, perfecto.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 1284.26,
+   "end": 1306.35,
+   "text": "¿Cómo? Contame de esto, contame del otro. Ok, listo. Y ya después ahí uno dice, sí, me parece que la oferta te puede ayudar, te gustaría que te dé más detalles de cómo funciona todo. Sí. Ok, listo, va, va, va, va. ¿Qué te parece? Sí, no. Y listo, sale. Pero eso es el proceso de ventas. Y como pueden ver, hay muy pocas variables en realidad acá. O sea, está el ad.",
+   "avg_logprob": -0.071,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1306.35,
+   "end": 1331.26,
+   "text": "Y la conversación de chat, que esto en realidad casi que se puede hacer con un template, obviamente también, uno no quiere sonar como un robot, uno no quiere sonar como ChatGPT, pero sí hay como una estructura muy básica que se puede seguir que funciona muy bien y para las llamadas también, uno solo hace las preguntas correctas, entonces hay muy pocas variables en este proceso de ventas, es muy corto, en realidad la variable más importante es el...",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 1331.26,
+   "end": 1352.34,
+   "text": "Por decirlo así, el activo, el video es el anuncio, ya todo lo demás es como contacto humano que eso es bastante simple. Entonces, algo que va a notar y que yo he notado también es entre más bueno sea la persona en ventas que está hablando por chat y o que está agarrando la llamada, mejor retorno de inversión va a tener el.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1352.34,
+   "end": 1381.78,
+   "text": "Funnel, ¿verdad? El proceso de ventas. Porque si uno tiene una increíble ad, una increíble oportunidad, pero la persona con la que está hablando, el lead, no habla bien o no tiene mucha inteligencia social de cómo manejar a las personas en general, este funnel va a convertir menos que alguien que sí tiene esas habilidades. Entonces, eso puede que esté en el control de ustedes si están haciendo esto para su propio negocio o si lo están haciendo para un cliente, puede que el cliente",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.262
+  },
+  {
+   "start": 1381.78,
+   "end": 1410.45,
+   "text": "Hay que ver, eso a veces uno no lo controla, a veces el cliente tiene personas muy buenas en su equipo, hay veces que no mucho y entonces ahí uno va adaptando. También yo les voy a dar los templates para que ustedes puedan usar para chat porque de esa manera también le pueden agregar valor a sus clientes y decirles, ve aquí están los templates, nada más si quiere use estos, estos ya funcionan. Entonces ustedes están dándoles mucho valor porque también les están ayudando con el proceso de ventas, nada más con los templates. Pero es algo que he notado, digamos, si...",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 1410.64,
+   "end": 1430.42,
+   "text": "Si hay contacto humano en este proceso de ventas a partir del ad, todo esto ya es casi que contacto humano. La gente le da clic y ya después habla con alguien, ya sea por chat y por llamada. Entre mejor se hace contacto humano, mejor retorno de inversión va a tener el funnel. De hecho, si alguien es muy bueno en ventas y sabe muy bien cómo hablar con la gente.",
+   "avg_logprob": -0.073,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 1431.54,
+   "end": 1453.94,
+   "text": "Puede que el funnel tenga un 800% de retorno de inversión, un 8X. O sea, usted mete un dólar en ads y salen 8 en ventas. Pero si alguien no es muy bueno y tal vez no tiene mucha experiencia o hablando con la gente o lo que sea, puede que este funnel en vez de convertir un 800% convierta un 500%, un 400.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1453.94,
+   "end": 1472.14,
+   "text": "O inclusive, si alguien es extremadamente malo y nada más no sabe lidiar con las personas y les cae muy mal, puede que este funnel esté en pérdida. Entonces, el contacto humano sí es una variable acá importante, pero por lo general los negocios que ya son semi-exitosos ya tienen esto relativamente bien, ¿verdad?",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1472.18,
+   "end": 1495.79,
+   "text": "Eso también es una parte importante de ser Media Buyer, es trabajar con la gente correcta y por eso es que cuando uno trabaja con negocios que ya están más establecidos, personas que ya están vendiendo, por lo general ya tienen un proceso de ventas en donde esto ya funciona relativamente bien. Entonces esas son las dos variables, más que todo el ad y el contacto humano de chat y la llamada. Ahora, el segundo proceso de ventas es...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 1495.86,
+   "end": 1520.21,
+   "text": "Se ve así. El ad, estamos viendo los mismos que leímos en la lista, pero nada más le metí las visuals para que vean cómo es que se ve. Este proceso de ventas es, en vez de mandar a chat, se manda a un BSL, ¿verdad? Por ejemplo, un video que explica la oportunidad. Así no hay que, hay menos contacto humano acá. Entonces, el ad hace el trabajo de conseguir la atención.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1520.37,
+   "end": 1539.06,
+   "text": "El video hace el trabajo de presentar la oportunidad para quién es, cómo funciona, todos los detalles y para la gente que le hizo clic, que le gustó lo que sale en este video y dicen ese soy yo, yo necesito esto, le dan clic al botón y pueden agendar una llamada y en la llamada...",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1539.06,
+   "end": 1564.53,
+   "text": "Simplemente se habla con la persona y se cierra la venta. Aquí no hay chat, ¿verdad? Como pueden ver, no hay chat. Y es simplemente directo a esta página. Ahora, en este caso, eso es algo que vamos a hablar después, pero en este caso hay dos variables. Ya estamos metiendo más variables y cuando hay más variables a veces es más complicado. Porque ahora tenemos un otro video. Tenemos el video del ad y tenemos el video de esta página. Significa que si este video es malo,",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 1564.69,
+   "end": 1592.11,
+   "text": "O sea, digamos, por decirlo así, no hicimos un buen trabajo en este video, arruinamos como que todo el proceso, por decirlo así, o sea, puede que el ad estaba buenísimo, la oportunidad, la oferta, todo, pero este video no era, no lo hicimos bien, nada más la gente lo vio y no le gustó, por cualquier razón, no le gustó como hablamos, no le gustó nuestro estilo, lo que dijimos, lo que sea, la presentación y no continuó. Muchas veces...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 1592.4,
+   "end": 1619.79,
+   "text": "Hablar por chat, hay como menos variables, no hay como un video que pueda arruinar el proceso, es nada más una conversación súper simple. Entonces a veces uno con estas cosas puede o mejorarlas o empeorarlas. Entonces por eso como que a veces el primer proceso de ventas es mejor porque hay pocas cosas en las que uno puede arruinarla. O sea, uno puede arruinar el ad, pero es difícil arruinar el ad si no tiene la estructura que seguimos, ¿verdad? Es relativamente difícil.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1619.79,
+   "end": 1634.13,
+   "text": "O sea, habrá que esforzarse para arruinar el ad si uno tiene la estructura del ad copy y nada más pone la cámara y lo graba con confianza, ¿verdad? Entonces, pero aquí tenemos un video que sí nos puede arruinar el proceso. Entonces, cuando...",
+   "avg_logprob": -0.083,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1634.16,
+   "end": 1659.97,
+   "text": "En general los procesos de ventas que tienen más videos, más variables que pueden salir mal, yo se los recomiendo a personas que ya saben cómo mercadear bien, cómo comunicarse, son más avanzados en general en mercadeo, ventas y comunicación. Porque si yo llego a alguien que es 100% principiante y yo le digo, crea un proceso de ventas donde tiene que grabar el ad y tiene que grabar este video y el otro video y todas estas cosas.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 1659.97,
+   "end": 1689.04,
+   "text": "La probabilidad de que algo salga mal es muy alta porque la persona no tiene experiencia para crear todos estos videos que son sumamente importantes y en donde los detalles son muy importantes. Pero si ustedes me dicen yo ya estoy haciendo 50 mil dólares al mes, soy un marketer con experiencia y ya tengo un video de ventas que siempre me ha funcionado buenísimo, me ha acelerado muchas ventas. Yo digo perfecto, mandemos directo ese video. Obviamente el video funciona, verdad? Entonces como para que entiendan el mindset detrás de mandar directo a.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 1689.46,
+   "end": 1719.82,
+   "text": "Un chat o una llamada y tener contacto humano inmediatamente o mandar a un lugar en donde algo puede mejorar las cosas mucho o peor, ¿verdad? En este caso, esto son solo screenshots. De hecho, este proceso de ventas no era con llamada, pero yo he mandado directo a este video. Este video es muy, muy bueno y me ha ayudado más que si no lo hubiera tenido. Entonces, eso también es importante. Ahora, el tercer proceso de ventas es del ad. Mandamos al video, ¿verdad?",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 1719.82,
+   "end": 1749.2,
+   "text": "Del video, la gente dice, ok, me gustó, ¿cuál es el siguiente paso? Aquí dice, mándenos un mensaje, perfecto, Juan, digamos que mandó un mensaje diciendo, siguiente paso, perfecto, Juan, qué bueno que ya viste el video, ¿qué te pareció? Ah, me pareció súper bien, me gustó la oportunidad, bla, bla, bla, me gustaría aprender más, excelente, agendamos una llamada y vemos los detalles. Entonces tenemos como este espacio, este paso en el medio, que a veces,",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 1749.23,
+   "end": 1756.3,
+   "text": "Sirve para calificar más a la persona, calificar más a la persona, a ver si es una persona seria que realmente le interesa.",
+   "avg_logprob": -0.096,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1756.88,
+   "end": 1779.82,
+   "text": "y después lo mismo siempre, llamada y se cierra. El siguiente proceso de ventas es el que vimos, el del perfil, ¿verdad? ¿Se recuerdan que les dije del ad? Le decimos a la gente, vaya, síganos. Eso solo funciona si el feed está muy bien hecho, los highlights, todos los detalles, los stories, uno consistentemente postea, le dice a la gente que le manda un mensaje, está realmente optimizado el perfil y una vez...",
+   "avg_logprob": -0.064,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1779.86,
+   "end": 1792.37,
+   "text": "llegan al perfil y nos siguen, creamos una audiencia, así es como yo tengo esta audiencia, por correr muchos ads, yo no me hice famoso, yo no me hice influencer, yo no me hice viral, yo simplemente he corrido muchos ads, he creado audiencias.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1792.37,
+   "end": 1819.09,
+   "text": "Relativamente grandes que he podido monetizar por años usando esto. Entonces ya después de los stories la gente me manda un mensaje y de ahí uno puede decirle a la gente, perfecto, agendemos una llamada y vemos tu situación y se cierra la venta. Yo ahorita no estoy haciendo esto porque no estoy teniendo llamadas, pero por lo general esto es lo que hacen la mayoría de los coaches, consultores y personas que venden servicios, es que pasan de un chat a una llamada. Eso es lo que hace casi que todo el mundo. Entonces...",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 1821.74,
+   "end": 1850.06,
+   "text": "Ese es este proceso de ventas. Eso es para gente que tiene un muy buen perfil, que entiende muy bien el juego de marca personal y la gente que no entiende eso, no lo hace bien, es mejor evitar esto e ir directo al chat, porque es una variable que puede o mejorar mucho o arruinar mucho. Entonces, muy importante entender eso. 5. Este es el proceso de ventas en donde mandamos del ad a un opt-in page. Opt-in es que tienen que opt.",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 1850.06,
+   "end": 1878.0,
+   "text": "O sea, meter su información para poder ya ver el video. Esto es justamente lo que yo hice para vender este programa y funcionó muy bien. Entonces, corrimos ads, después colectamos leads, emails, números de teléfono, ya colectamos la información, a la gente le van a llegar emails automáticos, vendiendo la oferta y hablando de la oferta. Después ya van a ver el video, el video funcionó muy bien.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 1878.0,
+   "end": 1903.34,
+   "text": "y de aquí ya la gente puede comprar. Ese fue mi proceso de ventas. En este caso, aquí también el proceso de ventas que estamos viendo es que en vez de comprar directo, la gente, ah, me gustó el video, agendamos llamada y cerramos. Entonces, ad, opt-in, conectamos información, ya tenemos ese activo, esa información, la información es el activo, ¿verdad? Si uno tiene información ya puede, uno puede contactar a la gente y puede que compren.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 1903.34,
+   "end": 1919.18,
+   "text": "Próximo mes, próximo seis meses, próximo año, próximo cinco años, yo he tenido personas que se unieron a mi lista de emails hace cinco años, nunca me compraron nada y compraron ahora. Entonces es el poder también de colectar leads y por eso es que la gente usa este proceso de ventas.",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 1919.92,
+   "end": 1943.78,
+   "text": "Entonces, es un proceso de ventas que tiene más variables, entonces es un poco más avanzado, tiene que estar muy bien hecho para que realmente funcione, pero así es como funciona. Entonces, ad, opt-in, video, llamada, venta. Como pueden ver, todo eventualmente termina o en un chat o en una llamada para cerrar una venta. Casi que la mayoría de los casos.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1943.78,
+   "end": 1972.1,
+   "text": "La mayoría de negocios termina el funnel en un chat o una llamada de ventas y ahí se vende la oferta. Esto es especialmente para high ticket. Cuando uno vende high ticket, o sea, precios más altos, eso requiere más contacto humano, conversaciones con personas. Es mucho más fácil vender así. Se puede vender directo con un link de pago, pero es mucho más avanzado.",
+   "avg_logprob": -0.018,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 1972.1,
+   "end": 1992.05,
+   "text": "Y no es por rajar, pero ese es el que yo uso, pero es porque ya lo llevo haciendo mucho tiempo, ¿verdad? Entonces ya más o menos entendí como la cosa y les puedo decir que no es nada fácil, no es nada fácil vender con un link de pago porque requiere que todo esto esté demasiado perfecto, lo que está antes de el pago, ¿verdad?",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 1992.18,
+   "end": 2015.22,
+   "text": "Y además yo sigo vendiendo por chat, o sea, de hecho yo, muchos de ustedes que están en este programa, tal vez pagaron con un link de pago, pero yo hablé con ustedes por chat. Entonces es como una combinación de los dos, pero si es más avanzado no, o sea, vender sin chat o llamada porque ahora estamos esperando que alguien pague miles de dólares con un link sin haber hablado con nadie. Esto es algo que...",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 2015.47,
+   "end": 2042.67,
+   "text": "La gente logra hacer si el copy está muy bien, el ad está muy bien, el video de ventas está muy bien. Entonces, eso lo dejo por ahí. Este es exactamente igual, ad, opt-in, video, pero en vez de llamada, chat, para la gente que nada más no quiere tener llamadas, quiere cerrar por chat. Y este es el más difícil de todos, ¿ok? Este es el proceso de ventas veterano para los guerreros espartanos que quieren...",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 2043.09,
+   "end": 2072.4,
+   "text": "Quieren de la forma lo más cercano a imprimir cash en el metaverso, ¿verdad? Con poco contacto humano. De ad a opt-in, colecta información, se mandan emails automáticos, se ve un video, la gente ve el video, dice quiero ser parte de esto y paga inmediatamente high ticket. Esto es bastante difícil porque imagínense lo bueno que tiene que ser este video, lo bueno que tiene que ser este ad y la oportunidad en general y la confianza en general que se tuvo que haber generado.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2072.4,
+   "end": 2094.61,
+   "text": "Y ahí mismo cierra la venta.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2095.12,
+   "end": 2124.3,
+   "text": "Y este es el último que hablamos que es como súper simple, que se graba un video, le gustaría más información, le voy a poner mi link de Calendly en este ad, vaya, escojo una fecha, un día, una hora y hablamos. Como les dije acá, casi que cero variables, la única variable es el ad, entonces el ad, si es malo, va a atraer la gente incorrecta o no va a atraer llamadas del todo, pero si el ad es bueno, entonces te puede conseguir muchas llamadas porque es como directo, no hay como, la gente no se pierde en muchos pasos.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2124.3,
+   "end": 2149.55,
+   "text": "Entonces, como pueden ver, hay pros y cons de tener procesos de venta más cortos y más largos. Hay unos que son mejores para principiantes, otros que son mejores para avanzados. Y entonces, ahora la pregunta es, ¿pero cómo hacemos? ¿Cómo hacemos para saber cuál es mejor? ¿Verdad? Esa es la pregunta del millón. ¿Cómo sabemos?",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 2149.55,
+   "end": 2177.9,
+   "text": "Si usamos este o el otro, entonces les voy a dar una forma muy simple de empezar todo esto porque lo último que yo quiero es que ustedes se confundan con estos procesos de ventas y digan, ya me confundí más, antes solo sabía de uno. A veces la ignorancia es mejor, ¿verdad? En vez de saber que existen ocho, existe solo uno, solo hago este, ya hacemos más fácil. Ahora sé que existen ocho, ¿cuál es uso? Entonces yo por eso a veces...",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2178.42,
+   "end": 2206.59,
+   "text": "Me opongo a dar más información de la cuenta porque a veces confunde más de la gente y es peor, pero esa no es la meta de este entrenamiento. La meta de este entrenamiento es, estos son los que existen, existen más, vamos a empezar con uno simple. Esa es la meta, para que nada más estén conscientes de que existen. Ok, seguimos. Entre más simple mejor, especialmente para empezar. Si usted está empezando en línea o está empezando con...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 2206.59,
+   "end": 2233.04,
+   "text": "Clientes, o está empezando a correr ads, o está empezando cualquier negocio, casi que cualquier negocio. Entre más simple sea, mejor. En general, las cosas. Entre más simple y menos partes, mejor. Esto 100% aplica para el proceso de ventas. Entre más simple el proceso de ventas, mejor, especialmente si está empezando. ¿Por qué? Porque es importante mantener pocas variables.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 2233.07,
+   "end": 2261.65,
+   "text": "especialmente cuando se están haciendo pruebas que no han sido probadas. ¿A qué me refiero eso? Si estamos probando una nueva oferta, un nuevo ad copy, un nuevo video, un nuevo producto, un nuevo precio, ya estamos probando muchas variables, solo en el ad. O sea, el ad está vendiendo, estamos probando una oferta, estamos probando a ver si el avatar se relaciona con esa oferta, si se identifica.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2261.65,
+   "end": 2291.7,
+   "text": "Si la comunicación está bien, si el video se ve bien y a la gente le gustó. Estamos probando todas estas cosas solo en el video. Muchas variables. Imagínense si ahora tenemos que agregarle una variable más y otra y otra y otra. Si la campaña no funciona, o sea, si el ad no funciona, tenemos tantas variables que ya no sabemos ni por qué no funcionó. ¿Sí me explico? En cambio, si tenemos una variable y es como di, la variable es el ad y ya,",
+   "avg_logprob": -0.041,
+   "no_speech_prob": 0.028
+  },
+  {
+   "start": 2291.7,
+   "end": 2320.14,
+   "text": "Y esta campaña no funcionó, fue culpa del ad, ¿verdad? Porque es la única que tenemos. O es la más probable que fue esta. Pero si tenemos demasiadas variables, porque un proceso de venta es muy largo, muy complicado, es difícil saber por qué no funcionó, porque hay como demasiadas, demasiadas cosas. Es como por decirlo así, se me acaba de ocurrir un ejemplo. Digamos que tenemos, hay un cuarto y hay, no sé, un diamante en el centro.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2320.88,
+   "end": 2351.38,
+   "text": "Y en el cuarto hay dos personas. Y volvemos a ver y ya no está el diamante. Alguien se robó el diamante. Hay dos personas que pudieron haberse robado el diamante, ¿verdad? Persona A o persona B. Sí, persona A tiene 50% de probabilidad, persona B 50. Es más fácil encontrar al ladrón porque solo hay dos. Ahora, ¿qué pasa si tenemos el diamante en el centro y hay 10 personas en el cuarto? Y se desapareció el diamante.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 2352.34,
+   "end": 2381.97,
+   "text": "Ahora tenemos, cada persona tiene un 10% de posibilidad de haber sido ladrón y tenemos muchas más variables. Ahora ya no sabemos quién es el ladrón, ¿verdad? Puede ser uno, puede ser los dos, pueden ser todos que se juntaron para hacer un plan para robarse esto. Es lo mismo con esto. De hecho, está bien bueno ese ejemplo porque es tener un proceso de ventas con pocas partes es el equivalente a tener dos ladrones, dos personas en un cuarto que se robaron un ladrón, un ladrón, un diamante, en vez de tener 10.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2382.38,
+   "end": 2399.44,
+   "text": "Y eso es muy importante porque tenemos que saber por qué algo no funcionó para arreglarlo. Entonces, mantener pocas variables, especialmente cuando se está haciendo pruebas que no han sido probadas, cosas nuevas. Si se está probando algo que ya se ha vendido demasiado bien.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2399.7,
+   "end": 2429.26,
+   "text": "y es probado y está haciendo un montón de cash y hay un video de ventas que siempre ha funcionado, un anuncio que siempre ha funcionado, ok, podemos hacerlo más complicado porque igual el anuncio siempre ha funcionado, el video de ventas es bueno, el producto se vende un montón, el equipo de ventas es bueno, todo es bueno, podemos meter más partes, todo bien, es probado, pero cuando se está probando algo nuevo, quiten la mayoría de variables, enfóquense nada más en el ad y la oferta para ver si funciona, si no funciona, la cambiamos hasta que funcione y después ya se hace más complicado, por decirlo así.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2430.03,
+   "end": 2449.74,
+   "text": "2. Lo más importante es probar la variable de la oferta y el ad. Lo más importante es probar la variable de la oferta y el ad. ¿A qué me refiero con eso? Les doy el ejemplo de este programa. Este programa, cuando yo lo vendí, el primer día que lo vendí hizo 20 mil dólares en profit.",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2449.74,
+   "end": 2478.54,
+   "text": "y este programa no existía, o sea, ni siquiera había, ni siquiera tenía un nombre, ni siquiera tenía contenido, no tenía entrenamiento, no tenía estructura, no tenía nada, era nada más una idea, yo vendí una idea, la gente la compró y cuando se vendió yo empecé a entregarla en vivo y a la gente le empezó a gustar que yo la entregara en vivo y así estamos hasta el punto que estamos hoy, que ya se está creando todo este ecosistema y en mi opinión uno de los mejores programas de ads.",
+   "avg_logprob": -0.023,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 2478.54,
+   "end": 2502.16,
+   "text": "Pero al principio no existía nada, ¿verdad? Entonces yo vendí algo y después una vez se vende lo entrego. Entonces, ¿por qué les estoy diciendo eso? Porque la razón por la cual esto funcionó así de bien es porque yo me enfoqué en primero probar la idea de la oferta. O sea, quería ver si lo que yo estaba ofreciendo, o sea, un programa para iniciar ads y generar leads.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2502.7,
+   "end": 2528.4,
+   "text": "Era una buena idea, una buena oferta. Entonces yo grabé un video en donde hablo de una nueva demanda y le digo a la gente si le interesa esta idea, mándenme un mensaje. Recibí 70 mensajes. Ok, entonces recibí 70 mensajes y eso obviamente fue una excelente señal, verdad? Y entonces el programa no existía, pero probé la oferta y la oferta funcionó. Wow, todo el mundo lo quiere.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2529.07,
+   "end": 2549.1,
+   "text": "Y después probé el ad, usé ese video como ad y el ad funcionó muy bien, empezó a generar un montón de leads. Entonces, en este punto yo probé la oferta y el ad y ambos funcionaron. Y eso es lo más importante, si esto funciona ya se puede vender, ya se puede crear un negocio alrededor de algo, de una buena oferta y un buen ad.",
+   "avg_logprob": -0.027,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2549.23,
+   "end": 2576.74,
+   "text": "Entonces, el negocio le da vueltas a una buena oferta y a un buen ad. Si no hay una buena oferta, un negocio va a ser difícil que sea exitoso, aunque tenga un logo muy bonito y un funnel muy bonito y un equipo muy bueno de ventas, porque nadie quiere la oferta, no es una buena oferta. Entonces, por ejemplo, una mala oferta en este caso hubiera sido, yo le voy a enseñar cómo manejar redes sociales.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2576.74,
+   "end": 2603.92,
+   "text": "Suena aburrido, suena algo como que todo el mundo enseña, suena algo como que nadie quiere, ¿verdad? Nadie quiere, no suena sexy. Entonces no suena como una buena oferta, muy difícil crear un negocio encima de eso porque la oferta, la base de ese negocio no es como muy atractiva. Y el ad, por ende, como la oferta no es buena, el ad probablemente no sea muy bueno porque el ad está vendiendo una oferta que nadie quiere. Entonces...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 2604.05,
+   "end": 2633.58,
+   "text": "Lo más importante es al principio probar la variable de la oferta y el ad. Si ustedes prueban la oferta y todo el mundo la quiere y el ad está como resultado de todo el mundo quererla, está funcionando muy bien, ya pueden montar un negocio exitoso encima de eso. Entonces, ¿por qué les digo esto? Porque lo ideal es tener un proceso de venta muy simple al principio con pocas partes, pocas variables para poder enfocarnos en probar",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 2633.84,
+   "end": 2647.47,
+   "text": "Si la oferta a la gente le hace clic, le gusta y si el ad está dando buenos números, porque nada más importa, nada más importa aparte de eso. Lo único que importa es que la oferta sea buena, el ad sea bueno para tener un retorno de inversión positivo.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2647.92,
+   "end": 2675.89,
+   "text": "Y después uno acomoda todo lo demás para que eso funcione, ¿verdad? Yo cuando vi que todo el mundo quería esta oferta y aprender de Ads y nadie lo estaba haciendo y todo el mundo me mandaba mensajes y todo el mundo quería comprar y no estaba ni creado, yo dije, tío, lo voy a vender y después voy a invertir mi tiempo para crearlo porque va a valer la pena, ¿verdad? Hay mucho interés. Pero yo no hubiera hecho eso si no hubiera probado la demanda de la oferta. Entonces, mantengámoslo muy simple.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2675.92,
+   "end": 2705.9,
+   "text": "Lo más importante es probar la oferta, o sea, lo que uno está ofreciendo, a ver si es una buena idea, a la gente le gusta, y el ad, ¿verdad? El ad habla de la oferta, entonces en realidad es una sola cosa, es un solo video, solo hay que probar el video. Uno solo tiene que probar el video, el ad. Si el ad es bueno, uno puede construir un negocio de 7 figuras encima de eso. Así se los pongo. Un video de 90 segundos, una prueba de 90 segundos, de un video de 90 segundos, puede ser la base, el fundamento de un negocio de 7 figuras.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2705.97,
+   "end": 2731.31,
+   "text": "Si el ad es bueno y uno está invirtiendo un dólar y sacando cinco, significa que si invierto 200 mil dólares puedo sacar un millón de dólares. Entonces el ad de cierta manera es el negocio. Tres, entre más variables se agrega en el proceso de ventas, más difícil es saber si la oferta funciona o el ad funciona. Entonces, digamos, imagínense que yo estoy probando la idea de Media Buyers. Yo no sabía si funcionaba, si la gente lo quería, nada.",
+   "avg_logprob": -0.042,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 2731.31,
+   "end": 2756.91,
+   "text": "Y yo llegué y yo ni siquiera sabía que funcionaba y empecé a meter videos de venta, automatizaciones, equipos de venta, la variable de tener un equipo que le hable a la gente. O sea, tengo todas estas partes y ni siquiera sé si la gente quiere ser Media Buyer. Eso no tiene sentido. Es mejor validar la oferta del ad y después agregarle cosas complicadas, ¿verdad? Para automatizar. Ese es como el proceso.",
+   "avg_logprob": -0.021,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 2757.2,
+   "end": 2786.29,
+   "text": "Y cuatro, entre más variables, más posibilidades de que algo salga mal, lo cual hace más difícil saber si la oferta o el ad eran realmente buenos o malos. Imagínense que yo estaba en proceso de probar la idea del programa de Media Buyers. Yo estaba probando a ver si había demanda para que la gente comprara este programa. Entonces yo grabé un ad y mandé a la gente un video de ventas. Y el ad estaba buenísimo, la oferta buenísima, todo el mundo la quería, pero llegaron el video de ventas y yo hice un pésimo trabajo, ¿verdad?",
+   "avg_logprob": -0.017,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2786.38,
+   "end": 2813.84,
+   "text": "Entonces, la idea está buenísima, pero el video de ventas arruinó todo. Entonces, ya no funciona. Y yo veo que no funciona y yo digo, ¿por qué será? ¿Será que la oferta no funcionó? La oferta no funcionó. Y entonces, sí era una oferta ganadora, pero pensé que no porque el video arruinó todo. Entonces, eso es lo que quiero como que entiendan, que a veces es mejor mantenerlo simple para muy claramente decir, ok, sí funcionó o no funcionó.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 2815.22,
+   "end": 2843.65,
+   "text": "Entonces eso es entre más simple mejor. Esto es un ejemplo de un proceso de ventas simple que de hecho es el que yo les voy a recomendar empezar, el que yo le recomiendo a mis clientes, el que está dando un retorno de inversión de en promedio 300 a 1000% retorno de inversión. Y no quiero decir que esto va a ser en todos los casos porque tampoco quiero poner expectativas sumamente altas si a veces no es así, pero.",
+   "avg_logprob": -0.061,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 2843.65,
+   "end": 2872.7,
+   "text": "Yo he visto con mis propios ojos en las primeras tres semanas de correr ads a clientes conseguir de 300 a 1000% retorno de inversión en lo que invierten en ads con este proceso de ventas. Entonces se graba un ad muy simple de 60 a 90 segundos. ¿Quieres más información? Mándeme un mensaje. Hola Juan, qué bueno que quieres más información. ¿Cuál es tu meta? Perfecto, agendemos esta llamada. Hola Juan, qué bueno hablar con vos finalmente. Sí, bla, bla, bla, bla, bla. Y cierra.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 2872.7,
+   "end": 2898.96,
+   "text": "Este proceso de venta es súper simple, súper simple. Si uno ve que está generando más de lo que gasta en ads, ¿por qué es? Por la oferta, por el ad. Es la única razón. No hay otra variable. No hay videos de venta, no hay un montón de emails, no hay un montón de... Es un buen video con una buena oferta y habilidades normales de ventas.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 2899.22,
+   "end": 2926.18,
+   "text": "y de comunicación, ¿verdad? Y ya se genera más cash. Entonces, a mí me gusta mucho este proceso de ventas porque, y ahorita de hecho les voy a decir por qué, pero es un proceso de ventas muy simple que pueden usar para empezar y de hecho se los voy a recomendar para sus clientes y para ustedes mismos. Yo personalmente no lo uso porque yo, si usara esto, tendría que estar todo el día contestando mensajes porque...",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 2926.18,
+   "end": 2953.97,
+   "text": "Estaré invirtiendo mucho en ads. Yo quiero poder invertir 500 dólares al día. Imagínense que el costo por mensaje sea un dólar. Son 500 mensajes al día. ¿Cómo yo, Sebastián Gómez, sin un equipo, va a poder contestar 500 mensajes al día? No tendría vida. Entonces, yo sé que a mí me funciona y que si paso trabajando 24 horas al día, puedo hacer miles de dólares al día con este proceso de ventas. Pero yo ahorita valoro mi tiempo y mi libertad más que los números. Entonces...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 2954.26,
+   "end": 2982.06,
+   "text": "Para mí es importante no solo pensar cómo puedo hacer cash, sino cómo puedo hacer cash con libertad y tiempo. Entonces, muchos de estos negocios con los que van a trabajar, ellos o van a contestar los mensajes o ya tienen un equipo que contesta los mensajes y manejan las llamadas. Entonces ustedes solo cobran los ads, ¿verdad? Y entonces sí es trabajo manual, pero funciona muy, muy bien y por lo general los negocios ya tienen estructura, una infraestructura para manejar la cantidad de leads. Y si no la tienen...",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.046
+  },
+  {
+   "start": 2982.06,
+   "end": 3005.17,
+   "text": "Como ven que se está moviendo tanto cash, empieza a construirlo y ustedes siguen llenándolo de leads. Ok, eso es un ejemplo de proceso de ventas más elaborado. Como hablábamos, es el veterano ad landing page, colecta el email, nombre. Tenemos la variable de esto, de la página. Tenemos la variable del video de ventas. Tenemos la variable.",
+   "avg_logprob": -0.079,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3005.46,
+   "end": 3033.33,
+   "text": "de la página donde se colecta el pago y hay cero contacto humano. El único contacto que hubo fue el de la persona en el video, que a veces no es el mismo cuando es en un video. Por eso es que es más elaborado, un poco más avanzado y yo no probaría esto para una buena oferta. Imagínense que yo hubiera probado el tratado de probar la oferta de Media Buyers con este proceso y no hubiera generado una venta. Digo, es una mala idea. Esto de Media Buyers es una idea, es un fracaso total.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3033.49,
+   "end": 3062.67,
+   "text": "Pero tal vez no era un fracaso, tal vez es simplemente que yo necesitaba quitar esto y quitar esto y quitar esto y mandar a la gente a hablar conmigo y ahí hubiera tenido un 1000% de retorno de inversión, pero no lo tuve porque metí un montón de partes y entonces juzgué mal la oferta. Entonces, la pregunta del millón. Esta es la pregunta del millón. Aquí va a quedarles el replay porque puede que no lo entiendan a la primera vez, puede que sí, pero creo que hay que leerlo varias veces para entender.",
+   "avg_logprob": -0.026,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3062.7,
+   "end": 3093.33,
+   "text": "¿Cuándo usar un proceso de ventas más simple, con menos variables y con más contacto humano? Como el que vimos que es de ad a chat, chat a llamada, llamada a venta. Ok, lo ideal es usar este simple con menos variables y con más contacto humano. En estos casos, entre más principiantes sea el dueño de negocio, usar un proceso de ventas con menos variables y que involucre más contacto humano.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3093.33,
+   "end": 3119.41,
+   "text": "Analicemos esto. Entre más principiante el dueño de negocio, o sea, no sabe mucho de mercadeo, no sabe mucho de venta, no sabe... Está empezando. Es mejor usar un proceso de venta simple, con menos variables, porque no vamos a asumir que va a crear un buen video de ventas, no vamos a asumir que va a hacer todo bien, vamos a asumir que va a hacer todo mal, ¿verdad? En cuanto a marketing. Entonces, menos variables para, por decirlo así, jugarla a la segura.",
+   "avg_logprob": -0.039,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3119.86,
+   "end": 3137.39,
+   "text": "Y dos, que involucre más contacto humano, porque cuando hay más contacto humano no hay que tener mercadeo tan re bueno, porque a veces con solo caerle bien a la persona ya puede comprar. ¿Sí me explico? Entonces, cuando metemos más contacto humano, a veces podemos.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3137.97,
+   "end": 3167.14,
+   "text": "Arruinara muchas partes del proceso de ventas e igual tener un buen retorno de inversión simplemente porque le caemos bien a la persona. Entonces puede que el ad no sea tan bueno, puede que el video de venta no sea tan bueno, puede que la oferta no sea la mejor, pero igual vendimos porque somos muy buenos hablando con las personas, les caemos muy bien. Ay, qué buena gente que es. Dice yo todo este problema, ¿dónde me puedes ayudar? Y ya, ¿verdad? O sea, no es el mejor marketing, pero está funcionando porque tenemos buen contacto humano.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 3167.14,
+   "end": 3193.94,
+   "text": "Entonces el contacto humano muchas veces salva el marketing, salva los errores que hicimos en el ad, en la oferta y en todo, ¿verdad? Entonces yo por eso le digo a la gente, agregue buen contacto humano en su proceso de venta simple y sea buena gente, sea buena nota con la gente para que inclusive si no está tan bueno todo, igual los esté vendiendo y estando haciendo cash, ¿verdad? Y después pueda ir arreglando lo demás.",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3193.97,
+   "end": 3202.14,
+   "text": "Pero si no hay contacto humano y la oferta es mala y todo lo demás es malo, van a perder casi garantizado en ads.",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3202.14,
+   "end": 3231.09,
+   "text": "2. Entre menos probada sea la oferta, usar un proceso de ventas con menos variables y que involucre más contacto humano. Yo siento que ese fue mi caso, o sea, yo cuando estaba probando lo de Media Buyers, podemos decir que la oferta no es probada. Nunca la había probado, no sabía si había demanda, que la gente quería unirse, aprender de ads, a generar leads, tal vez yo podía pensar que la gente iba a pensar que era algo aburrido, X, Y, Z. Entonces no era una oferta probada.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 3231.38,
+   "end": 3260.27,
+   "text": "Entonces yo dije, ok, voy a usar una sola variable. Esa variable va a ser el video que explica la oportunidad. Si yo grabo ese video y explico la oportunidad y nadie le interesa, es porque es una mala oferta. Punto. No hay landing page, no hay video de ventas, no hay montón de cosas. Si no funcionó, después de yo haber explicado todo de la mejor manera posible en este video.",
+   "avg_logprob": -0.037,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 3260.27,
+   "end": 3277.18,
+   "text": "Es porque la oferta es mala, nadie le interesa lo que estoy ofreciendo, ¿verdad? Eso dice yo, lo probé con un video y metí mucho contacto humano, mándenme un mensaje si le interesa, recibí 70, hablé con la gente, todo el mundo le interesaba y yo ¡wow!",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3277.18,
+   "end": 3296.59,
+   "text": "Hablé con ellos, ok, ¿por qué le interesa? Yo le pregunté a la gente ¿por qué le interesa? Es que no tengo habilidades, quiero aprender una buena habilidad para poder monetizar. Es que tengo un trabajo y quiero aprender a hacer algo de manera remota. Ah, me llamó la atención que no tengo que estar enseñando mi cara todo el día y mi estilo de vida. Entonces yo empecé, wow, a toda la gente le interesa y le interesa por esto. Y estoy creando confianza en esos chats.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 3296.75,
+   "end": 3325.42,
+   "text": "y se empezó a vender como pan caliente. Entonces, entre menos probadas sea la oferta, usar un proceso de ventas con menos variables y que involucre más contacto humano, porque esto es lo que tiene más sentido, es lo que mantiene todo más simple y más efectivo. Tres, entre menos variables tenga la persona corriendo ads, sorry, entre menos habilidades tenga la persona corriendo ads en marketing y en ventas, usar un proceso de ventas con menos variable y que involucre más contacto humano. Esto es más o menos parecido a esto.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3326.1,
+   "end": 3343.57,
+   "text": "Si la persona no tiene muchas habilidades de ads, de marketing y ventas, es probable que, por decirlo así, arruine parte del proceso de ventas, sus videos no sean los mejores, su oferta no sea la mejor, la forma en que se comunica no sea la mejor, no tiene la mayor cantidad de confianza, pero si es buena nota, ¿verdad?",
+   "avg_logprob": -0.019,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3343.57,
+   "end": 3369.44,
+   "text": "Es buena gente, puede que salve ahí la situación y venda mucho solo por ser buena gente y realmente puede ayudar al cliente, nada más no comunicó nada bien, pero es buena gente, entonces salvo la campaña, salvo el ad. A veces solo ser buena gente paga muy bien, ¿verdad? Cuatro, entre menos presupuesto tenga la persona, usar un proceso de ventas con menos variables y que involucre más contacto humano. ¿Por qué? Porque...",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3369.44,
+   "end": 3397.04,
+   "text": "Como el presupuesto es bajo, hay menos atención que estamos consiguiendo con los ads, hay menos clicks, hay menos leads. Entonces, entre más corto sea el proceso de ventas, mejor. Los que están muted, ¿cómo se llama? Si no están muted, por favor se ponen en mute porque por ahí los escuchamos. Después seguimos.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3397.26,
+   "end": 3420.4,
+   "text": "Ahora sí, ¿cuándo usar un proceso de ventas con más variables y menos contacto humano? ¿Se recuerdan del proceso de ventas que desde un ad a meter el email, ver un video y después comprar directo con tarjeta? A eso me refiero, poco contacto humano, más variables. ¿Esto funciona cuando usted tiene más experiencia de marketing, ventas y procesos de venta?",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3420.66,
+   "end": 3445.14,
+   "text": "y en este caso puede usar un proceso de ventas con más variables y menos contacto humano. O sea, cuando usted tiene más experiencia en general de lo que está haciendo. Dos, cuando tiene más experiencia de comunicación puede usar un proceso de ventas con más variables y menos contacto humano. Cuando ya tiene muchos clientes, tiene buena facturación y quiere escalar el negocio sin tener que crear un equipo grande, puede usar un proceso de ventas con más variables y menos contacto humano.",
+   "avg_logprob": -0.024,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3445.78,
+   "end": 3472.58,
+   "text": "Esa es mi situación, digamos. Yo ya tengo muchos clientes, tengo buena facturación, quiero escalar el negocio, pero no quiero crear un equipo, ¿verdad? No quiero tener que lidar con un equipo muy grande. Entonces, yo tengo que ver cómo logro hacer esto todo solo. Y para poder hacerlo solo voy a necesitar más apalancamiento de videos, de cosas que hagan el trabajo por mí.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3472.58,
+   "end": 3481.28,
+   "text": "Por ejemplo, un video de ventas para mí es esencial porque como yo no tengo llamadas de ventas, el video tiene que estar vendiendo lo que yo hubiera vendido por llamada.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3481.28,
+   "end": 3509.87,
+   "text": "Entonces, en mi situación yo tengo que tener algo un poco más complicado porque como no estoy teniendo tanto contacto humano como la gente que tiene llamadas, tengo que sí o sí depender de que este video sea bueno, o sea, tengo que asegurarme de que sea bueno. Entonces, nada más para que entiendan por qué uno usaría algo un poco más complicado y más largo, es por eso, es porque uno quiere que el funnel haga el trabajo que uno hubiera hecho en la llamada, por ejemplo.",
+   "avg_logprob": -0.022,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3510.22,
+   "end": 3538.24,
+   "text": "4. Si considera que sus habilidades de ads y de crear un buen video de ventas son suficientemente buenas para poder convencer a alguien de comprar sin tener que tener mucho contacto humano, en ese caso puede usar un proceso de ventas con más variables y menos contacto humano. Entonces, en otras palabras, si considera que usted puede crear un buen anuncio, un buen video de ventas, tiene una buena oferta, luz verde puede probar un proceso de ventas que sea un poco más...",
+   "avg_logprob": -0.023,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 3538.24,
+   "end": 3567.95,
+   "text": "¿Por qué uno usaría más variables en un proceso de ventas? En varios casos, usar más variables en un proceso de ventas como tener un opt-in page para colectar emails, un video de ventas y automatizaciones de emails permite aumentar las posibilidades de cerrar ventas teniendo menos contacto humano. En otras palabras, ¿se intenta usar tecnología para tratar de replicar el efecto de persuasión que hubiera tenido un humano?",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3567.95,
+   "end": 3593.71,
+   "text": "Sin tener que tener un humano, lo cual involucra todas las variables relacionadas a los humanos. En español, leamos eso en español, porque yo a veces escribo y nada más estoy descargando la información en texto y a veces cuando lo leo yo digo nadie entendió nada, ¿verdad? En resumen, a veces es un proceso de ventas con más partes como este que tiene aquí. Aquí tenemos el video de ventas, tenemos el link de pago, tenemos un opt-in page, tenemos el ad.",
+   "avg_logprob": -0.032,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 3594.26,
+   "end": 3622.74,
+   "text": "Aquí lo que yo estoy tratando de hacer es, lo que yo hubiera hecho una llamada de 45 minutos o una conversación de 45 minutos por chat, estoy tratando de replicar ese efecto en un video, que el video lo haga por mí en resumen, ¿verdad? Y colecto el email para que después yo le mande emails y los emails hagan ese trabajo por mí. Entonces es como que la tecnología haga el trabajo por mí porque yo no tengo el tiempo para hacerlo, porque no tengo la infraestructura para poder hacerlo con tiempo humano.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3622.74,
+   "end": 3649.25,
+   "text": "Entonces, eso es otra forma de verlo. Ahora, lleguemos a la parte, ok, ¿qué hay que hacer? ¿Qué hay que hacer después de entender todas estas cosas? ¿Cuál es el siguiente paso? Yo lo que les recomiendo es mantenerlo muy simple. Este es el proceso de ventas que le está funcionando a mis clientes, que me ha funcionado a mí también por mucho tiempo. Obviamente ahorita por un tema de volumen no es el más eficiente para mí.",
+   "avg_logprob": -0.029,
+   "no_speech_prob": 0.014
+  },
+  {
+   "start": 3649.25,
+   "end": 3677.1,
+   "text": "Pero todos mis clientes que tienen un buen ad, una buena oferta, es muy difícil perder dinero con esto, es muy difícil no generar buen cash, buen retorno de inversión con esto. Entonces, nada más, graban el ad, ¿verdad? El ad copy ya lo tienen, 60, 90 segundos, graban el ad, muy simple, llamado a acción, mándenme un mensaje para conseguir información, pequeño chat con la persona, WhatsApp, Instagram o Messenger, WhatsApp funciona muy bien.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3677.1,
+   "end": 3706.53,
+   "text": "¿Qué bueno que quieres información? ¿Cuál es tu meta? ¿Con qué necesitas ayuda? Excelente, agendemos una llamada, se tiene la llamada y se cierra. Ya sea para su negocio, su oferta, ustedes están vendiendo su propia oferta, o ustedes son Media Buyers para un negocio y quieren generar leads. Ustedes les pueden recomendar esto. Digamos que su cliente se llama Carlos. Carlos es un coach. Carlos vende fitness. Entonces,",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 3706.53,
+   "end": 3735.22,
+   "text": "En la llamada con Carlos pueden decirles, yo lo que te recomiendo es que grabemos el ad 60-90 segundos, yo te voy a pasar el texto, vos lo grabas, de ahí vamos a mandar a la gente a WhatsApp, tu equipo va a contestar los mensajes, agendar las llamadas, vos lo cerras, yo te voy a pasar el script y vamos a generar más de lo que gastamos. Ok, esa es la meta. Eso es lo que ustedes pueden recomendarles a sus clientes. Y ellos van a estar muy felices de recibir esa recomendación porque, se los digo, la mayoría de coaches no saben qué están haciendo.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 3735.22,
+   "end": 3758.54,
+   "text": "O sea, no saben muy bien qué están haciendo. Inclusive los que están generando buen cash. Hay coaches que generan 10 cada mes que igual no tienen idea de cómo crear un buen ad y de hecho por eso es que los contrataron ustedes. Y para ellos es muy valioso este feedback de solo recibir, por ejemplo, qué decir en el chat. Eso es muy valioso para ellos. En resumen, no hay que asumir que solo porque alguien ya está haciendo buen cash.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3758.54,
+   "end": 3782.13,
+   "text": "Es experto, de hecho la mayoría de gente que hace Buen Cash no es como experta en marketing. A veces tienen muy buen producto, buen coaching, pero no son tan buenos en marketing. Ahí es a donde ustedes entran. Ahora, el CTA para ese proceso de ventas usualmente es, el CTA es el llamado a acción, es lo que uno le dice a la gente que haga el final del ad. Mándenme un mensaje diciendo empezar.",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 3782.13,
+   "end": 3794.99,
+   "text": "Mándame un mensaje diciendo yoga, mándame un mensaje diciendo 10 kilos, mándame un mensaje diciendo Media Buyers si quiere más información. Eso es realmente lo que uno dice al final de un ad que usa este proceso de ventas.",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.0
+  },
+  {
+   "start": 3795.57,
+   "end": 3826.58,
+   "text": "Este es súper simple, proceso de venta simple con contacto humano, bastante contacto humano, ese es como el sweet spot, es el punto perfecto, simple, pocas variables, contacto humano, buena oferta, buena comunicación por aquí, casi garantizado que uno hace cash, si uno tiene buena ad, buena oferta, buena comunicación con la gente, es difícil perder dinero. ¿Por qué es difícil perder dinero? Porque imagínense que estamos vendiendo un programa de mil dólares.",
+   "avg_logprob": -0.035,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 3828.11,
+   "end": 3850.58,
+   "text": "gastamos 100 dólares en este ad, recibimos 100 mensajes, un dólar por mensaje, entonces gastamos 100 dólares, recibimos 100 mensajes, de 100 mensajes agendamos 5 llamadas, de 5 llamadas cerramos 1, 1000 dólares, o sea",
+   "avg_logprob": -0.065,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3850.58,
+   "end": 3879.31,
+   "text": "Gastamos 100 dólares, hicimos 1000 dólares. Un 1000% de retorno de inversión, un 10X. Ok, súper bien, increíble. Pero, ¿qué pasa si hubiéramos gastado 200 en vez de 100? Todo bien, igual. Nadie se queja de un 5X, de un 500%. ¿A dónde van a conseguir un 500% de retorno de inversión? En el stock market, no.",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 3879.34,
+   "end": 3907.41,
+   "text": "En cripto tampoco, de manera relativamente segura. En real estate tampoco. No hay nada que dé un 500%. Súper bien. Ok. Caso hipotético, no gastamos 200, gastamos 300. Ok, ya estamos gastando más. Igual es un 3X. 300% de retorno a inversión. ¿Qué pasa si gastamos 500? 200% de retorno a inversión. 2X. Casi nada da un 2X. Entonces, mi punto es...",
+   "avg_logprob": -0.047,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 3907.41,
+   "end": 3929.36,
+   "text": "Es difícil perder dinero porque cuando uno vende algo caro uno igual puede gastar mucho e igual estar rentable. Ese es mi punto. Cuando uno vende algo muy barato es difícil estar rentable porque hay que vender muchos, hay que vender muy seguido y es más difícil, ¿verdad? Vender mucho. Es más fácil vender uno. ¿Qué es más fácil? Vender uno o vender diez. Vender uno. Casi que siempre. Y a veces es más fácil vender a mil dólares que a cien.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 3929.36,
+   "end": 3948.91,
+   "text": "Porque es gente que está más, es otro perfil de persona, no les da miedo invertir. La gente que, por ejemplo, si uno vende un programa de 100 dólares, la gente está aterrorizada de invertir 100 dólares. Los de 1000 es como, yo le veo el valor, dice, tome. Entonces es difícil perder realmente, en mi opinión, porque para perder hay que gastar demasiado.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 3949.3,
+   "end": 3977.17,
+   "text": "Si, imagínense que uno gaste mil dólares, costo por mensaje un dólar, que eso es bastante bajo, pero para el ejemplo, para redondearlo, gastamos mil dólares, costo por mensaje un dólar, recibimos mil mensajes y no cerramos ni una venta. Demasiado difícil, demasiado difícil. O sea, habría que en serio hacer todo mal, ¿verdad? O hacer, obviamente ahí en ese caso no estaría funcionando la campaña. Si recibimos mil mensajes.",
+   "avg_logprob": -0.034,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 3977.17,
+   "end": 4008.4,
+   "text": "Digamos que agendamos, no sé, 3%, igual estamos hablando de 30 llamadas. ¿Cómo no cerramos una venta en 30 llamadas? Es difícil. Por eso es que es difícil perder, también porque vamos invirtiendo muy poco. No invertimos mil dólares de una, invertimos 10 al día por tres meses. O sea, es difícil perder. A menos que uno, digamos, con este programa ya usted va a tener todas las bases para que realmente sea difícil no hacer cash.",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4008.4,
+   "end": 4034.74,
+   "text": "honestamente verdad y ok ese es el proceso de ventas que les recomiendo para empezar es una de las opciones no les quiero decir que los otros no funcionan puede que ustedes tengan que lidiar con clientes que les dicen no este es el otro vamos a usar el otro y todo bien pero quiero darles como un lugar donde pueden empezar de una manera simple y que además he probado para mí y para otras personas es justamente este que les había enseñado verdad",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 4034.8,
+   "end": 4055.14,
+   "text": "Es bueno porque tiene pocas variables, solo tiene el ad, la oferta que se comunica y el contacto humano con la persona por chat y por llamada. Tiene contacto humano, involucra bastante contacto humano, chat y llamada, lo cual aumenta la posibilidad de cierre. Y tres, simple y rápido. Simple y rápido es lo que venimos. Ad, pum, chat, entra el chat, agendamos llamada, pum, 48 horas, tenemos el cash en Stripe.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4055.14,
+   "end": 4075.66,
+   "text": "Es muy simple, se puede empezar apenas se graba el ad, no hay que crear páginas, no hay que crear videos de venta, se puede ejecutar rápido, en 24 horas se manda el ad, en 24 horas se empiezan a entrar leads, en 24 horas podemos tener llamadas buqueadas, en otras 24 horas podemos tener el cash and stripe. Se puede probar rápido y conseguir data rápido para ver si la oferta funciona o no. Es esta, justamente esta, ad, chat, llamada, cierre.",
+   "avg_logprob": -0.036,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4076.69,
+   "end": 4091.73,
+   "text": "Ahora, un buen Media Buyer tiene que tener la capacidad de identificar cuál va a ser el proceso de ventas correcto para usar con base al negocio del cliente. Tiene que considerar si tiene un buen ad o no, un buen video de ventas o no, una oferta aprobada o no.",
+   "avg_logprob": -0.017,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4091.89,
+   "end": 4121.01,
+   "text": "En la mayoría de los casos la solución segura es el proceso de ventas que es más simple y que tiene más contacto humano. Eso por lo general, si ustedes están confundidos, no sé qué proceso de ventas usar, no sé a dónde mandar a la gente después del ad, recuérdense de esto. La manera más simple que tenga más contacto humano. Esa es una fórmula que pueden aplicar por el resto del tiempo, que les va a permitir hacer cash en el metaverso. Es la forma más fácil de hacer cash en el metaverso. Se los digo así, yo he probado de todo. La forma más fácil de hacer cash en el metaverso es ads.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4121.46,
+   "end": 4153.71,
+   "text": "Algo que tenga contacto humano. Chat, llamada. Entonces, ¿qué más? Eso usualmente es lo que genera mejores resultados para la mayoría de negocios en línea. Es más difícil hacer funcionar un proceso de ventas que tenga menos contacto humano y que uno tiene y que es más difícil, es más difícil hacer funcionar un proceso de ventas que tenga menos contacto humano a que uno que tiene más contacto humano. Entonces, esta es la sesión de hoy. Proceso de ventas.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 4153.94,
+   "end": 4179.22,
+   "text": "Espero que les haya dado mucho valor y que ya ahora sí entiendan por qué esto es importante para un Media Buyer, porque no solo se trata de mandar un ad y decir ok, ya generamos clics, no, es eso y lo que pasa después, verdad, para poder conseguir un retorno de inversión positivo. Entonces, esta es la sesión de hoy, espero que les haya servido.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4179.54,
+   "end": 4223.86,
+   "text": "Ahora sí, vamos a agarrar preguntas, preguntas, vamos a ver, tenemos por aquí, vamos a empezar con José, José, ahí te paso el mic. Lo que vos elegís, por ejemplo, cerrarlas por chat en vez de llamada, a una persona que está empezando, ¿qué es mejor? Redireccionarle una vez a la llamada por el tema que vos decís de más contacto, me imagino que va por ese lado.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4223.86,
+   "end": 4247.06,
+   "text": "y a qué punto ya uno puede empezar a implementarlo por chat. Y la otra es, qué es mejor, si por ejemplo un evergreen o por ejemplo tener un waiting list por mes y ir vendiendo así. Ok, ok, buenas preguntas. La primera es, ¿cuándo vender por chat? Vender por chat es más avanzado.",
+   "avg_logprob": -0.074,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4247.06,
+   "end": 4255.94,
+   "text": "¿Por qué es más avanzado? Porque no estamos teniendo una llamada, así de simple. Una llamada uno inmediatamente puede generar...",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4255.94,
+   "end": 4284.43,
+   "text": "Una relación o confianza, ¿verdad? Se puede generar relativamente rápido. Entonces, ¿vos de dónde sos? Ah, yo soy de Italia. Ah, qué bueno, Italia. Yo de hecho hace unos meses fui a Italia. Qué bueno. ¿Y vos siempre has vivido ahí? No, ahora estoy en Latinoamérica. Ah, buenísimo. Dinero, qué bueno que estás en la llamada. Entonces uno empieza ahí, ¿verdad? A hablar y es como muy fácil. Eso por chat a veces es como hay más fricción. Entonces, la pregunta es, ¿cuándo es por chat? ¿Cuándo por llamada?",
+   "avg_logprob": -0.079,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 4284.75,
+   "end": 4307.73,
+   "text": "Yo empezaría con llamada por una razón muy simple para dominar la habilidad de ventas que es muy o no dominarla con solo que sea relativamente buena ya eso eso va a agregar mucho valor o sea para mejorar en ventas 1 2 para aumentar su posibilidad de cierre 3 para conseguir información de",
+   "avg_logprob": -0.055,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4307.92,
+   "end": 4327.34,
+   "text": "El cliente, esas llamadas a uno nos da demasiada información de quién es el que le interesa esto, cuál es este tipo de persona. Esa información muy valiosa que después podemos usar para automatizar más el negocio, para vender por chat. Entonces yo recomiendo empezar con llamada independientemente de si eventualmente terminan.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4327.34,
+   "end": 4356.46,
+   "text": "Veniendo por chat o vendiendo todavía por llamada. Más que todo por la habilidad y por la investigación del mercado, hablar con la gente. Yo siento que hablar con la gente es lo que a uno le da como esa información que le permite estar bien específico con lo que uno vende. ¿Y cuándo es que se vende por chat? Uno, usualmente la gente que vende por chat es porque ya, digamos, no tiene un equipo de ventas como yo y no está dispuesto a estar todo el día en llamadas.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 4356.46,
+   "end": 4379.12,
+   "text": "Como yo también. Entonces, entonces dicen de lo único que me queda es vender o por chat o por link, pero por chat se vende muy bien porque hay contacto humano. Ahora, cómo es que uno puede vender por chat? No es tan fácil. La forma en que uno vende de manera exitosa por chat es por todo lo que pasa antes del chat.",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 4379.34,
+   "end": 4405.2,
+   "text": "La gente vio este video, le gustó, buena confianza, ha visto los stories, todos los días ve los stories, está haciendo click con lo que uno está diciendo, uno está ahí a veces hablando por chat, le contesta los stories, subió otro reel, vio el video de YouTube, mandó una oferta en stories, mándame un mensaje, 24 horas, bro estoy listo, pum, chat. Pero en realidad no es tanto como lo que uno dice en el chat, es como lo que pasó antes.",
+   "avg_logprob": -0.025,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 4405.2,
+   "end": 4423.44,
+   "text": "¿Qué hizo que la persona llegara a un punto en donde dijera, quiero comprar? De hecho, yo a todo el mundo acá, yo no tuve ni una llamada de ventas. Aquí todos decidieron comprar por chat, pero no fue porque yo les dije algo mágico por chat, porque de hecho yo a veces soy, a veces puedo ser un poco cortante por chat, pero es nada más como...",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.003
+  },
+  {
+   "start": 4423.44,
+   "end": 4452.16,
+   "text": "Como mi estilo, pero es porque es por lo que vieron antes del chat, verdad? Es como vieron los stories, vieron los videos, tal vez vieron un ad. Eso es como lo que hace que el chat funcione. Entonces, por eso es que es más avanzado, porque a veces requiere sí, como el contenido y todo eso. Pero a la segura, a la segura, la forma más fácil de hacer cash es con llamadas, ya sea para su propia oferta o para clientes. Entonces, a un cliente yo no le recomendaría que traten de cerrar por chat, porque yo voy a asumir que no lo van a.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.032
+  },
+  {
+   "start": 4452.16,
+   "end": 4468.35,
+   "text": "Y la otra, ¿cuál era?",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4468.35,
+   "end": 4495.41,
+   "text": "Ah, lo del Evergreen, los dos funcionan, de hecho yo quiero probar eso para esta oferta, estoy viendo, a ver, yo de momento solo he probado el Open Close, el Open Close funciona muy bien, porque tiene mucha escasez, tiene urgencia, cuando la gente ve que se le va a cerrar la puerta para algo, toma acción, así es como la gente, toma acción cuando algo, cuando hay una razón de tomar acción, ¿verdad? A veces...",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 4495.41,
+   "end": 4522.93,
+   "text": "Y a uno le pasa siempre, digamos, yo con el primer programa de coaching que yo compré, eran 5K y yo estaba como, era todo mi dinero, eran 5K más mil de ads, yo tenía 6, iba a quedar en cero. Pero eran los últimos spots, ¿verdad? Eran 15 spots y eran los últimos spots y yo, bro, di, pásenme su PayPal, no puedo pagar todo ya porque tengo un límite, pero le paso la mitad de mañana a la otra mitad. O sea, es como que uno realmente eso sirve demasiado. La pregunta es,",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4523.44,
+   "end": 4549.94,
+   "text": "¿Qué tanto se puede generar abriendo y cerrando o en Evergreen? Entonces hay que yo siento como que probar los dos y realmente ver como que tiene más potencial. Los dos funcionan muy bien. Yo siento que es cuestión de probarlo. Entonces creo que eso es algo que uno tiene que probar. O sea, lo primero que hay que saber es los dos funcionan. Los dos le van a hacer cash sí o sí. Pero pruebe los dos para ver cuál le hace más cash y cuál...",
+   "avg_logprob": -0.038,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 4550.16,
+   "end": 4576.72,
+   "text": "En términos de logística y todo fue mejor. Esto de open-close la verdad me gusta porque como que uno nada más llega y todo el mes uno habla, uno abra de una sale waiting list, una sale waiting list, poca fricción, una sale waiting list y cuando abre de todo el mundo entra y después cierra y abre otra sale waiting list y es como muy fácil, ¿verdad? A veces tenerlo siempre abierto puede ser como todos los días siempre estar.",
+   "avg_logprob": -0.108,
+   "no_speech_prob": 0.035
+  },
+  {
+   "start": 4576.72,
+   "end": 4607.06,
+   "text": "Bueno Sebas, yo las clases pasadas en relación a eso y tengo otra pregunta en relación a lo que acabamos de ver hoy. Realmente todo es muy muy avanzado y como...",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4607.18,
+   "end": 4629.55,
+   "text": "Ya sabes, si tengo algo de experiencia en e-commerce, o sea, vendiendo productos, pero esto de ofrecer un servicio o algo así como un valor mayor a mil dólares, es la primera vez que lo hago. Entonces, yo intenté lanzar unos anuncios en Europa, o sea, en España, creé un video, lo lancé, una campaña de mensajes, pero...",
+   "avg_logprob": -0.028,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 4629.55,
+   "end": 4656.02,
+   "text": "Facebook de repente no estaba midiendo las métricas. Me puse en contacto con el equipo de Facebook, sí me estaban llegando mensajes y también vi un patrón de que las personas que me escribían eran personas como de la India, o sea, los nombres. Me puse en contacto con Facebook, revisé la segmentación y todo y estaba todo bien. Y ellos me dijeron que para Europa ellos quitaron ese proceso. Entonces la primera pregunta es...",
+   "avg_logprob": -0.033,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4656.85,
+   "end": 4688.75,
+   "text": "¿Qué alternativa tú recomiendas para, por ejemplo, promocionar un video en España? Porque ya no tenemos lo del DM. Es para empezar, porque yo igual quiero empezar con lo simple, con lo básico. Que no tenés la opción de mandar DMs segmentando la ubicación, así es la cosa. Si me dijeron que Facebook lo prohibió hace poco, o sea, por políticas en Europa, eso me dijo el servicio de atención al cliente de Facebook ayer.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4688.75,
+   "end": 4720.66,
+   "text": "Ok, una alternativa que puedes usar es algo como esto, de hecho tiene un ejemplo acá, que es como esta página, digamos, en esta página como puedes ver, puedes mandar a una página y en la página hay un mensaje que dice mándeme un mensaje, entonces no manda directo el ad a WhatsApp o el ad a Instagram, sino que manda el ad a una página con un video y aquí manda a Instagram, al mensaje.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 4721.07,
+   "end": 4752.05,
+   "text": "Entonces, eso es una alternativa. Entonces, sí, yo creo que esa es como la opción. Si quieres mensajes, sería que consigas los mensajes después de mandarlos a un punto antes de eso o ya usar otro proceso de ventas y decir voy a usar el proceso de ventas de colectar email, por ejemplo, de colectar por aquí email, uno como este. Entonces, ad, email, video y llamada.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4752.72,
+   "end": 4774.1,
+   "text": "Entonces es cuestión de adaptarse, así es este mundo, este mundo es un mundo en donde uno llega y uno tenía planes y quería que todo fuera de esta manera y tenía sus planes y llega lo que sea Facebook o alguien y dice ya no va a ser así, ya no va a ser así, ahora tiene que hacerlo de otra forma, de hecho a mí me ha pasado demasiado eso, de hecho...",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 4774.22,
+   "end": 4786.22,
+   "text": "Un montón de veces, es como yo tenía mis planes, quería mandar esta campaña, no me funcionó o no pude correrla o no me permitieron correr ese ad, es un ad que no seguía las reglas por XYZ",
+   "avg_logprob": -0.066,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 4786.32,
+   "end": 4824.62,
+   "text": "Y yo pensé que sí, tuve que grabar otro, así es este juego, es como que uno tiene todos sus planes y después nada más llega Meta o YouTube y le dice no, ya no va a ser así, tiene que hacerlo así, no bueno, y no se adapta, es como, entonces eso es lo que yo haría, yo probaría otro proceso de ventas, me adaptaría y eso que te enseñé es una opción. Sí.",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 4824.91,
+   "end": 4853.14,
+   "text": "Casi que se puede... Ah bueno, aquí nada más es que no puse el micrófono, pero lo que estabas preguntando es que si se puede usar la estructura del ad copy para el video de ventas. La respuesta es sí. Parecido, se puede usar parecido. De hecho, aquí les voy a enseñar... Bueno, no estoy metido en mi cuenta de Instagram, no sé si puedo... Ah bueno, sí, aquí puedo. Ok, ¿se recuerdan el video que les dije que me permitió a mí saber si la oferta funcionaba o no?",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 4853.42,
+   "end": 4876.91,
+   "text": "La de Media Buyers, que yo les dije, nada más probé la oferta y un video y eso me dio 70 mensajes y no probé nada más, solo ese video. Ese video fue este. Aquí no salen los views porque no estoy logged in, pero es este video, el de hay una nueva demanda en el mercado. Entonces aquí yo estoy hablando de como que yo estoy viendo que hay una demanda nueva para Media Buyers, bla bla bla bla.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4877.01,
+   "end": 4900.98,
+   "text": "Y me llegaron un montón de mensajes y de hecho un montón de comments, aunque yo no pidiera los comments, llegaban comments y yo dije, obviamente la gente quiere esto. Entonces, ¿qué hice yo? Este es el copy, ¿verdad? Este es el ad copy. Entonces el ad copy yo lo usé igual para crear el video de ventas. Este es el video de ventas, como pueden ver ya es otro video, de hecho lo grabé en otro lugar y ya no es vertical, es horizontal.",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4900.98,
+   "end": 4924.14,
+   "text": "Pero es el mismo copy. Nada más ahí le metí un poquito de cambios, pero yo dije, esto ya funcionó como real, ¿verdad? Este ad copy ya funcionó como real. ¿Para qué voy a crear un nuevo ad copy para el video de ventas? Porque nada más me uso el mismo, ¿verdad? De hecho, es algo que mi hermano a veces me... Eso es lo bueno de los hermanos, a veces a uno lo ponen...",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4924.14,
+   "end": 4952.64,
+   "text": "Ah, tiene que estar. Yo le hice una pregunta como, bro, ¿usted qué piensa? Que yo estoy pensando hacer esto para el programa de Media Buyer, estoy pensando hacer este otro VSL. Me dice, bro, ¿para qué va a ser otro VSL si ya tiene un video que le funciona? Y yo, o sea, ¿para qué va a ser algo nuevo si ya hay algo que funciona? Y yo, oh, tiene sentido. ¿Para qué voy a hacer otro ad copy si ya tengo un ad copy que funciona? Entonces,",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 4952.64,
+   "end": 4982.78,
+   "text": "Por eso usé el mismo ad copy para el ad, para el reel, para el VSL, porque obviamente es uno que ya funciona. Entonces, la respuesta es, se puede usar un ad copy ganador de un ad para crear el VSL. Se adapta un poco, ¿verdad? Porque obviamente el VSL no es un ad. El ad está diciendo, mándeme un mensaje. El VSL no va a decir el mismo call to action. Pero se puede usar como la estructura. Entonces, sí.",
+   "avg_logprob": -0.053,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 4982.78,
+   "end": 5023.12,
+   "text": "La respuesta es que sí. Con gusto. Por aquí, Stefano, te paso el mic. Tengo un par de preguntas rápidas. La primera es, ¿qué te parece en vez de utilizar el chat, reemplazarlo por una llamada directamente? Es decir, mandarlos un opt-in, obtener su número y llamarlos directamente. Ok, eso funciona, de fijo. De fijo, funciona. Por ejemplo, lo que se puede hacer es,",
+   "avg_logprob": -0.058,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 5023.18,
+   "end": 5055.06,
+   "text": "Ese ejemplo de hecho sería algo como esto, como por decirlo así, como ad, opt-in, video y directo a llamada. O se puede ad, directo a llamada. Esos dos funcionan muy bien. Muchas veces uno mete la variable del chat porque uno quiere tratar de cerrar por chat. ¿Verdad? Entonces, o porque uno quiere hablar con la persona y...",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5055.22,
+   "end": 5073.74,
+   "text": "y tener como ese contacto. Digamos, yo prefiero tener un chat antes de una llamada. Si yo estuviera haciendo llamadas, yo preferiría primero tener un chat antes de la llamada porque si le permito a la gente agendar directamente sin haber pasado por un chat.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 5074.0,
+   "end": 5102.38,
+   "text": "Después está la posibilidad de que no sea un buen lead y yo no quiero gastar mi tiempo en una llamada de 45 minutos, o sea, eso es lo peor que hay, ¿verdad? O sea, como cuando llega una persona que está cero calificada, que no sabe que es una llamada de ventas, piensa que es una llamada de coaching gratis y no está 45 minutos y al final la persona ni siquiera quería comprar, no le interesaba nada, nada más quería free coaching. Yo no, a mí no me gustaría arriesgar eso, entonces por eso es que yo preferiría meter un chat.",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 5102.54,
+   "end": 5130.32,
+   "text": "Si yo estuviera haciendo esto, este proceso de ventas es, mentira, este, porque así yo hablo con la persona, ¿verdad? Hablo con la persona que necesita, ok, aquí está el link para agendar, en el link para agendar sale en precio, más o menos, un rango de precios, y ya llega la llamada como más calificada, ¿verdad? Entonces, ese es como el mindset detrás de tener un chat en el centro, es como para...",
+   "avg_logprob": -0.054,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 5130.51,
+   "end": 5150.7,
+   "text": "filtrar un poco más los leads y usualmente así la gente lo hace la mayoría de coaches, consultants, personas que dan servicios filtran porque a ellos ya les ha pasado esto que tienen un montón de llamadas cero calificadas y gastan todo el día con personas que igual no iban a comprar entonces meten ese chat para calificar casi que todo el mundo lo está haciendo así",
+   "avg_logprob": -0.051,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5151.6,
+   "end": 5176.3,
+   "text": "Claro, y en vez de calificar por chat, se puede calificar también por llamada, pero llamada de teléfono me refiero, es decir, marcarles antes y por llamada de teléfono recién venderles la llamada oficial por Zoom. Eso se puede, pero obviamente toma más tiempo, entonces mucha gente no está dispuesta a hacerlo porque eso ya requeriría como tener alguien, un closer, no un closer, como una persona que califique llamadas uno o hacerlas uno.",
+   "avg_logprob": -0.031,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 5176.43,
+   "end": 5202.37,
+   "text": "Que casi nadie lo quiere hacer, en verdad casi nadie quiere hacer llamadas para calificar si ni siquiera es una llamada de ventas, entonces la respuesta se puede definitivamente, nada más que casi nadie lo está dispuesto a hacer porque es algo que toma bastante capital humano, con capital humano recuerden se me refiero a tiempo, energía, enfoque, eso es capital humano, entonces por lo general esas cosas toman más capital humano y entonces la gente trata de ver",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 5202.37,
+   "end": 5224.85,
+   "text": "¿Cómo puedo hacer lo mismo sin invertir más capital humano? O sea, ¿cómo puedo llegar al mismo resultado? Entonces, pero sí, la respuesta es de fijo, eso puede funcionar. Y en ese caso el opt-in, o para obtener el correo y el número de teléfono, ¿es necesario tener un opt-in con haber construido un recurso o hay alguna forma en la que se puede obtener sin necesidad de armar un recurso previo?",
+   "avg_logprob": -0.03,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 5226.29,
+   "end": 5277.17,
+   "text": "Sí, en realidad, o sea, la gente mete el email y su información esperando que reciba, esperando recibir algo más, ¿verdad? Entonces, casi que siempre hay una razón. Entonces aquí la gente mete el email para ver el video. Entonces, si sé que está funcionando ese proceso y la oferta ya funciona, ¿tú recomiendas que de forma inmediata haya simplemente un BSL, por ejemplo, como para ponerle más energía al proceso de ventas o no es necesario?",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5278.51,
+   "end": 5306.26,
+   "text": "La respuesta es que cuando algo funciona, no lo toque mucho. Eso es otro principio. Si algo funciona, no lo toque. Escálelo. No lo toque mucho, escálelo. Entonces, si algo, por ejemplo, si tenés una que consistentemente metes un dólar, salen cinco, y estás pensando, si meter un BSL, mejor no metas un BSL, escala eso porque ya está haciendo 5X.",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 5306.26,
+   "end": 5333.22,
+   "text": "Y meter el BSL, como puede funcionar mejor, puede que lo arruine. Entonces, tampoco queremos como arruinar algo que funciona, porque considerar algo que funciona a veces no es tan fácil, ¿verdad? O sea, no se consigue a la primera. Entonces, mi mindset es, si funciona, no lo toques, cálalo. Y solo agréguele complejidad si realmente la posibilidad de que lo mejore es mucho más alta. O sea, hay mucho más oportunidad que costo, ¿verdad?",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 5333.22,
+   "end": 5361.3,
+   "text": "de que lo mejores, si hay más costo de oportunidad prefiero dejarlo igual, entonces ahí vas a medirlo, verdad, qué tan buena está la campaña y si está muy buena a veces es mejor nada más mantenerla simple y listo. Con gusto, aquí José, bueno creo que estaba Michelle primera, ok, aquí va Michelle.",
+   "avg_logprob": -0.094,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 5363.6,
+   "end": 5391.95,
+   "text": "Hola Sebas, dos preguntas muy rápidas, el BSL donde se aloja, eso está en la página web directamente tuya digamos o en YouTube o donde está eso? Si, en realidad no importa siempre y cuando la gente lo vea, entonces yo uso Kajabi para estas páginas, K-A-J-A-B-I.com, Kajabi, se puede usar ClickFunnels, se puede usar GrooveFunnels, como se llama?",
+   "avg_logprob": -0.08,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 5392.34,
+   "end": 5411.66,
+   "text": "Go High Level, entonces hay un montón de opciones o simplemente se puede subir a YouTube y yo a veces mando gente a ver videos de YouTube, al final todo el mundo ve YouTube, entonces lo que importa es preguntarse, ok, esta persona va a poder ver este video en este lugar donde está alojado, si, ok, perfecto, entonces en realidad yo también como que no me...",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5411.76,
+   "end": 5436.66,
+   "text": "Yo antes era como un marketer muy obsesivo con los detalles, ya ahora no soy muy obsesivo, ahora soy como, de hecho ahora mis videos son mil veces más feos que antes, porque yo antes hacía videos de ventas con presentaciones, fotos, branding, salía mi logo aquí abajo y ahora son como documentos súper feos y me funcionan mejor, entonces a veces la simplicidad y lo feo funciona, de hecho hay un concepto muy interesante, es que",
+   "avg_logprob": -0.045,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 5436.98,
+   "end": 5460.13,
+   "text": "A veces lo feo funciona mejor que lo bonito, ¿por qué? Porque cuando es bonito uno no sabe si funcionó por ser bonito o porque era realmente bueno, ¿verdad? Entonces, cuando es feo y funcionó, de fijo no funcionó por ser feo, funcionó porque es bonito, digo, porque es buena oferta, ¿verdad? Entonces, yo ahora, eso es como mi mindset, todo minimalista, todo simple, pocas variables, buena oferta, buen ad.",
+   "avg_logprob": -0.046,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 5460.13,
+   "end": 5478.29,
+   "text": "y si es feo no importa porque de hecho mejor, me da más claridad de que funciona esto. Entonces por eso hago estos videos de documentos porque si reaccionan bien yo ya sé que el copy es buen copy, ganador. Entonces sí, para los videos Callavi o cualquier lugar en realidad.",
+   "avg_logprob": -0.072,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 5479.12,
+   "end": 5507.23,
+   "text": "Si tengo, por ejemplo, un cliente potencial que ofrece, ¿verdad?, que es proveedor de servicios, pero bueno, tiene su imagen desde cero y, o sea, tiene sus perfiles personales de redes sociales, pero obviamente hay que crear en un nuevo. ¿Cómo generar esa credibilidad a partir de cero? De, ok, contácteme, llámeme, si no tenés todavía presencia, ¿recomendarías primero como que trabajes su perfil o cómo se puede hacer?",
+   "avg_logprob": -0.098,
+   "no_speech_prob": 0.029
+  },
+  {
+   "start": 5507.23,
+   "end": 5532.08,
+   "text": "Sí, digamos, con los clientes que yo ayudo para esto, cuando el ad es bueno y la oferta es buena, inmediatamente reciben mensajes. 24 horas, son literalmente esos minutos, en realidad, dependiendo de qué tan rápido aprueben el ad, ya hay mensajes. Entonces, también eso es otra cosa, o sea, obviamente, ustedes vieron los entrenamientos pasados, hablamos de credibilidad, autoridad, todas esas cosas.",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.029
+  },
+  {
+   "start": 5532.08,
+   "end": 5563.02,
+   "text": "Pero al mismo tiempo, ayudan pero no son necesarias, si no las tienen no se garantiza que no va a funcionar, simplemente ayudan, obviamente ayuda a decir que tengo X resultados, ayuda de X personas, pero yo tengo clientes que simplemente graban el ad, es un buen ad, buena oferta, es algo que la gente necesita e inmediatamente reciben mensajes, entonces al final es eso, es usar las herramientas que uno tiene disponibles. Gracias. Con gusto.",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5563.92,
+   "end": 5592.3,
+   "text": "Tenemos a José, ahí le va el mic. Ahora sí. Buenos días, ¿qué tal? ¿Todo bien? Buenos días. Quería hacer una pequeña consulta nada más. Estaba viendo en una de las clases que vos comentabas que el programa es principalmente enfocado con coaches y personas que venden productos en línea.",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.008
+  },
+  {
+   "start": 5592.43,
+   "end": 5619.79,
+   "text": "Pero que para poder uno explorar las opciones de otros clientes, ya sean, no sé, clínicas de medicina u otras cosas que igual ofrecen servicios que son caros, no sé, mil, dos mil dólares, es un proceso distinto o se puede utilizar con los mismos fundamentos de la estructura y demás como para eventualmente intentar también tener ese nicho de clientes.",
+   "avg_logprob": -0.057,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 5619.79,
+   "end": 5633.79,
+   "text": "Sí, de fijo se pueden usar los mismos principios y fundamentos, de hecho los pueden usar casi que para cualquier nicho. Digamos, los doctores es un nicho bastante fácil y los abogados...",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 5633.79,
+   "end": 5653.84,
+   "text": "Las clínicas. Pero para efectos de lo que yo enseño, tengo que ser específico como un nicho, ¿verdad? Porque imagínense si yo les enseñara a correr ads para todos los nichos, el programa tiene que tener como una dirección. Pero en realidad por eso es que todo eso son principios, lo que están aprendiendo, eso lo pueden aplicar a una clínica. Por ejemplo...",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 5654.32,
+   "end": 5682.85,
+   "text": "Si usted actualmente es una persona que le gustaría mejorarse los dientes y le gustaría tener calidad, la mejor calidad, los mejores dientes, resina, bla, bla, bla, pero no tiene 10 mil dólares para invertir, en nuestra clínica usted puede hacerse el mismo tratamiento por 6 mil dólares. Y actualmente estamos teniendo 10 espacios para sesiones gratuitas para hacerle un diagnóstico. Si le interesa, mándenos un mensaje para ver sus dientes. O sea, es como estoy inventándome algo, pero el punto es que.",
+   "avg_logprob": -0.052,
+   "no_speech_prob": 0.079
+  },
+  {
+   "start": 5682.85,
+   "end": 5713.84,
+   "text": "Que el punto es que es como lo mismo, es como pain, es como dolor, avatar, call to action, entonces la respuesta sí, pero sí quiero como hacerlo más puntual el programa Ok, ok, te voy a mandar un DM ahí por Instagram como para hacerte una propuesta y cualquier cosa cuando tenga la chance Ok, ok, ya, perfecto Gracias Ahí Javier, sigue Javier, ask to unmute Ahí me escuchas, ¿sabes? Yes, sir",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 5713.94,
+   "end": 5741.47,
+   "text": "Ok, este, primero que todo, demasiado buena la clase, demasiado, demasiado buena, y básicamente la consulta es, yo lo que tenía pensado era, digamos, vos sabes, de hecho hablábamos ayer de los skills que ya uno tiene como de ventas y así, entonces yo lo que estaba pensando era tal vez montar una oferta, un offer, en el que involucre ayudar a negocios, ya sean coaches, consultores o proveedores de servicio.",
+   "avg_logprob": -0.05,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 5741.47,
+   "end": 5760.03,
+   "text": "que ocupen los skills de Media Buying y que además de eso, no sé, me gustaría como plantear también dar asesoría en closing porque realmente he notado eso como que muchos negocios tal vez tienen problemas a la hora de montar las campañas.",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5760.03,
+   "end": 5780.22,
+   "text": "Pero también les falta como mucho contacto humano. Entonces, yo siento que están dejando demasiado dinero sobre la mesa, pero muy sinceramente no sé cómo, a ciencia cierta, cómo podría tal vez plantear esa oferta así lo más puntual y lo más accurate posible. Entonces, quería ver como algún feedback que me puedas dar.",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 5780.22,
+   "end": 5809.17,
+   "text": "Basar los servicios básicamente en eso, en BMI y en asesoría también en close.",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5809.17,
+   "end": 5836.61,
+   "text": "300 extra, 500 extra, lo que sea. Pero sí, mercadear dos cosas tan diferentes siempre es una, no voy a decir siempre, la mayoría de los casos es una mala idea. Entonces montar la oferta alrededor de un tema, sí. Ya, esto ya yo tengo y ya les hago como decía Offer.",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 5836.61,
+   "end": 5865.3,
+   "text": "¿Verdad? Para ayudarles con todo lo que es closing. Si, por ejemplo, van a haber clientes que de fijo van a decir que sí. Entonces, ahí la asesoría de closing sería como ya después, tal, igual, seguir el mismo, los mismos fundamentos del Media Buying, hacer como un diagnóstico, ver, tal vez podría ingresar alguna llamada del cliente, ¿verdad? Para ver cuál es el, como, cuál es el estilo de comunicación que él tiene y ya con eso ya yo de fijo ya podría como...",
+   "avg_logprob": -0.07,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 5865.3,
+   "end": 5888.98,
+   "text": "De darle, ya yo tengo una estructura que es la que yo he usado desde hace como 4 años para cerrar las ventas, pero como yo antes cerraba ventas de servicios de construcción de cabañas y así, era algo demasiado huge. Entonces, yo lo que se me ocurre es como hacer un diagnóstico, verdad, también de closing y ver cuáles son los puntos débiles que puede tener ese cliente. ¿Cómo lo ves? Sí, me parece bien.",
+   "avg_logprob": -0.078,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 5889.17,
+   "end": 5922.18,
+   "text": "De fijo, al final sales y marketing son, todo el mundo lo necesita. Entonces, de fijo. De verdad, por ahí estás. Con gusto, con gusto. Bueno Tim, vamos a ir cerrando por acá. Ah, bueno. Vamos a agarrar una última de Gwyn y después nada más quédense al final para explicar un poco rápidamente un poco de Logistics. Gwyn, ahí le va. Bye, serás. Pura vida, madre. Bye.",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.01
+  },
+  {
+   "start": 5922.18,
+   "end": 5945.36,
+   "text": "Bueno, yo ahorita estoy corriendo, yo ahorita monté un funnel que consiste en ad, ese ad lo tira para más información, hacia un landing page, y el landing page llama a la acción a mandarme un mensaje de WhatsApp. Todo este ad corriendo desde hace 3 días.",
+   "avg_logprob": -0.085,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 5945.58,
+   "end": 5962.9,
+   "text": "Con un presupuesto de 50 dólares diarios con dos tests, uno justamente es para gente que ya ha visto videos anteriores y otro para gente que ya ha interactuado en mi Instagram las últimas 24, no, las últimas semanas.",
+   "avg_logprob": -0.063,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 5962.96,
+   "end": 5992.02,
+   "text": "Ma, le acabo de mandar un link a su WhatsApp, yo no sé si tiene chance de verlo, si no, no importa, es, ma, es el landing page que yo hice, ma, en este momento no he recibido ni un solo mensaje realmente a mi WhatsApp, no sé, aquí como yo tengo que hacer la, el diagnóstico, ma, a ver qué es lo que está fallando, obviamente tengo diferentes elementos independientes, pero cómo sé que no es, que no es el landing page, sino tal vez es otra variable.",
+   "avg_logprob": -0.04,
+   "no_speech_prob": 0.02
+  },
+  {
+   "start": 5992.24,
+   "end": 6018.58,
+   "text": "Sí, usualmente cuando uno no recibe mensajes es porque el ad y lo que se está ofreciendo en el ad no es suficientemente irresistible. Y sí, yo mandaría directo a WhatsApp, ¿verdad? Porque es que el landing page está normal, pero...",
+   "avg_logprob": -0.067,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 6018.58,
+   "end": 6044.21,
+   "text": "Puede que esté afectando eso, ¿verdad? Porque dice, aplica ahora y domina el juego. Ahí manda WhatsApp, pero el link, para empezar, no se ve muy bien el link, está como gris. De hecho, hasta ahora me di cuenta que dice... Entonces, eso es justamente lo que hablábamos, que a veces más variables puede confundirlo a uno. Yo mandaría directo a WhatsApp y hablaría con ellos. Pero sí, bro, digamos...",
+   "avg_logprob": -0.048,
+   "no_speech_prob": 0.004
+  },
+  {
+   "start": 6045.14,
+   "end": 6081.9,
+   "text": "Al final, los números, hay que ver cuál es el costo por mensaje, usualmente el costo por mensaje va a ser más caro si uno tiene un espacio en el medio, yo lo mantendría lo más simple, back to basics, buen video, buena oferta, directo a WhatsApp, call CR, y en promedio los mensajes van a costar aquí, yo he visto, obviamente depende del nicho y la oferta, pero de 1 a 3 dólares por mensaje, más o menos. Sí, directo, mejor directo, keep it simple. Con gusto, con gusto.",
+   "avg_logprob": -0.043,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 6081.9,
+   "end": 6095.66,
+   "text": "Tim ok vamos a cerrar por aquí va a estar el replay nada más una cosa importante quiero mantener el grupo de Skool para preguntas específicas y muy puntuales porque me ha pasado que a veces",
+   "avg_logprob": -0.062,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 6095.66,
+   "end": 6124.32,
+   "text": "He creado grupos en donde las preguntas son como muy, por ejemplo, no vamos a mandar los links de revisar ad copies al grupo porque si no se empieza a llenar de links de Google Drive y a la gente más bien no le gusta eso, ¿verdad? Entonces como que se vuelve muy desorganizado. Lo que quiero es como que la gente se pueda meter al grupo y hayan preguntas muy puntuales de ads y leads porque así más bien como que uno le da ganas de entrar al grupo y conseguir valor de las respuestas, ¿verdad? Entonces es como si van a ser preguntas en el grupo que sean como puntuales, específicas.",
+   "avg_logprob": -0.027,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 6124.32,
+   "end": 6148.08,
+   "text": "y que, idealmente que no hayamos cubrido en las llamadas también para que sean todo nuevo, digamos, nuevo content. Ahí la idea es que se vaya creando una base de datos en Skool de puro value, de frequently asked questions, yo después voy a ponerlo todo en un documento y las tareas las van poniendo en los comments del área miembros, de hecho voy a crear un post que explica como todo esto, pero las van poniendo en los comments, más que todo para accountability, lo que me interesa es que vayan...",
+   "avg_logprob": -0.056,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 6148.08,
+   "end": 6172.12,
+   "text": "aprendiendo la teoría y aplicándola porque cuando uno lo aplica ya se le pega, ¿verdad? Y después lo que vamos a hacer es que vamos a analizar varias tareas, diferentes tareas de personas, Q&A y dar feedback en general, ¿ok? Entonces, así es la cosa, vean los replays pasados, documentos, take massive action y nada, espero que tengan un excelente resto del día.",
+   "avg_logprob": -0.06,
+   "no_speech_prob": 0.004
+  }
+ ]
+}
